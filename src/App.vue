@@ -1,7 +1,7 @@
 <template>
   <div>
     <header class="topbar">
-      <button id="hamburger" @click="toggleSide">☰</button>
+      <button id="hamburger" @click="toggleSide" aria-label="Toggle sidebar">☰</button>
       <div class="brand"><span class="b-ic">🎯</span><span>SPEAKING<small>Luyện nói</small></span></div>
       <div class="searchbox">
         <span class="s-ic">🔍</span>
@@ -15,7 +15,8 @@
     <aside class="sidebar" id="sidebar">
       <div class="side-head">
         <span class="b-ic">🎯</span>
-        <div><b>SPEAKING</b><span>Tutorial luyện nói · 24 topics + 30 grammar</span></div>
+        <div>
+      <a href="#main-content" class="skip-link">Skip to content</a><b>SPEAKING</b><span>Tutorial luyện nói</span></div>
       </div>
       <nav class="side-nav">
         <template v-for="g in navGroups" :key="g.name">
@@ -36,7 +37,7 @@
       <section v-if="!singleMode" class="hero" id="hero">
         <div class="hero-inner">
           <span class="hero-badge">🎓 SPEAKING PRACTICE · 24 TOPICS</span>
-          <h1>Luyện nói tiếng Anh theo <em>24 Topics</em> — học đúng lớp, nói đúng phản xạ</h1>
+          <h1>Luyện nói tiếng Anh theo <em>24 Topics</em><br/>học đúng lớp, nói đúng phản xạ</h1>
           <p>Tổng hợp BEOD-MAP, bảng cụm từ giao tiếp, ngữ pháp phản xạ và drill luyện nói từ 24 bài học gốc. Mở bằng trình duyệt, học offline, tiến độ tự lưu.</p>
           <div class="hero-cta">
             <button class="btn btn-primary" @click="goTo('topic-01')">🚀 Bắt đầu từ Topic 01</button>
@@ -59,6 +60,7 @@
       </section>
 
       <main>
+        <div id="main-content">
         <div v-if="loading" class="loading">Đang tải dữ liệu…</div>
         <template v-for="t in visibleTopics" :key="t.id">
           <div v-if="!singleMode && t.hasDividerBefore && !searchQuery.trim()" class="group-divider" :class="'g'+t.gi">
@@ -77,6 +79,7 @@
             @print="printTopic"
           />
         </template>
+        </div>
       </main>
     </div>
 

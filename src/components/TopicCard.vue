@@ -2,7 +2,7 @@
   <section class="topic-card" :class="{ 'grammar-card': topic.isGrammar }" :id="topic.id" ref="cardEl">
     <div class="t-breadcrumb">
       <button class="crumb-home" @click="$emit('home')">🏠 Trang chủ</button><i>›</i>
-      <button class="crumb-group" :style="{ color: topic.isGrammar ? '#8b5cf6' : 'var(--brand-2)', fontWeight: 700 }" @click="$emit('group', topic)">{{ topic.isGrammar ? '🧠' : '🚩' }} {{ topic.groupEn }}</button><i>›</i>
+      <button class="crumb-group" :style="{ color: topic.isGrammar ? '#a78bfa' : 'var(--brand)', fontWeight: 600 }" @click="$emit('group', topic)">{{ topic.isGrammar ? '🧠' : '🚩' }} {{ topic.groupEn }}</button><i>›</i>
       <b>{{ topic.isGrammar ? 'Grammar' : 'Topic' }} {{ topic.num }}</b>
     </div>
     <h1 class="topic-title">
@@ -13,19 +13,19 @@
       </span>
     </h1>
     <div class="t-meta">
-      <span class="tag" :class="'g'+topic.gi">{{ topic.isGrammar ? '🧠' : '🚩' }} {{ topic.groupEn }}</span>
+      <span class="tag" :class="'g'+topic.gi">{{ topic.isGrammar ? '🧠 Grammar' : '🚩 ' + topic.groupEn }}</span>
       <span v-if="topic.groupVi" class="tag ghost">{{ topic.groupVi }}</span>
-      <span v-if="!topic.isGrammar" class="tag ghost">⏱ ~{{ topic.mins }} phút học</span>
+      <span v-if="!topic.isGrammar" class="tag ghost">⏱ ~{{ topic.mins }} phút</span>
     </div>
     <div v-if="!topic.isGrammar" class="card-tools">
-      <label><input type="checkbox" :checked="done" @change="$emit('toggleDone', topic.id, $event.target.checked)"> ✅ Đã thuộc bài — tick khi nói trôi chảy toàn bài</label>
+      <label><input type="checkbox" :checked="done" @change="$emit('toggleDone', topic.id, $event.target.checked)"> ✅ Đã thuộc</label>
       <span class="tool-gap"></span>
-      <button class="tool-btn" @click="tocVisible = !tocVisible" :class="{ 'btn-off': !tocVisible }">📑 Mục lục</button>
+      <button class="tool-btn" @click="tocVisible = !tocVisible" :class="{ 'btn-off': !tocVisible }">📑 TOC</button>
       <button class="tool-btn" @click="collapseAll">{{ collapseLabel }}</button>
-      <button class="tool-btn" @click="$emit('print', topic.id)">🖨 In bài này</button>
+      <button class="tool-btn" @click="$emit('print', topic.id)">🖨 In</button>
     </div>
     <nav v-if="!topic.isGrammar" class="card-toc" :class="{ hidden: !tocVisible }">
-      <b>📑 Mục lục bài này</b>
+      <b>Mục lục bài</b>
       <ul>
         <li v-for="h in tocItems" :key="h.id" :class="{ sub: h.level === 3 }">
           <a :href="'#'+h.id" :class="{ top: h.level === 2 }" @click.prevent="scrollToId(h.id)">{{ h.label }}</a>
@@ -34,13 +34,13 @@
     </nav>
     <figure v-if="topic.img" class="mindmap">
       <img loading="lazy" decoding="async" :src="'/speaking/images/'+topic.img" :alt="'BEOD-MAP Topic '+topic.num" @click="$emit('zoom', '/speaking/images/'+topic.img)" />
-      <figcaption>🗺️ BEOD-MAP Topic {{ topic.num }} — bức bản đồ của cả bài, bấm vào ảnh để phóng to</figcaption>
+      <figcaption>🗺️ BEOD-MAP Topic {{ topic.num }} — bấm vào ảnh để phóng to</figcaption>
     </figure>
     <div ref="bodyEl" v-html="topic.bodyHtml"></div>
     <div v-if="!topic.isGrammar" class="pn-nav">
-      <button v-if="topic.prevId" class="pn" @click="$emit('go', topic.prevId)">⬅ Topic {{ topic.prevNum }} · {{ topic.prevEn.slice(0,38) }}</button>
+      <button v-if="topic.prevId" class="pn" @click="$emit('go', topic.prevId)">⬅ Topic {{ topic.prevNum }} · {{ topic.prevEn.slice(0,32) }}</button>
       <span v-else></span>
-      <button v-if="topic.nextId" class="pn" @click="$emit('go', topic.nextId)">Topic {{ topic.nextNum }} · {{ topic.nextEn.slice(0,38) }} ➡</button>
+      <button v-if="topic.nextId" class="pn next" @click="$emit('go', topic.nextId)">Topic {{ topic.nextNum }} · {{ topic.nextEn.slice(0,32) }} ➡</button>
       <span v-else></span>
     </div>
   </section>
