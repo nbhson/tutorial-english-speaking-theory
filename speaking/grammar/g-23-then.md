@@ -1,0 +1,109 @@
+# Grammar 23 — Then (Thì / Sau đó / Vậy thì)
+
+> **Nhóm E: LIÊN KẾT & MỆNH ĐỀ**
+
+---
+
+## I. CẤU TRÚC
+
+**Then** là một trong những từ nối phổ biến nhất trong tiếng Anh giao tiếp.
+
+| Chức năng | Cấu trúc | Ví dụ |
+|-----------|---------|-------|
+| **Sau đó (thời gian)** | `… then …` | I woke up, **then** I had breakfast. |
+| **Vậy thì (kết luận)** | `If …, then …` | If it rains, **then** we'll stay home. |
+| **Tiếp theo (trình tự)** | `First … then …` | **First** wash your hands, **then** eat. |
+| **Cũng vậy (đồng tình)** | `So … then …` | I'm going to the market. — **Then** I'll go too. |
+
+**Phản xạ nói:** *then* → /ðen/ — phát âm rõ âm /ð/ (lưỡi giữa hai răng).
+
+## II. KHI NÀO DÙNG?
+
+- Nối **hành động liên tiếp** trong câu chuyện.
+- Kết hợp với **if** để đưa ra kết luận: *If…, then…*
+- Nói **thứ tự** các bước: *First…, then…, finally…*
+- Trong **small talk**, dùng để đồng tình hoặc đề xuất: *Then let's go!*
+
+### ⚠️ Lỗi thường gặp
+- ~~If I will go then~~ → *If I go, **then** I'll see* — "if" clause không dùng "will".
+- Nhầm **then** (sau đó) với **than** (hơn) — khác nhau hoàn toàn: *better than* vs *then we go*.
+- ~~I went home then eat~~ → *I went home, **then** I ate* — cần chủ ngữ mới hoặc mệnh đề riêng.
+
+## III. NGỮ PHÁP CHI TIẾT
+
+### Then = Sau đó (kế tiếp trong thời gian)
+
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `What did you do after work?` *(Bạn làm gì sau giờ làm?)*
+- ➕ Đáp: *I went home, **then** I cooked dinner.* — *Tôi về nhà, rồi nấu ăn tối.*
+- 💬 Đáp lại: *Sounds nice and relaxing.*
+
+**Ví dụ:**
+1. I'll call you, **then** we'll meet at 7. — *Tôi sẽ gọi bạn, rồi gặp nhau lúc 7.*
+2. First finish your homework, **then** you can play. — *Trước hết làm bài xong, rồi mới được chơi.*
+3. She opened the door and **then** screamed. — *Cô ấy mở cửa và rồi hét lên.*
+4. I studied hard, and **then** I passed the exam. — *Tôi học chăm, rồi đậu kỳ thi.*
+5. Let's grab coffee, **then** we can talk. — *Hẹn đi cà phê, rồi chúng ta nói chuyện.*
+
+---
+
+### Then = Vậy thì (trong câu điều kiện)
+
+| Cấu trúc | Ví dụ |
+|----------|-------|
+| If + present, **then** + future | If it rains, **then** we'll stay home. |
+| If + past, **then** + would | If I were rich, **then** I would travel. |
+
+> 💡 "Then" trong câu điều kiện có thể **bỏ** trong nói thân mật: *If it rains, we'll stay home.* (vẫn đúng)
+
+## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+| # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
+|---|--------|------------|--------------|---------|----------------|------------|
+| 1 | **And then…** | Và sau đó… | Kể chuyện tiếp | *We had dinner, and then we went to the cinema.* | —— | *What happened next?* |
+| 2 | **If …, then …** | Nếu …, thì … | Đưa ra điều kiện + kết quả | *If you study hard, then you'll pass.* | —— | *I will!* |
+| 3 | **Then what?** | Vậy còn gì nữa? / Tiếp theo? | Hỏi tiếp diễn biến | *I finished the report — then what?* | —— | *Then we'll review it together.* |
+| 4 | **So then…** | Vậy thì… | Kết luận từ tình huống | *So then, what should we do?* | —— | *I think we should…* |
+| 5 | **First … then …** | Trước … rồi … | Hướng dẫn từng bước | *First boil the water, then add the pasta.* | —— | *Got it, thanks!* |
+| 6 | **Then again…** | Mặt khác… | Đưa ra góc nhìn đối lập | *It's expensive. Then again, it's high quality.* | —— | *True, worth the price.* |
+
+## V. TỪ VỰNG
+
+| Từ | Từ loại / Phiên âm | Nghĩa |
+|----|--------------------|-------|
+| Then | (adv) /ðen/ | Sau đó / Vậy thì |
+| First | (adv) /fɜːrst/ | Đầu tiên |
+| Finally | (adv) /ˈfaɪ.nə.li/ | Cuối cùng |
+| After | (prep/adv) /ˈɑːf.tər/ | Sau |
+| Before | (prep/adv) /bɪˈfɔːr/ | Trước |
+| Next | (adv) /nekst/ | Kế tiếp |
+| Meanwhile | (adv) /ˈmiːn.waɪl/ | Trong khi đó |
+
+## VI. LUYỆN NÓI
+
+### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
+1. *I'll finish this, then I'll call you.*
+2. *If you're free, then let's meet at 5.*
+3. *First wake up, then brush your teeth.*
+4. *We had a great time, and then we went home.*
+5. *Then again, maybe we should wait.*
+
+### 5 câu hỏi tự luyện
+1. What did you do after breakfast? — *After breakfast, I …*
+2. If you win the lottery, then what? — *If I win…, then I'll…*
+3. What happens next in the story? — *Then …*
+4. First I need to…, then I can… — *First…, then…*
+5. So then, what's the plan? — *Then we'll…*
+
+> ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+## VII. BONUS: THEN vs NOW — Đối nghĩa thời gian
+
+| **Then** (thì / sau đó) | **Now** (giờ / bây giờ) |
+|--------------------------|------------------------|
+| I was shy back **then**. | I'm confident **now**. |
+| We ate, **then** we left. | Let's eat **now**. |
+| Things were different **then**. | Things are different **now**. |
+| **Then** what? (tiếp theo) | What **now**? (giờ sao?) |
