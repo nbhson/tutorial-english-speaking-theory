@@ -99,6 +99,21 @@
 
 ---
 
+**Ngữ cảnh thực tế:**
+- Đi làm: *I don't work there anymore.* / *She doesn't use that software anymore.* / *We don't need it anymore.* / *He doesn't attend meetings anymore.*
+- Du lịch: *I don't travel by bus anymore.* / *She doesn't stay at hostels anymore.* / *We don't visit that place anymore.* / *He doesn't eat street food anymore.*
+- Mua sắm: *I don't shop there anymore.* / *She doesn't buy from them anymore.* / *We don't need it anymore.* / *He doesn't use coupons anymore.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I don't live there anymore. — *Tôi không còn sống ở đó nữa.*
+2. She doesn't work here anymore. — *Cô ấy không còn làm ở đây nữa.*
+3. We don't talk anymore. — *Chúng tôi không còn nói chuyện nữa.*
+4. He doesn't smoke anymore. — *Anh ấy không còn hút thuốc nữa.*
+5. I don't need it anymore. — *Tôi không còn cần nó nữa.*
+6. They don't come anymore. — *Họ không còn đến nữa.*
+
+---
+
 ## VII. BONUS: ANYMORE vs STILL — Đối nghĩa
 
 | **Anymore** (không còn nữa) | **Still** (vẫn còn) |

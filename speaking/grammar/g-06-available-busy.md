@@ -85,6 +85,13 @@ Ba cách nói chính:
 3. It's too cold outside. — *Bên ngoài lạnh quá.*
 4. I'm not busy enough — I can help you! — *Tôi chẳng bận gì, tôi có thể giúp bạn!* (dùng phủ định của enough)
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -127,6 +134,21 @@ Ba cách nói chính:
 5. Can we reschedule? I'm booked up. — *Sure, when are you free?*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I'm not available this afternoon.* / *I'm too busy to meet.* / *I have got a lot of work.* / *Are you free on Friday?*
+- Du lịch: *I'm available for the tour.* / *We're too busy to sightsee.* / *I've got some free time.* / *Are you available to help?*
+- Mua sắm: *Is the manager available?* / *I'm too busy to shop.* / *I've got a coupon.* / *Are you free to assist?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I'm available tomorrow morning. — *Tôi rảnh sáng mai.*
+2. Sorry, I'm too busy. — *Xin lỗi, tôi bận quá.*
+3. I've got a meeting at 3. — *Tôi có cuộc họp lúc 3 giờ.*
+4. Are you free this weekend? — *Cuối tuần bạn rảnh không?*
+5. I'm not available right now. — *Tôi không rảnh lúc này.*
+6. I'm busy with a project. — *Tôi đang bận với một dự án.*
 
 ---
 

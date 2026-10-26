@@ -45,6 +45,32 @@
 | Ví dụ | *I'm going to study medicine.* (đã quyết định) | *I'll help you with that.* (ngay lúc nói) |
 | Ví dụ 2 | *Look! It's going to crash!* (thấy rõ) | *I think it will rain tomorrow.* (dự đoán) |
 
+---
+
+### Gonna — Dạng thân mật của "going to"
+
+**Gonna** = **going to** nói nhanh, nuốt âm /ˈɡɒn.ə/ — dùng trong **giao tiếp thân mật**, KHÔNG dùng trong văn viết trang trọng.
+
+| Dạng đầy đủ | Dạng gonna | Ngữ cảnh |
+|------------|-----------|---------|
+| I am going to | I'm gonna | Thân mật |
+| You are going to | You're gonna | Thân mật |
+| We are going to | We're gonna | Thân mật |
+| They are going to | They're gonna | Thân mật |
+
+**Phản xạ nói:** *I'm gonna* → /aɪm ˈɡɒnə/ — nói nhanh thành *"I'mna"* trong tiếng Anh bản xứ.
+
+**Ví dụ:**
+1. I'm gonna grab a coffee. — *Tôi đi lấy cà phê.* (thân mật)
+2. We're gonna be late! — *Chúng ta sắp muộn rồi!* (thân mật)
+3. She's gonna love this gift. — *Cô ấy sẽ thích quà này.* (thân mật)
+4. They're gonna move next month. — *Họ sẽ chuyển nhà tháng tới.* (thân mật)
+5. It's gonna be a great day. — *Sẽ là một ngày tuyệt vời.* (thân mật)
+
+> ⚠️ **Lưu ý:** Trong email công việc, bài luận, hoặc giao tiếp trang trọng → dùng **going to**, KHÔNG dùng gonna.
+
+---
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `What are you going to do this weekend?` *(Cuối tuần bạn định làm gì?)*
 - ➕ Đáp: `I'm gonna visit my parents.` — *Tôi định về thăm bố mẹ.*
@@ -100,6 +126,21 @@
 5. What are you going to do if it rains? — *I'm gonna…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I'm going to send the report.* / *I'm gonna call the client.* / *Are you going to attend the meeting?* / *We're gonna finish today.*
+- Du lịch: *I'm going to visit Paris.* / *I'm gonna book the hotel.* / *Are you going to travel soon?* / *We're gonna explore the city.*
+- Mua sắm: *I'm going to buy this.* / *I'm gonna check the price.* / *Are you going to pay by card?* / *We're gonna shop online.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I'm going to call you later. — *Tôi sẽ gọi bạn sau.*
+2. I'm gonna grab a coffee. — *Tôi đi lấy cà phê.* (thân mật)
+3. Are you going to come? — *Bạn sẽ đến chứ?*
+4. We're going to leave at 8. — *Chúng tôi sẽ đi lúc 8 giờ.*
+5. I'm not gonna do that. — *Tôi sẽ không làm điều đó.* (thân mật)
+6. She's going to apply for the job. — *Cô ấy sẽ nộp đơn xin việc.*
 
 ---
 

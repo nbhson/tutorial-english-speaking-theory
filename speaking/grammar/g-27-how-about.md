@@ -67,6 +67,13 @@
 2. I'm from Da Nang. How about you? — *Tôi ở Đà Nẵng. Còn bạn?*
 3. I can't swim. How about you? — *Tôi không biết bơi. Còn bạn?*
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -106,6 +113,21 @@
 5. How about we study together? — *Great idea, how about…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *How about we meet at 3?* / *How about the budget?* / *How about you present first?* / *What about the deadline?*
+- Du lịch: *How about we go to the beach?* / *How about this hotel?* / *How about you drive?* / *What about the price?*
+- Mua sắm: *How about this one?* / *How about a discount?* / *How about you try it on?* / *What about the size?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. How about pizza? — *Ăn pizza thì sao?*
+2. How about you? — *Còn bạn thì sao?*
+3. What about the cost? — *Còn chi phí thì sao?*
+4. How about tomorrow? — *Ngày mai thì sao?*
+5. How about we go now? — *Chúng ta đi bây giờ thì sao?*
+6. Sounds good! — *Nghe hay đấy!*
 
 ---
 

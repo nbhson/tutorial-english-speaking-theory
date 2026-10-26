@@ -54,6 +54,13 @@
 | think about + V-ing | I'm thinking **about changing** jobs. |
 | have thought about + V-ing | I've thought about **asking** her out. |
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -93,6 +100,21 @@
 5. What do you think about moving to a new city? — *I think that…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I thought the meeting was at 3.* / *She thought the report was done.* / *I thought you were coming.* / *We thought it was urgent.*
+- Du lịch: *I thought the flight was at 8.* / *She thought the hotel was nearby.* / *I thought you booked it.* / *We thought it was included.*
+- Mua sắm: *I thought it was on sale.* / *She thought the price was lower.* / *I thought you wanted this.* / *We thought it was cheaper.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I thought you were coming. — *Tôi nghĩ bạn sẽ đến.*
+2. She thought it was easy. — *Cô ấy nghĩ nó dễ.*
+3. I thought the price was lower. — *Tôi nghĩ giá thấp hơn.*
+4. We thought you knew. — *Chúng tôi nghĩ bạn biết.*
+5. I thought it was a good idea. — *Tôi nghĩ đó là ý tưởng hay.*
+6. He thought she was joking. — *Anh ấy nghĩ cô ấy đang đùa.*
 
 ---
 

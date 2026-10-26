@@ -98,6 +98,21 @@
 
 ---
 
+**Ngữ cảnh thực tế:**
+- Đi làm: *I spend 8 hours at work.* / *She spends time on reports.* / *We spent the budget.* / *He spends weekends working.*
+- Du lịch: *I spend a week in Paris.* / *She spends money on souvenirs.* / *We spent 3 days in Da Nang.* / *He spends time sightseeing.*
+- Mua sắm: *I spend too much on clothes.* / *She spends wisely.* / *We spent $100.* / *He spends money on gadgets.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I spend 2 hours commuting. — *Tôi mất 2 giờ đi lại.*
+2. She spends a lot on clothes. — *Cô ấy tiêu nhiều vào quần áo.*
+3. We spent the whole day there. — *Chúng tôi ở đó cả ngày.*
+4. I spent $50 on books. — *Tôi tiêu $50 vào sách.*
+5. He spends his free time reading. — *Anh ấy dành thời gian rảnh đọc sách.*
+6. Don't spend too much. — *Đừng tiêu quá nhiều.*
+
+---
+
 ## VII. BONUS: SPEND vs TAKE vs COST — Phân biệt
 
 | Động từ | Chủ ngữ | Cấu trúc | Ví dụ |

@@ -54,6 +54,13 @@
 | make it up to someone | I'll make it up to you. |
 | make up for someone | That doesn't make up for what you did. |
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -93,6 +100,21 @@
 5. What doesn't make up for being late? — *Flowers don't make up for…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I'll make up for the lost time.* / *She made up for the mistake.* / *We need to make up for the delay.* / *He made up for being late.*
+- Du lịch: *I'll make up for the missed trip.* / *She made up for the bad weather.* / *We need to make up for the lost day.* / *He made up for the cancelled flight.*
+- Mua sắm: *I'll make up for the wrong order.* / *She made up for the delay.* / *We need to make up for the mistake.* / *He made up for the short change.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I'll make up for it. — *Tôi sẽ bù đắp.*
+2. She made up for being late. — *Cô ấy đã bù đắp vì đến muộn.*
+3. We need to make up for lost time. — *Chúng ta cần bù đắp thời gian đã mất.*
+4. He made up for the mistake. — *Anh ấy đã bù đắp lỗi lầm.*
+5. I'll make up for the delay. — *Tôi sẽ bù đắp sự chậm trễ.*
+6. They made up for the damage. — *Họ đã bù đắp thiệt hại.*
 
 ---
 

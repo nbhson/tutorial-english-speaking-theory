@@ -107,6 +107,21 @@
 
 ---
 
+**Ngữ cảnh thực tế:**
+- Đi làm: *Have you ever worked abroad?* / *Have you ever led a team?* / *Have you ever given a presentation?* / *Have you ever been promoted?*
+- Du lịch: *Have you ever been to Japan?* / *Have you ever tried sushi?* / *Have you ever flown first class?* / *Have you ever stayed in a hostel?*
+- Mua sắm: *Have you ever bought online?* / *Have you ever returned an item?* / *Have you ever used a coupon?* / *Have you ever shopped at this store?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. Have you ever been to Paris? — *Bạn đã bao giờ đến Paris chưa?*
+2. I've never tried sushi. — *Tôi chưa bao giờ ăn sushi.*
+3. Have you ever met him? — *Bạn đã bao giờ gặp anh ấy chưa?*
+4. She's never been abroad. — *Cô ấy chưa bao giờ ra nước ngoài.*
+5. Have you ever eaten this? — *Bạn đã bao giờ ăn cái này chưa?*
+6. I've been there twice. — *Tôi đã đến đó hai lần.*
+
+---
+
 ## VII. BONUS: HAVE YOU EVER vs DID YOU — Khác nhau thế nào?
 
 | | **Have you ever + V3** | **Did you + V2** |

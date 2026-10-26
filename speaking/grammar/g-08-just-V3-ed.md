@@ -100,6 +100,21 @@
 
 ---
 
+**Ngữ cảnh thực tế:**
+- Đi làm: *I just finished the report.* / *She just sent the email.* / *I just got a promotion.* / *They just left the meeting.*
+- Du lịch: *I just arrived.* / *We just checked in.* / *She just took a photo.* / *They just landed.*
+- Mua sắm: *I just bought it.* / *She just paid.* / *I just found a discount.* / *They just opened the store.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I just finished eating. — *Tôi vừa ăn xong.*
+2. She just called me. — *Cô ấy vừa gọi cho tôi.*
+3. We just got home. — *Chúng tôi vừa về đến nhà.*
+4. I just heard the news. — *Tôi vừa nghe tin.*
+5. He just left. — *Anh ấy vừa đi.*
+6. Have you just arrived? — *Bạn vừa đến phải không?*
+
+---
+
 ## VII. BONUS: JUST + PAST SIMPLE vs JUST + PRESENT PERFECT
 
 | | **Past Simple** | **Present Perfect** |

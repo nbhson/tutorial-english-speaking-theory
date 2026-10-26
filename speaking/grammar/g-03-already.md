@@ -67,6 +67,13 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 | **Yet** | Phủ định / Hỏi | Cuối câu | *I haven't done it yet.* / *Have you done it yet?* |
 | **Still** | Phủ định | Trước have/has | *I still haven't finished.* |
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: *I've already finished.* → *She's already finished.*
+- Đổi thì: *I already did it.* → *I have already done it.* / *I had already done it.*
+- Đổi ngữ cảnh (đi làm): *I've already sent the email.* / (du lịch): *We've already booked the hotel.* / (mua sắm): *I've already paid.*
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -105,6 +112,21 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 5. Are you ready to go? — *Almost. I haven't packed yet.*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I've already submitted the report.* / *Has the client replied yet?* / *The email has already been sent.* / *Have you already reviewed it?*
+- Du lịch: *We've already checked in.* / *Have you already packed?* / *The flight has already departed.* / *Have you already booked the hotel?*
+- Mua sắm: *I've already bought it.* / *Has the order shipped?* / *The item is already sold out.* / *Have you already paid?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I've already finished my homework. — *Tôi đã làm xong bài tập rồi.*
+2. She's already left. — *Cô ấy đã đi rồi.*
+3. Have you already eaten? — *Bạn đã ăn chưa?*
+4. The meeting has already started. — *Cuộc họp đã bắt đầu rồi.*
+5. I already told him. — *Tôi đã nói với anh ấy rồi.*
+6. It's already too late. — *Đã quá muộn rồi.*
 
 ---
 

@@ -18,7 +18,6 @@
         <div><b>SPEAKING</b><span>Tutorial luyện nói · 24 topics + 30 grammar</span></div>
       </div>
       <nav class="side-nav">
-        <button id="nav-all" class="nav-link all" :class="{ active: !singleMode }" @click="showAll">📚 <span class="n-txt" style="font-weight:700">Tất cả 24 topics</span></button>
         <template v-for="g in navGroups" :key="g.name">
           <div class="nav-group" :class="'g'+g.gi" :title="g.name">{{ g.isGrammar ? '🧠' : '🚩' }} {{ g.name }}</div>
           <a v-for="t in g.topics" :key="t.id" class="nav-link" href="#" :data-t="t.id" :class="{ done: isDone(t.id), active: (singleMode && currentId === t.id) || (!singleMode && activeTopicId === t.id) }" @click.prevent="goTo(t.id)">

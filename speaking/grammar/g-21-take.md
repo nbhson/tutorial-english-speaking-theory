@@ -68,6 +68,13 @@
 | She won't **take this** from anyone. | Cô ấy không chịu đựng chuyện này từ ai đâu. |
 | How much can you **take**? | Bạn chịu đựng được đến mức nào? |
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -110,6 +117,21 @@
 5. How do you take your coffee? — *I take it with…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *It takes 2 hours to finish.* / *Take your time.* / *She takes notes.* / *The meeting took 1 hour.*
+- Du lịch: *It takes 3 hours to get there.* / *Take a taxi.* / *He took photos.* / *The flight took 2 hours.*
+- Mua sắm: *It takes 5 minutes to check out.* / *Take this bag.* / *She took the receipt.* / *The sale takes 10% off.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. It takes 10 minutes. — *Mất 10 phút.*
+2. Take this medicine. — *Uống thuốc này.*
+3. She took a photo. — *Cô ấy chụp một bức ảnh.*
+4. I'll take it. — *Tôi sẽ lấy nó.*
+5. It took 2 hours. — *Mất 2 giờ.*
+6. Take care! — *Chăm sóc bản thân!*
 
 ---
 

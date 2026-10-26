@@ -51,6 +51,13 @@
 4. What's going on with you and Mai? — *Giữa bạn và Mai có chuyện gì vậy?*
 5. A lot is going on at work this week. — *Công việc tuần này nhiều chuyện quá.*
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -91,6 +98,21 @@
 5. What's going on with the weather today? — *It's …*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *What's going on in the meeting?* / *What's going on with the project?* / *Is something going on?* / *What's going on here?*
+- Du lịch: *What's going on at the airport?* / *Is there something going on?* / *What's going on with the tour?* / *What's going on outside?*
+- Mua sắm: *What's going on with the sale?* / *Is there a promotion going on?* / *What's going on at the store?* / *What's going on with my order?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. What's going on? — *Có chuyện gì vậy?*
+2. What's going on here? — *Ở đây có chuyện gì?*
+3. Is something going on? — *Có chuyện gì à?*
+4. What's going on with you? — *Bạn có chuyện gì à?*
+5. There's a lot going on. — *Có nhiều chuyện đang xảy ra.*
+6. What's going on at work? — *Ở chỗ làm có chuyện gì?*
 
 ---
 

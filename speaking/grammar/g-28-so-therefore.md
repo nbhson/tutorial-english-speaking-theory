@@ -69,6 +69,13 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 
 > 💡 Mẹo: Trong **giao tiếp hàng ngày**, tránh dùng "therefore" — nghe quá trang trọng. Dùng **so** hoặc **that's why**.
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -108,6 +115,21 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 5. So what are we going to do now? — *So then, let's…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I was tired, so I went home.* / *That's why I called you.* / *The data is unclear, therefore we need more research.* / *So what's the plan?*
+- Du lịch: *It was raining, so we stayed in.* / *That's why we missed the flight.* / *The hotel was full, therefore we left.* / *So where do we go?*
+- Mua sắm: *It was too expensive, so I didn't buy.* / *That's why I returned it.* / *The item was defective, therefore I got a refund.* / *So what do you recommend?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I was tired, so I went home. — *Tôi mệt nên về nhà.*
+2. That's why I called you. — *Đó là lý do tôi gọi bạn.*
+3. It's raining, so we'll stay in. — *Trời mưa nên chúng ta ở trong nhà.*
+4. So what? — *Vậy thì sao?*
+5. That's why I'm happy. — *Đó là lý do tôi vui.*
+6. So then, what's the plan? — *Vậy thì, kế hoạch là gì?*
 
 ---
 

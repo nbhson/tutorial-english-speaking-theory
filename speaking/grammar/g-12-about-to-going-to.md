@@ -58,6 +58,13 @@
 - *I'm about to graduate!* → Tôi sắp tốt nghiệp rồi (chỉ còn vài tháng).
 - *I'm going to travel next summer.* → Năm sau tôi sẽ đi du lịch.
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -98,6 +105,21 @@
 5. What are you going to do when you graduate? — *I'm going to…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I'm about to start the meeting.* / *I'm going to send the report.* / *Are you about to leave?* / *We're going to discuss the budget.*
+- Du lịch: *The plane is about to land.* / *I'm going to book the hotel.* / *Are you about to board?* / *We're going to explore the city.*
+- Mua sắm: *I'm about to pay.* / *I'm going to buy this.* / *Are you about to check out?* / *We're going to shop online.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I'm about to leave. — *Tôi sắp đi.*
+2. The train is about to depart. — *Tàu sắp khởi hành.*
+3. I'm going to call you. — *Tôi sẽ gọi bạn.*
+4. Are you about to eat? — *Bạn sắp ăn chưa?*
+5. We're going to move next month. — *Chúng tôi sẽ chuyển nhà tháng sau.*
+6. I'm about to finish. — *Tôi sắp xong.*
 
 ---
 

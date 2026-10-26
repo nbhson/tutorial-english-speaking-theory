@@ -54,6 +54,13 @@
 - Đổi Noun: *I'm getting ready for my exam.*
 - Đổi to + V: *I'm getting ready to go out.*
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: *I'm getting ready for the meeting.* → *She's getting ready for the trip.*
+- Đổi thì: *I'm getting ready.* → *I got ready.* / *I'll get ready.*
+- Đổi ngữ cảnh (đi làm): *I'm getting ready for the presentation.* / (du lịch): *I'm getting ready for the flight.* / (mua sắm): *I'm getting ready for the sale.*
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -92,6 +99,21 @@
 5. How long does it take you to get ready? — *It takes me about …*
 
 > ✅ **Checkpoint:** Trả lời được 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I'm getting ready for the meeting.* / *Are you ready to present?* / *We're getting ready for the audit.* / *She's getting ready for the interview.*
+- Du lịch: *I'm getting ready for the trip.* / *We're ready to board.* / *He's getting ready for the hike.* / *They're getting ready for the cruise.*
+- Mua sắm: *I'm getting ready for the sale.* / *Is the gift ready?* / *She's getting ready for shopping.* / *Are you ready to pay?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I'm getting ready for work. — *Tôi đang chuẩn bị đi làm.*
+2. She's getting ready for the party. — *Cô ấy đang chuẩn bị cho bữa tiệc.*
+3. We're getting ready to leave. — *Chúng tôi đang chuẩn bị đi.*
+4. He got ready in 10 minutes. — *Anh ấy chuẩn bị xong trong 10 phút.*
+5. Are you ready for the exam? — *Bạn đã sẵn sàng cho kỳ thi chưa?*
+6. I need 5 more minutes to get ready. — *Tôi cần thêm 5 phút để chuẩn bị.*
 
 ---
 

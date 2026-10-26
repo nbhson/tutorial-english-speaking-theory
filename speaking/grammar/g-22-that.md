@@ -70,6 +70,13 @@
 2. It's not **that** difficult. — *Nó không khó đến thế đâu.*
 3. I didn't know it was **that** expensive! — *Tôi không biết nó đắt đến thế!*
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -111,6 +118,21 @@
 5. How do you know that it's true? — *I know that because…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I think that he's right.* / *The report that I sent.* / *That's a good idea.* / *She said that she'll come.*
+- Du lịch: *The hotel that we booked.* / *That's beautiful!* / *I think that it's worth it.* / *The city that we visited.*
+- Mua sắm: *The dress that I bought.* / *That's too expensive.* / *I think that it's a good deal.* / *The item that you ordered.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I think that he's right. — *Tôi nghĩ rằng anh ấy đúng.*
+2. The book that I read. — *Cuốn sách mà tôi đọc.*
+3. That's a great idea. — *Đó là ý tưởng tuyệt vời.*
+4. She said that she'll come. — *Cô ấy nói rằng cô ấy sẽ đến.*
+5. I don't think that it's true. — *Tôi không nghĩ rằng điều đó đúng.*
+6. The man that I met. — *Người đàn ông mà tôi gặp.*
 
 ---
 

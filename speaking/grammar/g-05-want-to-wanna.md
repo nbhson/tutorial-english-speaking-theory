@@ -57,6 +57,37 @@
 - Đổi chủ ngữ: *She wants to travel.*
 - Đổi thì (quá khứ): *I wanted to call you but I forgot.*
 
+---
+
+### Wanna — Dạng thân mật của "want to"
+
+**Wanna** = **want to** nói nhanh, nuốt âm /ˈwʌn.ə/ — dùng trong **giao tiếp thân mật**, KHÔNG dùng trong văn viết học thuật hay trang trọng.
+
+| Dạng đầy đủ | Dạng wanna | Ngữ cảnh |
+|------------|-----------|---------|
+| I want to | I wanna | Thân mật |
+| Do you want to | Do you wanna | Thân mật |
+| We want to | We wanna | Thân mật |
+| They want to | They wanna | Thân mật |
+
+> ⚠️ **Quy tắc:** Wanna = want + to, **không thêm to lần nữa**. ~~I wanna to go~~ ✗ → *I wanna go* ✅
+
+**Phản xạ nói:** *I wanna* → /aɪ ˈwʌn.ə/ — nghe như *"ai-wna"* khi nói nhanh.
+
+**Ví dụ:**
+1. I wanna try that new restaurant. — *Tôi muốn thử nhà hàng mới đó.* (thân mật)
+2. Do you wanna come with us? — *Bạn muốn đi cùng chúng tôi không?* (thân mật)
+3. I don't wanna miss the bus. — *Tôi không muốn lỡ xe buýt.* (thân mật)
+4. She wanna ask him out. — *Cô ấy muốn rủ anh ấy đi chơi.* (thân mật)
+5. We wanna visit Japan next year. — *Chúng tôi muốn thăm Nhật năm tới.* (thân mật)
+
+**Lưu ý quan trọng:**
+- ✅ Dùng với bạn bè, gia đình, đồng nghiệp thân
+- ❌ KHÔNG dùng trong email công việc, bài luận, phỏng vấn xin việc
+- ❌ KHÔNG dùng khi nói chuyện với người lạ hoặc cấp trên
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -95,6 +126,21 @@
 5. Do you feel like having coffee? — *Yeah, I really feel like…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I want to finish this today.* / *Do you want to join the meeting?* / *I don't want to work late.* / *She wants to apply for the job.*
+- Du lịch: *I want to visit Japan.* / *Do you want to book a tour?* / *I don't want to miss the flight.* / *They want to try local food.*
+- Mua sắm: *I want to buy this.* / *Do you want to try it on?* / *I don't want to spend too much.* / *She wants to return it.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I want to learn English. — *Tôi muốn học tiếng Anh.*
+2. Do you want to come? — *Bạn có muốn đi không?*
+3. I don't want to wait. — *Tôi không muốn chờ.*
+4. She wants to travel. — *Cô ấy muốn đi du lịch.*
+5. What do you want to eat? — *Bạn muốn ăn gì?*
+6. I wanna go home. — *Tôi muốn về nhà.* (thân mật)
 
 ---
 

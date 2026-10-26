@@ -47,9 +47,29 @@
 4. You **should** apologize — you hurt her feelings. — *Bạn nên xin lỗi — bạn đã làm cô ấy buồn.*
 5. Should I wear a jacket? — *Yes, it might be cold outside.* — *Tôi nên mặc áo khoác không?*
 
-**Biến tấu (tự luyện):**
-- Đổi chủ ngữ: *He should study more.*
-- Đổi thì (quá khứ — should have + V3): *I should have studied harder.* (hối tiếc)
+---
+
+### Cách dùng 2: Should for prediction (Dự đoán)
+
+**Should** không chỉ dùng để khuyên — còn dùng để **dự đoán điều gì đó có khả năng xảy ra**:
+
+| Cấu trúc | Ví dụ | Nghĩa |
+|----------|-------|-------|
+| S + should + V | The train **should arrive** in 10 minutes. | Tàu sắp đến sau 10 phút nữa. |
+| S + should + be + N/Adj | She **should be** here by now. | Giờ này cô ấy phải có mặt rồi. |
+| S + should + have + V3 | He **should have finished** by now. | Ra lẽ ra anh ấy đã xong rồi. |
+
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `Should we expect rain today?` *(Hôm nay có mưa không?)*
+- ➕ Đáp: *It should clear up by afternoon.* — *Trời sẽ quang vào buổi chiều.*
+- 💬 Đáp lại: *Good, let's go out then.*
+
+**Ví dụ:**
+1. The package should arrive tomorrow. — *Gói hàng sẽ đến ngày mai.*
+2. She should be at work by now. — *Giờ này cô ấy phải đang làm việc rồi.*
+3. It should rain this evening. — *Tối nay sẽ mưa.*
+4. He should know the answer. — *Anh ấy phải biết đáp án.*
+5. The meeting should start at 9. — *Cuộc họp sẽ bắt đầu lúc 9 giờ.*
 
 ---
 
@@ -65,6 +85,13 @@
 1. I **should have studied** harder for the test. — *Ra lẽ ra tôi nên học chăm hơn.*
 2. You **shouldn't have spent** so much money. — *Bạn không nên tiêu nhiều tiền đến thế.*
 3. We **should have left** earlier. — *Chúng ta ra lẽ ra nên đi sớm hơn.*
+
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: *He should study more.* / *They should have called.*
+- Đổi thì (quá khứ — should have + V3): *I should have studied harder.* (hối tiếc)
+- Đổi ngữ cảnh (đi làm): *You should finish the report.* / (du lịch): *We should visit the temple.* / (mua sắm): *She should compare prices.*
+
+---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
@@ -106,6 +133,21 @@
 5. Should I have studied more? — *Yes, you should have…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *You should finish the report.* / *You shouldn't skip meetings.* / *What should I do?* / *Should I email the client?*
+- Du lịch: *You should visit the museum.* / *You shouldn't travel alone.* / *What should I pack?* / *Should I book in advance?*
+- Mua sắm: *You should compare prices.* / *You shouldn't buy it.* / *What should I get?* / *Should I try it on?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. You should study harder. — *Bạn nên học chăm hơn.*
+2. You shouldn't worry. — *Bạn không nên lo.*
+3. What should I do? — *Tôi nên làm gì?*
+4. Should I call her? — *Tôi có nên gọi cô ấy không?*
+5. You should have told me. — *Bạn đáng ra nên nói với tôi.*
+6. I should go now. — *Tôi nên đi bây giờ.*
 
 ---
 

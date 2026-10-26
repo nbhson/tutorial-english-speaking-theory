@@ -75,6 +75,13 @@ Hai cấu trúc **trông giống nhau nhưng nghĩa hoàn toàn khác**:
 | Quá khứ | I **got used to** living alone. |
 | Tương lai | You'll **get used to** it soon. |
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -116,6 +123,21 @@ Hai cấu trúc **trông giống nhau nhưng nghĩa hoàn toàn khác**:
 5. How long did it take to get used to your job? — *It took me…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I used to work late.* / *She's used to the new system.* / *I'm getting used to the job.* / *We used to have meetings on Friday.*
+- Du lịch: *I used to travel a lot.* / *She's used to the weather.* / *I'm getting used to the food.* / *We used to visit every year.*
+- Mua sắm: *I used to shop here.* / *She's used to bargaining.* / *I'm getting used to online shopping.* / *We used to buy in bulk.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I used to live in Hanoi. — *Tôi từng sống ở Hà Nội.*
+2. She's used to waking up early. — *Cô ấy quen với việc thức dậy sớm.*
+3. I'm getting used to the new job. — *Tôi đang tập quen với công việc mới.*
+4. We used to play together. — *Chúng tôi từng chơi cùng nhau.*
+5. He used to smoke. — *Anh ấy từng hút thuốc.*
+6. Are you used to spicy food? — *Bạn có quen với đồ ăn cay không?*
 
 ---
 

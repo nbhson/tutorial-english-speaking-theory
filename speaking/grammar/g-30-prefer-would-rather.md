@@ -69,6 +69,13 @@
 4. Would you rather **live** in the city or in the countryside? — *Bạn thà sống ở thành phố hay nông thôn?*
 5. I'd rather **you kept** this between us. — *Tôi thà bạn giữ chuyện này giữa chúng ta.*
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -109,6 +116,21 @@
 5. Do you prefer texts or calls? — *I prefer texting to calling.*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I prefer working from home.* / *I'd rather email than call.* / *Would you rather meet today or tomorrow?* / *I'd rather you didn't interrupt.*
+- Du lịch: *I prefer beaches to mountains.* / *I'd rather fly than take the bus.* / *Would you rather stay or go?* / *I'd rather not travel alone.*
+- Mua sắm: *I prefer online shopping.* / *I'd rather wait for a sale.* / *Would you rather pay cash or card?* / *I'd rather you didn't rush me.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I prefer tea to coffee. — *Tôi thích trà hơn cà phê.*
+2. I'd rather stay home. — *Tôi thà ở nhà.*
+3. Would you rather go or stay? — *Bạn thà đi hay ở?*
+4. I prefer reading to watching TV. — *Tôi thích đọc sách hơn xem TV.*
+5. I'd rather not go. — *Tôi thà không đi.*
+6. I'd rather you didn't tell anyone. — *Tôi thà bạn không nói với ai.*
 
 ---
 

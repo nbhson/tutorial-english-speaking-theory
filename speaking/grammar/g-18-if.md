@@ -84,6 +84,13 @@
 2. Do you think if he'll come? — *Bạn nghĩ liệu anh ấy có đến không?*
 3. I'm not sure if I can finish today. — *Tôi không chắc tôi có xong hôm nay không.*
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -125,6 +132,21 @@
 5. What would you do if you lost your phone? — *If I lost…, I would…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *If you need help, ask me.* / *If the client calls, tell him I'm busy.* / *If we finish early, we can leave.* / *If it rains, we'll cancel.*
+- Du lịch: *If you get lost, call me.* / *If the weather is bad, we'll stay in.* / *If you need a taxi, I'll call one.* / *If we miss the train, we'll take the bus.*
+- Mua sắm: *If it's on sale, I'll buy it.* / *If you don't like it, return it.* / *If it's too expensive, don't buy.* / *If you need help, ask the staff.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. If it rains, I'll stay home. — *Nếu trời mưa, tôi sẽ ở nhà.*
+2. If you need help, ask me. — *Nếu bạn cần giúp, hãy hỏi tôi.*
+3. If I were you, I'd go. — *Nếu tôi là bạn, tôi sẽ đi.*
+4. If you finish early, call me. — *Nếu bạn xong sớm, gọi tôi.*
+5. If it's on sale, buy it. — *Nếu nó giảm giá, mua đi.*
+6. What if he says no? — *Nếu anh ấy nói không thì sao?*
 
 ---
 

@@ -101,6 +101,21 @@
 
 ---
 
+**Ngữ cảnh thực tế:**
+- Đi làm: *She's one of the best employees.* / *This is one of the most important meetings.* / *He's one of my colleagues.* / *It's one of the biggest projects.*
+- Du lịch: *Paris is one of the most beautiful cities.* / *This is one of my favorite places.* / *He's one of the best guides.* / *It's one of the cheapest hotels.*
+- Mua sắm: *This is one of the best deals.* / *It's one of the most popular items.* / *She's one of our best customers.* / *It's one of the cheapest options.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. She's one of my friends. — *Cô ấy là một trong số bạn của tôi.*
+2. This is one of the best books. — *Đây là một trong những cuốn sách hay nhất.*
+3. He's one of the tallest players. — *Anh ấy là một trong những cầu thủ cao nhất.*
+4. It's one of my favorite songs. — *Đây là một trong những bài hát yêu thích của tôi.*
+5. This is one of the most expensive restaurants. — *Đây là một trong những nhà hàng đắt nhất.*
+6. She's one of the team leaders. — *Cô ấy là một trong những trưởng nhóm.*
+
+---
+
 ## VII. BONUS: WHO vs THAT sau "one of + N"
 
 | Cấu trúc | Ví dụ | Giải thích |

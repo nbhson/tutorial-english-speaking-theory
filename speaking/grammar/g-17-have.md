@@ -72,6 +72,39 @@
 3. She's having a birthday party tonight. — *Cô ấy tổ chức tiệc sinh nhật tối nay.*
 4. I had a really good coffee this morning. — *Tôi có ly cà phê ngon vào sáng nay.*
 
+---
+
+### Cách dùng 3: Schedule / Appointment (Lịch hẹn / Cuộc hẹn)
+
+**Have** + danh từ chỉ cuộc hẹn = sắp xếp lịch, cuộc hẹn y tế, họp hành:
+
+| Khẳng định | Phủ định | Câu hỏi |
+|-----------|---------|---------|
+| I **have** a meeting at 3. | I **don't have** any appointments. | **Do** you **have** a doctor's appointment? |
+| She **has** a dentist appointment tomorrow. | She **doesn't have** time for a call. | **Does** he **have** a reservation? |
+| We **have** a team call at 10. | We **haven't got** anything scheduled. | **Have** you **got** a meeting now? |
+
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `Do you have anything on your schedule today?` *(Bạn có lịch trình gì hôm nay không?)*
+- ➕ Đáp: *Yes, I have a call at 2 pm.* — *Có, tôi có cuộc gọi lúc 2 giờ chiều.*
+- 💬 Đáp lại: *Can we reschedule for tomorrow?*
+
+**Ví dụ:**
+1. I have a doctor's appointment at 5 pm. — *Tôi có cuộc hẹn bác sĩ lúc 5 giờ chiều.*
+2. She has a meeting with the client tomorrow. — *Cô ấy có cuộc họp với khách hàng ngày mai.*
+3. Do you have any appointments this week? — *Tuần này bạn có cuộc hẹn nào không?*
+4. I have a dentists appointment on Friday. — *Tôi có lịch hẹn nha sĩ vào thứ Sáu.*
+5. We have a conference call at 9 am sharp. — *Chúng tôi có cuộc họp trực tuyến lúc 9 giờ đúng.*
+
+---
+
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -113,6 +146,21 @@
 5. What do you have for breakfast every day? — *I usually have…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I have a meeting at 3.* / *Do you have time?* / *She has 2 years of experience.* / *We have to finish today.*
+- Du lịch: *I have a reservation.* / *Do you have a map?* / *She has a passport.* / *We have to check out by 11.*
+- Mua sắm: *I have a coupon.* / *Do you have this in blue?* / *She has a receipt.* / *We have to pay now.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I have a car. — *Tôi có một chiếc xe.*
+2. Do you have time? — *Bạn có thời gian không?*
+3. She has two brothers. — *Cô ấy có hai anh em.*
+4. We have to go. — *Chúng tôi phải đi.*
+5. I've had this for years. — *Tôi đã có cái này nhiều năm rồi.*
+6. Have you got a pen? — *Bạn có bút không?*
 
 ---
 

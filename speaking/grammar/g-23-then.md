@@ -56,6 +56,13 @@
 
 > 💡 "Then" trong câu điều kiện có thể **bỏ** trong nói thân mật: *If it rains, we'll stay home.* (vẫn đúng)
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -96,6 +103,21 @@
 5. So then, what's the plan? — *Then we'll…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *Then we'll discuss the budget.* / *What then?* / *Then send the email.* / *And then?*
+- Du lịch: *Then we'll go to the hotel.* / *What then?* / *Then take a taxi.* / *And then?*
+- Mua sắm: *Then pay at the counter.* / *What then?* / *Then check the receipt.* / *And then?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. Then we'll go home. — *Sau đó chúng tôi sẽ về nhà.*
+2. What then? — *Vậy thì sao?*
+3. Then send it to me. — *Sau đó gửi cho tôi.*
+4. And then? — *Rồi sao?*
+5. If not, then what? — *Nếu không, thì sao?*
+6. Then I'll call you. — *Sau đó tôi sẽ gọi bạn.*
 
 ---
 

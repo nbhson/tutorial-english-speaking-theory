@@ -51,6 +51,13 @@
 4. We don't feel like going out — it's too cold. — *Chúng tôi không muốn ra ngoài — lạnh quá.*
 5. I'm not in the mood for homework right now. — *Tôi không có hứng với bài tập lúc này.*
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
+- Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
+- Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -91,6 +98,21 @@
 5. Want to watch a horror movie? — *I'm not up for scary stuff.*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I don't want to work late.* / *I don't feel like attending the meeting.* / *She doesn't want to apply.* / *He doesn't feel like talking.*
+- Du lịch: *I don't want to miss the flight.* / *I don't feel like going out.* / *They don't want to travel by bus.* / *She doesn't feel like sightseeing.*
+- Mua sắm: *I don't want to spend too much.* / *I don't feel like shopping today.* / *He doesn't want to buy it.* / *She doesn't feel like trying it on.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I don't want to go. — *Tôi không muốn đi.*
+2. I don't feel like eating. — *Tôi không muốn ăn.*
+3. She doesn't want to wait. — *Cô ấy không muốn chờ.*
+4. He doesn't feel like working. — *Anh ấy không muốn làm việc.*
+5. Do you want to come? — *Bạn có muốn đi không?*
+6. I don't feel like talking. — *Tôi không muốn nói chuyện.*
 
 ---
 

@@ -67,6 +67,13 @@ Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
 
 ---
 
+**Biến tấu (tự luyện):**
+- Đổi chủ ngữ: *I'm reading.* → *She's reading.* / *They're reading.*
+- Đổi thì: *I'm working now.* → *I was working then.* / *I'll be working tomorrow.*
+- Đổi ngữ cảnh (đi làm): *I'm checking emails.* / (du lịch): *I'm visiting the museum.* / (mua sắm): *I'm looking for a gift.*
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -107,6 +114,21 @@ Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
 5. What are you wearing today? — *I'm wearing …*
 
 > ✅ **Checkpoint:** Trả lời được 5 câu trên **TRƯỚC KHI NHÌN NOTE**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *I'm reviewing the report right now.* / *We're in a meeting.* / *She's presenting the slides.* / *They're negotiating the contract.*
+- Du lịch: *I'm staying at a hotel downtown.* / *We're exploring the city.* / *He's taking photos of the temple.* / *They're waiting for the tour bus.*
+- Mua sắm: *I'm looking for a size M.* / *She's trying on a dress.* / *He's comparing prices.* / *They're checking out at the counter.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. I'm working from home today. — *Hôm nay tôi làm việc tại nhà.*
+2. She's cooking dinner right now. — *Cô ấy đang nấu bữa tối.*
+3. We're flying to Da Nang tomorrow. — *Ngày mai chúng tôi bay đến Đà Nẵng.*
+4. He's fixing his bike. — *Anh ấy đang sửa xe đạp.*
+5. They're playing football in the park. — *Họ đang đá bóng trong công viên.*
+6. I'm not feeling well today. — *Hôm nay tôi không khỏe.*
 
 ---
 

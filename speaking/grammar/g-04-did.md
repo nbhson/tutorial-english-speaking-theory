@@ -44,6 +44,32 @@
 | Why | **Why did** you **leave**? | Bạn đã đi vì sao? |
 | How | **How did** you **get there**? | Bạn đã đến đó bằng cách nào? |
 
+---
+
+### Câu hỏi Yes/No với Did
+
+`Did + S + V(gốc)?` — Dùng để xác nhận thông tin quá khứ:
+
+| Khẳng định | Câu hỏi Yes/No | Trả lời ngắn |
+|-----------|---------------|-------------|
+| You **went** home. | **Did** you **go** home? | Yes, I **did**. / No, I **didn't**. |
+| She **called** you. | **Did** she **call** you? | Yes, she **did**. / No, she **didn't**. |
+| They **finished** the task. | **Did** they **finish** the task? | Yes, they **did**. / No, they **didn't**. |
+
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `Did you hear about the new project?` *(Bạn có nghe về dự án mới chưa?)*
+- ➕ Đáp: *Yes, I did! It sounds exciting.* — *Có, mình nghe rồi! Nghe thú vị quá.*
+- 💬 Đáp lại: *Want me to tell you more?*
+
+**Ví dụ:**
+1. Did you watch the game last night? — *Bạn xem trận đấu tối qua phải không?*
+2. Did she call you yesterday? — *Cô ấy gọi cho bạn hôm qua phải không?*
+3. Did they finish the report on time? — *Họ có hoàn thành báo cáo đúng hạn không?*
+4. Did you enjoy the concert? — *Bạn có thích buổi hòa nhạc không?*
+5. Did he tell you the truth? — *Anh ấy có nói sự thật với bạn không?*
+
+---
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Did you have a good time?` *(Bạn có vui không?)*
 - ➕ Đáp: `Yes, I did. It was amazing.`
@@ -100,6 +126,21 @@
 5. Who did you talk to yesterday? — *I talked to…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+---
+
+**Ngữ cảnh thực tế:**
+- Đi làm: *Did you send the email?* / *Did the client reply?* / *Did you finish the report?* / *Did the meeting end?*
+- Du lịch: *Did you book the hotel?* / *Did you visit the museum?* / *Did the flight arrive on time?* / *Did you try the local food?*
+- Mua sắm: *Did you buy it?* / *Did you get a receipt?* / *Did the store have your size?* / *Did you pay by card?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. What did you do yesterday? — *Bạn đã làm gì hôm qua?*
+2. Did you have lunch? — *Bạn đã ăn trưa chưa?*
+3. Where did you go last weekend? — *Cuối tuần trước bạn đi đâu?*
+4. Did you watch the game? — *Bạn đã xem trận đấu chưa?*
+5. Who did you meet? — *Bạn đã gặp ai?*
+6. Did it rain yesterday? — *Hôm qua có mưa không?*
 
 ---
 

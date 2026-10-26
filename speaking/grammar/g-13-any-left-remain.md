@@ -99,6 +99,21 @@
 
 ---
 
+**Ngữ cảnh thực tế:**
+- Đi làm: *Are there any files left?* / *Is there any budget remaining?* / *Any tasks left?* / *How much time is left?*
+- Du lịch: *Are there any seats left?* / *Is there any time remaining?* / *Any tickets left?* / *How much money is left?*
+- Mua sắm: *Are there any in stock?* / *Is there any discount left?* / *Any sizes left?* / *How much is remaining?*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. Are there any tickets left? — *Còn vé không?*
+2. Is there any food left? — *Còn đồ ăn không?*
+3. How much time is left? — *Còn bao nhiêu thời gian?*
+4. There's nothing left. — *Không còn gì cả.*
+5. Are there any seats remaining? — *Còn chỗ ngồi không?*
+6. There's a little money left. — *Còn một ít tiền.*
+
+---
+
 ## VII. BONUS: SOME vs ANY — Quy tắc nhanh
 
 | | **Some** | **Any** |

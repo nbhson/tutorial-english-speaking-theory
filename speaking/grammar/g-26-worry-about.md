@@ -106,6 +106,21 @@
 
 ---
 
+**Ngữ cảnh thực tế:**
+- Đi làm: *I'm worried about the deadline.* / *Don't worry about the budget.* / *She worries about the presentation.* / *He's worrying about the results.*
+- Du lịch: *I'm worried about the flight.* / *Don't worry about getting lost.* / *She worries about the weather.* / *He's worrying about the hotel.*
+- Mua sắm: *I'm worried about the price.* / *Don't worry about the quality.* / *She worries about the size.* / *He's worrying about the warranty.*
+
+**Ví dụ thực tế thêm (6 câu):**
+1. Don't worry about it. — *Đừng lo về chuyện đó.*
+2. I'm worried about the exam. — *Tôi lo về kỳ thi.*
+3. There's nothing to worry about. — *Không có gì phải lo.*
+4. She worries too much. — *Cô ấy lo quá nhiều.*
+5. Stop worrying. — *Đừng lo nữa.*
+6. I can't stop worrying. — *Tôi không ngừng lo được.*
+
+---
+
 ## VII. BONUS: WORRY vs BE WORRIED — Khi nào dùng cái nào?
 
 | **Worry** (động từ) | **Be worried** (tính từ) |
