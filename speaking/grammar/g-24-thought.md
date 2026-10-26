@@ -59,6 +59,13 @@ Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi th
 - ➕ Đáp: *I thought the price was in thousands, not dollars!* — *Tôi nghĩ giá tính bằng nghìn, mà tính bằng đô!*
 - 💬 Đáp lại: *Same here, I was confused too.*
 
+**Ví dụ:**
+1. I thought you were busy, so I didn't bother you. — *Tôi nghĩ bạn bận, nên không làm phiền.*
+2. I thought it was free, but actually it costs $20. — *Tôi tưởng miễn phí, mà tốn $20 cơ.*
+3. I thought we were going to the mall, not the market. — *Tôi tưởng đi trung tâm thương mại, mà lại đi chợ.*
+4. I thought she liked me, but actually she just being polite. — *Tôi tưởng cô ấy thích, mà chỉ lịch sự thôi.*
+5. I thought the deadline was Friday, not Monday. — *Tôi tưởng hạn chót thứ Sáu, mà là thứ Hai.*
+
 ---
 
 ### Think about + V-ing / N (Suy nghĩ về)
@@ -68,6 +75,13 @@ Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi th
 | think about + N | I've thought **about the problem**. |
 | think about + V-ing | I'm thinking **about changing** jobs. |
 | have thought about + V-ing | I've thought about **asking** her out. |
+
+**Ví dụ:**
+1. I've been thinking about changing jobs. — *Tôi đang nghĩ chuyện đổi việc.*
+2. She thinks about everything before making a decision. — *Cô ấy cân nhắc mọi thứ trước khi quyết định.*
+3. I've thought about it many times. — *Tôi đã nghĩ về điều đó nhiều lần.*
+4. He's thinking about buying a new car. — *Anh ấy đang nghĩ mua xe mới.*
+5. We've been thinking about moving to a new city. — *Chúng tôi đang nghĩ chuyện chuyển thành phố khác.*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.

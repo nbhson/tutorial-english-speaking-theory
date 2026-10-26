@@ -45,6 +45,18 @@
 | Ví dụ | *I'm going to study medicine.* (đã quyết định) | *I'll help you with that.* (ngay lúc nói) |
 | Ví dụ 2 | *Look! It's going to crash!* (thấy rõ) | *I think it will rain tomorrow.* (dự đoán) |
 
+**Ví dụ:**
+1. I'm going to study medicine. — *Tôi định học y.* (đã quyết định)
+2. She's going to move to Hanoi. — *Cô ấy sẽ chuyển sang Hà Nội.* (có kế hoạch)
+3. I'll help you with that. — *Tôi sẽ giúp bạn việc đó.* (quyết định ngay lúc nói)
+4. Look at those clouds — it's going to rain. — *Nhìn mây kìa — sắp mưa rồi.* (bằng chứng hiện tại)
+5. I think it will be fine. — *Tôi nghĩ sẽ ổn.* (dự đoán cá nhân)
+
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `What are you going to do this weekend?` *(Cuối tuần bạn định làm gì?)*
+- ➕ Đáp: `I'm gonna visit my parents.` — *Tôi định về thăm bố mẹ.*
+- 💬 Đáp lại: *That sounds nice!*
+
 ---
 
 ### Gonna — Dạng thân mật của "going to"
@@ -70,11 +82,6 @@
 > ⚠️ **Lưu ý:** Trong email công việc, bài luận, hoặc giao tiếp trang trọng → dùng **going to**, KHÔNG dùng gonna.
 
 ---
-
-**Phản xạ hỏi–đáp:**
-- ❓ Hỏi: `What are you going to do this weekend?` *(Cuối tuần bạn định làm gì?)*
-- ➕ Đáp: `I'm gonna visit my parents.` — *Tôi định về thăm bố mẹ.*
-- 💬 Đáp lại: *That sounds nice!*
 
 **Ví dụ:**
 1. I'm going to learn Japanese next year. — *Năm tới tôi học tiếng Nhật.*

@@ -20,6 +20,11 @@
 - **Thời điểm rõ ràng**: *I went to Japan last year.*
 - **Kể chuyện quá khứ**: *When I was young, I played football.*
 
+### ⚠️ Lỗi thường gặp
+- ~~I have gone to Japan last year~~ → *I **went** to Japan last year* — có thời điểm cụ thể → Past Simple.
+- ~~I lost my keys (vẫn chưa thấy)~~ → dùng *I **have lost** my keys* (Present Perfect) nếu hậu quả còn kéo dài.
+- ~~I am here since 2020~~ → *I **have been** here since 2020* — "since" đi với Perfect/Continuous.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: Present perfect (kinh nghiệm / chưa kết thúc)
@@ -40,8 +45,23 @@
 3. Did you see him yesterday? — *Bạn thấy anh ấy hôm qua không?*
 
 ### Cách dùng 3: Chuyển đổi trong hội thoại
-- Hỏi kinh nghiệm (present perfect) → kể chi tiết (past simple):
-  - *Have you ever been to Japan?* → *Yes, I have. I went there in 2019.*
+
+Hỏi bằng **Present Perfect**, kể bằng **Past Simple**:
+
+| Hỏi (Present Perfect) | Kể (Past Simple) |
+|----------------------|-----------------|
+| *Have you ever been to Japan?* | *Yes, I have. I **went** there in 2019.* |
+| *Have you ever eaten pho?* | *Yes, I **ate** it last week in Hanoi.* |
+| *Have you ever lost your phone?* | *Yes, I **lost** it in 2020.* |
+
+> 💡 **Quy tắc:** Dùng **Perfect** để hỏi kinh nghiệm (không có thời gian cụ thể), dùng **Simple** khi kể lại chi tiết (có thời gian / nơi chốn cụ thể).
+
+**Ví dụ:**
+1. Have you ever been to Japan? — Yes, I went there in 2019.
+2. Have you ever eaten pho? — Yes, I ate it last week in Hanoi.
+3. Have you ever lost your phone? — Yes, I lost it in 2020.
+4. Have you ever met that director? — Yes, I met him at the conference last year.
+5. Have you ever failed a test? — No, I haven't. I always studied well.
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: *I've been to Paris.* → *She's been to Paris.*

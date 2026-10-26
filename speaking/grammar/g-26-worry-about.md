@@ -62,6 +62,13 @@
 | Ví dụ | Don't worry about it. | I'm worried about the weather. |
 | Phó từ | I worry **too much**. | I'm **very** worried. |
 
+**Ví dụ:**
+1. I worry about my parents when I travel. — *Tôi lo cho bố mẹ khi đi du lịch.*
+2. She worries too much about small things. — *Cô ấy lo quá nhiều về chuyện nhỏ.*
+3. I'm worried about the exam results. — *Tôi lo về kết quả thi.*
+4. Don't worry — it'll be fine. — *Đừng lo — sẽ ổn thôi.*
+5. I was worried when I didn't hear from you for days. — *Tôi lo khi mấy ngày không có tin bạn.*
+
 ### "Don't worry" — An ủi / trấn an
 
 **Don't worry** là cách **an ủi nhẹ nhàng nhất** trong tiếng Anh giao tiếp:
@@ -74,6 +81,13 @@
 | Worrywart (danh từ) | *Don't be such a worrywart!* | Nói vui / nói đùa với bạn thân |
 
 > 💡 Trong giao tiếp, *don't worry* phổ biến hơn *don't be worried*. Nhưng *I'm worried* (trạng thái) được dùng nhiều hơn *I worry* (hành động lặp lại).
+
+**Ví dụ:**
+1. Don't worry about it — I'll handle it. — *Đừng lo chuyện đó — tôi lo.*
+2. There's nothing to worry about, trust me. — *Không có gì phải lo, tin tôi đi.*
+3. Stop worrying and just focus on the next step. — *Đừng lo nữa, tập trung bước tiếp theo đi.*
+4. Don't worry, the food here is amazing. — *Đừng lo, đồ ăn ở đây ngon lắm.*
+5. Worrywart! — come on, it's just a test. — *Lo quá trời! Thôi nào, chỉ là bài kiểm tra thôi.*
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 

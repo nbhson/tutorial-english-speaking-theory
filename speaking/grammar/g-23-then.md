@@ -56,6 +56,13 @@
 
 > 💡 "Then" trong câu điều kiện có thể **bỏ** trong nói thân mật: *If it rains, we'll stay home.* (vẫn đúng)
 
+**Ví dụ:**
+1. If you study hard, then you'll pass. — *Nếu học chăm thì sẽ đậu.*
+2. If I were rich, then I would travel. — *Nếu tôi giàu thì tôi sẽ đi du lịch.*
+3. If she calls, then I'll answer. — *Nếu cô ấy gọi thì tôi sẽ nghe.*
+4. If we leave now, then we'll be on time. — *Nếu đi ngay thì sẽ kịp.*
+5. If it rains, then we'll stay inside. — *Nếu mưa thì ở nhà.*
+
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
@@ -76,11 +83,25 @@ Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kị
 - ➕ Đáp: *First boil the water, then add the pasta.* — *Trước hết đun sôi nước, rồi cho mì vào.*
 - 💬 Đáp lại: *Got it, thanks!*
 
+**Ví dụ:**
+1. First wash your hands, then eat. — *Trước hết rửa tay, rồi ăn.*
+2. I'll finish this, then I'll call you. — *Tôi xong việc này, rồi gọi cho bạn.*
+3. First preheat the oven, then mix the ingredients. — *Trước hết bật lò, rồi trộn nguyên liệu.*
+4. He went home, then he called his mom. — *Anh ấy về nhà, rồi gọi cho mẹ.*
+5. Let's grab coffee, then we can talk. — *Đi cà phê trước, rồi nói chuyện.*
+
 ### Nhầm THEN (sau đó) vs THAN (hơn)
 
 > ⚠️ **Then** = /ðen/ (sau đó, vậy thì) — **Than** = /ðæn/ (hơn so với) — phát âm và nghĩa **hoàn toàn khác**:
 > - *I'll call you **then**.* = Tôi sẽ gọi bạn sau đó.
 > - *I'm taller **than** him.* = Tôi cao hơn anh ấy.
+
+**Ví dụ:**
+1. I'll call you then. — *Rồi tôi sẽ gọi cho bạn.* (then = sau đó)
+2. She's taller than me. — *Cô ấy cao hơn tôi.* (than = hơn)
+3. We ate, then we left. — *Ăn xong rồi đi.* (then = rồi)
+4. It's better than expected. — *Tốt hơn mong đợi.* (than = hơn)
+5. First sleep, then work. — *Trước ngủ, sau làm.* (then = sau đó)
 
 ---
 

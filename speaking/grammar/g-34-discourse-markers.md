@@ -24,6 +24,11 @@
 - **Chuyển chủ đề / kết thúc**: *Anyway, …*
 - **Thêm thông tin phụ**: *By the way, …*
 
+### ⚠️ Lỗi thường gặp
+- ~~Well… I think maybe perhaps…~~ → chọn **một** từ nối, không chồng nhau.
+- ~~I mean to say…~~ → *I mean…* (ngắn gọn hơn).
+- ~~By the way… anyway…~~ → "by the way" và "anyway" là hai ý khác nhau, không gộp.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: well (bắt đầu thận trọng)
@@ -35,26 +40,41 @@
 **Ví dụ:**
 1. Well, it depends. — *À, tuỳ.*
 2. Well, actually, I disagree. — *À, thực ra tôi không đồng ý.*
+3. Well, I need to think about it. — *À, tôi cần suy nghĩ thêm.*
+4. Well, maybe next time. — *À, có lẽ lần khác.*
+5. Well, that's a good question. — *À, câu hỏi hay đấy.*
 
 ### Cách dùng 2: you know (kéo người nghe)
 **Ví dụ:**
 1. It's, you know, really expensive. — *Nó, bạn biết đấy, rất đắt.*
 2. You know what I mean? — *Bạn hiểu ý tôi chứ?*
+3. It's, you know, a bit complicated. — *Nó, bạn biết đấy, hơi phức tạp.*
+4. You know, I should really start exercising. — *Bạn biết đấy, tôi thực sự nên tập thể dục.*
+5. It's not, you know, a big deal. — *Nó không, bạn biết đấy, là chuyện lớn.*
 
 ### Cách dùng 3: I mean (giải thích / sửa)
 **Ví dụ:**
 1. It's fine, I mean, not perfect. — *Ổn, ý tôi là chưa hoàn hảo.*
 2. I mean, we can try. — *Ý tôi là chúng ta có thể thử.*
+3. I was going to say — I mean, it's a bit much. — *Tôi định nói — ý tôi là hơi quá.*
+4. I mean, who wouldn't want that? — *Ý tôi là, ai mà không muốn chứ?*
+5. It's, I mean, the second-best option. — *Nó, ý tôi là, lựa chọn tốt thứ hai.*
 
 ### Cách dùng 4: actually (sửa / bổ sung)
 **Ví dụ:**
 1. Actually, I changed my mind. — *Thực ra, tôi đổi ý rồi.*
 2. It's actually quite good. — *Thực ra khá tốt.*
+3. Actually, we're not leaving yet. — *Thực ra chúng tôi chưa đi đâu.*
+4. I thought it was hard, but it was actually easy. — *Tôi tưởng khó, mà thực ra dễ.*
+5. Actually, you're right. — *Thực ra bạn đúng.*
 
 ### Cách dùng 5: anyway / by the way (chuyển ý)
 **Ví dụ:**
 1. Anyway, let's move on. — *Dù sao, tiếp tục đi.*
 2. By the way, did you email him? — *Nhân tiện, bạn email anh ấy chưa?*
+3. Anyway, it's not a big deal. — *Dù sao cũng không có gì.*
+4. By the way, I'm not even hungry. — *Nhân tiện, tôi không hề đói.*
+5. Anyway, let's just do it. — *Thôi thì cứ làm đi.*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: *Well, I'm not sure.* → *Well, she's not sure.*

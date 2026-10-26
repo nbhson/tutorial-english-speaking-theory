@@ -57,6 +57,13 @@
 | I have **no more** time. | Tôi không còn thời gian nữa. |
 | **No more** drama, please! | Không còn drama nữa, cảm ơn! |
 
+**Ví dụ:**
+1. There's no more coffee. — *Không còn cà phê nào.*
+2. I have no more time. — *Tôi không còn thời gian nữa.*
+3. No more excuses! — *Không có cớ gì nữa!*
+4. There's no more parking space. — *Không còn chỗ đậu xe.*
+5. We have no more money left. — *Chúng tôi không còn tiền.*
+
 ### ANYMORE (không còn) vs ANY MORE (thêm một ít)
 
 | | **Anymore** (viết liền) | **Any more** (viết rời) |

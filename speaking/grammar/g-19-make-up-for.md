@@ -54,6 +54,13 @@
 | make it up to someone | I'll make it up to you. |
 | make up for someone | That doesn't make up for what you did. |
 
+**Ví dụ:**
+1. I'll make it up to you with a gift. — *Tôi sẽ bù đắp cho bạn bằng một món quà.*
+2. She tried to make up for the delay. — *Cô ấy cố bù đắp cho sự chậm trễ.*
+3. Nothing can make up for what he did. — *Không gì bù đắp được điều anh ấy đã làm.*
+4. Let me make up for missing your birthday. — *Để tôi bù đắp cho việc bỏ lỡ sinh nhật bạn.*
+5. The apology doesn't make up for the hurt. — *Lời xin lỗi không xóa được tổn thương.*
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How can I make it up to you?` *(Làm sao tôi bù đắp được cho bạn?)*
 - ➕ Đáp: *Just spend time with me — that's enough.* — *Chỉ cần dành thời gian cho tôi là đủ.*
@@ -73,6 +80,13 @@
 | **Dựng / bịa** (make up) | *He's making up excuses.* | Phát minh ra câu chuyện |
 
 > 💡 **Mẹo:** Khi nói *"She's making up"* (không có "for") → trang điểm. Khi nói *"He made up a story"* → bịa chuyện. Chỉ có *"make up **for**"* mới có nghĩa bù đắp.
+
+**Ví dụ:**
+1. She spends 30 minutes making up before going out. — *Cô ấy trang điểm 30 phút trước khi ra ngoài.*
+2. He made up an excuse to get out of work. — *Anh ấy bịa lý do để trốn việc.*
+3. I'm sorry — I made up the whole story. — *Xin lỗi — tôi bịa ra cả chuyện đó.*
+4. They made up after their fight. — *Họ hòa giải sau trận cãi nhau.*
+5. Stop making up excuses. — *Đừng bịa lý do nữa.*
 
 ---
 

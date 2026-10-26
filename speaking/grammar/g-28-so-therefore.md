@@ -76,6 +76,13 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 
 ---
 
+**Ví dụ:**
+1. The weather is bad; therefore, we'll stay indoors. — *Trời xấu; do đó, ở nhà.*
+2. He didn't study; therefore, he failed. — *Cậu ấy không học; do đó trượt.*
+3. It's raining; therefore, bring an umbrella. — *Mưa; vậy nhớ mang ô.*
+4. The budget is tight; therefore, we need to cut costs. — *Ngân sách eo hẹp; vậy phải cắt giảm.*
+5. She's the best candidate; therefore, we should hire her. — *Cô ấy là ứng viên tốt nhất; vậy nên thuê cô ấy.*
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |

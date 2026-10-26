@@ -67,16 +67,25 @@
 | **Trả lời "Bạn đang làm gì?"** | *I'm getting ready for the meeting.* | Trạng thái chuẩn bị, không phải hành động cụ thể |
 | **Chưa sẵn sàng nhưng sắp xong** | *Still getting ready — be there in 5.* | Tin nhắn báo sẽ đến trong ít phút |
 
-**Phản xạ hỏi–đáp:**
-- ❓ Hỏi: `What are you doing?` *(Bạn đang làm gì?)*
-- ➕ Đáp: *I'm getting ready for the call.* — *Tôi đang chuẩn bị cho cuộc họp.*
-- 💬 Đáp lại: *No rush, take your time.*
+**Ví dụ thêm:**
+1. I'm getting ready for the big presentation. — *Tôi đang chuẩn bị cho buổi thuyết trình lớn.*
+2. She's getting ready to start her first day at work. — *Cô ấy đang chuẩn bị cho ngày đầu tiên đi làm.*
+3. We're getting ready for the wedding. — *Chúng tôi đang chuẩn bị cho đám cưới.*
+4. Are you getting ready for bed? — *Bạn đang chuẩn bị đi ngủ phải không?*
+5. He's getting ready to defend his thesis. — *Anh ấy đang chuẩn bị bảo vệ luận án.*
 
 ### Nhầm "ready" với "readyly" (không tồn tại)
 
 > ⚠️ **Lưu ý:** Trong tiếng Anh **không có từ "readyly"**. Khi muốn nói "sẵn sàng" dùng **ready** (adj) hoặc **get ready** (v):
 > - ~~I will finish readyly~~ → *I will finish **readily*** (rất ít dùng, thiên về văn viết).
 > - ✅ *Are you **ready** to go?* / *I'm **getting ready** for work.*
+>
+> **Ví dụ đúng:**
+> 1. Are you ready for the exam? — *Bạn đã sẵn sàng cho kỳ thi chưa?*
+> 2. I'm getting ready for work. — *Tôi đang chuẩn bị đi làm.*
+> 3. She's not ready to go yet. — *Cô ấy chưa sẵn sàng đi đâu.*
+> 4. We're ready to start the presentation. — *Chúng tôi sẵn sàng bắt đầu thuyết trình.*
+> 5. I'm almost ready — just one more minute! — *Gần xong rồi — một phút nữa thôi!*
 
 ---
 

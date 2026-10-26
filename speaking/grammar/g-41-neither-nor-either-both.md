@@ -24,6 +24,11 @@
 - **Kết hợp hai điều kiện**: *Neither A nor B.*
 - **Nhấn mạnh cả hai**: *Both of them are great.*
 
+### ⚠️ Lỗi thường gặp
+- ~~Neither of them is~~ (sai nếu nói "cả hai") → *Both of them **are** great* — "both" + số nhiều.
+- ~~Either of them~~ (một trong hai, chưa biết) vs ~~Neither of them~~ (không cái nào) — khác nghĩa.
+- ~~Both of~~ (trước N số nhiều) vs ~~Both~~ (đứng sau N) → *Both **of the** options* / *The **both** options* (ít dùng).
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: both (cả hai)

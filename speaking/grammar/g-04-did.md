@@ -44,6 +44,13 @@
 | Why | **Why did** you **leave**? | Bạn đã đi vì sao? |
 | How | **How did** you **get there**? | Bạn đã đến đó bằng cách nào? |
 
+**Ví dụ:**
+1. What did you do yesterday? — *Hôm qua bạn làm gì?*
+2. Where did she go? — *Cô ấy đi đâu?*
+3. Why did you leave so early? — *Sao bạn đi sớm vậy?*
+4. How did you meet him? — *Bạn gặp anh ấy bằng cách nào?*
+5. When did the meeting start? — *Cuộc họp bắt đầu khi nào?*
+
 ---
 
 ### Câu hỏi Yes/No với Did
@@ -93,6 +100,13 @@
 | Chức năng | Tạo câu hỏi/quá khứ đơn | Nghĩa "làm / thực hiện" |
 | Ví dụ | *Did you **eat**?* (ăn = eat) | *What **did** you **do**?* (do = làm) |
 | Lỗi hay gặp | ~~Did you **ate**?~~ → *Did you **eat**?* | ~~Did you **did** it?~~ → *Did you **do** it?* |
+
+**Ví dụ:**
+1. Did you eat lunch? — *Bạn ăn trưa chưa?*
+2. What did you do? — *Bạn đã làm gì?*
+3. Did she do the homework? — *Cô ấy làm bài chưa?*
+4. Why did he do that? — *Sao anh ấy làm vậy?*
+5. Did you do it? — *Bạn làm rồi phải không?*
 
 > 💡 **Mẹo:** Trong câu hỏi/quá khứ đơn, **did** luôn theo sau **V gốc** (không chia thì). Nếu động từ chính cũng là "do" → *What **did** you **do**?* (hai từ khác nhau, cùng viết).
 

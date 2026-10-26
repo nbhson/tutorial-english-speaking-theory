@@ -25,6 +25,11 @@
 - **Nói về nhiều/ít**: *I have a lot of work.*
 - **Nhấn mạnh ít (tiêu cực)**: *I have little time.*
 
+### ⚠️ Lỗi thường gặp
+- ~~I have a little money~~ (có tiền) vs ~~I have a few money~~ (sai) → "money" không đếm được → *I have **some** money*.
+- ~~I have few books~~ (ít sách, tiêu cực) vs ~~I have a few books~~ (vài cuốn, tích cực) — khác nghĩa.
+- ~~Do you have any somes?~~ → *Do you have **any**?* — "any" dùng trong câu hỏi/phủ định.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: some / any

@@ -24,6 +24,11 @@
 - **Khen / chê**: *This is the best coffee I've ever had.*
 - **Nói về sự thay đổi**: *It's getting more and more expensive.*
 
+### ⚠️ Lỗi thường gặp
+- ~~He is more taller than me~~ → *He is **taller** than me* — không gộp "more" + "-er".
+- ~~This is the most better~~ → *This is the **best*** — so sánh nhất không dùng "most better".
+- ~~I have more many books~~ → *I have **many** books* — "more" không dùng trước "many".
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: as…as (so sánh bằng)
@@ -53,6 +58,9 @@
 **Ví dụ:**
 1. It's getting more and more expensive. — *Ngày càng đắt.*
 2. I'm less and less interested. — *Ngày càng ít hứng thú.*
+3. She's becoming more and more confident. — *Cô ấy ngày càng tự tin hơn.*
+4. The traffic is getting worse and worse. — *Giao thông ngày một tồi tệ hơn.*
+5. I like it more and more each day. — *Mỗi ngày tôi thích nó hơn.*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: *She's taller than me.* → *He's taller than her.*

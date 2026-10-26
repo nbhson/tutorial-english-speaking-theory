@@ -23,6 +23,11 @@
 - **Trải nghiệm tiêu cực**: *I had my wallet stolen.* (bị mất)
 - **Nhờ người làm**: *I'll have someone call you.*
 
+### ⚠️ Lỗi thường gặp
+- ~~I had my hair cutted~~ → *I had my hair **cut*** — V3/ed không thêm "-ed" lần 2.
+- ~~I had to fix my phone~~ (tôi phải sửa) vs ~~I had my phone fixed~~ (tôi nhờ người sửa) — "have + O + V3" = nhờ ai làm.
+- ~~I will have someone to call you~~ → *I will have someone **call** you* — "have + O + V gốc", không "to".
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: Dịch vụ / sửa chữa

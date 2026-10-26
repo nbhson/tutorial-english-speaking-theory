@@ -57,6 +57,10 @@
 | Don't forget to **take your passport**. | Đừng quên mang theo hộ chiếu. |
 | I always **take my laptop** to work. | Tôi luôn mang laptop đến làm việc. |
 | **Take an umbrella** — it might rain. | Mang theo ô — có thể mưa. |
+| **Take a taxi** to the airport. | Đi taxi ra sân bay. |
+| I'll **take** this bag. | Tôi xách túi này. |
+| I always **take** the early flight. | Tôi luôn chọn chuyến bay sớm. |
+| Please **take** this document to the office. | Xin mang tài liệu này đến văn phòng. |
 
 ---
 
@@ -67,6 +71,9 @@
 | I can't **take it** anymore. | Tôi không chịu nổi nữa. |
 | She won't **take this** from anyone. | Cô ấy không chịu đựng chuyện này từ ai đâu. |
 | How much can you **take**? | Bạn chịu đựng được đến mức nào? |
+| **Take it easy** — don't stress so much. | Thôi đi, đừng stress quá. |
+| I can't **take** the heat here anymore. | Tôi chịu không nổi cái nóng ở đây nữa. |
+| She just **takes** it when people criticize her. | Cô ấy chỉ chịu đựng khi bị chỉ trích. |
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.

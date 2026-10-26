@@ -68,6 +68,9 @@ Dùng để kể lại chuỗi hành động nối tiếp — tạo cảm giác 
 **Ví dụ:**
 1. So I'm walking to work and suddenly I hear someone call my name. — *Tớ đang đi làm thì chợt nghe ai gọi tên*
 2. He's sitting there, looking very serious. — *Anh ta ngồi đó, trông rất nghiêm nghị*
+3. I'm talking to her and she just smiles. — *Tôi đang nói với cô ấy thì cô ấy chỉ mỉm cười.*
+4. We're standing in line and the person in front leaves. — *Chúng tôi đang xếp hàng thì người trước bỏ đi.*
+5. I'm trying to explain but she doesn't seem to understand. — *Tôi đang cố giải thích mà cô ấy không hiểu.*
 
 ### Cách dùng 4: Kế hoạch đã xếp lịch (tương lai gần)
 Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
@@ -75,6 +78,9 @@ Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
 **Ví dụ:**
 1. I'm flying to Da Nang next Friday. — *Thứ sáu tuần sau tôi bay Đà Nẵng*
 2. We're meeting at 8 pm, don't be late. — *Chúng mình gặp nhau 8 giờ tối, đừng muộn nhé*
+3. She's starting a new job next month. — *Tháng tới cô ấy bắt đầu công việc mới.*
+4. They're moving to a new house in June. — *Họ sẽ chuyển nhà vào tháng 6.*
+5. I'm seeing the doctor tomorrow at 10. — *Ngày mai tôi gặp bác sĩ lúc 10 giờ.*
 
 ---
 

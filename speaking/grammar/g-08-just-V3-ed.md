@@ -58,6 +58,13 @@
 | **Yet** | Chưa (câu hỏi/phủ định) | Cuối câu | *Have you eaten yet?* |
 | **Still** | Vẫn đang / Vẫn chưa | Trước động từ chính | *I'm still working.* |
 
+**Ví dụ:**
+1. I just finished my coffee. — *Tôi vừa uống xong cà phê.*
+2. I've already sent the email. — *Tôi đã gửi email rồi.*
+3. Have you eaten yet? — *Bạn ăn chưa?*
+4. I'm still waiting for the bus. — *Tôi vẫn đang chờ buýt.*
+5. I just realized I left my phone at home. — *Tôi vừa mới nhận ra mình quên điện thoại ở nhà.*
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |

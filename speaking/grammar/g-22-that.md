@@ -86,6 +86,13 @@
 
 > 💡 **Mẹo:** Có **dấu phẩy** trước quan hệ từ → dùng **which**. **Không dấu phẩy** → dùng **that** (an toàn hơn).
 
+**Ví dụ:**
+1. The car that I bought is fast. — *Chiếc xe tôi mua chạy nhanh.*
+2. My car, which I bought last year, is fast. — *Chiếc xe, tôi mua năm ngoái, chạy nhanh.*
+3. All that glitters is not gold. — *Không phải thứ gì phát ánh vàng cũng là vàng.*
+4. The man that lives next door is kind. — *Người đàn ông ở cạnh nhà thì tốt bụng.*
+5. My friend, who lives in Hanoi, is visiting. — *Bạn tôi, sống ở Hà Nội, sắp đến thăm.*
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP

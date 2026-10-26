@@ -64,6 +64,13 @@
 
 > 💡 Cả hai đều đúng, nhưng *never* tự nhiên và phổ biến hơn trong văn nói.
 
+**Ví dụ:**
+1. I've never been to Paris. — *Tôi chưa bao giờ đến Paris.*
+2. She has never smoked. — *Cô ấy chưa bao giờ hút thuốc.*
+3. I've never seen that movie. — *Tôi chưa bao giờ xem phim đó.*
+4. He has never missed a deadline. — *Anh ấy chưa bao giờ trễ hạn.*
+5. We've never had such a good time. — *Chúng tôi chưa bao giờ vui như vậy.*
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |

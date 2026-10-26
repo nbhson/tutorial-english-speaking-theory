@@ -50,6 +50,9 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 **Ví dụ:**
 1. **Have you already paid?** — *Bạn trả tiền rồi à?* (ngạc nhiên vì nhanh)
 2. **Has she already left?** — *Cô ấy đi rồi sao?*
+3. **Have you already finished the book?** — *Bạn đọc xong sách rồi à?*
+4. **Have they already decided?** — *Họ quyết định rồi sao?*
+5. **Has it already started?** — *Nó bắt đầu rồi sao?*
 
 ---
 
@@ -60,6 +63,13 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 | **Already** | Khẳng định | Giữa have/has + V3 | *I've already done it.* |
 | **Yet** | Phủ định / Hỏi | Cuối câu | *I haven't done it yet.* / *Have you done it yet?* |
 | **Still** | Phủ định | Trước have/has | *I still haven't finished.* |
+
+**Ví dụ:**
+1. I've already called him. — *Tôi đã gọi cho anh ấy rồi.*
+2. I haven't finished yet. — *Tôi chưa xong.*
+3. She's still working at it. — *Cô ấy vẫn đang làm.*
+4. Have you eaten yet? — *Bạn ăn chưa?*
+5. I've already tried three times. — *Tôi đã thử ba lần rồi.*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: *I've already finished.* → *She's already finished.*

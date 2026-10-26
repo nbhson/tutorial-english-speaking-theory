@@ -67,6 +67,13 @@
 
 > 💡 **Mẹo:** Khi **mời** ai đó (đặc biệt trong quán cà phê, nhà hàng) → dùng **some** dù là câu hỏi: *Would you like **some** water?*
 
+**Ví dụ:**
+1. Is there any milk left? — *Còn sữa không?*
+2. Would you like some coffee? — *Bạn uống cà phê không?*
+3. There isn't any sugar left. — *Không còn đường nào.*
+4. Do you have any questions? — *Bạn có câu hỏi nào không?*
+5. There's some bread on the table. — *Trên bàn có một ít bánh mì.*
+
 ---
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |

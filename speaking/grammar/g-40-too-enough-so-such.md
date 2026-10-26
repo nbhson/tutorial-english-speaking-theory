@@ -24,6 +24,12 @@
 - **Nhấn mạnh kết quả**: *It was so cold that I stayed home.*
 - **Khen ngợi mạnh**: *Such a beautiful day!*
 
+### ⚠️ Lỗi thường gặp
+- ~~It is too much expensive~~ → *It is **too** expensive* — "too" + adj, không "too much".
+- ~~I have enough money?~~ → *Do I have **enough** money?* — "enough" đứng trước N.
+- ~~So good movie~~ → ***Such a** good movie* — "such + a + N".
+- ~~It is so much good~~ → *It is **so** good* — "so" + adj, không "so much".
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: too + adj/adv (quá…)

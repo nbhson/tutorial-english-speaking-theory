@@ -24,6 +24,12 @@
 - **Kể chuyện, kéo người nghe vào**: *It was a great movie, wasn't it?*
 - **Thể hiện thái độ** (ngạc nhiên, khó chịu, đồng tình): *You didn't tell me, did you?*
 
+### ⚠️ Lỗi thường gặp
+- ~~You are coming, are you?~~ → *You are coming, **aren't** you?* — tag phải ngược chiều.
+- ~~I am right, am I not?~~ → *I am right, **aren't I?*** — "I am" dùng "aren't I".
+- ~~Everyone is here, isn't everyone?~~ → *Everyone is here, **aren't they?*** — "everyone/everybody" → tag dùng "they".
+- ~~You don't like it, don't you?~~ → *You don't like it, **do you**?* — phủ định → tag khẳng định.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: Tag với ToBe / Have / Modals
@@ -54,6 +60,13 @@
 - *Let's go, shall we?*
 - *Open the door, will you?* / *Don't forget, will you?*
 - *Nobody came, did they?* (đại từ bất định → they)
+
+**Ví dụ:**
+1. I'm right, aren't I? — *Tôi đúng, phải không?*
+2. Let's meet at 7, shall we? — *Gặp nhau lúc 7 nhé?*
+3. Pass the salt, will you? — *Đưa muối giúp, được không?*
+4. Don't be late, will you? — *Đừng trễ nhé, được không?*
+5. Nobody called, did they? — *Không ai gọi đâu, phải không?*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: *You're tired, aren't you?* → *She's tired, isn't she?*

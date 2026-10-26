@@ -61,6 +61,13 @@
 
 > 💡 **Mẹo:** Trong giao tiếp thân mật, **can** dùng cho cả khả năng lẫn xin phép. Trong trang trọng (phỏng vấn, văn viết), **may** = xin phép, **can** = khả năng.
 
+**Ví dụ:**
+1. Can you swim? — *Bạn bơi được không?* (khả năng)
+2. May I use the restroom? — *Tôi dùng nhà vệ sinh được không?* (xin phép)
+3. Can I go outside? — *Tôi ra ngoài được không?* (xin phép thân mật)
+4. Could I borrow your pen? — *Tôi mượn bút của bạn được không?* (xin phép lịch sự)
+5. Can you open the window, please? — *Bạn mở cửa sổ giúp được không?* (nhờ vả)
+
 ---
 
 ### Cách dùng 2: COULD — Khả năng quá khứ & Đề nghị lịch sự

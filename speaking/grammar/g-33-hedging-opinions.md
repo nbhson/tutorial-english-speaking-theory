@@ -23,6 +23,11 @@
 - **Thể hiện không chắc chắn**: *Maybe he's right.*
 - **Mở đầu câu trả lời**: *Well, actually, …*
 
+### ⚠️ Lỗi thường gặp
+- ~~I think yes.~~ → *I think **so**.* — "I think" không đứng trước "yes/no".
+- ~~It is a bit expensive, isn't it?~~ → OK, nhưng "a bit" thường đứng **trước** tính từ.
+- ~~Maybe yes.~~ → *Maybe.* / *Possibly.* — "maybe" không kết hợp "yes".
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: I think / I believe / I reckon (ý kiến)
@@ -53,6 +58,13 @@
 - *Actually, I think…*
 - *To be honest, …*
 - *I mean, …*
+
+**Ví dụ:**
+1. Well, I'm not sure about that. — *À, tôi chưa chắc về điều đó.*
+2. Actually, I think we should wait. — *Thực ra tôi nghĩ nên đợi.*
+3. To be honest, I don't like it. — *Thật lòng, tôi không thích.*
+4. I mean, it's not the end of the world. — *Ý là, cũng chẳng có gì nghiêm trọng.*
+5. Well, let me think about it. — *À, để tôi suy nghĩ.*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: *I think he's right.* → *I think she's right.*

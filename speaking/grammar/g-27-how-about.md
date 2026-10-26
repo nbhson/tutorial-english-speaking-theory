@@ -60,6 +60,13 @@
 
 ---
 
+**Ví dụ:**
+1. How about meeting at 7? — *Gặp lúc 7 thì sao?*
+2. How about taking a break? — *Nghỉ một chút nhé?*
+3. How about calling him first? — *Gọi cho anh ấy trước nhé?*
+4. How about going to the beach? — *Đi biển nhé?*
+5. How about trying a different restaurant? — *Thử nhà hàng khác nhé?*
+
 ### How about you? — Hỏi ngược
 
 **Ví dụ:**

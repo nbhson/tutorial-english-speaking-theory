@@ -56,6 +56,13 @@
 | spend time **on** + N | She spends a lot of time **on** homework. |
 | spend + thời gian + **at/in** + nơi | They spent the evening **at** a cafe. |
 
+**Ví dụ:**
+1. I spent $50 on that shirt. — *Tôi tiêu $50 cho cái áo đó.*
+2. She spends a lot of time on her hobbies. — *Cô ấy dành nhiều thời gian cho sở thích.*
+3. We spent the weekend at the beach. — *Chúng tôi dành cuối tuần ở biển.*
+4. How much do you spend on coffee each month? — *Mỗi tháng bạn tiêu bao nhiêu tiền cà phê?*
+5. I shouldn't have spent so much on shoes. — *Tôi không nên tiêu nhiều tiền cho giày vậy.*
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How do you spend your weekends?` *(Bạn dành cuối tuần như thế nào?)*
 - ➕ Đáp: *I mostly spend them reading or going for a walk.* — *Tôi chủ yếu đọc sách hoặc đi dạo.*
@@ -70,6 +77,13 @@
 | Ví dụ | *I spend 2 hours reading.* | *It takes me 2 hours to read.* | *The book costs $10.* |
 
 > 💡 **Mẹo:** **Người** spend, **việc** take, **đồ** cost — không thay thế được nhau.
+
+**Ví dụ:**
+1. I spend 2 hours reading every day. — *Tôi dành 2 giờ đọc sách mỗi ngày.*
+2. It takes me 30 minutes to get to work. — *Tôi mất 30 phút đến nơi làm.*
+3. The book costs $15. — *Cuốn sách giá $15.*
+4. She spends $100 on books monthly. — *Cô ấy tiêu $100 sách mỗi tháng.*
+5. It took me a while to finish the report. — *Tôi mất một lúc mới xong báo cáo.*
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 

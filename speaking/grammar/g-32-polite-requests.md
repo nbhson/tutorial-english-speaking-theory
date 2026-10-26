@@ -22,6 +22,11 @@
 - **Đề nghị giúp**: Shall I…? / Would you like me to…?
 - **Từ chối khéo**: I'd rather not / I'd prefer not to.
 
+### ⚠️ Lỗi thường gặp
+- ~~Would you mind to help me?~~ → *Would you mind **helping** me?* — mind luôn đi với V-ing.
+- ~~Do you mind I sit here?~~ → *Do you mind **if I sit** here?* — cần "if".
+- ~~Can you would you…?~~ → chọn **một** cấu trúc, không gộp.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: Could you / Would you + V (nhờ vả)
@@ -50,6 +55,13 @@
 - *May I come in?* / *Could I borrow your pen?*
 - *Shall I open the window?* / *Would you like me to help?*
 - *Let me get that for you.* (đề nghị hành động)
+
+**Ví dụ:**
+1. May I use your phone? — *Tôi dùng điện thoại bạn được không?*
+2. Could I borrow your pen? — *Tôi mượn bút của bạn được không?*
+3. Shall I open the window? — *Tôi mở cửa sổ giúp nhé?*
+4. Would you like me to call a taxi? — *Bạn muốn tôi gọi taxi không?*
+5. Let me carry that for you. — *Để tôi xách giúp bạn.*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: *Could you close the door?* → *Could she close the door?*

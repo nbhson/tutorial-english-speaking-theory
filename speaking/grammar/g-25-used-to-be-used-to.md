@@ -60,6 +60,13 @@ Hai cấu trúc **trông giống nhau nhưng nghĩa hoàn toàn khác**:
 | She **isn't used to the cold** weather. | Cô ấy không quen với thời tiết lạnh. |
 | Are you **used to working** nights? | Bạn có quen làm ca đêm không? |
 
+**Ví dụ:**
+1. I'm used to waking up early. — *Tôi quen dậy sớm rồi.*
+2. She's not used to the cold weather here. — *Cô ấy chưa quen cái lạnh ở đây.*
+3. He's used to working long hours. — *Anh ấy quen làm ca dài rồi.*
+4. Are you used to eating spicy food? — *Bạn có quen đồ ăn cay không?*
+5. I'm used to living alone now. — *Giờ tôi quen sống một mình rồi.*
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Are you used to the food here?` *(Bạn có quen với đồ ăn ở đây không?)*
 - ➕ Đáp: *Not really — I'm still **getting used to it**.* — *Không hẳn — tôi đang tập quen thôi.*
@@ -74,6 +81,13 @@ Hai cấu trúc **trông giống nhau nhưng nghĩa hoàn toàn khác**:
 | Hiện tại | I'm **getting used to** the new schedule. |
 | Quá khứ | I **got used to** living alone. |
 | Tương lai | You'll **get used to** it soon. |
+
+**Ví dụ:**
+1. I'm getting used to the new schedule. — *Tôi đang quen với lịch mới.*
+2. She got used to living in the big city. — *Cô ấy đã quen sống ở thành phố lớn.*
+3. You'll get used to it in a week. — *Một tuần nữa bạn sẽ quen.*
+4. I'm slowly getting used to working from home. — *Tôi đang dần quen làm việc ở nhà.*
+5. The children are getting used to their new school. — *Các bé đang quen với trường mới.*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.

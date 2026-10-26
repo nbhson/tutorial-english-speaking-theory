@@ -20,6 +20,11 @@
 - **Suy luận về quá khứ**: *She must have forgotten.*
 - **Loại trừ khả năng**: *He can't have done it — he was with me.*
 
+### ⚠️ Lỗi thường gặp
+- ~~He must be to be tired~~ → *He **must be** tired* — "must" không kèm "to".
+- ~~He must have been forget~~ → *He must have **forgotten*** — sau "have" là V3.
+- ~~He can't be tired~~ (để loại trừ) → *He **can't be** tired* (đúng) — "can't" + V gốc.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
 ### Cách dùng 1: must be / must have (chắc chắn)
@@ -32,18 +37,24 @@
 1. He must be at home. — *Anh ấy chắc ở nhà.*
 2. They must have missed the train. — *Họ chắc lỡ chuyến tàu rồi.*
 3. You must be joking. — *Bạn chắc đang đùa.*
+4. She must be the manager — she's in charge of everything. — *Cô ấy chắc là quản lý — cô ấy phụ trách mọi thứ.*
+5. You must have forgotten about the meeting. — *Bạn chắc quên cuộc họp rồi.*
 
 ### Cách dùng 2: might / may / could (có thể)
 **Ví dụ:**
 1. He might be sick. — *Anh ấy có thể bị ốm.*
 2. She could have lost her keys. — *Cô ấy có thể làm mất chìa khóa.*
 3. It may rain later. — *Có thể mưa sau.*
+4. We might not make it in time. — *Chúng tôi có thể không kịp.*
+5. He may have changed his mind. — *Anh ấy có thể đã đổi ý.*
 
 ### Cách dùng 3: can't be / can't have (chắc chắn không)
 **Ví dụ:**
 1. That can't be true. — *Điều đó không thể đúng.*
 2. He can't have stolen it — he was with me. — *Anh ấy không thể ăn cắp — anh ấy ở với tôi.*
 3. She can't be 40 — she looks 25. — *Cô ấy không thể 40 — trông như 25.*
+4. It can't be Friday — it's only Wednesday! — *Không thể thứ Sáu được — mới thứ Ba mà!*
+5. They can't have won — they were too far behind. — *Họ không thể thắng — họ bị bỏ xa quá nhiều.*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: *He must be tired.* → *She must be tired.* / *They must be tired.*

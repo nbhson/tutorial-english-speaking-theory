@@ -58,6 +58,13 @@
 - *I'm about to graduate!* → Tôi sắp tốt nghiệp rồi (chỉ còn vài tháng).
 - *I'm going to travel next summer.* → Năm sau tôi sẽ đi du lịch.
 
+**Ví dụ:**
+1. I'm about to start the meeting. — *Tôi sắp bắt đầu cuộc họp.*
+2. She's about to leave for the airport. — *Cô ấy sắp đi sân bay.*
+3. I'm going to call you later. — *Tôi sẽ gọi cho bạn sau.*
+4. Are you about to sleep? — *Bạn sắp ngủ phải không?*
+5. We're going to have dinner together. — *Chúng tôi sẽ ăn tối cùng nhau.*
+
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
