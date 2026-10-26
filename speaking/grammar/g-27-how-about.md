@@ -72,6 +72,20 @@
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+### Nhầm "How about" (đề xuất) vs "What about" (hỏi thăm)
+
+| | **How about…?** | **What about…?** |
+|--|----------------|-----------------|
+| Mục đích | Đề xuất một lựa chọn | Hỏi thăm / nhắc đến vấn đề |
+| Ví dụ | *How about pizza tonight?* | *What about the parking fee?* |
+| Sắc thái | Tích cực, mở | Trích vấn / phản đối nhẹ |
+
+**Ví dụ:**
+1. *How about we skip the movie and stay in?* — *Đi bỏ phim ở nhà nhé?*
+2. *What about the budget — is it okay?* — *Còn ngân sách thì sao — ổn chưa?*
+3. *How about tea instead of coffee?* — *Thay cà phê bằng trà nhé?*
+4. *What about the deadline?* — *Còn hạn chót thì sao?*
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
@@ -80,7 +94,7 @@
 |---|--------|------------|--------------|---------|----------------|------------|
 | 1 | **How about…?** | … thì sao? | Đề xuất | *How about we go now?* | ~~How about to go~~ — sau about là V-ing | *Sounds good!* |
 | 2 | **How about you?** | Còn bạn thì sao? | Hỏi ngược | *I'm tired. How about you?* | —— | *Me too.* / *I'm fine.* |
-| 3 | **What about…?** | Còn… thì sao? | Nhắc lại /提出异议 | *What about the cost?* | —— | *It's not too expensive.* |
+| 3 | **What about…?** | Còn… thì sao? | Nhắc lại / phản đối nhẹ | *What about the cost?* | —— | *It's not too expensive.* |
 | 4 | **How about never?** | Còn không làm gì cả thì sao? | Phản đối nhẹ | *How about we never go back there?* | —— | *Fair point.* |
 | 5 | **How about instead?** | Thay vào đó thì sao? | Gợi ý thay thế | *Instead of coffee, how about tea?* | —— | *I'm up for tea.* |
 | 6 | **How about this — let's…** | Đề xuất cụ thể | Đặt kế hoạch | *How about this — let's meet at 6?* | —— | *Perfect, see you at 6!* |

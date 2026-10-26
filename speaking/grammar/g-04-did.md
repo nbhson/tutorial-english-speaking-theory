@@ -86,11 +86,23 @@
 - Đổi thì (hiện tại): *Do you watch the game every night?*
 - Đổi chủ ngữ: *Did they go to the party?*
 
+### Nhầm DID (trợ động từ) vs DID (động từ chính)
+
+| | **Did** (trợ động từ) | **Did** (động từ chính = make) |
+|--|----------------------|-------------------------------|
+| Chức năng | Tạo câu hỏi/quá khứ đơn | Nghĩa "làm / thực hiện" |
+| Ví dụ | *Did you **eat**?* (ăn = eat) | *What **did** you **do**?* (do = làm) |
+| Lỗi hay gặp | ~~Did you **ate**?~~ → *Did you **eat**?* | ~~Did you **did** it?~~ → *Did you **do** it?* |
+
+> 💡 **Mẹo:** Trong câu hỏi/quá khứ đơn, **did** luôn theo sau **V gốc** (không chia thì). Nếu động từ chính cũng là "do" → *What **did** you **do**?* (hai từ khác nhau, cùng viết).
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
-| 1 | **Did you hear about…?** | Bạn nghe chuyện… chưa? | Mở的话题 về tin tức | *Did you hear about the new cafe?* | —— | *No, what happened?* |
+| 1 | **Did you hear about…?** | Bạn nghe chuyện… chưa? | Mở chủ đề về tin tức | *Did you hear about the new cafe?* | —— | *No, what happened?* |
 | 2 | **Did you enjoy…?** | Bạn có thích… không? | Hỏi sau sự kiện | *Did you enjoy the movie?* | ~~Did you enjoyed~~ — sai, sau did là V gốc | *Yes, it was great!* |
 | 3 | **What did you do?** | Bạn đã làm gì? | Hỏi về hoạt động quá khứ | *What did you do last weekend?* | —— | *I went to…* |
 | 4 | **Did you mean…?** | Bạn muốn nói là… phải không? | Xác nhận ý định | *Did you mean the blue one?* | —— | *Yes, exactly!* |

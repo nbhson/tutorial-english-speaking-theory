@@ -47,6 +47,14 @@
 4. You **should** apologize — you hurt her feelings. — *Bạn nên xin lỗi — bạn đã làm cô ấy buồn.*
 5. Should I wear a jacket? — *Yes, it might be cold outside.* — *Tôi nên mặc áo khoác không?*
 
+**Phân biệt SHOULD vs MUST:**
+
+| | **Should** | **Must** |
+|--|-----------|---------|
+| Mức độ | Nhẹ — lời khuyên | Mạnh — bắt buộc / nghĩa vụ |
+| Ví dụ | *You **should** exercise more.* | *You **must** wear a helmet.* |
+| Sắc thái | Có thể không nghe lời khuyên | Không được vi phạm |
+
 ---
 
 ### Cách dùng 2: Should for prediction (Dự đoán)
@@ -57,7 +65,7 @@
 |----------|-------|-------|
 | S + should + V | The train **should arrive** in 10 minutes. | Tàu sắp đến sau 10 phút nữa. |
 | S + should + be + N/Adj | She **should be** here by now. | Giờ này cô ấy phải có mặt rồi. |
-| S + should + have + V3 | He **should have finished** by now. | Ra lẽ ra anh ấy đã xong rồi. |
+| S + should + have + V3 | He **should have finished** by now. | Lẽ ra anh ấy đã xong rồi. |
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Should we expect rain today?` *(Hôm nay có mưa không?)*
@@ -77,14 +85,14 @@
 
 | Cấu trúc | Ví dụ | Nghĩa |
 |----------|-------|-------|
-| should have + V3 | I **should have called** you. | Ra lẽ ra tôi nên gọi bạn. |
+| should have + V3 | I **should have called** you. | Lẽ ra tôi nên gọi bạn. |
 | shouldn't have + V3 | She **shouldn't have said** that. | Cô ấy không nên nói vậy. |
-| should have + been + V-ing | I **should have been** there. | Ra lẽ ra tôi nên có mặt ở đó. |
+| should have + been + V-ing | I **should have been** there. | Lẽ ra tôi nên có mặt ở đó. |
 
 **Ví dụ:**
-1. I **should have studied** harder for the test. — *Ra lẽ ra tôi nên học chăm hơn.*
+1. I **should have studied** harder for the test. — *Lẽ ra tôi nên học chăm hơn.*
 2. You **shouldn't have spent** so much money. — *Bạn không nên tiêu nhiều tiền đến thế.*
-3. We **should have left** earlier. — *Chúng ta ra lẽ ra nên đi sớm hơn.*
+3. We **should have left** earlier. — *Lẽ ra chúng ta nên đi sớm hơn.*
 
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: *He should study more.* / *They should have called.*
@@ -100,7 +108,7 @@
 | 1 | **You should…** | Bạn nên… | Lời khuyên | *You should rest more.* | ~~You should to rest~~ — sai, bỏ "to" | *Thanks, I will.* |
 | 2 | **You shouldn't…** | Bạn không nên… | Khuyên không làm | *You shouldn't worry so much.* | —— | *I'll try not to.* |
 | 3 | **What should I do?** | Tôi nên làm gì? | Xin lời khuyên | *I'm lost — what should I do?* | —— | *Ask someone for help.* |
-| 4 | **You should have…** | Ra lẽ ra bạn nên… | Hối tiếc quá khứ | *You should have told me earlier.* | —— | *I'm sorry, I forgot.* |
+| 4 | **You should have…** | Lẽ ra bạn nên… | Hối tiếc quá khứ | *You should have told me earlier.* | —— | *I'm sorry, I forgot.* |
 | 5 | **Should I…?** | Tôi có nên…? | Hỏi ý kiến | *Should I call her now?* | —— | *Yes, go ahead.* |
 | 6 | **I ought to…** | Tôi nên… (trang trọng hơn) | Lời khuyên lịch sự | *I ought to apologize.* | —— | *That would be wise.* |
 

@@ -44,6 +44,21 @@
 4. We **thought** it would be fun, but it wasn't. — *Chúng tôi nghĩ sẽ vui, nhưng không phải.*
 5. What were you **thinking** about? — *Tôi đang nghĩ về…*
 
+### "I thought… but actually…" — Hiểu lầm / Bất ngờ
+
+Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi thực tế khác với điều mình nghĩ:
+
+| Mẫu | Ví dụ | Nghĩa |
+|-----|-------|-------|
+| I thought + (that) + V, **but actually**… | *I thought he was free, but actually he's in a meeting.* | Tôi nghĩ rảnh, nhưng thực ra đang họp. |
+| I thought + this was… | *I thought this was $10, but it's $50!* | Tôi nghĩ 10$, mà 50$ cơ à! |
+| I thought + you'd… | *I thought you'd already left.* | Tôi nghĩ bạn đi rồi. |
+
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `Why are you so surprised?` *(Sao bạn ngạc nhiên vậy?)*
+- ➕ Đáp: *I thought the price was in thousands, not dollars!* — *Tôi nghĩ giá tính bằng nghìn, mà tính bằng đô!*
+- 💬 Đáp lại: *Same here, I was confused too.*
+
 ---
 
 ### Think about + V-ing / N (Suy nghĩ về)
@@ -67,7 +82,7 @@
 |---|--------|------------|--------------|---------|----------------|------------|
 | 1 | **I thought so** | Tôi nghĩ vậy | Đồng tình với điều đã dự đoán | *It's raining. — I thought so.* | —— | *Looks like it.* |
 | 2 | **I thought otherwise** | Tôi nghĩ ngược lại | Khi disagree nhẹ | *Everyone likes it. — I thought otherwise.* | —— | *Fair enough.* |
-| 3 | **I've been thinking…** | Tôi đang nghĩ… | Mở话题 nghiêm túc / sâu | *I've been thinking about our future.* | —— | *Tell me more.* |
+| 3 | **I've been thinking…** | Tôi đang nghĩ… | Mở chủ đề nghiêm túc / sâu | *I've been thinking about our future.* | —— | *Tell me more.* |
 | 4 | **What were you thinking?** | Bạn đang nghĩ gì vậy? | Hỏi khi ai đó làm điều kỳ lạ | *You jumped in the pool fully clothed! What were you thinking?* | —— | *I don't know, it just happened!* |
 | 5 | **Just thinking out loud** | Tôi nghĩ thành tiếng | Khi nói ra suy nghĩ chưa chốt | *Should I call her? Just thinking out loud.* | —— | *Go for it!* |
 | 6 | **That's what I thought** | Tôi cũng nghĩ vậy | Đồng tình mạnh | *The movie was amazing. — That's what I thought!* | —— | *Right?!* |

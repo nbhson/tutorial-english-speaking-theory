@@ -75,6 +75,17 @@
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+### Nhầm THAT (mệnh đề quan hệ xác định) vs WHICH (không xác định)
+
+| | **That** | **Which** |
+|--|---------|----------|
+| Mệnh đề | **Xác định** (không dấu phẩy) | **Không xác định** (có dấu phẩy) |
+| Ví dụ | *The car **that** I bought is fast.* | *My car, **which** I bought last year, is fast.* |
+| Có bỏ được khi là tân ngữ? | ✅ *The car (that) I bought* | ✅ *My car, (which) I bought* |
+| Dùng với "all/every/any + N"? | ✅ *All **that** glitters* | ❌ *All which* (sai) |
+
+> 💡 **Mẹo:** Có **dấu phẩy** trước quan hệ từ → dùng **which**. **Không dấu phẩy** → dùng **that** (an toàn hơn).
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP

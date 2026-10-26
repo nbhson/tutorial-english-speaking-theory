@@ -56,6 +56,23 @@
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+### Not in the mood for + N / to + V
+
+**Not in the mood** là cách nói **nhẹ nhàng nhất** để từ chối — nhấn mạnh tâm trạng chứ không phải bản thân việc:
+
+| Cấu trúc | Ví dụ | Sắc thái |
+|----------|-------|---------|
+| not in the mood **for + N** | *I'm not in the mood **for parties**.* | Từ chối hoạt động / sự kiện |
+| not in the mood **to + V** | *I'm not in the mood **to talk**.* | Từ chối hành động |
+
+> 💡 **So sánh 3 mức độ từ chối:**
+> 1. *I don't want to…* (trực tiếp) → 2. *I don't feel like…* (cảm xúc) → 3. *I'm not in the mood…* (nhẹ nhất, an toàn nhất)
+
+**Ví dụ:**
+1. I'm not in the mood for loud music tonight. — *Tối nay tôi không muốn nghe nhạc mạnh.*
+2. He's not in the mood to work — let him rest. — *Anh ấy không có hứng làm việc — để anh ấy nghỉ.*
+3. I'm not in the mood for shopping — it's too crowded. — *Tôi không muốn đi mua sắm — đông quá.*
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP

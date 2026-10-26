@@ -51,13 +51,32 @@
 5. I need to get ready for tomorrow. It's my last day. — *Tôi cần chuẩn bị cho ngày mai. Ngày cuối cùng của tôi rồi.*
 
 **Biến tấu (tự luyện):**
-- Đổi Noun: *I'm getting ready for my exam.*
-- Đổi to + V: *I'm getting ready to go out.*
+- Đổi N: *I'm getting ready for my exam.* / *She's getting ready for the flight.*
+- Đổi to + V: *I'm getting ready to go out.* / *We're getting ready to leave.*
+- Đổi thì (quá khứ): *I got ready in 10 minutes.* / *She got ready for the interview.*
+- Đổi ngữ cảnh (đi làm): *I'm getting ready for the presentation.* / (du lịch): *I'm getting ready for the cruise.* / (mua sắm): *I'm getting ready for the sale.*
 
-**Biến tấu (tự luyện):**
-- Đổi chủ ngữ: *I'm getting ready for the meeting.* → *She's getting ready for the trip.*
-- Đổi thì: *I'm getting ready.* → *I got ready.* / *I'll get ready.*
-- Đổi ngữ cảnh (đi làm): *I'm getting ready for the presentation.* / (du lịch): *I'm getting ready for the flight.* / (mua sắm): *I'm getting ready for the sale.*
+### Cách dùng thực tế: Báo trạng thái chuẩn bị
+
+**Getting ready** dùng trong 4 ngữ cảnh chính:
+
+| Ngữ cảnh | Ví dụ | Ý nghĩa |
+|---------|-------|---------|
+| **Sáng hôm sau đi làm/học** | *I'm getting ready for work.* | Nói với gia đình, đồng nghiệp |
+| **Báo sắp xong để gặp mặt** | *Almost ready! Give me 2 more minutes.* | Tin nhắn cho bạn, đối phương đang chờ |
+| **Trả lời "Bạn đang làm gì?"** | *I'm getting ready for the meeting.* | Trạng thái chuẩn bị, không phải hành động cụ thể |
+| **Chưa sẵn sàng nhưng sắp xong** | *Still getting ready — be there in 5.* | Tin nhắn báo sẽ đến trong ít phút |
+
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `What are you doing?` *(Bạn đang làm gì?)*
+- ➕ Đáp: *I'm getting ready for the call.* — *Tôi đang chuẩn bị cho cuộc họp.*
+- 💬 Đáp lại: *No rush, take your time.*
+
+### Nhầm "ready" với "readyly" (không tồn tại)
+
+> ⚠️ **Lưu ý:** Trong tiếng Anh **không có từ "readyly"**. Khi muốn nói "sẵn sàng" dùng **ready** (adj) hoặc **get ready** (v):
+> - ~~I will finish readyly~~ → *I will finish **readily*** (rất ít dùng, thiên về văn viết).
+> - ✅ *Are you **ready** to go?* / *I'm **getting ready** for work.*
 
 ---
 

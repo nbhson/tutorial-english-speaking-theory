@@ -63,7 +63,7 @@
 1. If you study hard, you will pass the exam. — *Nếu bạn học chăm, bạn sẽ đậu kỳ thi.*
 2. If she calls, tell her I'm busy. — *Nếu cô ấy gọi, nói tôi đang bận.*
 3. I'll help you if you ask me. — *Tôi sẽ giúp bạn nếu bạn hỏi.*
-4. If we leave now, we'll arrive on time. — *Nếu kita đi ngay, kita sẽ tới đúng giờ.*
+4. If we leave now, we'll arrive on time. — *Nếu chúng tôi đi ngay, chúng tôi sẽ tới đúng giờ.*
 5. What will you do if you win the lottery? — *Bạn sẽ làm gì nếu trúng số?*
 
 ---

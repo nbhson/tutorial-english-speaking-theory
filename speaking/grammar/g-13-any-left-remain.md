@@ -56,7 +56,18 @@
 - Đổi N: *Is there any water left?*
 - Đổi thì: *Were there any cookies left yesterday?*
 
-## IV. BẢNG CỤM TỪ GIAO TIẾP
+### Nhầm "any" (số đếm được) vs "some" (khẳng định / mời)
+
+| Tình huống | Dùng | Ví dụ |
+|-----------|------|-------|
+| Câu hỏi thông thường (chưa biết) | **any** | *Is there any milk left?* |
+| Câu hỏi mà bạn mong đợi "có" / mời | **some** | *Would you like some coffee?* |
+| Câu khẳng định | **some** | *There's some bread left.* |
+| Câu phủ định | **any** | *There isn't any bread left.* |
+
+> 💡 **Mẹo:** Khi **mời** ai đó (đặc biệt trong quán cà phê, nhà hàng) → dùng **some** dù là câu hỏi: *Would you like **some** water?*
+
+---
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|

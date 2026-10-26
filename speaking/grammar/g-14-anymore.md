@@ -57,6 +57,23 @@
 | I have **no more** time. | Tôi không còn thời gian nữa. |
 | **No more** drama, please! | Không còn drama nữa, cảm ơn! |
 
+### ANYMORE (không còn) vs ANY MORE (thêm một ít)
+
+| | **Anymore** (viết liền) | **Any more** (viết rời) |
+|--|------------------------|------------------------|
+| Nghĩa | Không còn (no longer) | Thêm một chút (additional) |
+| Ví dụ | *I don't like it **anymore**.* (không thích nữa) | *Do you have **any more** water?* (còn nước không?) |
+| Vị trí | Cuối câu | Giữa câu (danh từ / V-ing sau "any") |
+| Câu hỏi | *Do you still…?* (hỏi) → trả lời bằng *not…anymore* | *Any more…?* (hỏi thêm) |
+
+> 💡 **Mẹo:** *Anymore* (liền) = "không còn nữa" (thường dùng **an** trong câu phủ định). *Any more* (rời) = "thêm một chút" (hỏi thêm, không phủ định).
+
+**Ví dụ:**
+1. I don't watch TV **anymore**. — *Tôi không xem TV nữa.*
+2. Do you have **any more** questions? — *Bạn còn câu hỏi nào không?*
+3. She doesn't live there **anymore** — she moved last year. — *Cô ấy không còn sống ở đó — cô ấy chuyển đi năm ngoái.*
+4. Would you like **any more** rice? — *Bạn muốn thêm cơm không?*
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |

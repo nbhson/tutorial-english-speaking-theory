@@ -11,7 +11,7 @@
 | well | đầu câu | bắt đầu, trả lời thận trọng | Well, I'm not sure. |
 | you know | giữa/đầu câu | kéo người nghe, làm mềm | It's, you know, really hard. |
 | I mean | giữa câu | giải thích lại / sửa | I mean, not that bad. |
-| actually | đầu/giữa |訂正 / bổ sung | Actually, I changed my mind. |
+| actually | đầu/giữa | sửa / bổ sung | Actually, I changed my mind. |
 | anyway | chuyển ý | kết thúc / quay lại chủ đề | Anyway, let's go. |
 | by the way | đầu câu | thêm thông tin mới | By the way, did you call him? |
 
@@ -46,7 +46,7 @@
 1. It's fine, I mean, not perfect. — *Ổn, ý tôi là chưa hoàn hảo.*
 2. I mean, we can try. — *Ý tôi là chúng ta có thể thử.*
 
-### Cách dùng 4: actually (訂正 / bổ sung)
+### Cách dùng 4: actually (sửa / bổ sung)
 **Ví dụ:**
 1. Actually, I changed my mind. — *Thực ra, tôi đổi ý rồi.*
 2. It's actually quite good. — *Thực ra khá tốt.*
@@ -70,7 +70,7 @@
 | 1 | Well… | À… / Thì… | Bắt đầu trả lời |
 | 2 | You know… | Bạn biết đấy… | Kéo người nghe |
 | 3 | I mean… | Ý tôi là… | Giải thích / sửa |
-| 4 | Actually… | Thực ra… |訂正 / bổ sung |
+| 4 | Actually… | Thực ra… |sửa / bổ sung |
 | 5 | Anyway… | Dù sao… | Chuyển ý / kết thúc |
 | 6 | By the way… | Nhân tiện… | Thêm thông tin |
 

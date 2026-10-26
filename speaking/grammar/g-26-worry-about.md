@@ -62,6 +62,19 @@
 | Ví dụ | Don't worry about it. | I'm worried about the weather. |
 | Phó từ | I worry **too much**. | I'm **very** worried. |
 
+### "Don't worry" — An ủi / trấn an
+
+**Don't worry** là cách **an ủi nhẹ nhàng nhất** trong tiếng Anh giao tiếp:
+
+| Mẫu | Ví dụ | Ngữ cảnh |
+|-----|-------|---------|
+| Don't worry about it. | *I'm sorry I'm late. — Don't worry about it!* | An ủi khi ai đó xin lỗi |
+| There's nothing to worry about. | *Relax, there's nothing to worry about.* | Trấn an khi ai đó lo lắng quá |
+| Stop worrying. | *Stop worrying — it won't help.* | Khuyên ai đó ngừng lo |
+| Worrywart (danh từ) | *Don't be such a worrywart!* | Nói vui / nói đùa với bạn thân |
+
+> 💡 Trong giao tiếp, *don't worry* phổ biến hơn *don't be worried*. Nhưng *I'm worried* (trạng thái) được dùng nhiều hơn *I worry* (hành động lặp lại).
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
@@ -70,7 +83,7 @@
 | 2 | **I'm worried about…** | Tôi lo lắng về… | Chia sẻ lo âu | *I'm worried about the results.* | ~~I'm worry about~~ — sai, phải "worried" | *Me too, but we'll be fine.* |
 | 3 | **Nothing to worry about** | Không có gì phải lo | trấn an | *Relax, there's nothing to worry about.* | —— | *Good to hear.* |
 | 4 | **Stop worrying** | Đừng lo nữa | Khuyên ai đó ngừng lo | *Stop worrying — it won't help.* | —— | *You're right, I'll try.* |
-| 5 | **Worrywart** | Người hay lo过头 | Miệng俏皮 nói về người hay lo | *Don't be such a worrywart!* | —— | *Haha, sorry!* |
+| 5 | **Worrywart** | Người hay lo quá mức | Nói đùa / nói vui về người hay lo | *Don't be such a worrywart!* | —— | *Haha, sorry!* |
 | 6 | **I can't stop worrying** | Tôi không ngừng lo được | than phiền về lo âu | *I can't stop worrying about the future.* | —— | *Have you tried meditation?* |
 
 ## V. TỪ VỰNG

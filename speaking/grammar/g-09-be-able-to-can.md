@@ -50,6 +50,17 @@
 4. I wasn't able to sleep last night. — *Tôi không thể ngủ tối qua.*
 5. You'll be able to see the ocean from this hotel room. — *Bạn sẽ nhìn thấy biển từ phòng khách sạn này.*
 
+### Cách dùng 3: Nhầm CAN (khả năng) vs MAY (xin phép)
+
+| | **Can / Could** | **May / Could** (xin phép) |
+|--|----------------|---------------------------|
+| Mục đích | Hỏi **khả năng** | **Xin phép** (trang trọng hơn) |
+| Ví dụ | *Can you swim?* (bạn bơi được không?) | *May I use the restroom?* |
+| Mức độ | Thân mật / thông dụng | Trang trọng / lịch sự |
+| Thân mật | *Can I go?* (xin phép ở trường, gia đình) | *Could I borrow your pen?* (trang trọng hơn) |
+
+> 💡 **Mẹo:** Trong giao tiếp thân mật, **can** dùng cho cả khả năng lẫn xin phép. Trong trang trọng (phỏng vấn, văn viết), **may** = xin phép, **can** = khả năng.
+
 ---
 
 ### Cách dùng 2: COULD — Khả năng quá khứ & Đề nghị lịch sự

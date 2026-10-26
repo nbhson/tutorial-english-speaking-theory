@@ -54,10 +54,25 @@
 | make it up to someone | I'll make it up to you. |
 | make up for someone | That doesn't make up for what you did. |
 
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `How can I make it up to you?` *(Làm sao tôi bù đắp được cho bạn?)*
+- ➕ Đáp: *Just spend time with me — that's enough.* — *Chỉ cần dành thời gian cho tôi là đủ.*
+- 💬 Đáp lại: *You're sweet.*
+
 **Biến tấu (tự luyện):**
 - Đổi chủ ngữ: thử thay chủ ngữ (I/you/he/she/they) và điều chỉnh động từ cho đúng.
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
+
+### Make up (trang điểm / dựng câu chuyện) — Ba nghĩa khác nhau
+
+| Nghĩa | Ví dụ | Ngữ cảnh |
+|-------|-------|---------|
+| **Bù đắp** (make up for) | *I'll make up for the lost time.* | Bù đắp thiếu hụt |
+| **Trang điểm** (make up) | *She spends 30 minutes making up.* | Mỹ phẩm |
+| **Dựng / bịa** (make up) | *He's making up excuses.* | Phát minh ra câu chuyện |
+
+> 💡 **Mẹo:** Khi nói *"She's making up"* (không có "for") → trang điểm. Khi nói *"He made up a story"* → bịa chuyện. Chỉ có *"make up **for**"* mới có nghĩa bù đắp.
 
 ---
 

@@ -59,6 +59,24 @@
 - Đổi tính từ: *One of the most beautiful places…*
 - Đổi thì: *She was one of the winners.*
 
+### One of + N (không có tính từ siêu cấp)
+
+Dùng khi **không** so sánh mà chỉ cần chỉ **một phần tử** trong nhóm:
+
+| Cấu trúc | Ví dụ | Nghĩa |
+|----------|-------|-------|
+| One of my/your + N (số nhiều) | *One of my **friends** is a doctor.* | Một trong những bạn của tôi là bác sĩ. |
+| One of the + N (số nhiều) | *One of the **books** was missing.* | Một trong những cuốn sách bị mất. |
+| One of us/them + V (số ít) | *One of **us forgot** the keys.* | Một trong chúng tôi quên chìa khóa. |
+
+> 💡 **Lưu ý:** Động từ luôn chia **số ít** (is / was / forgot) vì chủ ngữ thật là *one*, không phải *friends*.
+
+**Ví dụ:**
+1. One of my colleagues quit last week. — *Một trong những đồng nghiệp tôi nghỉ tuần trước.*
+2. One of the restaurants on this street is great. — *Một trong những nhà hàng trên đường này rất ngon.*
+3. One of us has to stay behind. — *Một trong chúng tôi phải ở lại.*
+4. I'm one of the people who work here. — *Tôi là một trong những người làm việc ở đây.*
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |

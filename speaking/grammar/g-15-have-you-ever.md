@@ -24,7 +24,7 @@
 ## II. KHI NÀO DÙNG?
 
 - Hỏi về **trải nghiệm cuộc đời** — điều đã xảy ra (hoặc chưa) trong suốt quá khứ đến nay.
-- Mở话题 khi làm quen: *Have you ever…?* là câu hỏi "mở khóa" hội thoại kinh điển.
+- Mở chủ đề khi làm quen: *Have you ever…?* là câu hỏi "mở khóa" hội thoại kinh điển.
 - Kể chuyện: *I've never… but I'd like to.*
 
 ### ⚠️ Lỗi thường gặp

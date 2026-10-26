@@ -46,12 +46,6 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 4. We've already met before. — *Chúng ta đã gặp nhau rồi.*
 5. They haven't arrived yet. — *Họ chưa đến nơi đâu.*
 
-**Biến tấu (tự luyện):**
-- Đổi chủ ngữ: *He has already finished.*
-- Đổi thì (quá khứ): *I had already eaten when she called.*
-
----
-
 ### Cách dùng 2: Câu hỏi — xác nhận điều bất ngờ
 **Ví dụ:**
 1. **Have you already paid?** — *Bạn trả tiền rồi à?* (ngạc nhiên vì nhanh)

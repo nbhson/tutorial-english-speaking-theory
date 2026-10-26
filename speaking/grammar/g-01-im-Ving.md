@@ -45,20 +45,31 @@
 4. What are you wearing today? — *Hôm nay bạn mặc gì vậy?*
 5. I'm having a coffee. Want some? — *Tôi đang uống cà phê. Bạn muốn chút không?*
 
-**Biến tấu (tự luyện):**
-- Đổi chủ ngữ I → she: *She's writing a letter.*
-- Đổi thì (quá khứ): *I was studying when you called.*
+### Cách dùng 2: Trạng thái tạm thời (không phải thói quen)
+**Present Continuous** mô tả tình huống **tạm thời**, sẽ kết thúc — khác Present Simple (thói quen vĩnh viễn):
+
+| Tạm thời (V-ing) | Thói quen (Simple) |
+|-----------------|-------------------|
+| *I'm living with my friend **this month**.* | *I live in Da Nang.* |
+| *She's working from home **this week**.* | *He works at a bank.* |
+| *They're reading a lot **lately**.* | *We usually eat at 7.* |
+
+**Ví dụ:**
+1. I'm staying at my aunt's house **for two weeks**. — *Tôi ở nhà dì hai tuần.*
+2. She's working extra hours **this month** — the deadline is tight. — *Cô ấy làm thêm giờ tháng này.*
+3. We're eating out a lot **these days**. — *Dạo này chúng tôi ăn ngoài nhiều.*
+4. I'm not drinking coffee **this week** — I'm trying to cut back. — *Tuần này tôi không uống cà phê.*
 
 ---
 
-### Cách dùng 2: Kịch bản đang diễn ra (kể chuyện)
+### Cách dùng 3: Kịch bản đang diễn ra (kể chuyện)
 Dùng để kể lại chuỗi hành động nối tiếp — tạo cảm giác "đang sống trong chuyện":
 
 **Ví dụ:**
 1. So I'm walking to work and suddenly I hear someone call my name. — *Tớ đang đi làm thì chợt nghe ai gọi tên*
 2. He's sitting there, looking very serious. — *Anh ta ngồi đó, trông rất nghiêm nghị*
 
-### Cách dùng 3: Kế hoạch đã xếp lịch (tương lai gần)
+### Cách dùng 4: Kế hoạch đã xếp lịch (tương lai gần)
 Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
 
 **Ví dụ:**

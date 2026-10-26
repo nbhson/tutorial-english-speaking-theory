@@ -56,6 +56,21 @@
 | spend time **on** + N | She spends a lot of time **on** homework. |
 | spend + thời gian + **at/in** + nơi | They spent the evening **at** a cafe. |
 
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `How do you spend your weekends?` *(Bạn dành cuối tuần như thế nào?)*
+- ➕ Đáp: *I mostly spend them reading or going for a walk.* — *Tôi chủ yếu đọc sách hoặc đi dạo.*
+- 💬 Đáp lại: *Sounds relaxing!*
+
+### SPEND vs TAKE vs COST (nhớ nhanh)
+
+| | **Spend** | **Take** | **Cost** |
+|--|----------|---------|----------|
+| Chủ ngữ | **Người** | **Việc / HOẠT ĐỘNG** | **Đồ vật / Dịch vụ** |
+| Cấu trúc | S + spend + time/money + V-ing/on N | It + takes + S + time + to V | S + cost + tiền |
+| Ví dụ | *I spend 2 hours reading.* | *It takes me 2 hours to read.* | *The book costs $10.* |
+
+> 💡 **Mẹo:** **Người** spend, **việc** take, **đồ** cost — không thay thế được nhau.
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |

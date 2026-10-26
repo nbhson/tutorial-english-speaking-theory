@@ -56,6 +56,22 @@
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+### "I'm going on + số" — Gợi ý tuổi tác
+
+**Going on** còn dùng để nói **suất** hoặc **tuổi sắp tròn**:
+
+| Cấu trúc | Ví dụ | Nghĩa |
+|----------|-------|-------|
+| I'm going on + số (tuổi) | *I'm going on 30.* | Tôi sắp tròn 30 (chưa đủ 30) |
+| He's going on + số (km/di) | *It's going on 50 km.* | Khoảng 50 km |
+
+> 💡 **Mẹo:** *I'm going on 30* = *Tôi đang bước sang tuổi 30* (chưa tròn 30, nhưng sắp tới).
+
+**Ví dụ:**
+1. I'm going on 40 next month. — *Tháng tới tôi sắp tròn 40.*
+2. She's going on her fifth year at the company. — *Cô ấy sắp bước sang năm thứ 5 tại công ty.*
+3. The trip is going on 200 km. — *Chuyến đi khoảng 200 km.*
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP

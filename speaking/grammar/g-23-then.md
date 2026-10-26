@@ -61,6 +61,27 @@
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+### Then = Thứ tự (First… then… finally)
+
+Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kịch bản:
+
+| Mẫu | Ví dụ | Nghĩa |
+|-----|-------|-------|
+| First…, then… | *First wash your hands, then eat.* | Trước hết rửa tay, rồi ăn. |
+| First…, then…, finally… | *First preheat the oven, then mix the ingredients, finally bake for 20 min.* | Thứ tự 3 bước |
+| And then… | *I finished the report and then sent it.* | Tôi xong báo cáo rồi gửi đi. |
+
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `What do I need to do first?` *(Tôi cần làm gì trước?)*
+- ➕ Đáp: *First boil the water, then add the pasta.* — *Trước hết đun sôi nước, rồi cho mì vào.*
+- 💬 Đáp lại: *Got it, thanks!*
+
+### Nhầm THEN (sau đó) vs THAN (hơn)
+
+> ⚠️ **Then** = /ðen/ (sau đó, vậy thì) — **Than** = /ðæn/ (hơn so với) — phát âm và nghĩa **hoàn toàn khác**:
+> - *I'll call you **then**.* = Tôi sẽ gọi bạn sau đó.
+> - *I'm taller **than** him.* = Tôi cao hơn anh ấy.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP

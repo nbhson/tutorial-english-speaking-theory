@@ -1,4 +1,4 @@
-# Grammar 07 — I gonna + V / I'm going to + V (Tôi sẽ / Tôi định…)
+# Grammar 07 — I'm gonna + V / I'm going to + V (Tôi sẽ / Tôi định…)
 
 > **Nhóm B: KẾ HOẠCH & TƯƠNG LAI**
 
@@ -94,7 +94,7 @@
 | 1 | **I'm gonna…** | Tôi sẽ / định… | Kể kế hoạch tương lai | *I'm gonna start a new hobby.* | ~~I gonna~~ — thiếu am/is/are | *That sounds cool!* |
 | 2 | **Are you gonna…?** | Bạn định… phải không? | Hỏi kế hoạch thân mật | *Are you gonna come to the party?* | —— | *Yeah, I am!* / *Not sure yet.* |
 | 3 | **I'm going to need…** | Tôi sẽ cần… | Báo trước nhu cầu | *I'm going to need your help tomorrow.* | —— | *No problem, I'll help.* |
-| 4 | **You're gonna love this** | Bạn sẽ thích cái này | Gợi ý,预告 điều thú vị | *You're gonna love this restaurant!* | —— | *Can't wait to try it!* |
+| 4 | **You're gonna love this** | Bạn sẽ thích cái này | Gợi ý trước điều thú vị | *You're gonna love this restaurant!* | —— | *Can't wait to try it!* |
 | 5 | **I wasn't gonna…** | Tôi định không… | Nói về quyết định đã đổi | *I wasn't gonna go but now I changed my mind.* | —— | *Sometimes the best plans change.* |
 | 6 | **What are you gonna do about it?** | Bạn định làm gì về chuyện này? | Hỏi kế hoạch giải quyết | *The car broke down. What are you gonna do?* | —— | *I'm gonna call a mechanic.* |
 
