@@ -1,0 +1,21 @@
+{
+  "name": "tutorial-speaking",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && cp -r speaking dist/speaking",
+    "preview": "vite preview",
+    "build:data": "python3 scripts/build_data.py",
+    "predev": "npm run build:data",
+    "prebuild": "npm run build:data"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.0"
+  }
+}

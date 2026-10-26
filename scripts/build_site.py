@@ -192,7 +192,7 @@ def main():
         prev_group = info["group_en"]
 
         # bỏ blockquote meta gốc (nhóm/nguồn) — thay bằng chips t-meta
-        md_body = re.sub(r"^>\s*Nhóm \*\*.+?\*\*.*$", "", info["md"], count=1, flags=re.M)
+        md_body = re.sub(r"^>\s*\*\*Nhóm .+?\*\*.*$", "", info["md"], count=1, flags=re.M)
         sub = re.sub(r"^#.*\n", "", md_body, count=1)
         body = md_to_html(sub, info["stem"])
 
