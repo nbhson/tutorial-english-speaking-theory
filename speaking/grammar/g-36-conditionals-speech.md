@@ -15,6 +15,12 @@
 
 **Quy tắc:** Trong văn nói, type 2 và 3 phổ biến nhất (khuyên, hối tiếc).
 
+**Phản xạ nói:**
+- *If I were you* → /ɪf aɪ wɜː juː/ → nuốt thành **"if-I-were-ya"** — nói trôi một hơi.
+- *I would have* → /aɪ wʊd həv/ → nuốt **"I'd've"** — *I'd've called you.*
+- *wouldn't have* → /ˈwʊd.ənt əv/ → **"wouldn't've"** — *We wouldn't've missed it.*
+- *If only* → /ɪf ˈəʊn.li/ → nhấn "only" để tỏ tiếc nuối.
+
 ## II. KHI NÀO DÙNG?
 
 - **Khuyên**: *If I were you, I would…*
@@ -43,6 +49,11 @@
 5. What would you do if you found a wallet on the street? — *Bạn sẽ làm gì nếu nhặt được ví trên đường?*
 
 ### Cách dùng 2: Type 3 (hối tiếc quá khứ)
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `Why didn't you come to the party?` *(Sao bạn không đến tiệc?)*
+- ➕ Đáp: *If I had known about it, I would have come.* — *Nếu tôi biết, tôi đã đến rồi.*
+- 💬 Đáp lại: *My bad, I thought I'd invited everyone!*
+
 **Ví dụ:**
 1. If I had known, I would have called you. — *Nếu tôi biết, tôi đã gọi bạn.*
 2. If she had studied, she would have passed. — *Nếu cô ấy học, cô ấy đã đậu.*
@@ -51,6 +62,11 @@
 5. I would have bought it if it had been cheaper. — *Tôi đã mua nếu rẻ hơn.*
 
 ### Cách dùng 3: Mixed conditional
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `Do you regret quitting your old job?` *(Bạn tiếc việc nghỉ việc cũ không?)*
+- ➕ Đáp: *Sometimes. If I had stayed, I would be earning more now.* — *Hơi tiếc. Nếu ở lại, giờ tôi lương cao hơn.*
+- 💬 Đáp lại: *But you're happier now, right?*
+
 **Ví dụ:**
 1. If I had studied (quá khứ), I would be rich now (hiện tại). — *Nếu tôi đã học, giờ tôi đã giàu.*
 2. If I were taller (hiện tại), I would have played basketball (quá khứ). — *Nếu tôi cao hơn, tôi đã chơi bóng rổ.*
@@ -67,36 +83,41 @@
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
-| # | Cụm từ | Nghĩa | Khi nào dùng |
-|---|--------|-------|--------------|
-| 1 | If I were you… | Nếu tôi là bạn… | Khuyên |
-| 2 | I would have… | Tôi đã sẽ… | Hối tiếc |
-| 3 | If only… | Giá mà… | Ước muốn |
-| 4 | Suppose / Supposing… | Giả sử… | Giả định |
-| 5 | Unless… | Trừ khi… | Điều kiện phủ định |
+| # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
+|---|--------|------------|--------------|---------|----------------|------------|
+| 1 | **If I were you…** | Nếu tôi là bạn… | Khuyên ai đó | *If I were you, I'd apologize first.* | ~~If I was you~~ — giả định chuẩn là **were** | *Good point, I will. (Hay đấy, tôi sẽ vậy)* |
+| 2 | **I would have…** | Tôi đã sẽ… | Hối tiếc quá khứ | *I would have come if I'd known.* | ~~I would have came~~ — sau would have là **V3**: come | *Next time for sure! (Lần sau nhé!)* |
+| 3 | **If only…** | Giá mà… | Ước muốn / tiếc nuối | *If only I had more time.* | ~~If only I have~~ — ước hiện tại dùng **had** | *Same here… (Tớ cũng vậy…)* |
+| 4 | **Unless…** | Trừ khi… | Điều kiện phủ định gọn | *Unless it rains, we'll go.* | ~~Unless it will rain~~ — mệnh đề unless chia hiện tại | *Sounds good! (Ok nhé!)* |
+| 5 | **What if…?** | Nếu… thì sao? | Nêu giả định để bàn | *What if he doesn't reply?* | ~~What will happen if~~ (dài) — văn nói gọn: **What if** | *Then we'll try another way. (Thì tính cách khác)* |
 
 ## V. TỪ VỰNG
 
-| Từ | Phiên âm | Nghĩa |
-|----|----------|-------|
-| conditional | /kənˈdɪʃ.ən.əl/ | Điều kiện |
-| hypothetical | /ˌhaɪ.pəˈθet.ɪ.kəl/ | Giả định |
-| regret | /rɪˈɡret/ | Hối tiếc |
+| Từ | Từ loại / Phiên âm | Nghĩa |
+|----|--------------------|-------|
+| conditional | (n) /kənˈdɪʃ.ən.əl/ | Câu điều kiện |
+| hypothetical | (adj) /ˌhaɪ.pəˈθet.ɪ.kəl/ | Giả định |
+| regret | (n/v) /rɪˈɡret/ | Sự hối tiếc / tiếc |
+| unless | (conj) /ənˈles/ | Trừ khi |
+| suppose | (v) /səˈpəʊz/ | Giả sử |
 
 ## VI. LUYỆN NÓI
 
-1. If I were you, I would apologize.
-2. If I had known, I would have called.
-3. If only I had more time.
-4. Unless it rains, we'll go.
-5. I would have helped if you asked.
+### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
+1. *If I were you, I would apologize.*
+2. *If I had known, I would have called.*
+3. *If only I had more time!*
+4. *Unless it rains, we'll go.*
+5. *I'd've helped if you'd asked.*
 
-**5 câu hỏi tự luyện:**
-1. What would you do? — *If I were you, I would…*
-2. Why didn't you call? — *If I had known, I would have…*
-3. Do you regret it? — *If only I had…*
-4. Will you go? — *Unless it rains, yes.*
-5. What if he comes? — *If he comes, I'll leave.*
+### 5 câu hỏi tự luyện
+1. What would you do if you won the lottery? — *If I won, I'd travel the world first.*
+2. Why didn't you call me yesterday? — *If I had known you were free, I would have called.*
+3. What should I do about the argument? — *If I were you, I'd talk to her face to face.*
+4. Are you coming hiking on Sunday? — *Unless it rains, I'll be there.*
+5. Do you regret not studying harder? — *If only I had studied harder — I'd have more options now.*
+
+> ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**, dùng đúng **were** trong Type 2 và **had + V3** trong Type 3. Ghi âm và tự nghe lại.
 
 **Ngữ cảnh thực tế:**
 - Đi làm: *If I were you, I'd talk to the manager.* / *If I had known, I'd have prepared.* / *If we finish early, we can leave.* / *If it rains, we'll cancel.*

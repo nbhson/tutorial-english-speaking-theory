@@ -17,6 +17,12 @@
 
 **Quy tắc:** Tính từ ngắn (1-2 âm tiết) thêm -er/-est; dài (3+ âm tiết) dùng more/most.
 
+**Phản xạ nói:**
+- *-er than* → nối liền: *taller than* → **"taller-than"** — một nhịp.
+- *more expensive* → /mɔːr ɪkˈspen.sɪv/ → nuốt "more" thành /mər/ — *It's muh-more expensive.*
+- *as…as* → hai as đọc nhanh bằng nhau, adj ở giữa được nhấn: *as TALL as*.
+- *the best* → /ðə best/ → "the" nuốt thành /ðə/ — *It's the best!*
+
 ## II. KHI NÀO DÙNG?
 
 - **So sánh người/vật**: *She's taller than me.*
@@ -43,18 +49,30 @@
 3. As far as I know… — *Theo tôi biết thì…*
 
 ### Cách dùng 2: -er / more…than (so sánh hơn)
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `Why did you switch phones?` *(Sao bạn đổi điện thoại?)*
+- ➕ Đáp: *The new one is way faster than my old one.* — *Máy mới nhanh hơn máy cũ nhiều.*
+- 💬 Đáp lại: *Nice, was it pricey?*
 **Ví dụ:**
 1. This phone is better than that one. — *Điện thoại này tốt hơn cái kia.*
 2. She's more experienced than me. — *Cô ấy có kinh nghiệm hơn tôi.*
 3. It's much more expensive than I thought. — *Đắt hơn tôi nghĩ nhiều.*
 
 ### Cách dùng 3: the -est / the most (so sánh nhất)
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `What's the best food you've had in Hanoi?` *(Món ngon nhất bạn từng ăn ở Hà Nội là gì?)*
+- ➕ Đáp: *Definitely bun cha — the best I've ever had.* — *Chắc chắn là bún chả — ngon nhất từng ăn.*
+- 💬 Đáp lại: *Take me there next time! (Lần sau dẫn tôi đi nhé!)*
 **Ví dụ:**
 1. He's the tallest in the class. — *Anh ấy cao nhất lớp.*
 2. That was the most boring movie ever. — *Đó là phim chán nhất từng xem.*
 3. Best day ever! — *Ngày tuyệt nhất!*
 
 ### Cách dùng 4: so sánh kép (more and more / less and less)
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `How's your English coming along?` *(Tiếng Anh của bạn tiến triển thế nào rồi?)*
+- ➕ Đáp: *It's getting better and better — I practice every day.* — *Ngày càng tiến bộ — tôi luyện mỗi ngày.*
+- 💬 Đáp lại: *Keep it up! (Duy trì nhé!)*
 **Ví dụ:**
 1. It's getting more and more expensive. — *Ngày càng đắt.*
 2. I'm less and less interested. — *Ngày càng ít hứng thú.*
@@ -71,36 +89,42 @@
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
-| # | Cụm từ | Nghĩa | Khi nào dùng |
-|---|--------|-------|--------------|
-| 1 | as…as | bằng… | So sánh bằng |
-| 2 | much better / far worse | tốt hơn nhiều / tệ hơn nhiều | Chênh lệch lớn |
-| 3 | the best / the worst | tốt nhất / tệ nhất | So sánh nhất |
-| 4 | more and more | ngày càng… | Xu hướng |
-| 5 | not as…as | không bằng… | So sánh phủ định |
+| # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
+|---|--------|------------|--------------|---------|----------------|------------|
+| 1 | **as… as** | bằng như… | So sánh bằng | *She's as tall as her brother.* | ~~so tall as~~ — khẳng định dùng **as…as** | *Really? They look the same! (Thật à? Nhìn như nhau mà!)* |
+| 2 | **much better / far worse** | tốt hơn nhiều / tệ hơn nhiều | Nhấn mạnh chênh lệch | *The new phone is much better.* | ~~very better~~ — nhấn -er phải dùng **much/far**, không dùng very | *Yeah, worth the upgrade. (Đáng đồng tiền)* |
+| 3 | **the best / the worst** | tốt nhất / tệ nhất | So sánh nhất | *It's the best coffee I've ever had.* | ~~the most best~~ — best là nhất rồi, bỏ most | *Same here, it's my go-to spot. (Tôi cũng thế, quán ruột)* |
+| 4 | **more and more** | ngày càng… | Nói xu hướng | *It's getting more and more crowded.* | ~~more and more better~~ — chọn 1 hình thức so sánh thôi | *Tell me about it. (Đừng nhắc nữa)* |
+| 5 | **not as… as** | không bằng… | So sánh phủ định | *It's not as crowded as yesterday.* | ~~not as crowded than~~ — khung as…as không dùng than | *Good, we can actually talk. (Tốt, giờ mới nói chuyện được)* |
+| 6 | **the -est / the most…** | nhất | Đỉnh của nhóm | *That was the most boring movie ever.* | ~~the most tall~~ — adj ngắn dùng **the tallest** | *Agreed, total waste of time. (Ừ, phí thời gian thật)* |
 
 ## V. TỪ VỰNG
 
-| Từ | Phiên âm | Nghĩa |
-|----|----------|-------|
-| comparative | /kəmˈpær.ə.tɪv/ | So sánh hơn |
-| superlative | /suːˈpɜːr.lə.tɪv/ | So sánh nhất |
-| approximately | /əˈprɒk.sɪ.mət.li/ | Xấp xỉ |
+| Từ | Từ loại / Phiên âm | Nghĩa |
+|----|--------------------|-------|
+| comparative | (n) /kəmˈpær.ə.tɪv/ | So sánh hơn |
+| superlative | (n) /suˈpɜː.lə.tɪv/ | So sánh nhất |
+| approximately | (adv) /əˈprɒk.sɪ.mət.li/ | Xấp xỉ |
+| crowded | (adj) /ˈkraʊ.dɪd/ | Đông đúc |
+| efficient | (adj) /ɪˈfɪʃ.ənt/ | Hiệu quả |
 
 ## VI. LUYỆN NÓI
 
-1. She's as tall as me.
-2. This is much better.
-3. It's the best coffee ever.
-4. It's getting more and more crowded.
-5. Not as good as I expected.
+### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
+1. *She's as tall as me — maybe even taller.*
+2. *This is much better than the old one.*
+3. *It's the best coffee I've ever had.*
+4. *It's getting more and more crowded here.*
+5. *It's not as good as I expected.*
 
-**5 câu hỏi tự luyện:**
-1. Who is taller? — *He's taller than…*
-2. Is it good? — *It's the best I've ever…*
-3. Are they the same? — *They're about the same…*
-4. Is it expensive? — *Much more expensive than…*
-5. How is it changing? — *It's getting more and more…*
+### 5 câu hỏi tự luyện
+1. Who's taller, you or your sibling? — *My brother is — he's the tallest in the family.*
+2. How's your new phone? — *Much better than my old one.*
+3. Is this the best pho in town? — *The best I've had so far!*
+4. Is the city getting more crowded? — *Definitely — more and more people are moving in.*
+5. Was the hotel as good as the photos? — *Not as good, honestly.*
+
+> ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**, chú ý: adj ngắn → **-er/-est**, adj dài → **more/most**. Ghi âm và tự nghe lại.
 
 **Ngữ cảnh thực tế:**
 - Đi làm: *This laptop is better than the old one.* / *It's the most efficient option.* / *She's more experienced than me.* / *It's as good as expected.*

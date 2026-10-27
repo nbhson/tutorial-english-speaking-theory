@@ -16,6 +16,12 @@
 
 **Quy tắc:** Chủ ngữ **không tự làm** hành động; người khác làm cho. V3 là quá khứ phân từ (washed, cut, fixed).
 
+**Phản xạ nói:**
+- *had my hair cut* → /hæd maɪ heə kʌt/ → nuốt "had" thành **"(h)ad my hair cut"** — nói liền một hơi.
+- *have it fixed* → /hæv ɪt fɪkst/ → nối **"hav-it"** — *I'll have it fixed by Friday.*
+- *get it done* → /ɡet ɪt dʌn/ → văn nói **"get-it-dun"** — *Just get it done.*
+- *was stolen* → /wəz ˈstəʊ.lən/ — nhấn "stolen" khi kể chuyện bị mất cắp.
+
 ## II. KHI NÀO DÙNG?
 
 - **Dịch vụ**: *I had my hair cut.* (thợ cắt)
@@ -42,12 +48,22 @@
 3. I'll have it repaired tomorrow. — *Ngày mai tôi sẽ đi sửa nó.*
 
 ### Cách dùng 2: Trải nghiệm tiêu cực (bị…)
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `You look upset — what happened?` *(Bạn có vẻ buồn — sao vậy?)*
+- ➕ Đáp: *I had my phone stolen on the bus this morning.* — *Sáng nay tôi bị giật điện thoại trên xe buýt.*
+- 💬 Đáp lại: *Oh no, that's terrible! Did you report it?*
+
 **Ví dụ:**
 1. I had my wallet stolen. — *Tôi bị mất ví.*
 2. He had his leg broken. — *Anh ấy bị gãy chân.*
 3. She had her phone snatched. — *Cô ấy bị giật điện thoại.*
 
 ### Cách dùng 3: Nhờ người làm
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `Can you ask your assistant to call the client?` *(Bạn nhờ trợ lý gọi cho khách được không?)*
+- ➕ Đáp: *Sure, I'll have her call him right away.* — *Được, tôi sẽ nhờ cô ấy gọi ngay.*
+- 💬 Đáp lại: *Thanks, that would be great.*
+
 **Ví dụ:**
 1. I'll have someone call you. — *Tôi sẽ nhờ ai đó gọi bạn.*
 2. Have him come to my office. — *Nhờ anh ấy đến văn phòng tôi.*
@@ -62,35 +78,41 @@
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
-| # | Cụm từ | Nghĩa | Khi nào dùng |
-|---|--------|-------|--------------|
-| 1 | have + O + V3 | nhờ làm / bị… | Dịch vụ, sửa chữa |
-| 2 | had + O + V3 | đã nhờ / đã bị | Quá khứ |
-| 3 | will have + O + V3 | sẽ nhờ | Tương lai |
-| 4 | get + O + V3 | (đồng nghĩa, ít trang trọng) | Văn nói |
+| # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
+|---|--------|------------|--------------|---------|----------------|------------|
+| 1 | **have + O + V3** | nhờ làm / bị… | Dịch vụ, sửa chữa | *I have my car washed weekly.* | ~~I have wash my car~~ — phải có **V3**: washed | *Nice, where do you go? (Quán nào vậy?)* |
+| 2 | **had + O + V3** | đã nhờ / đã bị | Kể việc đã nhờ làm | *I had my hair cut yesterday.* | ~~had cutted~~ — cut là V3 bất quy tắc | *Looks fresh! (Trông gọn ghế!)* |
+| 3 | **will have + O + V3** | sẽ nhờ | Kế hoạch nhờ ai | *I'll have it repaired tomorrow.* | ~~will have repaired it~~ (sai trật tự) — will have + **O** + V3 | *Good, let me know when it's done. (Xong nhớ báo)* |
+| 4 | **get + O + V3** | nhờ làm (văn nói) | Thay "have" tự nhiên hơn | *I need to get my phone fixed.* | ~~get fix~~ — phải có **V3**: get it fixed | *Try the shop next to the bank. (Quán cạnh ngân hàng)* |
+| 5 | **had + O + stolen/broken** | bị (điều xấu) | Trải nghiệm tiêu cực | *She had her phone snatched.* | ~~her phone was snatch~~ — kể trải nghiệm dùng **had + O + V3** | *Oh no, report it! (Trời, báo công an đi!)* |
 
 ## V. TỪ VỰNG
 
-| Từ | Phiên âm | Nghĩa |
-|----|----------|-------|
-| have something done | /hæv ˈsʌm.θɪŋ dʌn/ | Nhờ làm / bị… |
-| repair | /rɪˈpeər/ | Sửa chữa |
-| stolen | /ˈstoʊ.lən/ | Bị đánh cắp |
+| Từ | Từ loại / Phiên âm | Nghĩa |
+|----|--------------------|-------|
+| have something done | (cụm) /hæv ˈsʌm.θɪŋ dʌn/ | Nhờ làm / bị… |
+| repair | (v) /rɪˈpeər/ | Sửa chữa |
+| stolen | (V3) /ˈstəʊ.lən/ | Bị đánh cắp |
+| altered | (V3) /ˈɔːl.təd/ | Được sửa/váy (may lại) |
+| tailored | (V3) /ˈteɪ.ləd/ | Được may đo |
 
 ## VI. LUYỆN NÓI
 
-1. I had my hair cut.
-2. I had my car washed.
-3. I had my phone fixed.
-4. I had my wallet stolen.
-5. I'll have it repaired.
+### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
+1. *I had my hair cut yesterday.*
+2. *I need to get my car washed.*
+3. *I had my phone fixed this morning.*
+4. *Unfortunately, I had my wallet stolen.*
+5. *I'll have it repaired by tomorrow.*
 
-**5 câu hỏi tự luyện:**
-1. Where did you get your hair cut? — *I had it cut at…*
-2. Is your car clean? — *I had it washed.*
-3. What happened to your phone? — *I had it fixed.*
-4. Did you lose your wallet? — *I had it stolen.*
-5. Will you fix it? — *I'll have it repaired.*
+### 5 câu hỏi tự luyện
+1. Where did you get your hair cut? — *I had it cut at the salon near my office.*
+2. Is your laptop working now? — *Yes, I had it fixed last week.*
+3. What happened to your car? — *I'm having it washed right now.*
+4. Did anything bad happen on your trip? — *I had my passport stolen, unfortunately.*
+5. Who's going to print the report? — *I'll have it printed at the office.*
+
+> ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**, nhớ: nhờ người làm → **have + O + V3**; tự làm → V thường. Ghi âm và tự nghe lại.
 
 **Ngữ cảnh thực tế:**
 - Đi làm: *I had the report printed.* / *I'll have someone call you.* / *I had my laptop fixed.* / *I'll have it sent by email.*

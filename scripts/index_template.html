@@ -4,9 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="color-scheme" content="light dark">
-<meta name="description" content="Tổng hợp BEOD-MAP, bảng cụm từ giao tiếp, ngữ pháp phản xạ và drill luyện nói cho 24 topics luyện nói tiếng Anh.">
+<meta name="description" content="Tổng hợp BEOD-MAP, bảng cụm từ giao tiếp, ngữ pháp phản xạ và drill luyện nói từ 24 topics + {{GRAMMAR_COUNT}} cấu trúc grammar. Học offline, tiến độ tự lưu.">
 <meta name="theme-color" content="#0f172a">
-<title>SPEAKING — Tutorial luyện nói 24 Topics</title>
+<title>SPEAKING — Tutorial luyện nói 24 Topics + {{GRAMMAR_COUNT}} Grammar</title>
 <style>
   :root{
     --bg:#eef2f7; --card:#ffffff; --ink:#0f172a; --ink-2:#334155; --muted:#64748b;
@@ -39,7 +39,7 @@
 
   /* ===== Topbar ===== */
   .topbar{position:fixed;top:0;left:0;right:0;height:58px;z-index:300;display:flex;align-items:center;gap:10px;padding:0 14px;background:var(--topbar);color:#e2e8f0;box-shadow:0 2px 14px rgba(0,0,0,.35)}
-  #hamburger{display:none;width:40px;height:40px;border:none;border-radius:10px;background:rgba(255,255,255,.08);color:#fff;font-size:19px;cursor:pointer}
+  #hamburger{width:40px;height:40px;border:none;border-radius:10px;background:rgba(255,255,255,.08);color:#fff;font-size:19px;cursor:pointer;transition:.2s;display:grid;place-items:center}
   #hamburger:hover{background:rgba(255,255,255,.16)}
   .brand{display:flex;align-items:center;gap:9px;font-weight:800;font-size:15.5px;letter-spacing:.3px;color:#fff;white-space:nowrap}
   .brand .b-ic{width:32px;height:32px;display:grid;place-items:center;border-radius:9px;background:linear-gradient(135deg,#14b8a6,#0f766e);font-size:16px;box-shadow:0 4px 10px -4px rgba(20,184,166,.6)}
@@ -55,7 +55,9 @@
   #theme-toggle:hover{background:rgba(255,255,255,.16);transform:rotate(8deg)}
 
   /* ===== Sidebar ===== */
-  .sidebar{position:fixed;top:58px;bottom:0;left:0;width:292px;background:var(--side);z-index:250;display:flex;flex-direction:column;transition:transform .25s ease}
+  :root{--sidebar-w:292px}
+  .sidebar{position:fixed;top:58px;bottom:0;left:0;width:var(--sidebar-w);background:var(--side);z-index:250;display:flex;flex-direction:column;transition:transform .25s ease, width .25s ease}
+  body.sidebar-collapsed .sidebar{display:none !important}
   .side-head{display:flex;gap:11px;align-items:center;padding:16px 16px 13px;border-bottom:1px solid rgba(255,255,255,.07)}
   .side-head .b-ic{width:38px;height:38px;display:grid;place-items:center;border-radius:11px;background:linear-gradient(135deg,#14b8a6,#0f766e);font-size:19px;flex:none}
   .side-head b{display:block;color:#f1f5f9;font-size:14px;letter-spacing:.3px}
@@ -83,8 +85,12 @@
   #backdrop{display:none;position:fixed;inset:0;background:rgba(2,6,23,.6);backdrop-filter:blur(2px);z-index:240}
 
   /* ===== Content ===== */
-  .content{margin-left:292px;min-height:100vh;display:flex;flex-direction:column}
+  .content{margin-left:var(--sidebar-w);min-height:100vh;display:flex;flex-direction:column}
+  body.sidebar-collapsed .content{margin-left:0 !important;width:100%}
+  body.sidebar-collapsed .site-footer{margin-left:0 !important;width:100%}
+
   main{flex:1;width:100%;max-width:880px;margin:0 auto;padding:26px 22px 60px}
+  body.sidebar-collapsed main{max-width:1000px}
 
   /* Hero */
   .hero{background:radial-gradient(circle at 12% 18%,rgba(45,212,191,.22),transparent 42%),radial-gradient(circle at 88% 8%,rgba(251,191,36,.16),transparent 38%),linear-gradient(130deg,#0f766e,#115e59 55%,#134e4a);color:#fff;padding:44px 22px 40px;position:relative;overflow:hidden}
@@ -248,7 +254,11 @@
   /* FAB + footer */
   #to-top{position:fixed;bottom:20px;right:20px;z-index:80;width:42px;height:42px;border-radius:50%;border:1px solid var(--line-2);background:var(--card);color:var(--head);font-size:17px;cursor:pointer;box-shadow:var(--shadow);display:none;transition:.2s}
   #to-top:hover{background:var(--brand-soft);transform:translateY(-2px)}
-  .site-footer{margin-left:292px;background:var(--topbar);color:#8fa1bd;text-align:center;padding:26px 18px;font-size:12.5px}
+  .grammar-info{background:rgba(139,92,246,.08);border-left:4px solid #8b5cf6;margin:12px 0;padding:10px 16px;border-radius:9px;color:#6d28d9;font-size:14px}
+  [data-theme="dark"] .grammar-info{color:#c4b5fd}
+  .site-footer{margin-left:var(--sidebar-w);background:var(--topbar);color:#8fa1bd;text-align:center;padding:26px 18px;font-size:12.5px}
+  .grammar-card{border-color:#8b5cf6;box-shadow:0 1px 2px rgba(139,92,246,.08),0 12px 32px -20px rgba(139,92,246,.2)}
+  .grammar-card h2.sec1{background:rgba(139,92,246,.1)} .grammar-card h2.sec2{background:rgba(99,102,241,.09)} .grammar-card h2.sec3{background:rgba(245,158,11,.1)}
   .site-footer .f-brand{color:#f1f5f9;font-weight:800;font-size:14px;margin-bottom:6px}
   .site-footer p{margin:3px 0}
   mark.hl{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
@@ -304,7 +314,7 @@
 <aside class="sidebar" id="sidebar">
   <div class="side-head">
     <span class="b-ic">🎯</span>
-    <div><b>SPEAKING</b><span>Tutorial luyện nói · 24 topics</span></div>
+    <div><b>SPEAKING</b><span>Tutorial luyện nói · 24 topics + {{GRAMMAR_COUNT}} grammar</span></div>
   </div>
   <nav class="side-nav">
     <button class="nav-link all" id="nav-all" style="width:100%;text-align:left" title="Xem tất cả 24 bài trong 1 trang">📚 <span class="n-txt" style="font-weight:700">Tất cả 24 topics</span></button>
@@ -330,8 +340,9 @@
     </div>
     <div class="hero-chips">
       <span class="h-chip">📚 24 topics</span>
+      <span class="h-chip">🧠 {{GRAMMAR_COUNT}} grammar vault</span>
       <span class="h-chip">🚩 5 nhóm banner</span>
-      <span class="h-chip">✅ <span id="done-chip">0/24</span> đã thuộc</span>
+      <span class="h-chip">✅ <span id="done-chip">0/24</span> topics · <span id="done-gram-chip">0/{{GRAMMAR_COUNT}}</span> grammar</span>
       <span class="h-chip">🗓 {{DATE}}</span>
     </div>
     <div class="hero-steps">
@@ -357,19 +368,24 @@
 <footer class="site-footer">
   <div class="f-brand">🎯 SPEAKING PRACTICE</div>
   <p>Tài liệu tự tổng hợp luyện nói tiếng Anh — học offline, tiến độ tự lưu.</p>
-  <p>Cập nhật {{DATE}} · Chỉ dùng cho mục đích học cá nhân.</p>
+  <p>Cập nhật {{DATE}} · Grammar Vault +{{GRAMMAR_COUNT}} cấu trúc giao tiếp · Chỉ dùng cho mục đích học cá nhân.</p>
 </footer>
 <script>
 (function(){
   "use strict";
   const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-  const cards=$$('.topic-card');
+  const cards=$$('.topic-card:not(.grammar-card)');
   const dividers=$$('.group-divider');
   const navLinks=$$('.nav-link:not(.all)');
   const allBtn=$('#nav-all');
   const tocList=$('#toc-list'), tocTitle=$('#toc-title');
   const hero=$('#hero');
   let singleMode=false, lastCur=null, ticking=false;
+  const gramCards=$$('.grammar-card');
+  const gramNavLinks=$$('[data-t^="grammar-"]');
+  const allCards=[...cards,...gramCards];
+  const gramKey='speak-gram-done-v1';
+  const getGramDone=()=>{ try{ return JSON.parse(localStorage.getItem(gramKey))||{} }catch(e){ return {} } };
 
   /* ================= THEME ================= */
   const themeBtn=$('#theme-toggle');
@@ -383,8 +399,16 @@
   themeBtn.addEventListener('click',()=>applyTheme(document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark'));
 
   /* ================= SIDEBAR (mobile off-canvas) ================= */
-  const closeSide=()=>document.body.classList.remove('side-open');
-  $('#hamburger').addEventListener('click',()=>document.body.classList.toggle('side-open'));
+  const closeSide=()=>{ document.body.classList.remove('side-open'); document.body.classList.remove('sidebar-collapsed'); };
+  const toggleSidebar=()=>{
+    const isMobile = window.innerWidth <= 1079;
+    if(isMobile){
+      document.body.classList.toggle('side-open');
+    } else {
+      document.body.classList.toggle('sidebar-collapsed');
+    }
+  };
+  $('#hamburger').addEventListener('click', toggleSidebar);
   $('#backdrop').addEventListener('click',closeSide);
 
   /* ================= WRAP SECTIONS + COLLAPSE ================= */
@@ -482,17 +506,70 @@
     const target=(last&&cards.some(c=>c.id===last))?last:(firstUn?firstUn.id:'topic-01');
     btn.textContent=firstUn||last?('⏭ Tiếp tục: '+labelOf(document.getElementById(target))):'🎉 Đã hoàn thành 24/24 — ôn lại từ đầu';
   }
+
+  /* ================= GRAMMAR CARD TOOLS ================= */
+  gramCards.forEach(card=>{
+    const tools=document.createElement('div'); tools.className='card-tools';
+    tools.innerHTML='<label><input type="checkbox" data-done="'+card.id+'"> ✅ Đã thuộc bài — tick khi nói trôi chảy</label>'
+      +'<span class="tool-gap"></span>'
+      +'<button class="tool-btn" data-toc title="Ẩn / hiện mục lục của bài này">📑 Mục lục</button>'
+      +'<button class="tool-btn" data-collapse title="Thu gọn / mở mọi mục trong bài">⬆ Thu gọn tất cả</button>';
+    const meta=card.querySelector('.t-meta');
+    if(meta) meta.after(tools); else card.querySelector('hr')?.after(tools);
+    tools.querySelector('[data-toc]').addEventListener('click',e=>{
+      const panel=card.querySelector('.card-toc');
+      if(panel){ const hide=panel.classList.toggle('hidden'); e.target.classList.toggle('btn-off',hide); }
+    });
+    const tocPanel=document.createElement('nav'); tocPanel.className='card-toc';
+    tocPanel.innerHTML='<b>📑 Mục lục bài này</b><ul></ul>';
+    const ctul=tocPanel.querySelector('ul');
+    card.querySelectorAll('h2,h3,h4').forEach(h=>{
+      const li=document.createElement('li');
+      if(h.tagName==='H3'||h.tagName==='H4') li.className='sub';
+      const a=document.createElement('a'); a.href='#'+h.id;
+      let t=h.textContent;
+      if(h.tagName==='H3'&&t.indexOf(':')>-1) t=t.slice(0,t.indexOf(':'));
+      if(h.tagName==='H2') a.classList.add('top');
+      a.textContent=(h.tagName!=='H2'?'· ':'')+t;
+      a.addEventListener('click',ev=>{ev.preventDefault(); h.scrollIntoView({behavior:'smooth'});});
+      li.appendChild(a); ctul.appendChild(li);
+    });
+    tools.after(tocPanel);
+    tools.querySelector('input').addEventListener('change',e=>{
+      const o=getGramDone(); if(e.target.checked) o[card.id]=true; else delete o[card.id];
+      try{ localStorage.setItem(gramKey,JSON.stringify(o)) }catch(err){}
+      refreshGramDone();
+    });
+    tools.querySelector('[data-collapse]').addEventListener('click',e=>{
+      const bodies=card.querySelectorAll('.sec-body');
+      const anyOpen=[...bodies].some(b=>!b.classList.contains('hidden'));
+      bodies.forEach(b=>b.classList.toggle('hidden',anyOpen));
+      card.querySelectorAll('.toggle').forEach(t=>t.classList.toggle('collapsed',anyOpen));
+      e.target.textContent=anyOpen?'⬇ Mở tất cả mục':'⬆ Thu gọn tất cả';
+    });
+  });
+  function refreshGramDone(){
+    const o=getGramDone();
+    const n=Object.keys(o).filter(k=>o[k]).length;
+    const chip=$('#done-gram-chip'); if(chip) chip.textContent=n+'/{{GRAMMAR_COUNT}}';
+    gramNavLinks.forEach(l=>l.classList.toggle('done', !!o[l.dataset.t]));
+  }
   function lastTopic(){ try{ return localStorage.getItem(LAST) }catch(e){ return null } }
 
   /* ================= CHẾ ĐỘ: TẤT CẢ / 1 BÀI ================= */
   function setMode(single,target){
     singleMode=single;
     cards.forEach(c=>{ c.style.display=(!single||c.id===target)?'':'none'; });
+    gramCards.forEach(c=>{ c.style.display=(!single||c.id===target)?'':'none'; });
     dividers.forEach(d=>{ d.style.display=single?'none':''; });
     hero.style.display=single?'none':'';
     navLinks.forEach(l=>{
       const a=single&&l.dataset.t===target;
       l.classList.toggle('active',a); l.setAttribute('aria-pressed',a);
+    });
+    gramNavLinks.forEach(l=>{
+      const a=single&&l.dataset.t===target;
+      l.classList.toggle('active',a);
     });
     allBtn.classList.toggle('active',!single);
     if(single){
@@ -520,8 +597,8 @@
     if(card) card.scrollIntoView({behavior:'smooth'});
   }));
   document.querySelectorAll('.pn').forEach(btn=>btn.addEventListener('click',()=>{
-    const i=cards.indexOf(btn.closest('.topic-card'));
-    const t=btn.dataset.go==='prev'?cards[i-1]:cards[i+1];
+    const i=allCards.indexOf(btn.closest('.topic-card'));
+    const t=btn.dataset.go==='prev'?allCards[i-1]:allCards[i+1];
     if(t) goTo(t.id);
   }));
 
@@ -551,7 +628,8 @@
     $('#to-top').style.display=window.scrollY>600?'block':'none';
     if(singleMode) return;
     const y=window.scrollY+130; let cur=null;
-    for(const c of cards){ if(c.style.display==='none') continue; if(c.offsetTop<=y) cur=c.id; }
+    const allVisible=[...cards,...gramCards].filter(c=>c.style.display!=='none').sort((a,b)=>a.offsetTop-b.offsetTop);
+    for(const c of allVisible){ if(c.offsetTop<=y) cur=c.id; }
     cur=cur||(cards[0]&&cards[0].id);
     if(cur&&cur!==lastCur){
       lastCur=cur;
@@ -608,13 +686,13 @@
       clearMarks();
       if(q&&singleMode) setMode(false);
       let visible=0;
-      cards.forEach(c=>{
+      allCards.forEach(c=>{
         const hit=!q||c.textContent.toLowerCase().includes(q);
         c.style.display=hit?'':'none'; if(hit) visible++;
       });
       dividers.forEach(d=>{ d.style.display=q?'none':''; });
-      searchCount.textContent=q?visible+'/'+cards.length+' bài':'';
-      if(q&&q.length>=2) cards.forEach(c=>{ if(c.style.display!=='none') markText(c,q); });
+      searchCount.textContent=q?visible+'/'+allCards.length+' bài':'';
+      if(q&&q.length>=2) allCards.forEach(c=>{ if(c.style.display!=='none') markText(c,q); });
     },160);
   });
   search.addEventListener('keydown',e=>{
@@ -675,17 +753,18 @@
   /* ================= DEEP-LINK ================= */
   function route(){
     let h=location.hash.slice(1), deep=null;
-    if(h&&!cards.some(c=>c.id===h)){
+    const allCards=[...cards,...gramCards];
+    if(h&&!allCards.some(c=>c.id===h)){
       const m=h.match(/^(topic-\d+)-h\d+$/);
       if(m){ deep=m[0]; h=m[1]; }
     }
-    if(h&&cards.some(c=>c.id===h)){
+    if(h&&allCards.some(c=>c.id===h)){
       setMode(true,h);
       if(deep){ const el=document.getElementById(deep); if(el) setTimeout(()=>el.scrollIntoView(),50); }
     }else{
       /* mặc định: xem 1 bài — bài đang học dở hoặc Topic 01 */
       const last=lastTopic();
-      const target=(last&&cards.some(c=>c.id===last))?last:'topic-01';
+      const target=(last&&allCards.some(c=>c.id===last))?last:'topic-01';
       setMode(true,target);
     }
   }
@@ -693,7 +772,10 @@
   try{ localStorage.setItem(LAST, lastTopic()||'') }catch(e){}
   const storedDone=getDone();
   cards.forEach(c=>{ const cb=c.querySelector('.card-tools input'); if(cb&&storedDone[c.id]) cb.checked=true; });
+  const storedGramDone=getGramDone();
+  gramCards.forEach(c=>{ const cb=c.querySelector('.card-tools input'); if(cb&&storedGramDone[c.id]) cb.checked=true; });
   refreshDone();
+  refreshGramDone();
   onScroll(); route();
 })();
 </script>

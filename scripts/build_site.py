@@ -5,8 +5,12 @@ import os, re, html, pathlib, datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TOPICS_DIR = ROOT / "speaking" / "topics"
+GRAMMAR_DIR = ROOT / "speaking" / "grammar"
 IMG_DIR = ROOT / "speaking" / "images"
 OUT = ROOT / "speaking" / "index.html"
+
+GRAMMAR_GROUP = "NGỮ PHÁP VAULT"
+GRAMMAR_GROUP_VI = "Giao tiếp trọng tâm"
 
 def git_or_time():
     return datetime.date.today().isoformat()
@@ -133,6 +137,29 @@ def reading_minutes(md: str) -> int:
     words = len(re.findall(r"\S+", body))
     return max(4, round(words / 170) + 1)
 
+def parse_grammar():
+    """Parse g-*.md → infos cho Grammar Vault (gi=4, stem grammar-NN)."""
+    infos = []
+    if not GRAMMAR_DIR.is_dir():
+        return infos
+    for f in sorted(GRAMMAR_DIR.glob("g-*.md")):
+        md = f.read_text(encoding="utf-8")
+        tmatch = re.match(r"#\s+Grammar\s+(\d+)\s+—\s+(.+)", md)
+        if not tmatch:
+            continue
+        num, rest = tmatch.group(1), tmatch.group(2).strip()
+        tv = re.match(r"(.+?)\s+\(([^()]*)\)\s*$", rest)
+        en, vi = (tv.group(1).strip(), tv.group(2).strip()) if tv else (rest, "")
+        infos.append({
+            "file": f, "stem": "grammar-%s" % num, "num": num,
+            "en": en, "vi": vi,
+            "group_en": GRAMMAR_GROUP, "group_vi": GRAMMAR_GROUP_VI,
+            "gi": 4, "img": None,
+            "mins": reading_minutes(md), "md": md,
+        })
+    return infos
+
+
 def main():
     files = sorted(TOPICS_DIR.glob("topic-*.md"))
 
@@ -161,6 +188,9 @@ def main():
             "md": md,
         })
 
+    # ---- PASS 1b: grammar vault ----
+    gram_infos = parse_grammar()
+
     # ---- PASS 2: sinh sidebar nav (gom theo nhóm) ----
     nav_items = []
     prev_group = None
@@ -177,7 +207,22 @@ def main():
                html.escape("Topic %s — %s" % (info["num"], info["en"]), quote=True),
                info["num"], html.escape(info["en"], quote=False)))
 
-    # ---- PASS 3: sinh cards ----
+    # nav nhóm Grammar Vault (một group duy nhất, màu tím g4)
+    if gram_infos:
+        nav_items.append('<div class="nav-group g4" title="🧠 %s · %d cấu trúc">🧠 %s</div>'
+                         % (html.escape(GRAMMAR_GROUP, quote=True), len(gram_infos),
+                            html.escape(GRAMMAR_GROUP)))
+        for info in gram_infos:
+            nav_items.append(
+                '<a class="nav-link" href="#%s" data-t="%s" data-g="4" title="%s">'
+                '<span class="n-num">%s</span><span class="n-txt">%s</span><span class="n-check">✓</span></a>'
+                % (info["stem"], info["stem"],
+                   html.escape("Grammar %s — %s" % (info["num"], info["en"]), quote=True),
+                   info["num"], html.escape(info["en"], quote=False)))
+
+    # ---- PASS 3: sinh cards (topics) ----
+    ordered = infos + gram_infos  # thứ tự pn-nav liền mạch: topic-24 ➡ grammar-01
+
     cards = []
     prev_group = None
     for idx, info in enumerate(infos):
@@ -223,25 +268,79 @@ def main():
                    ('<span class="t-vi">%s</span>' % md_inline(info["vi"])) if info["vi"] else "",
                    meta, figure))
 
-        prev = infos[idx - 1] if idx > 0 else None
-        nxt = infos[idx + 1] if idx < len(infos) - 1 else None
+        prev = ordered[idx - 1] if idx > 0 else None
+        nxt = ordered[idx + 1] if idx < len(ordered) - 1 else None
         pn_prev = ('<button class="pn" data-go="prev" title="%s">⬅ %s</button>'
                    % (html.escape(prev["en"], quote=True),
                       html.escape("Topic %s · %s" % (prev["num"], prev["en"][:38])))) if prev \
                   else '<span></span>'
         pn_next = ('<button class="pn" data-go="next" title="%s">%s ➡</button>'
                    % (html.escape(nxt["en"], quote=True),
-                      html.escape("Topic %s · %s" % (nxt["num"], nxt["en"][:38])))) if nxt \
+                      html.escape("Grammar %s · %s" % (nxt["num"], nxt["en"][:38])))) if nxt \
                   else '<span></span>'
         pn = '<div class="pn-nav">%s%s</div>' % (pn_prev, pn_next)
 
         cards.append(divider + '<section class="topic-card" id="%s">\n%s\n%s\n%s\n</section>'
                      % (info["stem"], head, body, pn))
 
+    # ---- PASS 3b: sinh grammar cards (thêm sau topics, cùng chain pn-nav) ----
+    gram_cards = []
+    for gidx, info in enumerate(gram_infos):
+        oidx = len(infos) + gidx  # vị trí trong ordered
+
+        # bỏ title gốc + blockquote meta (nếu có)
+        md_body = re.sub(r"^>\s*\*\*Nhóm .+?\*\*.*$", "", info["md"], count=1, flags=re.M)
+        sub = re.sub(r"^#.*\n", "", md_body, count=1)
+        body = md_to_html(sub, info["stem"])
+
+        meta = ('<div class="t-meta">'
+                '<span class="tag g4">🧠 %s</span>'
+                '<span class="tag ghost">%s</span>'
+                '<span class="tag ghost">⏱ ~%d phút học</span></div>'
+                % (html.escape(GRAMMAR_GROUP), html.escape(GRAMMAR_GROUP_VI), info["mins"]))
+
+        crumb = ('<div class="t-breadcrumb">'
+                 '<button class="crumb-home">🏠 Trang chủ</button><i>›</i>'
+                 '<button class="crumb-group" style="color:#8b5cf6;font-weight:700">🧠 %s</button><i>›</i>'
+                 '<b>Grammar %s</b></div>'
+                 % (html.escape(GRAMMAR_GROUP), info["num"]))
+
+        head = ('%s\n<h1 class="topic-title"><span class="t-num g4">%s</span>'
+                '<span class="t-head-txt"><span class="t-en">%s</span>%s</span></h1>'
+                % (crumb, info["num"], md_inline(info["en"]),
+                   ('<span class="t-vi">%s</span>' % md_inline(info["vi"])) if info["vi"] else ""))
+
+        prev = ordered[oidx - 1] if oidx > 0 else None
+        nxt = ordered[oidx + 1] if oidx < len(ordered) - 1 else None
+
+        def _label(item, kind):
+            # kind: "topic" | "grammar" — nhãn cho nút prev/next
+            return "%s %s · %s" % (kind.capitalize(), item["num"], item["en"][:38])
+
+        pn_prev = ('<button class="pn" data-go="prev" title="%s">⬅ %s</button>'
+                   % (html.escape(prev["en"], quote=True),
+                      html.escape(_label(prev, "topic" if prev in infos else "grammar")))) if prev \
+                  else '<span></span>'
+        pn_next = ('<button class="pn" data-go="next" title="%s">%s ➡</button>'
+                   % (html.escape(nxt["en"], quote=True),
+                      html.escape(_label(nxt, "topic" if nxt in infos else "grammar")))) if nxt \
+                  else '<span></span>'
+        pn = '<div class="pn-nav">%s%s</div>' % (pn_prev, pn_next)
+
+        gram_cards.append(
+            '<section class="topic-card grammar-card" id="%s">\n'
+            '%s\n%s\n%s\n%s\n</section>'
+            % (info["stem"], head, meta, body, pn)
+        )
+
     tpl = (ROOT / "scripts" / "index_template.html").read_text(encoding="utf-8")
-    page = tpl.replace("{{NAV}}", "\n".join(nav_items)).replace("{{CARDS}}", "\n".join(cards)).replace("{{DATE}}", git_or_time())
+    page = (tpl
+            .replace("{{NAV}}", "\n".join(nav_items))
+            .replace("{{CARDS}}", "\n".join(cards + gram_cards))
+            .replace("{{GRAMMAR_COUNT}}", str(len(gram_infos)))
+            .replace("{{DATE}}", git_or_time()))
     OUT.write_text(page, encoding="utf-8")
-    print(f"Built {OUT} with {len(files)} topics, {len(groups)} groups")
+    print(f"Built {OUT}: {len(files)} topics + {len(gram_infos)} grammar, {len(groups)} groups")
 
 if __name__ == "__main__":
     main()

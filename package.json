@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && cp -r speaking dist/speaking",
+    "build": "vite build && node -e \"require('fs').cpSync('speaking','dist/speaking',{recursive:true})\"",
     "preview": "vite preview",
     "build:data": "python3 scripts/build_data.py",
     "predev": "npm run build:data",

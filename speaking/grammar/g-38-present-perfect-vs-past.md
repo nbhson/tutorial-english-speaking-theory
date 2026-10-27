@@ -13,6 +13,12 @@
 
 **Từ khoá:** ever/never/just/already/yet/recently → present perfect; yesterday/last week/ago/in 2020 → past simple.
 
+**Phản xạ nói:**
+- *I've been* → /aɪv biːn/ → nuốt thành **"ai-ve-been"** — *I've been to Paris twice.*
+- *I've just* → /aɪv dʒʌst/ → nuốt **"ai-ve-just"** — *She's just arrived.*
+- *I haven't* → /aɪˈhæv.ənt/ → nhấn rõ âm /æ/ — *I haven't finished yet.*
+- Chuyển từ have → had trong quá khứ: **/hæd/** (nuốt thành /əd/)
+
 ## II. KHI NÀO DÙNG?
 
 - **Hỏi kinh nghiệm**: *Have you ever been to Japan?*
@@ -39,6 +45,11 @@
 3. Have you finished yet? — *Bạn xong chưa?*
 
 ### Cách dùng 2: Past simple (thời điểm cụ thể)
+**Phản xạ hỏi–đáp:**
+- ❓ Hỏi: `When did you get back from the trip?` *(Bạn về khi nào vậy?)*
+- ➕ Đáp: *We got back last Sunday — it's been a week already.* — *Bọn tớ về chủ nhật rồi — đã một tuần rồi à.*
+- 💬 Đáp lại: *Time flies! How was it?*
+
 **Ví dụ:**
 1. I went to Paris last year. — *Tôi đi Paris năm ngoái.*
 2. She arrived at 8 PM. — *Cô ấy đến lúc 8 giờ tối.*
@@ -72,36 +83,41 @@ Hỏi bằng **Present Perfect**, kể bằng **Past Simple**:
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
 
-| # | Cụm từ | Nghĩa | Khi nào dùng |
-|---|--------|-------|--------------|
-| 1 | Have you ever…? | Bạn đã bao giờ…? | Hỏi kinh nghiệm |
-| 2 | I've never… | Tôi chưa bao giờ… | Phủ định kinh nghiệm |
-| 3 | I've just… | Tôi vừa… | Vừa xảy ra |
-| 4 | Have you… yet? | Bạn… chưa? | Hỏi kết quả |
-| 5 | I went / I did… | Tôi đã… | Kể chi tiết |
+| # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
+|---|--------|------------|--------------|---------|----------------|------------|
+| 1 | **Have you ever…?** | Bạn đã bao giờ…? | Hỏi kinh nghiệm | *Have you ever been to Japan?* | ~~Did you ever go~~ — kinh nghiệm dùng **Have you ever** | *Yes, twice! (Rồi, hai lần luôn!)* |
+| 2 | **I've never…** | Tôi chưa bao giờ… | Phủ định kinh nghiệm | *I've never tried sushi.* | ~~I never have tried~~ — never đứng **sau** have | *You should try it sometime! (Lâu lâu thử đi!)* |
+| 3 | **I've just…** | Tôi vừa… | Việc vừa xong | *I've just finished my homework.* | ~~I just have finished~~ — just đứng trước V3 | *Nice, take a break then! (Xong rồi, nghỉ đi!)* |
+| 4 | **Have you … yet?** | Bạn… chưa? | Hỏi kết quả | *Have you eaten yet?* | ~~Have you ate~~ — after have là **V3**: eaten | *Not yet, I'm starving! (Chưa đói bỏ giờ!)* |
+| 5 | **When did you…?** | Khi nào bạn…? | Kể chi tiết quá khứ | *When did you buy it? — Last week.* | ~~When have you bought~~ — có "when" phải **did** | *Last month, on sale. (Tuần trước, đang sale)* |
 
 ## V. TỪ VỰNG
 
-| Từ | Phiên âm | Nghĩa |
-|----|----------|-------|
-| experience | /ɪkˈspɪə.ri.əns/ | Kinh nghiệm |
-| recently | /ˈriː.sənt.li/ | Gần đây |
-| yet | /jet/ | Chưa / rồi chưa |
+| Từ | Từ loại / Phiên âm | Nghĩa |
+|----|--------------------|-------|
+| experience | (n) /ɪkˈspɪə.ri.əns/ | Kinh nghiệm |
+| recently | (adv) /ˈriː.sənt.li/ | Gần đây |
+| yet | (adv) /jet/ | Chưa / rồi chưa |
+| already | (adv) /ˈɔːl.re.di/ | Đã… rồi |
+| abroad | (adv) /əˈbrɔːd/ | Nước ngoài |
 
 ## VI. LUYỆN NÓI
 
-1. Have you ever been to Japan?
-2. I've just finished my homework.
-3. I went there last year.
-4. Have you eaten yet?
-5. I've never tried sushi.
+### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
+1. *Have you ever been to Japan?*
+2. *I've just finished my homework.*
+3. *I went there last year.*
+4. *Have you eaten yet?*
+5. *I've never tried sushi — but I'd love to.*
 
-**5 câu hỏi tự luyện:**
-1. Have you ever…? — *Yes, I have. I … in …*
-2. Did you go…? — *Yes, I went…*
-3. Have you finished? — *Not yet.*
-4. When did you…? — *I … last…*
-5. Have you ever tried…? — *No, I haven't.*
+### 5 câu hỏi tự luyện
+1. Have you ever traveled abroad? — *Yes, I have. I went to Thailand in 2023.*
+2. Have you finished your homework yet? — *Not yet — I'll do it tonight.*
+3. When did you start learning English? — *I started back in middle school.*
+4. Have you ever lost your phone? — *Yes, I lost it at a concert last year.*
+5. Have you eaten lunch? — *Not yet — I'm starving!*
+
+> ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**, nhớ quy tắc: **Perfect hỏi — Simple kể**. Ghi âm và tự nghe lại.
 
 **Ngữ cảnh thực tế:**
 - Đi làm: *I've finished the report.* / *Did you send the email yesterday?* / *Have you ever worked abroad?* / *I went to the conference last year.*
