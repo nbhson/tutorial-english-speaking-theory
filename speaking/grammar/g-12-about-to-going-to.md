@@ -140,4 +140,4 @@ Cấu trúc kể chuyện phổ biến:
 | **was about to… while…** | *She was about to leave while he was cooking.* | Cô ấy sắp đi trong khi anh ấy đang nấu |
 | **is about to… when…** | *He's about to win when someone stops him.* | Anh ấy sắp thắng thì ai đó cản lại |
 
-> 💡 Mẹo: Dùng **was about to + V when + V-ed** để kể lại sự kiện bất ngờ xen vào hành định làm. Rất phổ biến trong storytelling.
+> 💡 Mẹo: Dùng **was about to + V when + V-ed** để kể lại sự kiện bất ngờ xen vào hành động làm. Rất phổ biến trong storytelling.

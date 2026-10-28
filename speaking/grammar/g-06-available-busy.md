@@ -99,7 +99,7 @@ Ba cách nói chính:
 | 1 | **I've got a lot on my plate** | Tôi việc lắm / quá tải | Giải thích bận rộn | *I'd love to help but I've got a lot on my plate.* | —— | *No worries, I understand.* |
 | 2 | **I'm swamped** | Tôi ngập trong việc | Bận gấp, overwhelmed | *Sorry, I'm swamped today.* | ~~I'm swamping~~ — phân biệt: swamped (bị động) | *Get well soon!* |
 | 3 | **I'm tied up** | Tôi đang bận (không rời được) | Bận cuộc họp / cuộc gọi | *I'm tied up in a meeting. Can I call you back?* | —— | *Sure, call me later.* |
-| 4 | **I'm stretched thin** | Tôi đang căng quá / chia не đủ thời gian | Bận nhiều việc cùng lúc | *I'm stretched thin this week.* | —— | *Take care of yourself!* |
+| 4 | **I'm stretched thin** | Tôi đang căng quá / chia không đủ thời gian | Bận nhiều việc cùng lúc | *I'm stretched thin this week.* | —— | *Take care of yourself!* |
 | 5 | **I'm free after 5** | Tôi rảnh sau 5 giờ | Hẹn giờ cụ thể | *Can we meet at 6? I'm free after 5.* | —— | *Perfect, see you at 6!* |
 | 6 | **What's your schedule like?** | Lịch của bạn thế nào? | Hỏi về thời gian rảnh | *What's your schedule like next week?* | —— | *Pretty busy, but Friday is open.* |
 | 7 | **I'm booked up** | Tôi đã xếp lịch đầy rồi | Không còn chỗ trống | *I'm fully booked this month.* | —— | *Let's reschedule then.* |
