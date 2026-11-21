@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này đưa ra khung câu "mở khoá trải nghiệm" — đọc để nhớ trật tự Have/Has + S + ever + V3 và bộ trả lời ngắn có sẵn.
+
 `Have/Has + S + ever + V3/ed?`
 
 | Chủ ngữ | Câu hỏi | Ví dụ trả lời |
@@ -19,12 +21,16 @@
 - ❌ *No, I haven't.* / *No, she hasn't.*
 - ➕ Chi tiết: *Yes, I have — I went there in 2019.*
 
+Ví von: câu hỏi Have you ever giống **rung lắc hũ "đã–chưa"** của cả cuộc đời một người — không hỏi lúc nào, chỉ hỏi từng xảy ra chưa.
+
 **Phản xạ nói:** *Have you* → /həv jə/ → **"havja"**; *Has she* → /hæz ʃi/
 
 ## II. KHI NÀO DÙNG?
 
+Mục này nói về 3 vai trò của câu hỏi trải nghiệm — đọc để biết nó vừa là "mở khóa hội thoại" vừa là cách kể chuyện.
+
 - Hỏi về **trải nghiệm cuộc đời** — điều đã xảy ra (hoặc chưa) trong suốt quá khứ đến nay.
-- Mở chủ đề khi làm quen: *Have you ever…?* là câu hỏi "mở khóa" hội thoại kinh điển.
+- Mở chủ đề khi làm quen: *Have you ever…?* là câu hỏi "mở khóa" hội thoại kinh điển — như cây chìa vạn năng mở được mọi chủ đề với người mới gặp.
 - Kể chuyện: *I've never… but I'd like to.*
 
 ### ⚠️ Lỗi thường gặp
@@ -32,7 +38,11 @@
 - ~~Have you ever went~~ → *Have you ever **gone** / **been*** — V3, không phải V2.
 - ~~I have ever been~~ (khẳng định) — "ever" thường chỉ dùng trong **hỏi / phủ định**, không dùng trong khẳng định thường nhật.
 
+> **Tóm gọn 1 câu:** Have you ever + V3 hỏi "từng trải trong đời chưa" — không kèm thời gian cụ thể, và ever chỉ sống ở câu hỏi/phủ định.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này làm rõ chữ ever rồi ghép nó với người anh em đối lập never — đọc để trả lời được cả "từng rồi" lẫn "chưa bao giờ".
 
 ### Ever = bao giờ / từng
 
@@ -62,6 +72,8 @@
 | I **have never** been there. | I **haven't ever** been there. |
 | She **has never** tried sushi. | She **hasn't ever** seen it. |
 
+> **Cách đọc bảng này:** hai cột là hai cách nói cùng một nghĩa — cột trái ngắn gọn (never gộp cả phủ định), cột phải rườm rà hơn (not + ever). Đọc từng hàng đối chiếu, sẽ thấy vì sao người ta chuộng cột trái hơn.
+
 > 💡 Cả hai đều đúng, nhưng *never* tự nhiên và phổ biến hơn trong văn nói.
 
 **Ví dụ:**
@@ -71,7 +83,11 @@
 4. He has never missed a deadline. — *Anh ấy chưa bao giờ trễ hạn.*
 5. We've never had such a good time. — *Chúng tôi chưa bao giờ vui như vậy.*
 
+> **Tóm gọn 1 câu:** ever hỏi "từng chưa", never khẳng định "chưa bao giờ" — never hơn hẳn về độ phổ biến nên khi trả lời, chọn never cho gọn.
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" khai thác trải nghiệm trong hội thoại thật — đọc để hỏi được, đáp được và kể tiếp được sau mỗi câu trả lời.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -81,6 +97,8 @@
 | 4 | **I've heard about it** | Tôi nghe nói về nó rồi | Chưa trải nghiệm nhưng biết | *Have you tried the new restaurant?* — *I've heard about it.* | —— | *Then you should go!* |
 | 5 | **It was amazing / terrible** | Nó tuyệt / kinh khủng | Kể cảm nhận sau trải nghiệm | *I've been to Sapa — it was amazing!* | —— | *I'd love to go!* |
 | 6 | **Would you ever…?** | Bạn có bao giờ muốn…? | Hỏi mong muốn trải nghiệm | *Would you ever go skydiving?* | —— | *Never in a million years!* |
+
+> **Cách đọc bảng này:** dòng 1–2 là cặp "hỏi–đáp" kinh điển, dòng 3–4 là hai mức "biết về nó" (tự đi rồi vs nghe kể lại), dòng 5 là bước kể tiếp sau khi đáp, dòng 6 hỏi về tương lai. Đọc nối cột "Câu mẫu" và "💬 Đáp lại" như một mạch hội thoại.
 
 ## V. TỪ VỰNG
 
@@ -94,7 +112,11 @@
 | Heard | (v3) /hɜːrd/ | Đã nghe |
 | Lost | (v3) /lɒst/ | Đã làm mất |
 
+> **Cách đọc bảng này:** trừ ever/never, toàn bộ là V3 — đọc to 2 lần mỗi từ vì đây chính là "nguyên liệu" để gắn sau "Have you ever".
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen nhịp Have-you-ever, câu hỏi tự luyện để khai thác trải nghiệm thật của mình — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Have you ever been to Da Nang?*
@@ -112,9 +134,9 @@
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Hỏi được, đáp được, kể tiếp được sau mỗi câu "từng/chưa" — hũ "đã–chưa" của bạn đã lắc mượt không nhìn note.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *Have you ever worked abroad?* / *Have you ever led a team?* / *Have you ever given a presentation?* / *Have you ever been promoted?*
 - Du lịch: *Have you ever been to Japan?* / *Have you ever tried sushi?* / *Have you ever flown first class?* / *Have you ever stayed in a hostel?*
 - Mua sắm: *Have you ever bought online?* / *Have you ever returned an item?* / *Have you ever used a coupon?* / *Have you ever shopped at this store?*
@@ -140,3 +162,5 @@
 | Dạng nói | Trải nghiệm chung chung | Kể chuyện cụ thể |
 
 > 💡 Mẹo: Nếu câu hỏi có **thời gian cụ thể** (yesterday, last year, in 2020) → dùng **Did**. Nếu hỏi trải nghiệm cuộc đời → dùng **Have you ever**.
+
+> **Tóm gọn 1 câu:** Có mốc thời gian thì Did, trải nghiệm không mốc thì Have you ever — hỏi "từng chưa" hay hỏi "hôm đó có" là chọn đúng thì.

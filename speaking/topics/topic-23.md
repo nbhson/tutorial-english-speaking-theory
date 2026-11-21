@@ -14,11 +14,16 @@
 - **Conversation "stay healthy"**: 2 lít nước mỗi ngày — ăn rau quả thì dễ, **uống nước** thì hay quên; đổi tư duy: **biết ơn từng ngụm nước**; **jog 5 buổi/tuần + meditate mỗi ngày**; tất cả nhờ **cân bằng trong mọi thứ** — "Sớm thôi bạn sẽ thấy một 'tôi' mạnh mẽ hơn!"
 Điểm chốt: hỏi **"What should I do to…?"** chỉ cần thêm **V nguyên mẫu sau TO**; trả lời xoay quanh các công thức: **STAY + adj**, **MAKE sb do sth / MAKE sb + adj**, và mấy mệnh lệnh mềm (Set up…, Eliminate…, Remind yourself…).
 
+> **Tóm gọn 1 câu:** Bài này là "cửa hàng xin lời khuyên" — hỏi *What should I do to…?* và nhận về công thức *STAY + adj* hay *MAKE sb do sth*.
+
 ### 2) Khi nào sử dụng?
+Mục này chỉ cho bạn "quầy tư vấn" mở cửa lúc nào: bất cứ khi nào cần lời khuyên từ mục tiêu lớn tới tình huống nhỏ.
 - Xin **lời khuyên cho mục tiêu thường ngày**: học tiếng Anh hiệu quả hơn, nấu ăn ngon hơn, quản lý thời gian/tiền, cân bằng cuộc sống, nhiều thu nhập hơn, nâng kỹ năng làm việc, chất lượng cuộc sống, để được hạnh phúc.
 - Xin **chỉ dẫn tình huống cụ thể**: mặc gì đi phỏng vấn, nói gì để **làm người ấy bình tĩnh lại**, cách nhắc khéo về lỗi, làm sao để đối phương **cảm nhận được tình yêu** của mình.
 - Trả lời bằng **công thức mạnh**: *Look at the bright side…*, *Make sure to…*, *Remember to stay calm…*, *Set up your day…*
 - Mở rộng: xin & đưa lời khuyên kiểu **If I were you… / You could always…** (xem Extension).
+
+> **Tóm gọn 1 câu:** Dùng cấu trúc này khi cần lời khuyên — mục tiêu lớn hay tình huống cụ thể đều hỏi *What should I do to + V nguyên mẫu…?* và trả lời bằng các "công thức" khuyên mềm.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -37,7 +42,10 @@
 | 9 | **I feel grateful for every sip of water I drink** | Tôi biết ơn từng ngụm nước tôi uống | Lòng biết ơn với thói quen sống lành | *I feel grateful for every sip of water I drink.* | ~~grateful of~~ — grateful **for** sth / **to** sb | *That mindset is lovely! (Tư duy đó dễ thương ghê!)* |
 | 10 | **You'll see a stronger me soon** | Bạn sẽ sớm thấy một "tôi" mạnh mẽ hơn | Cam kết thay đổi khi nhận lời khuyên | *Thanks! Now I know what to do. You'll see a stronger me soon.* | ~~a more strong me~~ — so sánh hơn là **stronger** | *I can't wait! (Tớ nóng lòng chờ lắm rồi!)* |
 
+> **Cách đọc bảng này:** Đọc theo từng hàng: cụm từ, nghĩa, tình huống dùng, câu mẫu, lỗi hay sai (gạch ngang là đừng nói) và câu đáp lại. Hàng nào hợp tình huống mình đang cần khuyên thì học trước.
+
 ### 4) Từ vựng (Vocabulary)
+Bảng từ vựng là "tủ thuốc khuyên bảo" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Balance | (n) /ˈbæləns/ | Thăng bằng |
@@ -58,9 +66,13 @@
 | Procedure | (n) /prəˈsiːdʒər/ | Thủ tục |
 | Ultimate | (adj) /ˈʌltɪmət/ | Tối thượng |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và phiên âm. Đọc to cột phiên âm vài lần, ghép với nghĩa cột phải là nhớ nhanh.
+
 **Extension (Asking for and giving advice):**
 - **Hỏi xin lời khuyên:** "I've no idea what to do." / "What do you think I should do?" / "What would you recommend?" / "What do you suggest?" / "Have you got any ideas?" / "What would you do if you were me?" / "Do you think I should …?" / "Would it be a good idea to …?" / "How would you react in my position?" / "What would be the best solution?"
 - **Đưa lời khuyên:** "You could always …" / "My advice would be to …" / "One thing you could do is …" / "Have you thought about/tried …?" / "It's generally a good idea to …" / "If I were you I would …" / "……… might be a good solution." / "It would probably be better to …" / "I think your only option is to …" / "The sooner you …, the better."
+
+> **Tóm gọn 1 câu:** Học từ vựng theo cụm trong hội thoại, rồi mượn thêm mẫu câu trong Extension để xin và đưa lời khuyên cho "mượt" như người bản xứ.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -102,9 +114,15 @@ Thanks! Now I know what to do. You’ll see a stronger me soon.
 Great! I can’t wait!
 ```
 
+Đây là "kịch gốc" của bài. Đọc to theo từng lời, rồi đóng vai hỏi–đáp với bạn cùng luyện.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là quầy tư vấn sống của cấu trúc bài — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài. Bốn điểm, điểm nào cũng có mẹo né lỗi người Việt hay dính.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -115,7 +133,11 @@ Great! I can’t wait!
 | 3 | MAKE + SB + ADJ / V(pp) (Làm ai (cảm thấy) thế nào) | make you happy/ relaxed |
 | 4 | GET "đa năng" (Nhận / Trở nên / Di chuyển / Bị động) | get a drink, get up, get paid |
 
+> **Cách đọc bảng này:** Cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay. Chỉ có 30 giây thì đọc thẳng cột cuối.
+
 ### Điểm 1. STAY + ADJ (Giữ vững trạng thái): `STAY + ADJ`
+
+Điểm này là "gióng trống giữ nhịp" — không phải trở nên, mà là không cho mình trượt khỏi trạng thái đó.
 
 **Cách dùng:** Bản chất: *stay + adj* = "giữ nguyên trạng thái đang có" — không phải "trở nên", mà là **không cho mình trượt khỏi trạng thái đó**, nên cực hợp lời khuyên: *stay strong, stay calm, stay positive*. Dễ nhầm với *keep + adj* — *keep* chủ động như một nhiệm vụ (*keep your desk clean*), *stay* thiên về tự nhủ/gìn giữ. Sau stay là **adj trần**: ~~stay quietly~~ ✗ — đừng thêm -ly. Mẹo nói: bắn gọn như khẩu lệnh, một nhịp "stay-calm" là đủ sức nặng.
 
@@ -135,7 +157,11 @@ Great! I can’t wait!
 - Đổi adj: `Stay healthy during the rainy season.` *(Mùa mưa nhớ giữ khoẻ nhé)*
 - Đổi thì về quá khứ: `I stayed calm during the interview.` *(Tớ giữ bình tĩnh suốt buổi phỏng vấn)*
 
+> **Tóm gọn 1 câu:** *Stay + adj* nghĩa là "giữ nguyên trạng thái, đừng trượt đi" — sau stay là tính từ trần, đừng thêm -ly.
+
 ### Điểm 2. MAKE + SB + V (Bắt/ khiến ai làm gì…): `MAKE + SB + V (nguyên mẫu, KHÔNG "to")`
+
+Điểm này giải thích vì sao *make* "tách to" — khác hẳn *ask*, *tell*, *allow* cùng hội cùng thuyền.
 
 **Cách dùng:** Bản chất: **make sb + V trần, không "to"** — nghĩa là "bắt/khiến", vẫn có độ ép trong đó. Cản trở lớn nhất: *ask / allow / tell sb **to** V* đều mang "to", riêng *make* và *let* thì không — ~~Mom made me to wash~~ ✗. Muốn "thuyết phục" thay vì "bắt buộc" thì đổi sang *get sb **to** V*. Mẹo nói: đọc cả cụm liền một hơi "make-him-calm-down" — 3 nhịp không ngắt, nghe tự nhiên như người bản xứ.
 
@@ -155,7 +181,11 @@ Great! I can’t wait!
 - Đổi thì về quá khứ: `My mom made me wash the dishes yesterday.` *(Hôm qua mẹ bắt tớ rửa bát)*
 - Đổi động từ: `What should I say to make him smile?` *(Nói gì để anh ấy mỉm cười nhỉ?)*
 
+> **Tóm gọn 1 câu:** *Make sb + V trần không "to"* nghĩa là bắt/khiến có độ ép — muốn "thuyết phục" thay vì "bắt buộc" thì đổi sang *get sb to V*.
+
 ### Điểm 3. MAKE + SB + ADJ / V(pp) (Làm ai đó (cảm thấy) thế nào…): `MAKE + SB + ADJ / V(pp)`
+
+Điểm này nói về "khoản đầu tư cảm xúc" — lời nói hay việc mình làm khiến người kia cảm thấy thế nào.
 
 **Cách dùng:** Bản chất: nói **kết quả cảm xúc** mình tạo ra cho người khác — *make sb happy / relaxed / shocked*. Cản trở lớn nhất: cặp **-ed vs -ing** — *bored* = người thấy chán, *boring* = thứ gây chán; ~~The lesson makes me boring~~ nghĩa thành "bài học làm tớ chán ngắt (ở thế bị động ngược đời)" luôn đấy. V(p.p) cũng chui được vào slot này: *make yourself heard*. Mẹo nói: nhấn vào tính từ cuối câu — đó là "khoản đầu tư cảm xúc" của cả câu.
 
@@ -175,7 +205,11 @@ Great! I can’t wait!
 - Đổi adj: `This song makes me relaxed.` *(Bài này làm tớ thư thái)*
 - Đổi chủ ngữ: `His jokes make everyone happy.` *(Truyện cười của anh ấy làm ai cũng vui)*
 
+> **Tóm gọn 1 câu:** *Make sb + adj* tả kết quả cảm xúc cho người khác — nhớ cặp *-ed* (người thấy) vs *-ing* (thứ gây), nhầm là câu bẽ gãy nghĩa ngay.
+
 ### Điểm 4. GET "đa năng": `GET + N/Pro · GET + ADJ · GET + Giới từ · GET + V(p.p)`
+
+Điểm này cởi mặt nạ "đa nhân cách" của *get* — nghĩa nào xuất hiện là do từ đi ngay sau nó quyết định.
 
 **Cách dùng:** Bản chất: *get* đổi vai theo từ đứng sau: **+ N** = nhận/có được (*get a drink, get paid*), **+ adj** = trở nên (*get cold*), **+ giới từ** = di chuyển (*get up*), **+ V(p.p)** = tự làm cho mình hoặc mang nghĩa bị động (*get dressed*). Cản trở: dịch cứng "get = nhận" là sai bét — *I'm getting cold* đâu phải "nhận lạnh". Mẹo nói: nhìn **từ đi ngay sau get** rồi mới chọn nghĩa; đọc "get" nhanh, nuốt nhẹ, đừng nhấn.
 
@@ -195,9 +229,13 @@ Great! I can’t wait!
 - Đổi get + N → get + adj: `It's getting cold in here.` *(Ở đây đang lạnh dần đấy)*
 - Đổi chủ ngữ: `She gets paid every Friday.` *(Cô ấy lãnh lương thứ sáu hằng tuần)*
 
+> **Tóm gọn 1 câu:** *Get* đổi vai theo từ đứng sau — +N là nhận, +adj là trở nên, +giới từ là di chuyển, +V(p.p) là bị động; nhìn từ kề bên rồi mới dịch.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập". Nói to, nói nhanh, sai thì sửa ngay tại chỗ.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *What should I do to stay positive, Mia? — I usually choose to look at the bright side of everything.*
@@ -214,3 +252,5 @@ Great! I can’t wait!
 5. Do you think I should (be more patient/ speak more, less)? — *(To talk more) Yes, stay patient and…; if I were you I would…*
 
 > ✅ Checkpoint: hỏi **"What should I do to…?"** về 5 mục tiêu thật (học, sức khoẻ, tình yêu, tập trung, tiền) — trả lời bằng ít nhất 2 công thức: **STAY + adj**, **MAKE sb do/ MAKE sb + adj**. Ghi âm lại.
+
+> **Tóm gọn 1 câu:** Luyện qua echo drill rồi 5 câu tự luyện — xin lời khuyên bằng *What should I do to…?*, đáp bằng công thức STAY/MAKE, ghi âm nghe lại là biết mình ở đâu.

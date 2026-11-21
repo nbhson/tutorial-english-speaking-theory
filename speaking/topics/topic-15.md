@@ -13,6 +13,9 @@
 - **Điều tra "du học"**: hỏi "Have you ever been abroad?" — **No, I haven't**; nhưng giọng Anh quá chuẩn nên ai cũng tưởng đã du học — hóa ra **tự học** (*I learned it by myself*), và rất nhiều người đã hỏi y hệt câu đó.
 - **Chuyện điên rồ nhất đời**: năm ngoái nhảy xuống biển **vớ mũ cho crush** mà không biết bơi — được ngư dân cứu vớt, "It was a close call"; nhờ chuyện đó cô ấy thành **vợ**, cưới nhau được 7 năm rồi, chưa bao giờ quay lại chỗ đó.
 Điểm chốt: học **"Have you ever + V3/PP?"** và chuỗi trả lời **"Yes, I have. / No, I haven't."** rồi kể tiếp mốc thời gian quá khứ (*When I was…*, *It was … ago*).
+V3/PP là **động từ cột 3** (gone, been, done) — cứ hình dung như "động từ đã nấu chín": sau `have` chỉ ăn món đã nấu, không ăn đồ sống (V1) được.
+
+> **Tóm gọn 1 câu:** Bài này dạy bạn "đào quá khứ" bằng Have you ever…? — hỏi trải nghiệm, đáp Yes/No, rồi kể tiếp mốc thời gian.
 
 ### 2) Khi nào sử dụng?
 - Hỏi về **trải nghiệm đã từng / chưa từng** (tính đến hiện tại): *Have you ever been abroad / fallen in love / done anything crazy?*
@@ -20,6 +23,9 @@
 - Đặt **mốc thời gian quá khứ**: *When I was in kindergarten / when I was 5 / It was 2 years ago.*
 - Nói về số lần đến một nơi: *It's my second time here.*; khoe chuyện **tự học**: *I learned it by myself.*
 - Trêu đùa & khắc họa cảm xúc: *Just kidding!*, *It was a close call*, *I can't stop laughing*.
+Mục này giống "bộ đồ nghề" của buổi nói chuyện: hỏi sao, đáp sao, hỏi xoáy sao — chọn đúng món cho đúng lúc.
+
+> **Tóm gọn 1 câu:** Dùng Have you ever…? để hỏi trải nghiệm, trả lời theo khung Yes/No + chi tiết, rồi hỏi xoáy cho câu chuyện cứ thế chạy tiếp.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -38,6 +44,8 @@
 | 9 | **It's my second time here** | Đây là lần thứ hai mình đến đây | Trả lời câu hỏi "đã từng đến chưa" | *Yeah, it's my second time here.* | ~~my second time to here~~ — "đến đây" là **here** một mình, không thêm to | *So you know the good spots! (Vậy cậu rành chỗ ngon rồi!)* |
 | 10 | **I learned it by myself** | Tớ tự học đấy | Kể chuyện tự học, không ai dạy | *Awh, thank you! I learned it by myself.* | ~~by my own~~ — chọn một: **by myself** hoặc **on my own** | *Wow, self-taught? Respect! (Trời, tự học cơ à? Khen đấy!)* |
 | 11 | **We've been married for 7 years** | Chúng tôi cưới nhau được 7 năm rồi | Nói thời gian đã kéo dài đến hiện tại | *We've been married for 7 years.* | ~~since 7 years~~ — khoảng thời gian dùng **for**: for 7 years | *Time really flies! (Thời gian trôi ghê thật!)* |
+
+> **Cách đọc bảng này:** Cột "Cụm từ" là thứ cần nhớ, cột "Câu mẫu" là ví dụ lấy thẳng trong bài. Hai cột cuối là "tủ chống lỗi" (⚠️) và "tủ tiếp chuyện" (💬) — nhìn ngang từng dòng là đủ dùng.
 
 ### 4) Từ vựng (Vocabulary)
 | Từ | Từ loại / Phiên âm | Nghĩa |
@@ -61,9 +69,14 @@
 | Argument | (n) /ˈɑːrɡjumənt/ | Tranh luận, tranh cãi |
 | Work under pressure | (v.phr) /ˈpreʃər/ | Làm việc dưới áp lực lớn |
 
+> **Cách đọc bảng này:** Mỗi dòng là 1 từ mới: cột giữa cho biết từ loại + cách phát âm, cột phải là nghĩa gọn để tra nhanh khi luyện nói.
+
 **Extension (SINCE vs. FOR — từ mốc nào, kéo dài bao lâu):**
 - **SINCE + mốc thời điểm trong quá khứ** (point in time — and continues until now): *I have been living in Spain **since** 2015.* (Tôi sống ở Tây Ban Nha từ năm 2015 đến giờ.)
 - **FOR + khoảng thời gian** (duration of time): *I have been living in Spain **for** 5 years.* (Tôi đã sống ở Tây Ban Nha 5 năm.)
+Vì sao cần phân biệt? Vì nhầm since/for là lỗi "dễ thương" nhưng nghe là lộ ngay — như mua vé điểm rồi lại trả tiền cả tuyến.
+
+> **Tóm gọn 1 câu:** SINCE gắn vào mốc bắt đầu (since 2015), FOR gắn vào độ dài (for 5 years) — nhớ đúng là khỏi lo dòng thời gian.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -104,6 +117,9 @@ Do you want to go back there again?
 Yeah, I'd love to. By the way, what were you about to say?
 Oh, I almost forgot. Just wanted to ask you about the video homework for CATCHING today.
 ```
+Đọc to hội thoại này 2-3 lần là thấy ngay "xương sống" của bài: câu hỏi ever → đáp Yes/No → đuổi theo chi tiết.
+
+> **Tóm gọn 1 câu:** Hai đoạn hội thoại gốc là "bản đồ" của mọi câu hỏi Have you ever…? — nghe quen mạch này là bạn nói theo được ngay.
 
 ---
 
@@ -119,9 +135,11 @@ Oh, I almost forgot. Just wanted to ask you about the video homework for CATCHIN
 | 4 | Have you ever + V3/PP (Hiện tại hoàn thành) | Hỏi trải nghiệm "đã từng chưa" |
 | 5 | "X and I" — đặt mình ra sau (lịch sự) | Kể chuyện có mình + người khác |
 
+> **Cách đọc bảng này:** Mỗi dòng là 1 cấu trúc cần lấy: cột "Tên" gợi nhớ dạng câu, cột "Ứng dụng nói" nói khi nào mang ra xài.
+
 ### Điểm 1. It was + time + ago: `IT WAS + (TIME) + AGO`
 
-**Cách dùng:** Chỉ mốc quá khứ gọn lỏn, không cần câu dài — **ago luôn đứng cuối cụm thời gian** và câu phải chia **quá khứ đơn**: *I met her 5 years ago*, không phải ~~I have met her for 5 years ago~~. Bản chất: ago kéo thời gian ngược về quá khứ tính từ hiện tại. Mẹo nói: nhấn số rồi thả "ago" xuống — *Two years ago!* nghe tự nhiên là đạt.
+**Cách dùng:** Chỉ mốc quá khứ gọn lỏn, không cần câu dài — **ago luôn đứng cuối cụm thời gian** và câu phải chia **quá khứ đơn**: *I met her 5 years ago*, không phải ~~I have met her for 5 years ago~~. Bản chất: ago kéo thời gian ngược về quá khứ tính từ hiện tại — như kim đồng hồ lùi ngược, mốc cách bao nhiêu thì nói bấy nhiêu rồi thả "ago" xuống cuối. Mẹo nói: nhấn số rồi thả "ago" xuống — *Two years ago!* nghe tự nhiên là đạt.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `When did you start learning English?` *(Cậu học tiếng Anh từ khi nào?)*
@@ -138,6 +156,8 @@ Oh, I almost forgot. Just wanted to ask you about the video homework for CATCHIN
 **Biến tấu (tự luyện):**
 - Đổi mốc thời gian: `It was 10 years ago.` *(Đã 10 năm rồi)*
 - Đổi chủ ngữ it → I: `I moved here 2 years ago.` *(Tớ chuyển tới đây 2 năm trước)*
+
+> **Tóm gọn 1 câu:** Muốn chỉ mốc quá khứ thì nhét số + đơn vị thời gian rồi thả "ago" xuống cuối, và câu phải là quá khứ đơn.
 
 ### Điểm 2. S + was/were + in + N: `WHEN + S + WAS/WERE + IN + GRADE 1 / HIGH SCHOOL / KINDERGARTEN…`
 
@@ -159,6 +179,8 @@ Oh, I almost forgot. Just wanted to ask you about the video homework for CATCHIN
 - Đổi giai đoạn: `I learned cooking when I was in college.` *(Tớ học nấu ăn hồi đại học)*
 - Đổi chủ ngữ *I* → *we*: `We played football when we were in high school.` *(Bọn tớ đá bóng hồi cấp ba)*
 
+> **Tóm gọn 1 câu:** "When I was in + giai đoạn học" là câu mở truyện kinh điển — nói xong người nghe lập tức chờ nghe chuyện cũ.
+
 ### Điểm 3. When + S + was/were + age/noun: `WHEN + S + WAS/WERE + AGE / A LITTLE GIRL / A STUDENT…`
 
 **Cách dùng:** Gắn câu chuyện với **tuổi** hoặc **danh phận** quá khứ — *when I was 5 / when she was a little girl / when I was a student*. Khác Điểm 2: chỗ này nói tuổi và "lúc đó là ai", chỗ kia nói giai đoạn nơi chốn. Bỏ "years old" vẫn rõ nghĩa, nói lướt rất tự nhiên. Mẹo: sau was/were là tuổi hoặc danh từ, đừng nhét động từ vào.
@@ -179,9 +201,11 @@ Oh, I almost forgot. Just wanted to ask you about the video homework for CATCHIN
 - Đổi tuổi: `When I was 10, I moved to HCMC.` *(Lên 10 tuổi tớ chuyển vào Sài Gòn)*
 - Đổi danh phận: `When I was a student, I stayed up late.` *(Thời sinh viên tớ thức khuya lắm)*
 
+> **Tóm gọn 1 câu:** Sau "when I was" chỉ nhét tuổi hoặc danh phận (a student, a little girl) — đừng nhét động từ vào kẻo câu gãy.
+
 ### Điểm 4. Have you ever + V3/PP: `HAVE/HAS + S + EVER + V3/PP?`
 
-**Cách dùng:** Hỏi **trải nghiệm tính đến hiện tại** — chưa cần mốc thời gian, chỉ hỏi "đã từng hay chưa". Trả lời theo mạch **Yes, I have. / No, I haven't.** rồi mới kể chi tiết; đã nhét mốc vào (ago, yesterday) thì chuyển sang quá khứ đơn. *Ever* chỉ đứng trong câu hỏi, trả lời thì bỏ ever. Mẹo: nghe "ever" là nhớ ngay V3/PP, đừng nói ~~Have you ever went~~.
+**Cách dùng:** Hỏi **trải nghiệm tính đến hiện tại** — chưa cần mốc thời gian, chỉ hỏi "đã từng hay chưa". Hiện tại hoàn thành giống như cuốn sổ tích lũy của bạn: chỉ quan tâm từng trải qua chưa, không quan tâm ghi sổ ngày nào. Trả lời theo mạch **Yes, I have. / No, I haven't.** rồi mới kể chi tiết; đã nhét mốc vào (ago, yesterday) thì chuyển sang quá khứ đơn. *Ever* chỉ đứng trong câu hỏi, trả lời thì bỏ ever. Mẹo: nghe "ever" là nhớ ngay V3/PP, đừng nói ~~Have you ever went~~.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Have you ever won the lottery?` *(Cậu đã từng trúng số chưa?)*
@@ -198,6 +222,8 @@ Oh, I almost forgot. Just wanted to ask you about the video homework for CATCHIN
 **Biến tấu (tự luyện):**
 - Đổi động từ: `Have you ever gotten a tattoo?` *(Cậu từng xăm hình chưa?)*
 - Đổi chủ ngữ *you* → *she*: `Has she ever been abroad?` *(Cô ấy từng ra nước ngoài chưa?)*
+
+> **Tóm gọn 1 câu:** Have you ever + V3/PP là câu hỏi sổ tích lũy — đáp gọn Yes/No have (haven't) rồi mới sang quá khứ đơn để kể chi tiết.
 
 ### Điểm 5. Đặt mình ra sau (lịch sự): `X AND I` (người khác trước, "I" sau)
 
@@ -219,6 +245,8 @@ Oh, I almost forgot. Just wanted to ask you about the video homework for CATCHIN
 - Đổi danh từ: `My co-workers and I go out every Friday.` *(Tớ với đồng nghiệp đi chơi mỗi thứ sáu)*
 - Đổi động từ: `My girlfriend and I travel twice a year.` *(Tớ và bạn gái đi chơi hai lần mỗi năm)*
 
+> **Tóm gọn 1 câu:** Kể chuyện có mình thì mình xếp hàng sau cùng — "người khác and I", lịch sự và tự nhiên theo thói quen người bản xứ.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
@@ -229,6 +257,10 @@ Oh, I almost forgot. Just wanted to ask you about the video homework for CATCHIN
 3. *Have you ever been abroad? — No, I haven't. I thought you studied abroad? So many people have asked me the same thing.*
 4. *Vietnam is so beautiful with tons of delicious food. — I love Bún bò Huế.*
 5. *Just kidding! I was saved by a fisherman. It was a close call. I can't stop laughing.*
+
+Echo drill giống tập hát theo băng: nghe 1 câu, lặp y hệt, mỗi vòng nhanh hơn — miệng quen trước khi đầu óc kịp phân tích.
+
+> **Tóm gọn 1 câu:** Lặp to theo echo drill đến khi miệng ra câu không cần dịch — đó là lúc cấu trúc vào máu.
 
 ### 5 câu hỏi tự luyện (tự hỏi + trả lời)
 1. Have you ever met Emerald in person / checked in at the the campus? — *Yes, I have. It was… / No, I haven't, but I'm going to…*

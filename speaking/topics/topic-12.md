@@ -14,12 +14,19 @@
 - Conversation: Sara sắp bay Mỹ nhưng còn **paperwork** và muốn học tiếp **Mindset + English** (2 tháng nữa) — "In my center I learn not only English but also Mindset" — được recommend "leave your info, Ms Emerald sẽ gọi **evaluation** rồi set **journey** của bạn" — "I never thought you would join the center so quickly!"
 Điểm chốt: **When…?** hỏi **thời gian chung — tổng quát** của sự việc/kế hoạch (khác *What time* hỏi giờ cụ thể); trả lời có thể là **giờ, thứ, ngày, tháng** — và khi nói dự định thì dùng cả "plan to / will / be going to".
 
+> **Tóm gọn 1 câu:** Bài này luyện "truy tìm mốc thời gian": When…? hỏi tổng quát (khác What time hỏi giờ), và trả lời thì có 5 khung kế hoạch để chọn theo độ chắc chắn.
+
 ### 2) Khi nào sử dụng?
+
+Mục này chỉ ra 4 biến thể của "When…?" và cảnh báo một vùng cấm: hỏi chuyện kết hôn khiến người khác "sick of hearing".
+
 - Hỏi **thời điểm của một sự việc, dự định, kế hoạch** (mang tính chung & tổng quát hơn *What time*): *When is your birthday? / When is your flight to Japan?* — trả lời bằng giờ, thứ, ngày, tháng.
 - Biến thể **When is…? / When do you…? / When will…? / When can…?**: *When will you get married?* (hỏi dự định), *When can we meet for coffee?* (hẹn giờ), *When do you start your plans / finish work?* (từ FREE TALK sheet).
 - Hỏi **kế hoạch đang nung nấu** (hiện tại tiếp diễn cho tương lai gần): *Are you doing anything to celebrate?*
 - Thoát lịch sự khi bị hỏi nhạy cảm: "Can we change to another topic?"
 - Kế hoạch qua **5 cách nói**: *I plan to… / I will… / I'm going to… / I'm about to… / I'm heading to…*.
+
+> **Tóm gọn 1 câu:** "When…?" là câu hỏi tổng quát về thời điểm — hỏi được 4 kiểu (is/do/will/can), trả lời bằng 5 khung kế hoạch, và khi bị hỏi nhạy cảm thì đổi chủ đề lịch sự.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -38,7 +45,12 @@
 | 9 | **Can we change to another topic?** | Đổi chủ đề khác đi nhé? | Lịch sự "nhảy" khỏi chủ đề nhạy cảm | *I'm sick of hearing that kind of thing. Can we change to another topic?* | ~~another topics~~ — another + số ít; muốn số nhiều là **other topics** | *Sure, what do you wanna talk about? (Được, cậu muốn nói gì?)* |
 | 10 | **What's up? — Nothing much** | Có chuyện gì không? — Chẳng có gì đâu | Mở chuyện, hỏi tình hình trước khi hỏi cần gì | *When will you leave HCMC? — I plan to leave this weekend. What's up? — Nothing much.* | ~~I'm fine, thank you~~ — What's up hỏi "có gì mới", đừng trả lời kiểu How are you | *Just chilling, you? (Chilling thôi, còn cậu?)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Hàng 3 và 9 là "vấn đề thoát thân" — ứng biến và đổi chủ đề lịch sự.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Figure out | (v) | Tìm ra (cách, lời giải) |
@@ -61,11 +73,15 @@
 | Introduce s.o to s.o | (v) | Giới thiệu ai đó với ai |
 | Project | (n) | Dự án |
 
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép nghĩa cột phải là nhớ nhanh nhất.
+
 **Extension (PREPOSITIONS of TIME — giới từ chỉ thời gian):**
 - Kim tự tháp từ đáy tới đỉnh: **IN** (General) → **ON** (More specific) → **AT** (Very specific) — càng cụ thể càng nhích lên AT.
 - **IN (General)**: Years — *In* 2020 · Months — *In* June · Weeks — *In* 5 weeks · Seasons — *In* spring · Holidays — *In* the Easter Holiday · Parts of the day — *In* the morning
 - **ON (More specific)**: Days — *On* Monday · Dates — *On* May 01 · Special days — *On* my birthday · *On* the weekend
 - **AT (Very specific)**: Hours — *At* 8AM · *At* the moment
+
+> **Tóm gọn 1 câu:** Giới từ thời gian là "kim tự tháp": IN ôm đáy (rộng), ON giữa (hẹp hơn), AT chóp (chính xác) — càng cụ thể càng leo lên.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -102,9 +118,15 @@ That's okay. I'll do it right away. Thank you for sharing.
 I never thought you would join the center so quickly. You're more than welcome.
 ```
 
+Đây là "kịch gốc" của bài — đọc to từng câu, gạch mỗi lần "When…?" xuất hiện để thấy cả 4 biến thể sống trong hội thoại.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho "hỏi thời điểm – trả lời kế hoạch" — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 4 điểm, từ phân biệt maybe/may be tới 5 khung nói kế hoạch.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -115,7 +137,11 @@ I never thought you would join the center so quickly. You're more than welcome.
 | 3 | LIKE (V & prep) (Thích / giống như) | Nói sở thích & so sánh "giống ai" |
 | 4 | Ways to say about the plans (Cách nói về kế hoạch) | Trả lời When…? bằng 5 khung dự định |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. Maybe & May be: `MAYBE + CÂU (đầu/ giữa/ cuối) · S + MAY BE + …`
+
+Điểm này tách cặp song sinh hay bị nhầm: maybe là trạng từ "có lẽ", may be là động từ "có thể là".
 
 **Cách dùng:** **Maybe** là trạng từ "có lẽ" — bay tự do ở **đầu, giữa hoặc cuối câu**, thậm chí giấu cuối câu vẫn giữ nguyên nghĩa. **May be** thì khác hẳn: là **may + be** (động từ khuyết thiếu "có thể"), sống luôn trong vị trí **vị ngữ**, bám sát sau chủ ngữ, không nhảy ra đầu câu được. Mẹo phân biệt cực nhanh: chỗ thay được bằng **perhaps** thì dùng *maybe*, còn chỗ cần một động từ phía sau chủ ngữ thì *may be*. Nhầm hai đứa này là lỗi kinh điển của người mới học đấy.
 
@@ -135,7 +161,11 @@ I never thought you would join the center so quickly. You're more than welcome.
 - Đổi chủ ngữ *he* → *she*: `Maybe she is late.` *(Có lẽ cô ấy tới trễ đấy)*
 - Đổi thì hiện tại → tương lai: `Maybe I'll go abroad next year.` *(Có lẽ sang năm tớ đi nước ngoài)*
 
+> **Tóm gọn 1 câu:** maybe (dính liền) là trạng từ bay tự do, may be (rời hai chữ) là động từ đứng sau chủ ngữ — thay được bằng perhaps là chọn đúng đứa.
+
 ### Điểm 2. What + a/an + N! (Câu cảm thán): `WHAT + A/ AN + ADJ + N !`
+
+Điểm này dạy cách "vỗ tay khen": what + a/an + adj + N — một phát cảm xúc dâng đầy câu.
 
 **Cách dùng:** Câu cảm thán khen/chê một phát cho dữ dội — bản chất là "what + một cái N đáng khen đó". Chọn **a/an** theo **âm đầu của tính từ** đi ngay sau (an adorable baby), còn N thì luôn là số ít đếm được. Nhấn tính chất, không kèm danh từ thì đổi sang **How + adj!** — *How beautiful!*; có N đứng sau thì đừng nói ~~How beautiful girl~~ nhé. Nói thì kéo nhẹ "Whaaaat a…" rồi thả N ra, cảm xúc dâng liền.
 
@@ -155,7 +185,11 @@ I never thought you would join the center so quickly. You're more than welcome.
 - Đổi danh từ: `What a great surprise!` *(Bất ngờ tuyệt vời quá!)*
 - Đổi a → an (âm đầu nguyên âm): `What an awesome trip!` *(Chuyến đi tuyệt vời quá!)*
 
+> **Tóm gọn 1 câu:** What + a/an + adj + N để khen "cái đó", chọn a/an theo âm đầu của tính từ — khen mức độ không kèm danh từ thì đổi sang How + adj.
+
 ### Điểm 3. LIKE (V & prep): `LIKE (V) = ENJOY, LOVE · LIKE (PREP) = SIMILAR TO · IT LOOKS LIKE … = CÓ VẺ NHƯ`
+
+Điểm này khai "hai vai" của like: một vai "thích" làm động từ, một vai "giống như" làm giới từ — nhìn chỗ đứng là biết vai.
 
 **Cách dùng:** **Like** hai vai hai tính: làm **động từ** là "thích, yêu thích" (ngang hàng với enjoy, love); làm **giới từ** là "giống như" — đứng ngay sau be/look/seem. Cụm **It looks like…** = "có vẻ như", dùng để phán đoán mềm khi trò chuyện. Mẹo: nhìn chỗ nó đứng là biết vai — trước một danh từ thì là "giống như", trước một hành động thì là "thích".
 
@@ -175,7 +209,11 @@ I never thought you would join the center so quickly. You're more than welcome.
 - Đổi chủ ngữ *I* → *she*: `She likes your smile.` *(Cô ấy thích nụ cười của anh)*
 - Đổi like (V) → like (prep): `He looks like his dad.` *(Anh ấy giống ba nhỉ)*
 
+> **Tóm gọn 1 câu:** like đứng trước hành động là "thích", đứng sau be/look là "giống như" — và It looks like… là cách phán đoán mềm "có vẻ như".
+
 ### Điểm 4. Ways to say about the plans: `S + WILL + V · S + BE + GOING TO + V · S + BE + ABOUT TO + V · S + PLAN TO + V · S + BE + HEADING TO (A PLACE)`
+
+Điểm này cấp cho bạn 5 "quân số" nói kế hoạch, khác nhau ở độ chắc chắn và tức thời.
 
 **Cách dùng:** Trả lời **When…?** về dự định thì có 5 "quân số", khác nhau ở **độ chắc chắn và tức thời**: *will* là hứa/quyết ngay tại chỗ; *be going to* là đã định từ trước; *be about to* là sắp ngay tắp lự; *plan to* là kế hoạch có lên lịch; *be heading to* là đang trên đường tới nơi. Nói ra khung nào, người nghe tự biết mình "chắc" tới mức nào. Mẹo: hẹn lịch thì **plan to / be going to** là hai quân dùng nhiều nhất, đừng lúc nào cũng nhét will cho lười.
 
@@ -195,9 +233,13 @@ I never thought you would join the center so quickly. You're more than welcome.
 - Đổi chủ ngữ *I* → *we*: `We plan to leave this weekend.` *(Bọn tớ định đi cuối tuần này)*
 - Đổi danh từ (điểm đến): `I'm heading to the airport.` *(Tớ đang trên đường ra sân bay)*
 
+> **Tóm gọn 1 câu:** 5 khung kế hoạch là thang độ chắc: will (quyết tại chỗ) → going to (định từ trước) → about to (sắp ngay) → plan to (có lịch) → heading to (đang trên đường).
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu hỏi tự luyện về mốc thời gian thật của mình — nói to, ghi âm, nghe lại.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *When is your birthday? — It's next month. The 15th of November.*
@@ -214,3 +256,5 @@ I never thought you would join the center so quickly. You're more than welcome.
 5. What do you think if we start on Monday next week? — *Yeah! Sounds fun! See ya Monday.*
 
 > ✅ Checkpoint: hỏi & trả lời **"When…?"** với cả 4 biến thể (*When is / do / will / can…?*) — mỗi câu trả lời bằng một mốc thời gian khác nhau (giờ, thứ, ngày, tháng), nhớ nhét thêm "plan to / play it by ear". Ghi âm lại.
+
+> **Tóm gọn 1 câu:** Hỏi trọn 4 biến thể When…?, mỗi đáp án một kiểu mốc thời gian — giờ, thứ, ngày, tháng đều đi qua một lượt là "thu thập đủ tem".

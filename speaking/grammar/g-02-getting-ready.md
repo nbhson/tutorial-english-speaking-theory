@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này đưa ra công thức "đang chuẩn bị cho…" — đọc để nhớ trật tự từ và cách chia theo chủ ngữ.
+
 `S + am/is/are + getting ready + for + N`
 
 - **get ready for** = chuẩn bị cho (việc gì đó)
@@ -19,17 +21,25 @@
 
 ## II. KHI NÀO DÙNG?
 
+Mục này nói về 4 tình huống "báo tiến độ chuẩn bị" — đọc để biết lúc nào người ta thốt ra câu này, từ buổi sáng đến tin nhắn xin thêm 5 phút.
+
 - Mỗi sáng trước khi đi làm/đi học — nói với gia đình, đồng nghiệp.
 - Báo cho bạn biết mình sắp xong việc để gặp mặt.
 - Trả lời khi ai đó hỏi "Bạn đang làm gì?" — không phải hành động cụ thể mà là trạng thái chuẩn bị.
 - Dùng trong tin nhắn khi bạn chưa sẵn sàng nhưng sắp sẵn sàng.
 
+Hãy hình dung getting ready như **phút đồng hồ trước giờ G**: chưa xuất phát nhưng đã trong tư thế xuất phát — giày xong, chìa khóa trong tay, chỉ còn khóa cửa.
+
 ### ⚠️ Lỗi thường gặp
 - ~~I'm get ready~~ → *I'm **getting** ready* — cần "-ing" vì đang diễn ra.
-- ~~ready to for~~ — chọn **one**: *ready for work* HOẶC *ready to go*, không gộp.
+- ~~ready to for~~ — chọn **one**: *ready for work* HOẶC *ready to go*, không gộp (như chọn một con đường, đừng đi hai đường cùng lúc).
 - Nhầm **ready** (tính từ) với **readyly** (không tồn tại).
 
+> **Tóm gọn 1 câu:** Getting ready for + N là "phút đồng hồ trước giờ G" — chưa đi nhưng đã trong tư thế đi, và for/to chọn một thôi.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này so sánh cặp for + N / to + V rồi xếp 4 ngữ cảnh báo chuẩn bị vào bảng — đọc để chọn đúng giới từ và đúng ngữ cảnh.
 
 ### Cấu trúc song song: for + N / to + V
 
@@ -37,6 +47,8 @@
 |----------|-----------|-------|
 | **for + Noun** | getting ready **for** + danh từ | getting ready **for the meeting** |
 | **to + Verb** | getting ready **to** + V nguyên mẫu | getting ready **to leave** |
+
+> **Cách đọc bảng này:** hai dòng là hai "đường ray" — for chạy trên danh từ, to chạy trên động từ. Trước khi nói, xác định từ tiếp theo là danh từ hay động từ rồi chọn ray accordingly.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Are you ready?` *(Bạn sẵn sàng chưa?)*
@@ -58,7 +70,7 @@
 
 ### Cách dùng thực tế: Báo trạng thái chuẩn bị
 
-**Getting ready** dùng trong 4 ngữ cảnh chính:
+**Getting ready** dùng trong 4 ngữ cảnh chính — hãy hình dung như 4 "cú nhắn tin" quen thuộc trong một ngày:
 
 | Ngữ cảnh | Ví dụ | Ý nghĩa |
 |---------|-------|---------|
@@ -66,6 +78,8 @@
 | **Báo sắp xong để gặp mặt** | *Almost ready! Give me 2 more minutes.* | Tin nhắn cho bạn, đối phương đang chờ |
 | **Trả lời "Bạn đang làm gì?"** | *I'm getting ready for the meeting.* | Trạng thái chuẩn bị, không phải hành động cụ thể |
 | **Chưa sẵn sàng nhưng sắp xong** | *Still getting ready — be there in 5.* | Tin nhắn báo sẽ đến trong ít phút |
+
+> **Cách đọc bảng này:** mỗi dòng là một "cú nhắn" trong ngày, xếp theo mốc thời gian từ sáng đến giờ hẹn — đọc cột Ví dụ để lấy câu nói liền, cột Ý nghĩa để biết nói với ai.
 
 **Ví dụ thêm:**
 1. I'm getting ready for the big presentation. — *Tôi đang chuẩn bị cho buổi thuyết trình lớn.*
@@ -87,9 +101,13 @@
 > 4. We're ready to start the presentation. — *Chúng tôi sẵn sàng bắt đầu thuyết trình.*
 > 5. I'm almost ready — just one more minute! — *Gần xong rồi — một phút nữa thôi!*
 
+> **Tóm gọn 1 câu:** Getting ready = "đang trên đường xong" — for đi với danh từ, to đi với động từ, và readyly không tồn tại để sai.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" báo tiến độ chuẩn bị trong hội thoại thật — đọc để chọn câu xin thêm giờ hoặc báo "xong rồi đây".
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -98,6 +116,8 @@
 | 3 | **I'm all set** | Tôi sẵn sàng rồi / ổn hết | Xác nhận đã sẵn sàng | *I'm all set. Let's go!* | —— | *Awesome, let's roll!* |
 | 4 | **Give me 5 more minutes** | Cho tôi 5 phút nữa | Xin thêm thời gian chuẩn bị | *I need 5 more minutes, I'm still getting ready.* | ~~Give me 5 min more~~ — trật tự: 5 more minutes | *No problem!* |
 | 5 | **I'm packing my bag** | Tôi đang sắp vali | Khi chuẩn bị đi xa | *I'm packing my bag for the trip.* | —— | *Don't forget your passport!* |
+
+> **Cách đọc bảng này:** các dòng là 5 mốc của "chuyến chuẩn bị" — chưa xong (2) → sắp xong (1) → xin thêm giờ (4) → xong hẳn (3), kèm phiên bản đi xa (5). Đọc cột "Câu mẫu" + "💬 Đáp lại" như cặp tin nhắn để nhớ cả phản hồi.
 
 ## V. TỪ VỰNG
 
@@ -110,7 +130,11 @@
 | Yet | (adv) /jet/ | Chưa (dùng trong câu phủ định/hỏi) |
 | All set | (phrase) /ɔːl set/ | Sẵn sàng hết / ổn rồi |
 
+> **Cách đọc bảng này:** đọc to phiên âm 2 lần mỗi từ — chú ý *yet* và *almost* là hai "chấm" trên thanh tiến độ (chưa xong / sắp xong) sẽ dùng lại liên tục trong phần luyện nói.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen nhịp getting ready, câu hỏi tự luyện để báo tiến độ của chính mình — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I'm getting ready for work.*
@@ -127,6 +151,8 @@
 5. How long does it take you to get ready? — *It takes me about …*
 
 > ✅ **Checkpoint:** Trả lời được 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Báo được "đang chuẩn bị — sắp xong — xong rồi" trong 5 câu trôi chảy không nhìn note — phút đồng hồ trước giờ G đã chạy đều.
 
 ---
 
@@ -154,3 +180,7 @@
 | are you ready? | *Are you ready?* | Hỏi trạng thái chung |
 | I'm ready to… | *I'm ready to start.* | Báo đã sẵn sàng làm gì |
 | I'm all set | *I'm all set!* | Cụm bất quy tắc, không dùng "for/to" sau nó |
+
+> **Cách đọc bảng này:** mỗi dòng là một "lối ra" sau chữ ready — for + N, to + V, hoặc cụm bất quy tắc all set không nhận kèm gì cả; đọc cột Giải thích để nhớ quy tắc của từng lối.
+
+> **Tóm gọn 1 câu:** Ready chỉ nhận một "người ngồi sau": for + danh từ, to + động từ, hoặc không ai cả (all set).

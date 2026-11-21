@@ -14,12 +14,17 @@
 - Conversation là **chuyến Nhật kể chất đầy cảm xúc**: *How was your trip to Japan?* — "I had such a great time!"; đồ ăn **amazing** — sushi, shabu-shabu, **thấy gì ăn nấy**; người nghe "chảy nước miếng rồi nè"; phương tiện công cộng **đúng giờ và hiệu quả**, dân địa phương thân thiện; hồi đó trời không lạnh lắm, giờ đang có tuyết — "hy vọng để dành đủ tiền lần tới đi" — "cứ báo tớ, mình cùng lên kế hoạch!".
 - Điểm chốt: học **"How was + sự việc trong quá khứ?"** → trả lời bằng **"It was + adj"** (great / fantastic / a sweet time / so much fun…), kể tiếp chi tiết bằng **so + adj + that…**.
 
+> **Tóm gọn 1 câu:** Bài này luyện hỏi thăm "dư âm" chuyện đã qua bằng *How was…?* và kể lại bằng *It was + adj*, muốn nhấn mức độ thì bọc thêm *so…that*.
+
 ### 2) Khi nào sử dụng?
+Mục này chỉ cho bạn "cây gậy" *How was* vác vào đâu: từ bữa tiệc, cuối tuần, buổi hẹn cho tới chuyến đi — chỗ nào có dư âm là hỏi được.
 - Hỏi **cảm nhận về một sự việc vừa qua**: *How was the party last night? / How was your weekend? / How was your first date? / How was your trip to Japan?* → trả lời **It was…**
 - Hỏi **từng khía cạnh** của chuyện đó: *How was the food? / How was traveling around Japan? / How was the weather like in Japan?*
 - **Trả lời hớn hở hoặc than thở**: *It was fantastic!* / *I'm glad it's over now. I couldn't enjoy myself.*
 - **Nhấn mạnh mức độ** khi kể: *It was so busy that I had to work overnight.* (bận đến nỗi phải làm qua đêm)
 - **Quan tâm người nghe sau khi nghe chuyện**: *Well, hope you have some time to rest during lunch.*
+
+> **Tóm gọn 1 câu:** Hỏi *"How was + sự việc đã qua?"* khi muốn hỏi thăm cảm nhận, và trả lời hớn hở hay than thở bằng *"It was…"*.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -35,7 +40,10 @@
 | 6 | **My mouth is watering** | Tao chảy nước miếng rồi nè. :) | Nghe kể đồ ăn mà thèm | *My mouth is watering right now.* | ~~my mouth is dropping water~~ — nói "is watering" mới chuẩn | *Then you should go try it! (Vậy cậu nên đi thử đi!)* |
 | 7 | **Hopefully I can save up enough money to go next time** | Hy vọng lần tới tao để dành đủ tiền để đi | Hẹn chuyến đi sau khi "đói" chuyến cũ | *Hopefully, I can save up enough money to go next time!* | ~~for go next time~~ — phải là "to go", khỏi "for" | *Just let me know, we'll plan it! (Báo tớ, mình cùng lên kế hoạch!)* |
 
+> **Cách đọc bảng này:** Đọc theo từng hàng: cụm từ, nghĩa, tình huống dùng, câu mẫu, lỗi hay sai (gạch ngang là đừng nói) và câu đáp lại để bắt chuyện tiếp. Hàng nào hợp chuyện mình đang kể thì học trước hàng đó.
+
 ### 4) Từ vựng (Vocabulary)
+Bảng từ vựng là "túi đồ" xách theo — gặp từ lạ trong hội thoại thì quay lại đây tra.
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | rest | (v) /rest/ | Nghỉ ngơi |
@@ -56,11 +64,15 @@
 | Negotiate | (v) /nɪˈɡəʊʃieɪt/ | Đàm phán |
 | Negotiation | (n) /nɪˌɡəʊʃiˈeɪʃn/ | Cuộc đàm phán |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và cách đọc. Đọc to cột phiên âm vài lần, ghép với nghĩa cột phải là nhớ nhanh.
+
 **Extension (Packing lists — checklist đồ đi du lịch):**
 - **Essentials:** Keys, Wallet, ID/Passport, Boarding Pass, Cash / Cards
 - **Beauty:** Makeup, Deodorant, Hair ties/Bobby Pins, Dry Shampoo, Perfume, Toothbrush/Tooth Paste, Face Wipes
 - **Entertainment:** Headphones, Ipad/Tablet, Books/Magazines, Portable Chargers, Phone, Laptops, Camera
 - **Health:** Aspirin, Vitamins, Hand Sanitizer, Tissues, Emergen-C Tablets, Gum
+
+> **Tóm gọn 1 câu:** Học từ vựng theo cụm trong hội thoại, rồi soi lại checklist Packing lists để biến từ trên giấy thành đồ thật trong vali.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -105,9 +117,15 @@ Hopefully, I can save up enough money to go next time!
 Just let me know and we can plan it!
 ```
 
+Đây là "kịch gốc" của bài. Đọc to theo từng lời, rồi đóng vai hỏi–đáp với bạn cùng luyện.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là dư âm thật của cấu trúc bài — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài. Bốn điểm, điểm nào cũng có mẹo né lỗi người Việt hay dính.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -118,7 +136,11 @@ Just let me know and we can plan it!
 | 3 | Dùng ADV chỉ cấp độ trong so sánh (much/ many/ far/ almost…) | Làm rõ hơn mức độ so sánh |
 | 4 | So sánh về số lần (half/ twice/ three times…) | Gấp đôi, gấp ba, một nửa |
 
+> **Cách đọc bảng này:** Cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay. Chỉ có 30 giây thì đọc thẳng cột cuối.
+
 ### Điểm 1. Simple past tense with TOBE: `S + WAS/WERE + ADJ/ N · S + WAS/WERE + NOT + ADJ/ N · (WH) + WAS/WERE + S + ADJ/N?`
+
+Điểm này là "cánh cửa" mở mọi câu trả lời trong bài — hỏi thế nào thì đáp lại kiểu đó.
 
 **Cách dùng:** hỏi và kể **trạng thái của sự việc trong quá khứ** — "How was…?" luôn được đáp bằng **"It was + adj"**, phủ định thì chèn **not** ngay sau was/were. Bản chất: *was/were* là "quá khứ của be", bám trạng thái (đẹp, bận, vui) chứ không phải hành động — kể chuyện "thế nào" chứ không "làm gì". Dễ nhầm: ~~How was the weather like~~ — dính "like" thừa (chỉ *What was the weather like?* mới dùng like); và kể chuyện tuần trước mà nói ~~It is fun~~ là "xuống thác" giữa đường, phải giữ *It was*. Mẹo giọng: kéo *was* nhẹ một nhịp trước tính từ — *It waaas… so much fun* — nghe như đang tận hưởng kỷ niệm.
 
@@ -138,7 +160,11 @@ Just let me know and we can plan it!
 - Đổi chủ ngữ *it* → *they*: `They were amazing — the food and the people!` *(Tuyệt vời — cả đồ ăn lẫn người!)*
 - Đổi thì quá khứ → hiện tại: `It is always fun when we meet.` *(Mỗi lần gặp là vui như thường)*
 
+> **Tóm gọn 1 câu:** Kể trạng thái chuyện đã qua dùng was/were — đáp *"It was + adj"*, phủ định chèn *not*, và đừng để thì "rơi" về hiện tại giữa câu kể.
+
 ### Điểm 2. Prep + V-ing/ N: `GIỚI TỪ + V-ING / DANH TỪ (afraid of / think of / how about …)`
+
+Điểm này giải thích vì sao sau giới từ, động từ phải "đội áo V-ing" — quen tay rồi là tự nhiên như thở.
 
 **Cách dùng:** sau giới từ, động từ phải ở **dạng V-ing** (hoặc dùng danh từ) — bộ ba *afraid of*, *think of*, *how about* cực hợp để bộc lộ nỗi lo và rủ rê. Bản chất: giới từ là "cửa kiểm soát", chỉ cho V-ing đi qua — ~~afraid of wake you up~~ ✗, phải *afraid of waking*. Nói ra nó khi lo lắng, mơ mộng, rủ rê: *I'm thinking of going back soon*, *How about trying sushi?*. Dễ nhầm: ~~How about going to swimming~~ — chen to thừa, chỉ *How about going swimming?* thôi.
 
@@ -158,7 +184,11 @@ Just let me know and we can plan it!
 - Đổi *going swimming* → *eating out*: `How about eating out this Friday?` *(Thứ sáu này mình đi ăn ngoài nhé?)*
 - Đổi *afraid of* → *tired of*: `I'm tired of working overnight.` *(Tớ chán ngấy làm qua đêm rồi)*
 
+> **Tóm gọn 1 câu:** Giới từ như cổng kiểm soát — chỉ cho V-ing hoặc danh từ đi qua, khỏi chèn "to" thừa vào giữa.
+
 ### Điểm 3. Dùng ADV chỉ cấp độ: `MUCH / MANY / FAR / ALMOST + so sánh hơn (better / more …)`
+
+Điểm này là "loa khuếch đại" cho so sánh hơn — muốn mức chênh nghe đã miệng thì bơm much/far vào.
 
 **Cách dùng:** chèn **trạng từ chỉ cấp độ** trước so sánh hơn để làm rõ hơn mức độ — gọi vui là "so sánh chắt hơn" :)). Bản chất: *much/far* bơm lực cho *better/more*, còn *many more + danh từ đếm được* là "nhiều hơn từng cái". Dễ nhầm: ~~very better~~ ✗ — "very" không nuôi được so sánh hơn, phải là *much/far better*. Nói ra nó khi khen chê cho "đã miệng" — khoe mức chênh giữa hai thứ. Mẹo nhịp: ngắt *far — better than I imagined*, gồng giọng ở "far" cho câu đắt.
 
@@ -178,7 +208,11 @@ Just let me know and we can plan it!
 - Đổi *much better* → *far worse*: `The weekend was far worse than I imagined.` *(Cuối tuần tệ hơn tớ tưởng xa lắc)*
 - Đổi danh từ đếm được: `I bought many more shoes than I planned.` *(Tớ mua nhiều giày hơn dự định)*
 
+> **Tóm gọn 1 câu:** Muốn so sánh "chắt" hơn thì bơm *much/far* trước tính từ so sánh, còn đếm được từng cái thì dùng *many more* + danh từ.
+
 ### Điểm 4. So sánh về số lần: `HALF / TWICE / THREE TIMES + AS + ADJ/ ADV + AS …`
+
+Điểm này giúp bạn "bấm máy" gấp đôi gấp ba — chuyện định lượng thì ai nghe cũng hình dung được ngay.
 
 **Cách dùng:** nói **một nửa / gấp đôi / gấp ba** — nhớ dùng cấu trúc **so sánh bằng** và xác định danh từ là đếm được hay không. Công thức: *half / twice / three times + as + adj/adv + as* — *twice as expensive as*, *three times as big as*. Dễ nhầm: ~~twice more expensive~~ ✗ — nói "gấp đôi" không dùng "more"; danh từ không đếm được thì giữ *as much as* (*half as much money as*). Nói ra nó khi so giá, lương, kích cỡ — chuyện định lượng ai cũng thích nghe. Mẹo nhịp: nhấn *twice/three times* — đó là "từ đắt" bán cả câu.
 
@@ -198,9 +232,13 @@ Just let me know and we can plan it!
 - Đổi *twice* → *half*: `I paid half as much for this bag.` *(Túi này tớ trả chỉ nửa giá thôi)*
 - Đổi danh từ: `three times as big` → `three times as long`: `The movie is three times as long as the trailer.` *(Phim dài gấp ba cái teaser)*
 
+> **Tóm gọn 1 câu:** Nói gấp đôi gấp ba dùng "số lần + as + adj/adv + as", tuyệt đối đừng chèn "more" vào giữa.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập". Nói to, nói nhanh, sai thì sửa ngay tại chỗ.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *How was the party last night? — It was so much fun! Good music with great people.*
@@ -217,3 +255,5 @@ Just let me know and we can plan it!
 5. How was your presentation / negotiation? — *It was … . My attitude was calm and I hope to rest during lunch after that.*
 
 > ✅ Checkpoint: hỏi & trả lời **"How was…?"** với 5 sự việc thật (tiệc, cuối tuần, buổi hẹn, chuyến đi, đồ ăn) — luôn đáp **"It was + adj"**, kể tiếp bằng **so … that**. Ghi âm lại.
+
+> **Tóm gọn 1 câu:** Luyện qua echo drill rồi 5 câu tự luyện — hỏi thăm chuyện cũ, đáp *"It was + adj"*, ghi âm nghe lại là biết mình đang đứng ở đâu.

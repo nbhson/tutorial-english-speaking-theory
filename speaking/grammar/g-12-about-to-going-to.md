@@ -6,10 +6,14 @@
 
 ## I. CẤU TRÚC
 
+Mục này xếp hai "mốc tương lai" cạnh nhau — sắp sửa (vài phút) và dự định (ngày/tháng) — đọc để thấy khác biệt nằm ở độ khẩn cấp của thời gian.
+
 | Cấu trúc | Công thức | Mức độ khẩn cấp |
 |----------|----------|----------------|
 | **About to** | `S + am/is/are + about to + V` | Rất gần — sắp xảy ra trong vài phút |
 | **Going to** | `S + am/is/are + going to + V` | Kế hoạch đã định — có thể ngày/tháng/năm |
+
+> **Cách đọc bảng này:** so trực tiếp cột "Mức độ khẩn cấp" — about to là **đồng hồ bấm giây**, going to là **đồng hồ treo tường**; công thức hai cấu trúc giống nhau, chỉ khác "nòng súng" thời gian.
 
 **Phản xạ nói:**
 - *about to* → /əˈbaʊt tuː/ → thường nuốt thành /əˈbaʊdə/
@@ -17,7 +21,9 @@
 
 ## II. KHI NÀO DÙNG?
 
-- **About to** = sắp xảy ra **ngay lập tức**, thường không có kế hoạch dài hạn — hành động sẽ xảy ra trong vài giây/phút tới.
+Mục này nói về cách chọn giữa "sắp làm ngay" và "đã định trước" — đọc để biết đặt đúng mốc thời gian cho ý mình.
+
+- **About to** = sắp xảy ra **ngay lập tức**, thường không có kế hoạch dài hạn — hành động sẽ xảy ra trong vài giây/phút tới. Giống như tiếng "3… 2… 1…" trước khi pháo hoa bùng.
 - **Going to** = **kế hoạch đã quyết định** từ trước, có thể hôm nay, tuần tới, hoặc năm sau.
 
 ### ⚠️ Lỗi thường gặp
@@ -25,7 +31,11 @@
 - ~~I'm about to visit Japan next year~~ — "about to" không đi với thời gian xa. Dùng *going to* hoặc *will*.
 - Nhầm **about to** (sắp) với **around** (quanh): khác nghĩa hoàn toàn.
 
+> **Tóm gọn 1 câu:** About to đếm ngược vài giây, going to chốt kế hoạch xa — nhớ "3-2-1" của about to là đủ phân biệt.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này đi sâu vào about to rồi đặt nó cạnh going to trên bàn cân — đọc để chọn đúng từ khi kể cả hiện tại lẫn chuyện "sắp thì bị chen ngang".
 
 ### About to = Sắp sửa (ngay lúc này)
 
@@ -52,6 +62,8 @@
 | Ví dụ | *I'm about to eat.* (ngồi trước mâm rồi) | *I'm going to eat at 7.* (hẹn 7 giờ) |
 | Phủ định | *I'm not about to apologize.* (không hề định làm) | *I'm not going to tell him.* |
 
+> **Cách đọc bảng này:** so từng hàng — hàng Thời gian hỏi "còn vài giây hay còn vài tháng?", hàng Kế hoạch hỏi "ngẫu nhiên hay đã hẹn trước?". Cột Ví dụ cho thấy cùng việc ăn uống nhưng hai câu khác nhau chỉ vì thời điểm.
+
 **Ví dụ phân biệt:**
 - *I'm about to call her.* → Tôi sẽ gọi ngay bây giờ.
 - *I'm going to call her tonight.* → Tối nay tôi sẽ gọi (chưa gọi ngay).
@@ -70,9 +82,13 @@
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+> **Tóm gọn 1 câu:** About to là đếm ngược 3-2-1 cho việc sắp xảy ra, going to là lịch đã chốt — cùng là tương lai nhưng khác nhau ở "còn bao xa".
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" báo khẩn cấp và kể chuyện gián đoạn — đọc để chọn câu theo mức cấp bách của tình huống.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -82,6 +98,8 @@
 | 4 | **You're about to miss it!** | Bạn sắp lỡ mất! | Nhắc nhở cấp bách | *Hurry! You're about to miss the bus!* | —— | *Oh no, I'm running!* |
 | 5 | **I'm going to need help** | Tôi sẽ cần giúp đỡ | Báo trước nhu cầu tương lai | *This puzzle is hard — I'm going to need help.* | —— | *Sure, I'll help!* |
 | 6 | **I'm gonna quit this job** | Tôi định nghỉ việc | Nói kế hoạch nghiêm túc | *I'm gonna quit this job and start my own business.* | —— | *Are you sure? That's brave!* |
+
+> **Cách đọc bảng này:** dòng 1–4 là các mức "đếm ngược" (báo mình, báo nhóm, kể lại, cảnh báo), dòng 5–6 là kế hoạch xa hơn với going to. Đọc cột "Câu mẫu" to lên để nghe nhịp əˈbaʊdə trong câu thật.
 
 ## V. TỪ VỰNG
 
@@ -95,7 +113,11 @@
 | Quit | (v) /kwɪt/ (V3: quit) | Nghỉ / từ bỏ |
 | Need | (v) /niːd/ | Cần |
 
+> **Cách đọc bảng này:** đọc to phiên âm 2 lần mỗi từ — chú ý *miss* vừa là "lỡ" (bỏ lỡ xe buýt) vừa là "nhớ", ngữ cảnh mới phân biệt được nghĩa.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen nhịp about to, câu hỏi tự luyện để báo việc sắp xảy ra và kể kế hoạch — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I'm about to start — give me one second.*
@@ -113,9 +135,9 @@
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Báo được "sắp làm ngay" và "định làm sau" trong cùng một lượt trả lời — hai đồng hồ về tương lai đã gắn vào miệng bạn.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *I'm about to start the meeting.* / *I'm going to send the report.* / *Are you about to leave?* / *We're going to discuss the budget.*
 - Du lịch: *The plane is about to land.* / *I'm going to book the hotel.* / *Are you about to board?* / *We're going to explore the city.*
 - Mua sắm: *I'm about to pay.* / *I'm going to buy this.* / *Are you about to check out?* / *We're going to shop online.*
@@ -141,3 +163,5 @@ Cấu trúc kể chuyện phổ biến:
 | **is about to… when…** | *He's about to win when someone stops him.* | Anh ấy sắp thắng thì ai đó cản lại |
 
 > 💡 Mẹo: Dùng **was about to + V when + V-ed** để kể lại sự kiện bất ngờ xen vào hành động làm. Rất phổ biến trong storytelling.
+
+> **Tóm gọn 1 câu:** "Was about to… when…" là khuôn kể chuyện "sắp thì bị chen ngang" — nửa đầu là giờ G, nửa sau là cú gián đoạn.

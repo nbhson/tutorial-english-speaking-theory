@@ -14,13 +14,18 @@
 - Conversation "game sinh tồn": gặp **crocodile** ở giữa sông — *I would panic and swim away as fast as I could* — bí kíp: **đập vào mũi con cá sấu trước**; gặp **bear** giữa rừng — leo lên cây gần nhất? — "vậy mày **lên thiên đường sau 1 giờ** à" — cách duy nhất: **pretend to be dead**, **hold your breath** vì gấu gần như không tấn công người chết.
 Điểm chốt: hỏi giả định bằng **What would you do if + S + V (quá khứ đơn)?** — trả lời luôn **I would / I'd + V**; *would* thay *will* vì chuyện chưa có thật.
 
+> **Tóm gọn 1 câu:** Bài này luyện "thế giới giả định" — hỏi *What would you do if…?* với chuyện chưa có thật và trả lời bằng *I would + V*.
+
 ### 2) Khi nào sử dụng?
+Mục này chỉ cho bạn "cánh cổng giả định" mở vào đâu: từ giấc mơ triệu đô đến tình huống sinh tồn trước cá sấu.
 - **Hỏi phản ứng với giả định không có thật ở hiện tại**: *What would you do if you had a million dollars? / What would you do if you didn't have the internet?*
 - **Giả định ngộ nghĩnh để làm quen**: *What would you do if I said "I love you"?* — *I would run away.* ))
 - **Câu chuyện tưởng tượng sinh tồn**: *What would you do if you were in the middle of the river and there was a crocodile coming at you?*
 - **Trả lời** luôn bắt đầu bằng **I would / I'd + V (nguyên mẫu)**; hưởng ứng thì thêm *Wow! That would be awesome!*
 - **Khuyên người khác** theo kiểu giả định: *If I were you / in your position, I'd + V…*
 - Biến thể "muốn hoá thân": *Which flower/animal would you love to be? Who would you be/ do it with? Where would you want to be?*
+
+> **Tóm gọn 1 câu:** Dùng cấu trúc này khi muốn "mơ thành lời" — giả định không có thật ở hiện tại, trả lời bằng *I would / I'd + V* và khuyên nhau bằng *If I were you…*.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -39,7 +44,10 @@
 | 9 | **You might find yourself in heaven an hour later** | Mày sẽ lên thiên đường 1 giờ sau đó. | Chọc giải pháp nguy hiểm (gấu thì trèo cây) | *So you might find yourself in heaven an hour later. Haha.* | ~~find you in heaven~~ — phải **find yourself** (đại từ phản thân) | *Wow, thanks for the tip! (Ồ, cảm ơn bí kíp nhé!)* |
 | 10 | **The only way is pretending to be dead** | Cách duy nhất là giả vờ chết. | Chỉ "bí kíp sống sót" | *The only way is pretending to be dead.* | ~~pretend be dead~~ — thiếu **to**: pretend **to be** dead | *Sounds risky but okay! (Nghe mạo hiểm nhưng được!)* |
 
+> **Cách đọc bảng này:** Đọc theo từng hàng: cụm từ, nghĩa, tình huống dùng, câu mẫu, lỗi hay sai (gạch ngang là đừng nói) và câu đáp lại. Hàng nào hợp giả định mình muốn mở thì học trước.
+
 ### 4) Từ vựng (Vocabulary)
+Bảng từ vựng là "balo sinh tồn" của bài — gặp từ lạ trong hội thoại thì quay lại đây lôi ra.
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Breath | (n) /breθ/ | Hơi thở |
@@ -55,6 +63,8 @@
 | Invisible | (adj) /ɪnˈvɪzəbl/ | Vô hình |
 | Read s.o's mind | (v) /maɪnd/ | Đọc được suy nghĩ của ai đó |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và phiên âm. Đọc to cột phiên âm vài lần, ghép với nghĩa cột phải là nhớ nhanh.
+
 **Extension (Asking For Help — cách nhờ giúp đỡ):**
 - Can you *give me a hand* with this?
 - Could you help me for a second?
@@ -66,6 +76,8 @@
 - Lend me a hand with this, *will you*?
 - Could you *spare a moment*?
 - I need some help, please.
+
+> **Tóm gọn 1 câu:** Học từ vựng theo cụm trong hội thoại, rồi lấy vài câu xin giúp đỡ trong Extension để khi "tử huyệt" thật thì còn có người hỗ trợ.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -103,9 +115,15 @@ Wow! That’s so interesting, but that’s mostly for brown bears right? I think
 It’s me, your friend, right?
 ```
 
+Đây là "kịch gốc" của bài. Đọc to theo từng lời, rồi đóng vai hỏi–đáp với bạn cùng luyện.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là giả định sống của cấu trúc bài — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài. Bốn điểm, điểm nào cũng có mẹo né lỗi người Việt hay dính.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -116,7 +134,11 @@ It’s me, your friend, right?
 | 3 | Conditional Type II (Điều kiện loại 2) | Giả định trái thực tế + lời khuyên |
 | 4 | "Could" ở mệnh đề IF | Giả định khả năng |
 
+> **Cách đọc bảng này:** Cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay. Chỉ có 30 giây thì đọc thẳng cột cuối.
+
 ### Điểm 1. Go + adj (trở nên/ đi tới mức…): `GO + ADJECTIVE`
+
+Điểm này là "cây cầu trượt" của trạng thái — chỉ chở mình xuống dốc, đừng đi lên bằng nó.
 
 **Cách dùng:** Bản chất: *go* = "rơi vào / trượt tới mức" — nói sự **chuyển trạng thái**, đa phần là xấu đi: *go crazy, go mad, go grey, go bad*. Dễ nhầm với *get + adj* — *get* trung tính, đi lên hay đi xuống đều được (*get cold, get better*), còn *go* chuyên chở xuống dốc, nên ~~go happy~~ nghe lạ, người ta dùng *become/get happy*. Mẹo nói: nhấn mạnh tính từ sau *go* và kéo dài một nhịp — *"I would gooo craaazy!"* — độ phóng đại lập tức lên.
 
@@ -136,7 +158,11 @@ It’s me, your friend, right?
 - Đổi adj: `I would go mad without my morning coffee.` *(Không có cà phê sáng chắc tớ điên mất)*
 - Đổi thì về quá khứ: `She went crazy when she heard the news.` *(Cô ấy phát điên lên khi nghe tin đó)*
 
+> **Tóm gọn 1 câu:** *Go + adj* tả sự chuyển trạng thái xấu đi (*go crazy, go bad*) — muốn nói "đổi đời theo hướng tốt" thì mời *get* hoặc *become* ra làm.
+
 ### Điểm 2. What would you do if S + V2/ed: `WHAT WOULD YOU DO IF + S + V2/ED (Quá khứ đơn)?`
+
+Điểm này là "lời mở đầu" của mọi cuộc giả định — chữ *if* nào cũng kéo động từ lùi về quá khứ.
 
 **Cách dùng:** Bản chất: hỏi **phản ứng** với chuyện chưa có thật — dấu hiệu giả định là vế sau IF **lùi về Quá khứ đơn** dù nghĩa vẫn là hiện tại/tương lai, và vế chính dùng **WOULD thay WILL**. Hỏi hành động thì *What would you do…?*, hỏi cảm giác thì *How would you feel…?* — cùng một giả định, hai mỏ khoét khác nhau. Cản trở: ~~What would you do if you will have…?~~ — chữ **if** chặn *will*. Mẹo nói: đọc mượt "What would you…" như một nhịp duy nhất, đừng tách rời từng từ.
 
@@ -156,7 +182,11 @@ It’s me, your friend, right?
 - Đổi giả định: `What would you do if you met your idol?` *(Nếu gặp thần tượng của mình, cậu sẽ làm gì?)*
 - Đổi chủ ngữ *you* → *I* (tự vấn): `What would I do if I failed?` *(Nếu thất bại, tớ sẽ làm gì đây?)*
 
+> **Tóm gọn 1 câu:** Hỏi giả định là vế IF lùi quá khứ đơn và vế chính dùng *would* thay *will* — chữ "if" chặn đứng mọi *will* muốn lọt qua.
+
 ### Điểm 3. Conditional Type II (Điều kiện loại 2): `IF + S + V (Quá khứ đơn), S + WOULD / COULD + V`
+
+Điểm này là "khung sườn" của giả định trái thực tế — và cũng là khung khuyên mềm nhất trong tiếng Anh nói.
 
 **Cách dùng:** Bản chất: khung chuẩn của giả định **trái thực tế ở hiện tại** — If + quá khứ đơn, S + would/could + V. "were" dùng cho **mọi chủ ngữ**: *If I were you* — học chuẩn thì đừng nói ~~If I was you~~ (đời thường vẫn nghe được, nhưng "were" mới là dấu hiệu giả định gọn gàng). Đây cũng là khung khuyên mềm nhất trong tiếng Anh nói: *If I were you / in your position, I'd…*. Mẹo nói: nhấn chữ **were** một nhịp để báo hiệu "tôi đang giả định đấy nhé".
 
@@ -176,7 +206,11 @@ It’s me, your friend, right?
 - Đổi chủ ngữ: `If she had a million dollars, she would buy a beautiful house.` *(Nếu cô ấy có một triệu đô, cô ấy sẽ mua một căn nhà đẹp)*
 - Đổi *would* → *could* (khả năng): `If I had wings, I could fly to you every day.` *(Nếu có cánh, tớ có thể bay tới bên cậu mỗi ngày)*
 
+> **Tóm gọn 1 câu:** Giả định trái thực tế là If + quá khứ đơn, would/could + V — với mọi chủ ngữ đều nói *"If I were you"* cho gọn dấu hiệu giả định.
+
 ### Điểm 4. "Could" ở mệnh đề IF: `IF + S + COULD + V…, S + WOULD + V`
+
+Điểm này phân biệt "được phép mơ" và "thật sự làm được" — chỉ cách nhau một chữ *can/could*.
 
 **Cách dùng:** Bản chất: *could* trong vế IF = "nếu mà **được**…" — khả năng **trên lý thuyết** nhưng thực tế không thực hiện nổi (bay, đọc được suy nghĩ người khác). Vế chính vẫn **would + V**, đừng kéo *will* vào. Dễ nhầm: *If I can…* (chuyện thật, có thể xảy ra) vs *If I could…* (giả định, mơ thôi) — chỉ khác một chữ mà đổi cả thế giới câu. Mẹo nói: cặp *could… would…* đọc như hỏi–đáp, nhịp nhẹ, đều.
 
@@ -196,9 +230,13 @@ It’s me, your friend, right?
 - Đổi khả năng: `If I could cook well, I would open a small food stand.` *(Nếu nấu ăn ngon, tớ sẽ mở một quán nhỏ)*
 - Đổi chủ ngữ: `If she could fly, she would visit us every week.` *(Nếu cô ấy bay được, tuần nào cô ấy cũng ghé chơi)*
 
+> **Tóm gọn 1 câu:** *If I could…* là mơ trên lý thuyết, *If I can…* là chuyện thật — vế IF dùng *could* thì vế chính vẫn giữ *would + V*.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập". Nói to, nói nhanh, sai thì sửa ngay tại chỗ.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *What would you do if you could go anywhere right now? — I would love to go to the the center Offline event.*
@@ -215,3 +253,5 @@ It’s me, your friend, right?
 5. What would you do if you had to stay away from internet and smartphone for a week? — *I think I would go crazy! But I could … instead. Where would you want to be?*
 
 > ✅ Checkpoint: hỏi giả định bằng **What would you do if + S + V (quá khứ đơn)?** — trả lời luôn bằng **I would / I'd + V** (khuyên thì *If I were you, I'd…*). Thử 5 giả định lớn (triệu đô, mất mạng, hoá cánh, gặp cá sấu/gấu…) và ghi âm lại.
+
+> **Tóm gọn 1 câu:** Luyện qua echo drill rồi 5 câu tự luyện — mở "cánh cổng giả định" bằng *What would you do if…?*, đáp *I would + V*, ghi âm nghe lại là biết mình ở đâu.

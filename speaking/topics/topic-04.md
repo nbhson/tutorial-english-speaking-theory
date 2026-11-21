@@ -14,11 +14,18 @@ Topic này dạy cách **hỏi ý kiến một cách thẳng thắn** — "What 
 - Conversation: hỏi về **việc nhà** — một người "làm lúc thấy cần", thích quét dọn, tưới cây, nấu ăn nhưng ghét giặt giũ; người kia xem việc nhà là cách xả stress; trong quan hệ thì sẽ chia sẻ.
 Điểm chốt: khi hỏi ý kiến → nhận cả khen lẫn chê → đừng quên phản xạ "really? / why not? / what makes you think that?".
 
+> **Tóm gọn 1 câu:** Bài này dạy cách "xin ý kiến": hỏi "What do you think of…?" và sẵn sàng đón cả khen lẫn chê — kèm phản xạ hỏi vặn cho câu chuyện kéo dài.
+
 ### 2) Khi nào sử dụng?
+
+Mục này chỉ chỗ "xuống tiền" của câu hỏi ý kiến: từ chuyện tiền bạc nhạy cảm tới việc nhà của gia đình.
+
 - Khi hỏi **ý kiến khách quan** về một thứ/sự việc: *money, English, teaching, housework, my girlfriend…*
 - Khi muốn **mở chủ đề nhạy cảm** (tiền, tình cảm) một cách lịch; lời hỏi "What do you think of…" nhẹ hơn "What's your opinion about…?".
 - Dùng trong đời sống thường: công việc nhà, thói quen, người thân.
 - Ghép câu phản hồi chéo: "How about you?", "That's nice. I don't usually see…".
+
+> **Tóm gọn 1 câu:** "What do you think of…?" là cách mở chủ đề nhạy cảm một cách lịch — hỏi xong cứ khoanh tay nghe, ai chê thì hỏi vặn "What makes you think that?".
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -36,7 +43,12 @@ Topic này dạy cách **hỏi ý kiến một cách thẳng thắn** — "What 
 | 8 | **Shut up!** | Thôi đi (trong thân mật — đùa) | Chặn lời đùa | *Shut up! I mean the inspiring one.* | ~~shutup~~ — viết hai từ: shut up | *Fine, fine, I'll stop. (Được rồi, tôi thôi!)* |
 | 9 | **I'm so happy and lucky to be with her** | Tôi rất hạnh phúc và may mắn khi có cô ấy | Nói cảm xúc tình cảm | *Oh, yeah she is. I'm so happy and lucky to be with her.* | ~~to being with her~~ — sau to là V nguyên mẫu | *She's a lucky one too! (Cô ấy cũng may mắn đấy!)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Hàng 5 và 6 là "vũ khí" khi muốn kéo dài cuộc tranh luận.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Exchange | (n) /ɪks ˈtʃeɪndʒ/ | Đổi tiền |
@@ -47,7 +59,11 @@ Topic này dạy cách **hỏi ý kiến một cách thẳng thắn** — "What 
 | Relationship | (n) /rɪ ˈleɪʃnʃɪp/ | Mối quan hệ |
 | Interesting | (adj) /ˈɪntrestɪŋ/ | Hứng thú |
 
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép nghĩa cột phải là nhớ nhanh nhất.
+
 **Extension (CHORES – HOUSEWORK, việc nhà):** Sweep floors (Quét nhà), Mop floors (Lau nhà), Water plants (Tưới cây), Vacuum (Hút bụi), Wash bedding (Giặt mền gối), Mow the lawn (Cắt cỏ), Feed pets (Nuôi thú cưng), Wash clothes (Giặt giũ), Weed the garden (Làm vườn), Clean bathrooms (Vệ sinh phòng tắm), Do some cooking (Nấu ăn), Do dishes (Rửa chén bát).
+
+> **Tóm gọn 1 câu:** Học từ vựng theo danh sách "việc nhà" — quen tới đâu dùng tới đó, vì đây là chuyện cả nhà nói mỗi ngày.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -78,9 +94,15 @@ That's nice. I don't usually see men doing housework here.
 Yeah, I know. Especially in the remote areas.
 ```
 
+Đây là "kịch gốc" của bài — đọc to từng câu, gạch mỗi lần "What do you think of…?" xuất hiện để thấy cách người ta mở liên tiếp 3 chủ đề.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho "hỏi ý kiến – nhận khen chê" — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 4 điểm, điểm nào cũng là chỗ người Việt hay trượt chân khi nói.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -91,7 +113,11 @@ Yeah, I know. Especially in the remote areas.
 | 3 | Really + V / Very + Adj/Adv | Lỗi VN-speak "I very love you" |
 | 4 | N → S+V / Prep+N → Adv | "My family has…", "In my room, there are…" |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. Reflexive Pronouns: `myself / yourself / himself / herself / itself / ourselves / yourselves / themselves`
+
+Điểm này cho bạn "tấm gương soi" của ngữ pháp: chủ ngữ và người nhận hành động là cùng một người.
 
 **Cách dùng:** myself/yourself… là "tấm gương" của chủ ngữ: dùng khi hành động **tự làm cho chính mình** hoặc muốn **nhấn mạnh** chính người đó (*I do the housework myself*). Nó phải **khớp chủ ngữ** — I→myself, she→herself, we→ourselves; đứng sau động từ/giới từ hoặc cuối câu để "gõ" nhấn mạnh. Cẩn thận: chủ ngữ và tân ngữ là **hai người khác nhau** thì dùng tân ngữ thường (*She loves her sister*, không phải ~~herself~~). Mẹo nói: nhấn từ phản thân lên cho câu có "xung" — *I did it MYSELF*.
 
@@ -111,7 +137,11 @@ Yeah, I know. Especially in the remote areas.
 - Đổi chủ ngữ: `She cleans the house herself.` *(Cô ấy tự dọn nhà)*
 - Đổi thì (quá khứ): `We painted the wall ourselves last weekend.` *(Cuối tuần rồi tụi tôi tự sơn tường)*
 
+> **Tóm gọn 1 câu:** Đại từ phản thân phải "khớp chủ ngữ" như tấm gương khớp người soi — tự làm thì myself/herself, nhấn mạnh thì chốt cuối câu.
+
 ### Điểm 2. Too + Adj (for sb) + to V: `Quá … (cho ai) để làm gì (Phủ định)`
+
+Điểm này là cái "đèn đỏ âm thầm": chữ too xuất hiện là câu tự động phủ định mà không cần not.
 
 **Cách dùng:** Cấu trúc "quá chừng" nhưng **mang nghĩa phủ định ngầm**: quá… đến mức **không làm được** — *too heavy to carry* = không mang nổi, đừng thêm not vào. Muốn phủ định thật sự thì đặt not trước too: *not too heavy to carry* = không quá nặng, vẫn mang được. Có thể chèn *for sb* chỉ người chịu "tác động": *too hard **for me** to say*. Mẹo nói: kéo dài "too" cho cảm giác quá chừng — *it's toooo early*.
 
@@ -131,7 +161,11 @@ Yeah, I know. Especially in the remote areas.
 - Đổi adj: `It's too cold to swim today.` *(Hôm nay lạnh quá, bơi không nổi)*
 - Đổi "for sb": `The box is too heavy for her to lift.` *(Thùng quá nặng, cô ấy không nhấc nổi)*
 
+> **Tóm gọn 1 câu:** too + adj + to V tự phủ định ngầm — quá… đến mức không làm nổi; muốn nói "vẫn làm được" thì thêm not trước too.
+
 ### Điểm 3. Really + V … / Very + Adj/Adv
+
+Điểm này chia "lãnh địa" cho hai chữ cường độ: really trông động từ, very trông tính từ — xâm nhập lãnh địa của nhau là lỗi quốc dân.
 
 **Cách dùng:** Cặp đôi hay gây "tai nạn" cho người Việt: **really** bám động từ (*I really love you*), **very** bám tính từ/trạng từ (*very important*). Nhầm hai vị trí là lỗi quốc dân: ~~I very love you~~ ✗. Cứu cánh khi lỡ nói: chuyển *very* xuống cuối câu thành *very much* — *I love you very much*. Mẹo nói: really nói trôi ngay trước V; very đấm vào adj — *VERY important*.
 
@@ -151,7 +185,11 @@ Yeah, I know. Especially in the remote areas.
 - Đổi động từ: `I really enjoy this song.` *(Tôi thật sự thích bài này)*
 - Đổi adj: `The movie is very funny.` *(Bộ phim vui cực kỳ)*
 
+> **Tóm gọn 1 câu:** really bám động từ, very bám tính từ — lỡ nói sai thì trút "very much" xuống cuối câu là có nước cứu.
+
 ### Điểm 4. N → S + V / Prep + N → Adv
+
+Điểm này dạy hai kiểu "mở màn câu đếm đồ": cho chủ ngữ hành động, hoặc thả cụm bối cảnh lên đầu câu.
 
 **Cách dùng:** Câu "đếm đồ trong nhà" có hai kiểu mở: cho **người/tổ chức** làm chủ ngữ rồi hành động — *My family has 5 people*; hoặc mở đầu bằng **cụm giới từ làm trạng từ** — *In my room, there are 2 people*. Cản trở hay gặp: ~~In my family has…~~ ✗ — giới từ không làm được chủ ngữ, phải tháo ra hoặc thêm *there be*. Mẹo nói: cụm mở đầu nói nhanh, dừng nửa nhịp rồi vào ý chính — nhịp "bối cảnh → thông tin".
 
@@ -171,9 +209,13 @@ Yeah, I know. Especially in the remote areas.
 - Đổi chủ ngữ: `Our team has eight members.` *(Nhóm tôi có 8 thành viên)*
 - Đổi nơi: `In my hometown, there are many rice fields.` *(Quê tôi có nhiều cánh đồng lúa)*
 
+> **Tóm gọn 1 câu:** Giới từ không làm được chủ ngữ — hoặc thả ra cho người/tổ chức hành động, hoặc thêm there be sau cụm bối cảnh.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu trả lời ý kiến theo cả khen lẫn chê — nói to, ghi âm, nghe lại.
 
 ### Echo drill (nói to 3 lần, mỗi lần nhanh hơn)
 1. *What do you think of money? — Money is something to exchange.*
@@ -191,3 +233,5 @@ Yeah, I know. Especially in the remote areas.
 
 > ✅ Checkpoint: nhận trả lời (khen / chê / neutral) bằng 1 câu tiếng Anh mỗi chủ đề:
 > 💰 · 🇬🇧 · 🧹 · 👫 · 💪.
+
+> **Tóm gọn 1 câu:** 5 chủ đề, mỗi chủ đề một câu trả lời thật của mình — đủ ba sắc thái khen/chê/trung tính là vượt checkpoint.

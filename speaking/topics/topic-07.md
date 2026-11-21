@@ -7,19 +7,26 @@
 ## I. ĐOẠN VĂN
 
 ### 1) Tóm tắt
-Đoạn văn luyện **hỏi và trả lời về số lượng** — đường, sữa, ôm hôn, vé xem phim:
-- **Pha cà phê**: hỏi cần bao nhiêu đường — "chỉ một chút, nửa thìa cà phê"; vẫn đắng → thêm sữa tươi hay sữa đặc? một thìa sữa đặc, có đá thì "tuyệt vời".
-- **Con ôm mẹ**: đòi "nhiều thật nhiều, càng nhiều càng tốt" — 5 cái là hơi nhiều "đắt lắm đấy", đổi lại là một món đồ chơi mới.
-- **Chuyện nghề nghiệp**: làm 5 ngày/tuần, nghề kế toán ở trung tâm; đối diện là mẹ "toàn thời gian" kiêm bán hàng online.
-- Conversation: đặt vé và bỏng ngô — hỏi còn ghế, vé bao nhiêu tiền (suất đặc biệt 50k), mua 2 size lớn được giảm nửa giá phần thứ ba, tổng 560k — trả **thẻ** hay **tiền mặt**?
+Đoạn văn luyện **hỏi và trả lời về số lượng** — đường, sữa, ôm hôn, vé xem phim. Tất cả đều là chuyện "cân đo" đời thường:
+
+- **Pha cà phê**: hỏi cần bao nhiêu đường — "chỉ một chút, nửa thìa cà phê". Vẫn đắng → thêm sữa tươi hay sữa đặc? Một thìa sữa đặc, có đá thì "tuyệt vời".
+- **Con ôm mẹ**: đòi "nhiều thật nhiều, càng nhiều càng tốt". 5 cái là hơi nhiều "đắt lắm đấy" — đổi lại là một món đồ chơi mới.
+- **Chuyện nghề nghiệp**: làm 5 ngày/tuần, nghề kế toán ở trung tâm. Đối diện là mẹ "toàn thời gian" kiêm bán hàng online.
+- **Conversation**: đặt vé và bỏng ngô. Hỏi còn ghế, vé bao nhiêu tiền (suất đặc biệt 50k). Mua 2 size lớn được giảm nửa giá phần thứ ba, tổng 560k — trả **thẻ** hay **tiền mặt**?
 Điểm chốt: dùng đúng **How much** cho thứ không đếm được + giá tiền, **How many** cho thứ đếm được.
 
+> **Tóm gọn 1 câu:** Bài này luyện hỏi – đáp về số lượng: *How much* cho thứ không đếm được và giá tiền, *How many* cho thứ đếm được.
+
 ### 2) Khi nào sử dụng?
+Mục này liệt kê các "điểm hẹn" của cấu trúc. Gặp cảnh nào dưới đây là bật ra ngay.
+
 - **Hỏi giá tiền**: *How much is one ticket? / How much is one large (popcorn)?*
 - **Hỏi lượng không đếm được**: *How much sugar / milk / money do you want?*
 - **Hỏi số lượng đếm được**: *How many seats / days a week / hugs and kisses?*
 - **Đặt mua đồ, rạp phim, quán ăn, tiệm tạp hóa** — mọi cảnh "cân đo" đời thường.
 - **Thương lượng, gợi ưu đãi**: buy 2 get..., cash or card.
+
+> **Tóm gọn 1 câu:** Dùng How much/How many khi hỏi giá, hỏi lượng, đặt mua đồ và thương lượng khuyến mãi.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -38,7 +45,11 @@
 | 9 | **Buy 2 large, get the third one half price** | Mua 2 cái to, cái thứ ba được giảm giá nửa | Đọc ưu đãi, khuyến mãi | *We have a special deal today. Buy 2 large, get the third one half price.* | ~~half of price~~ — cụm cố định là half price | *Deal, I'll take it! (Chốt, tôi lấy luôn!)* |
 | 10 | **How would you like to pay, cash or card?** | Bạn muốn trả tiền mặt hay thẻ? | Thanh toán | *How would you like to pay, cash or card? — Card, please.* | ~~I pay card~~ — trả thẻ phải có by: pay by card | *Card, please. Here you go. (Thẻ nhé, đây ạ)* |
 
+> **Cách đọc bảng này:** Đọc theo từng hàng: cụm từ, nghĩa, lúc nào dùng, câu mẫu, lỗi hay sai (gạch ngang là đừng nói) và câu đáp lại. Hàng nào dùng được ngay thì học hàng đó trước.
+
 ### 4) Từ vựng (Vocabulary)
+Bảng từ vựng là "kho dụng cụ" của bài, chủ yếu là đồ ăn và đồ dùng trong các cảnh cân đo.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Cheek | (n) /tʃiːk/ | Má |
@@ -52,6 +63,8 @@
 | Accountant | (n) /əˈkaʊntənt/ | Kế toán |
 | Ticket | (n) /ˈtɪkɪt/ | Vé |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và cách đọc. Đọc to cột phiên âm vài lần, ghép với nghĩa cột phải là nhớ nhanh.
+
 **Extension (QUANTIFIER — đơn vị lượng "a … of …"):**
 - **a bowl of** soup / noodles *(một bát)*
 - **a slice of** bread / pizza *(một lát)*
@@ -63,6 +76,8 @@
 - **a grain of** rice / salt *(một hạt)*
 - **a bottle of** water / soda *(một chai)*
 - **a roll of** tissue / paper *(một cuộn)*
+
+> **Tóm gọn 1 câu:** Học từ vựng theo cụm "a … of …" — đong lại bằng đơn vị thì câu nào cũng đứng vững.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -108,9 +123,15 @@ Card, please. Here you go.
 Thank you. Please sign here. Here are your tickets. Enjoy the movie!
 ```
 
+Đây là "kịch gốc" của bài: cảnh nhà + cảnh rạp phim. Đọc to từng câu, rồi đóng vai hai bên.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho How much/How many — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp của bài. Sáu điểm, điểm nào cũng kèm mẹo tránh lỗi người Việt hay dính.
 
 **Tổng quan: 6 điểm ngữ pháp trong bài**
 
@@ -123,8 +144,12 @@ Thank you. Please sign here. Here are your tickets. Enjoy the movie!
 | 5 | How many + N số nhiều | Hỏi số lượng đếm được: vé, ghế, ngày |
 | 6 | How + far / long / tall / old / big / fast | Nhóm câu hỏi How đo lường |
 
+> **Cách đọc bảng này:** Cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay. Đọc cột cuối trước nếu chỉ có 30 giây.
+
 ### Điểm 1. The + comparative…, the + comparative…: `THE + adj/adv-ER …, THE + adj/adv-ER …`
-**Cách dùng:** Bản chất: hai vế **cùng mở đầu bằng The** — mức độ bên này tăng thì kết quả bên kia tăng theo: *The more sugar you add, the sweeter your coffee is*. Nói ra khi chốt mức lý tưởng hoặc thuyết phục ai đó tăng thêm, câu ngắn kinh điển là **The more, the better**. Cản trở: đừng chồng so sánh (~~more better~~ ✗), và mỗi vế vẫn là câu đầy đủ có S + V chứ không phải cụm lẻ rời. Nhịp nói: hai vế lên giọng – xuống giọng như cân đối xứng, dừng nửa nhịp ở dấu phẩy.
+Điểm này như cái cân hai đĩa: bên này tăng thì bên kia tăng theo. Cần nó khi muốn chốt mức lý tưởng.
+
+**Cách dùng:** Bản chất: hai vế **cùng mở đầu bằng The** — mức độ bên này tăng thì kết quả bên kia tăng theo: *The more sugar you add, the sweeter your coffee is*. Nói ra khi chốt mức lý tưởng hoặc thuyết phục ai đó tăng thêm. Câu ngắn kinh điển là **The more, the better**. Cản trở: đừng chồng so sánh (~~more better~~ ✗), và mỗi vế vẫn là câu đầy đủ có S + V chứ không phải cụm lẻ rời. Nhịp nói: hai vế lên giọng – xuống giọng như cân đối xứng, dừng nửa nhịp ở dấu phẩy.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How many hugs do you want, Mom?` *(Mẹ muốn bao nhiêu cái ôm?)*
@@ -142,8 +167,12 @@ Thank you. Please sign here. Here are your tickets. Enjoy the movie!
 - Đổi danh từ: `The more books you read, the smarter you get.` *(Càng đọc nhiều sách bạn càng thông minh)*
 - Đổi trạng từ: `The more you practice, the faster you improve.` *(Càng luyện nhiều bạn tiến bộ càng nhanh)*
 
+> **Tóm gọn 1 câu:** Cấu trúc "càng… càng…" là hai vế cùng mở đầu bằng The, không được chồng more lên so sánh hơn.
+
 ### Điểm 2. N + left (còn lại): `there is/are + N + left` · `S + have/has + N + left` · `Any + N + left?`
-**Cách dùng:** Bản chất: *left* là quá khứ phân từ của leave đứng **đuôi danh từ** — cái còn sót lại sau khi đã đi qua một số: *7 seats left, 2 days left, no milk left*. Nói ra khi báo hàng, hỏi còn chỗ, đếm ngược thời gian — chỉ cần gắn *left* sau N là câu chuẩn. Cản trở: đừng đặt left **trước** danh từ kiểu tiếng Việt (~~left seats~~ ✗); câu hỏi dựng bằng *Is/Are there any + N + left?*. Nhịp: nhấn vào con số đứng trước left — *only **seven** seats left* — nghe như nhân viên rạp thật thà.
+Điểm này chỉ cho cách nói "còn sót lại bao nhiêu". Cần nó khi báo hàng, hỏi còn chỗ, đếm ngược thời gian.
+
+**Cách dùng:** Bản chất: *left* là quá khứ phân từ của leave đứng **đuôi danh từ** — nghĩa là cái còn sót lại sau khi đã đi qua một số: *7 seats left, 2 days left, no milk left*. Chỉ cần gắn *left* sau N là câu chuẩn. Cản trở: đừng đặt left **trước** danh từ kiểu tiếng Việt (~~left seats~~ ✗). Câu hỏi dựng bằng *Is/Are there any + N + left?*. Nhịp: nhấn vào con số đứng trước left — *only **seven** seats left* — nghe như nhân viên rạp thật thà.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Are there any seats left for the next showing?` *(Còn ghế nào cho suất tới không?)*
@@ -161,8 +190,12 @@ Thank you. Please sign here. Here are your tickets. Enjoy the movie!
 - Đổi danh từ: `We have 3 hours left before the movie.` *(Còn 3 tiếng nữa mới tới giờ xem phim)*
 - Đổi loại danh từ: `How many cookies are left in the box?` *(Trong hộp còn lại bao nhiêu bánh?)*
 
+> **Tóm gọn 1 câu:** Muốn nói "còn lại" thì gắn *left* vào đuôi danh từ — *7 seats left* — chứ không đặt trước như tiếng Việt.
+
 ### Điểm 3. How much + Be + N (hỏi giá): `HOW MUCH + IS/ARE + (the/a/an) N?`
-**Cách dùng:** Bản chất: hỏi giá tiền thì **How much đi với be**, không cần do/does — *How much is one ticket?*; trả lời gọn *It's + giá / They're + giá*, đừng lặp lại nguyên câu hỏi. Số ít → is/It's, số nhiều → are/They're; hỏi cả hóa đơn thì *How much is the total?* Cản trở: đụng How much + danh từ thường (sugar, milk) là hỏi **lượng**, khác hẳn hỏi giá. Nhịp: ở quầy chỉ vào món rồi hỏi *How much is that one?* — khỏi cần gọi tên chính xác.
+Điểm này là "câu công khai giá" của tiếng Anh. Cần nó ở quầy hàng, rạp phim, chợ.
+
+**Cách dùng:** Bản chất: hỏi giá tiền thì **How much đi với be**, không cần do/does — *How much is one ticket?*. Trả lời gọn *It's + giá / They're + giá*, đừng lặp lại nguyên câu hỏi. Số ít → is/It's, số nhiều → are/They're. Hỏi cả hóa đơn thì *How much is the total?* Cản trở: đụng How much + danh từ thường (sugar, milk) là hỏi **lượng**, khác hẳn hỏi giá. Nhịp: ở quầy chỉ vào món rồi hỏi *How much is that one?* — khỏi cần gọi tên chính xác.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How much is one ticket?` *(Một vé bao nhiêu tiền?)*
@@ -180,8 +213,12 @@ Thank you. Please sign here. Here are your tickets. Enjoy the movie!
 - Đổi số ít → số nhiều: `How much is one ticket?` → `How much are these tickets?` *(Những vé này bao nhiêu tiền?)*
 - Đổi danh từ: `How much is that new toy?` → `How much is that new phone?` *(Cái điện thoại mới đó bao nhiêu?)*
 
+> **Tóm gọn 1 câu:** Hỏi giá dùng How much + is/are, trả lời gọn bằng It's/They're + giá.
+
 ### Điểm 4. How much + Uncountable N: `HOW MUCH + (N không đếm được) + do/does + S + want/need?`
-**Cách dùng:** Bản chất: thứ không đếm được thì **không có số nhiều, không có a/an** — hỏi bằng *How much + N + do/does + S + want?*, trả lời bằng đơn vị đong: *a little / a half of a teaspoon / one spoon of…*. Nói ra ở cảnh pha chế, nấu nướng, hỏi lương. Cản trở: đụng danh từ đếm được (seats, days, hugs) phải đổi sang **How many** — đây là lỗi "sống sót" dai dẳng nhất của người Việt. Mẹo: không nhớ đếm được hay không thì gói vào đơn vị — *a cup of, a spoon of* — câu nào cũng đứng vững.
+Điểm này dành cho những thứ "không bóp được ra từng cái" như đường, sữa, tiền. Không đếm được thì phải hỏi theo kiểu much.
+
+**Cách dùng:** Bản chất: thứ không đếm được thì **không có số nhiều, không có a/an**. Hỏi bằng *How much + N + do/does + S + want?*, trả lời bằng đơn vị đong: *a little / a half of a teaspoon / one spoon of…*. Nói ra ở cảnh pha chế, nấu nướng, hỏi lương. Cản trở: đụng danh từ đếm được (seats, days, hugs) phải đổi sang **How many** — đây là lỗi "sống sót" dai dẳng nhất của người Việt. Mẹo: không nhớ đếm được hay không thì gói vào đơn vị — *a cup of, a spoon of* — câu nào cũng đứng vững.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How much sugar do you want for your coffee?` *(Bạn muốn bao nhiêu đường cho cà phê?)*
@@ -199,8 +236,12 @@ Thank you. Please sign here. Here are your tickets. Enjoy the movie!
 - Đổi danh từ: `How much ice do you want?` *(Bạn muốn bao nhiêu đá?)*
 - Đổi thì: `How much money did you spend last week?` *(Tuần trước bạn tiêu bao nhiêu tiền?)*
 
+> **Tóm gọn 1 câu:** Thứ không đếm được hỏi bằng How much và đong lại bằng đơn vị "a … of …".
+
 ### Điểm 5. How many + Plural N: `HOW MANY + N(s/es) + do/does + S + …?`
-**Cách dùng:** Bản chất: danh từ đếm được phải **số nhiều** đứng ngay sau How many — *How many days a week do you work?*; trả lời bằng số + đơn vị: *about 5 days, 7 seats*. Nói ra khi hỏi tần suất, đếm hàng, chốt đơn. Cản trở: mắt quen "bao nhiêu" tiếng Việt khiến người hay viết ~~How much days~~ — nhớ **much = không đếm, many = đếm được**. Nhịp: trả lời ngắn *about + số* là đủ tự nhiên, khỏi cần câu dài.
+Điểm này là "bản ngược lại" của Điểm 4. Thứ đếm được từng cái thì phải dùng many và số nhiều.
+
+**Cách dùng:** Bản chất: danh từ đếm được phải **số nhiều** đứng ngay sau How many — *How many days a week do you work?*. Trả lời bằng số + đơn vị: *about 5 days, 7 seats*. Nói ra khi hỏi tần suất, đếm hàng, chốt đơn. Cản trở: mắt quen "bao nhiêu" tiếng Việt khiến người hay viết ~~How much days~~ — nhớ **much = không đếm, many = đếm được**. Nhịp: trả lời ngắn *about + số* là đủ tự nhiên, khỏi cần câu dài.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How many days a week do you work?` *(Một tuần bạn làm mấy ngày?)*
@@ -218,8 +259,12 @@ Thank you. Please sign here. Here are your tickets. Enjoy the movie!
 - Đổi danh từ: `How many hours a night do you sleep?` *(Một đêm bạn ngủ mấy tiếng?)*
 - Đổi chủ ngữ: `How many hugs do your kids want?` *(Các con mẹ muốn bao nhiêu cái ôm?)*
 
+> **Tóm gọn 1 câu:** Thứ đếm được hỏi bằng How many + danh từ số nhiều, trả lời ngắn bằng "about + số".
+
 ### Điểm 6. How + far / long / tall / old / big / fast (Câu hỏi How đo lường)
-**Cách dùng:** Bản chất: **How + adj/adv** hỏi đúng "chuyên ngành" từng loại — far (khoảng cách), long (thời lượng), tall (chiều cao), old (tuổi), big (kích cỡ), fast (tốc độ); sau đó là **be + S** hoặc **do/does + S + V**. Nói ra khi cần số đo thật, hỏi thẳng cho nhanh: *How tall?* chớ ~~How height?~~. Cản trở: How **long** hỏi thời gian bao lâu, How **far** hỏi quãng đường bao xa — hai chữ này hay bị tráo chỗ. Nhịp: đáp số ngay (*about 2 km, 2 hours*) tự nhiên hơn cả câu dài.
+Điểm này như bộ thước đo chuyên dụng. Mỗi từ hỏi đúng một "chuyên ngành" riêng.
+
+**Cách dùng:** Bản chất: **How + adj/adv** hỏi đúng "chuyên ngành" từng loại — far (khoảng cách), long (thời lượng), tall (chiều cao), old (tuổi), big (kích cỡ), fast (tốc độ). Sau đó là **be + S** hoặc **do/does + S + V**. Nói ra khi cần số đo thật, hỏi thẳng cho nhanh: *How tall?* chớ ~~How height?~~. Cản trở: How **long** hỏi thời gian bao lâu, How **far** hỏi quãng đường bao xa — hai chữ này hay bị tráo chỗ. Nhịp: đáp số ngay (*about 2 km, 2 hours*) tự nhiên hơn cả câu dài.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How far is the cinema from your house?` *(Rạp phim cách nhà bạn bao xa?)*
@@ -237,9 +282,13 @@ Thank you. Please sign here. Here are your tickets. Enjoy the movie!
 - Đổi từ hỏi: `How tall is your brother?` → `How old is your brother?` *(Anh trai bạn bao nhiêu tuổi?)*
 - Đổi thì: `How long did the trip last?` *(Chuyến đi kéo dài bao lâu?)*
 
+> **Tóm gọn 1 câu:** Mỗi từ How+adj đo một thứ riêng — long hỏi thời gian, far hỏi quãng đường, đừng tráo chỗ.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập". Nói to, nói nhanh, sai thì sửa ngay tại chỗ.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *How much sugar do you want? — Just a little, a half of a teaspoon, please.*
@@ -256,3 +305,5 @@ Thank you. Please sign here. Here are your tickets. Enjoy the movie!
 5. How many days are left until your next holiday? — *There are … days left.*
 
 > ✅ Checkpoint: đi siêu thị / rạp phim, tự nói thầm **5 câu How much / How many** cho 5 món thật quanh mình — và trả lời luôn (số lượng + đơn vị).
+
+> **Tóm gọn 1 câu:** Luyện bằng đồ thật quanh mình — hỏi thầm 5 câu How much/How many và tự trả lời ngay tại chỗ.

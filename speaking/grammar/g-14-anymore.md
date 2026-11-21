@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này đưa ra 3 khuôn nói "không còn nữa" — đọc để phân biệt anymore (cuối câu), no more (đứng trước danh từ) và any more (trong câu hỏi).
+
 `not + any more` hoặc `anymore` (viết liền trong tiếng Anh Mỹ)
 
 | Cấu trúc | Ví dụ | Nghĩa |
@@ -18,7 +20,9 @@
 
 ## II. KHI NÀO DÙNG?
 
-- Nói về điều **đã từng xảy ra nhưng giờ dừng lại** — thay đổi tình trạng.
+Mục này nói về việc báo "chương đã lật trang" — đọc để biết nói về thói quen đã dừng lại sao cho tự nhiên.
+
+- Nói về điều **đã từng xảy ra nhưng giờ dừng lại** — thay đổi tình trạng. Hãy hình dung như **tấm biển "ĐÃ ĐÓNG CỬA"** treo trước một cửa hàng từng mở nhiều năm.
 - Trả lời câu hỏi *"Bạn còn… không?"* với nghĩa phủ định.
 - Dùng trong **câu phủ định** — không dùng trong khẳng định.
 
@@ -27,7 +31,11 @@
 - ~~I like it anymore~~ — anymore chỉ dùng trong **câu phủ định / hỏi**, không dùng trong khẳng định.
 - Nhầm **anymore** (không còn nữa) với **any more** (thêm chút nào nữa) — viết rời = "additional"; viết liền = "no longer".
 
+> **Tóm gọn 1 câu:** Anymore là tấm biển "đóng cửa vĩnh viễn" — luôn đứng cuối câu phủ định, không bao giờ đứng trong câu khẳng định.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này mổ xẻ 3 khuôn (not… anymore, no more, any more) rồi so chữ viết liền với viết rời — đọc để khỏi nhầm hai "anh em đồng âm khác chức năng".
 
 ### Not … anymore = Không còn… nữa
 
@@ -51,6 +59,8 @@
 
 ### No more = Không còn gì nữa (cường điệu hơn)
 
+**No more** đứng **trước danh từ** như người gác cổng chặn cửa — mạnh mẽ, dứt khoát hơn anymore:
+
 | Ví dụ | Nghĩa |
 |-------|-------|
 | There's **no more** coffee. | Không còn cà phê nào nữa. |
@@ -73,6 +83,8 @@
 | Vị trí | Cuối câu | Giữa câu (danh từ / V-ing sau "any") |
 | Câu hỏi | *Do you still…?* (hỏi) → trả lời bằng *not…anymore* | *Any more…?* (hỏi thêm) |
 
+> **Cách đọc bảng này:** so từng hàng để thấy "viết liền = thời gian dừng lại, viết rời = thêm số lượng" — cột Ví dụ là chẩn đoán phân biệt nhanh nhất: thấy "don't… anymore" là hết chuyện, thấy "any more + danh từ" là xin thêm.
+
 > 💡 **Mẹo:** *Anymore* (liền) = "không còn nữa" (thường dùng **an** trong câu phủ định). *Any more* (rời) = "thêm một chút" (hỏi thêm, không phủ định).
 
 **Ví dụ:**
@@ -81,7 +93,13 @@
 3. She doesn't live there **anymore** — she moved last year. — *Cô ấy không còn sống ở đó — cô ấy chuyển đi năm ngoái.*
 4. Would you like **any more** rice? — *Bạn muốn thêm cơm không?*
 
+> **Tóm gọn 1 câu:** Viết liền anymore = "không còn nữa" (cuối câu phủ định), viết rời any more = "thêm một ít" (đứng trước danh từ) — một khoảng cách giữa hai chữ, hai nghĩa xa nhau.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" báo thay đổi thói quen trong hội thoại thật — đọc để chọn câu theo mức dứt khoát của ý mình.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -90,6 +108,8 @@
 | 3 | **Do you still …?** | Bạn vẫn … không? | Hỏi về thói quen hiện tại | *Do you still play tennis?* | —— | *No, I don't anymore.* |
 | 4 | **There's no more…** | Không còn… nào nữa | Báo hết đồ / hết thời gian | *There's no more parking space.* | —— | *Let's find another place.* |
 | 5 | **Never again** | Không bao giờ nữa | Từ chối dứt khoát, mạnh mẽ | *I'm done with that job — never again!* | —— | *I hear you.* |
+
+> **Cách đọc bảng này:** các câu xếp từ "thay đổi nhẹ nhàng" (1, 3) lên "tuyên bố dứt khoát" (2, 5) — đọc cột "Câu mẫu" kèm "💬 Đáp lại" như một cặp hội thoại để nhớ cả cách người ta phản ứng.
 
 ## V. TỪ VỰNG
 
@@ -103,7 +123,11 @@
 | Watch | (v) /wɒtʃ/ | Xem |
 | Play | (v) /pleɪ/ | Chơi |
 
+> **Cách đọc bảng này:** đọc to phiên âm 2 lần mỗi từ — chú ý cặp "đối thủ" anymore/still nằm ngay hai dòng đầu, sẽ gặp lại ở phần BONUS cuối bài.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen nhịp not…anymore, câu hỏi tự luyện để kể thói quen đã thay đổi của mình — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I don't eat fast food anymore.*
@@ -121,9 +145,9 @@
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Kể được 5 thói quen "trước có, giờ không" không nhìn note — tấm biển "đóng cửa" anymore đã treo vĩnh viễn trong đầu bạn.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *I don't work there anymore.* / *She doesn't use that software anymore.* / *We don't need it anymore.* / *He doesn't attend meetings anymore.*
 - Du lịch: *I don't travel by bus anymore.* / *She doesn't stay at hostels anymore.* / *We don't visit that place anymore.* / *He doesn't eat street food anymore.*
 - Mua sắm: *I don't shop there anymore.* / *She doesn't buy from them anymore.* / *We don't need it anymore.* / *He doesn't use coupons anymore.*
@@ -147,3 +171,5 @@
 | She doesn't wear glasses anymore. | She still wears glasses. |
 
 > 💡 Mẹo: Khi muốn nói **thói quen đã thay đổi** → dùng "not … anymore". Khi muốn nói **thói quen vẫn giữ nguyên** → dùng "still".
+
+> **Tóm gọn 1 câu:** Anymore và still là hai mặt của chiếc gương — một bên "đã dừng", một bên "vẫn chạy", đổi bên là đổi nghĩa của cả câu.

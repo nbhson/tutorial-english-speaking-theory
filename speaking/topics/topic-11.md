@@ -7,20 +7,33 @@
 ## I. ĐOẠN VĂN
 
 ### 1) Tóm tắt
-Đoạn văn là **cuộc "đối xử giờ giấc" giữa sớm khuya**:
-- **Dậy sớm vs ngủ nướng**: dậy 5h mỗi sáng nhưng cuối tuần ngủ nướng; người kia hiếm khi dậy trước 8h; ai ngủ 2h sáng — "chí phải cú đêm".
-- **Hẹn bạn gái**: gặp chuẩn giờ trưa, khoảng 1 tiếng rồi về làm; hai người không cùng công ty nhưng cách nhau 5 phút đi bộ — "nghe ngọt đấy".
+
+Phần này tóm tắt đoạn hội thoại trong bài, để bạn nắm bối cảnh trước khi vào ngữ pháp.
+
+Đoạn văn là một cuộc "tranh nhau giờ giấc giữa sớm khuya":
+- **Dậy sớm vs ngủ nướng**: người nọ dậy 5h mỗi sáng nhưng cuối tuần vẫn ngủ nướng; người kia hiếm khi dậy trước 8h; còn ai đó ngủ lúc 2h sáng — "chí phải cú đêm".
+- **Hẹn bạn gái**: gặp chuẩn giờ trưa, ngồi khoảng 1 tiếng rồi về làm. Hai người khác công ty nhưng cách nhau 5 phút đi bộ — "nghe ngọt đấy".
 - **Tan làm & ghé qua**: tan làm ~6h — "mấy giờ anh ghé?" — "giữa 6:30–6:45" — "trên đường đi thì nhắn tin nhé".
-- Conversation chế nhạo hơn: chủ nhật ngủ nướng, ăn **brunch** (bữa lửng sáng-trưa) — "quá muộn cho sáng, quá sớm cho trưa"; đi làm **suốt ngày đêm** nên khó dậy sớm — đổi hẹn sang trưa, "**12h đại khái?** Đón tôi nhé".
-Điểm chốt: học **"What time do you…?"** và ba cách trả lời: lặp hành động + giờ; "It's + giờ"; hoặc chỉ nêu mốc ("At 6", "Around 2AM").
+- Đoạn hội thoại sau thì chế nhạo hơn: chủ nhật ngủ nướng, ăn **brunch** (bữa lửng giữa sáng và trưa) — "quá muộn cho bữa sáng, quá sớm cho bữa trưa"; đi làm **suốt ngày đêm** nên khó dậy sớm — đành đổi hẹn sang trưa, "**12h đại khái?** Đón tôi nhé".
+
+Điểm chốt: học câu **"What time do you…?"** và ba cách trả lời: lặp lại hành động kèm giờ; dùng "It's + giờ"; hoặc chỉ nêu mốc ("At 6", "Around 2AM").
+
+> **Tóm gọn 1 câu:** Cả bài xoay quanh việc hỏi và trả lời "What time do you…?" bằng các kiểu hẹn giờ mềm như *around*, *…ish*, *between … and …*.
 
 ### 2) Khi nào sử dụng?
+
+Mục này liệt kê những tình huống đời thường mà câu hỏi giờ giấc xuất hiện — biết đúng chỗ dùng thì nói sẽ tự nhiên hơn.
+
 - Hỏi **giờ cụ thể của thói quen hiện tại**: *What time do you get up / go to bed / get off work?*
 - Hỏi **giờ dự định/hẹn hò**: *What time are you dropping by?* → trả lời **giữa 6:30 và 6:45**.
 - So sánh **"đám dậy sớm" vs "đám cú đêm"**: early bird vs night owl.
 - Mở rộng chủ đề: công việc nam/nữ, ngày nghỉ (day off), brunch, 12ish.
 
+> **Tóm gọn 1 câu:** Dùng "What time do you…?" khi hỏi giờ thói quen hay giờ hẹn, và trả lời bằng mốc giờ mềm cho tự nhiên.
+
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
+
+Đây là "hộp đồ nghề" của cả bài: những cụm người bản xứ dùng thật khi nói về giờ giấc. Đọc chậm từng dòng, chọn vài cụm dùng ngay hôm nay.
 
 Đọc nhanh như vầy: **⚠️** là lỗi "dịch từ tiếng Việt" hay gặp (~~gạch~~ = đừng nói) · **💬** là khi nghe ai đó nói cụm này, mình bắt chuyện tiếp bằng câu nào.
 
@@ -38,7 +51,14 @@
 | 10 | **Can you pick me up?** | Ghé đón tôi nhé | Nhờ ai đó đón mình | *Can you pick me up? — Sure. Catch you later.* | ~~pick up me~~ — đại từ phải chen giữa: pick **me** up | *Sure! Where are you now? (Được! Giờ cậu ở đâu?)* |
 | 11 | **Let's say 12ish** | Đại khái 12h đi | Hẹn giờ "mềm", không chính xác | *Let's say 12ish? Can you pick me up?* | ~~12 o'clockish~~ — "ish" ghé thẳng sau số: 12ish, 6ish | *Sounds great! / That works for me. (Nghe được đấy!)* |
 
+> **Cách đọc bảng này:** Cột "Cụm từ" và "Nghĩa" cho biết nói gì; cột "Khi nào dùng" là hoàn cảnh phù hợp; hai cột cuối ⚠️ và 💬 giúp bạn tránh lỗi và bắt chuyện tiếp khi nghe người khác nói cụm đó.
+
+> **Tóm gọn 1 câu:** Học 11 cụm giao tiếp về giờ giấc, chú ý các lỗi dịch-sát-tiếng-Việt được đánh dấu ⚠️.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng này là "nguyên liệu" để bạn hiểu các cụm phía trên. Từ nào lạ thì đọc phiên âm rồi đọc to 2-3 lần.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Breakfast | (n) /ˈbrekfəst/ | Bữa sáng |
@@ -53,6 +73,8 @@
 | Instead | (adv) /ɪnˈsted/ | Thay vào đó |
 | Pick up | (v) /pɪk/ | Đón (chọn) |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và phiên âm (đọc theo là ra gần đúng phát âm), cột phải là nghĩa tiếng Việt ngắn gọn nhất.
+
 **Extension (TIME — cách đọc đồng hồ):**
 - 12:00 — Twelve o'clock
 - 01:00 — One o'clock
@@ -62,7 +84,12 @@
 - 01:45 — One forty-five (a quarter before two / a quarter to two)
 - 01:50 — One fifty (ten before two / ten to two)
 
+> **Tóm gọn 1 câu:** Nắm 11 từ vựng cốt lõi về bữa ăn và giờ giấc, cộng thêm cách đọc đồng hồ kiểu "past/to".
+
 ### 5) Đoạn hội thoại gốc (Free Talk)
+
+Đây là hai đoạn hội thoại gốc của bài — nguồn "chữa chuẩn" cho mọi cụm ở trên. Đọc to theo vai, rồi đóng vai lại.
+
 ```
 What time do you get up in the morning?
 About 5AM every day, but I sleep in on the weekends. How about you?
@@ -103,9 +130,13 @@ Sounds great! Let's say 12ish? Can you pick me up?
 Sure. Catch you later.
 ```
 
+> **Tóm gọn 1 câu:** Hai đoạn hội thoại gốc là nơi mọi cụm từ ở trên "sống" — thuộc hội thoại là thuộc bài.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Phần này chia bài thành 5 điểm ngữ pháp nhỏ. Mỗi điểm đều lấy ví dụ từ hội thoại ở trên nên bạn sẽ gặp lại đúng chỗ nó được dùng.
 
 **Tổng quan: 5 điểm ngữ pháp trong bài**
 
@@ -117,7 +148,13 @@ Sure. Catch you later.
 | 4 | Negative words (No / None / Never / No one…) | Trả lời tuyệt đối "zero" |
 | 5 | Negative adverbs (Hardly / Scarcely / Barely) | "Hiếm khi / hầu như không" |
 
+> **Cách đọc bảng này:** Cột "Tên" là điểm ngữ pháp, cột "Ứng dụng nói" cho biết nó dùng để nói điều gì trong hội thoại.
+
+> **Tóm gọn 1 câu:** 5 điểm ngữ pháp của bài: modal + V, "just", phủ định bằng trợ động từ, phủ định tuyệt đối và phủ định mềm.
+
 ### Điểm 1. Modal Verbs + V: `WILL / SHALL / CAN / COULD / MAY / MIGHT / MUST + V (nguyên mẫu)`
+
+Mục này nói về "động từ khuyết thiếu" — những từ như can, must, will. Hãy hình dung modal như chiếc khóa cài sẵn: nó đứng trước động từ, không bao giờ đổi hình dạng, và động từ sau nó luôn "trần" (nguyên mẫu, không "to", không thêm s).
 
 **Cách dùng:** Sau modal **luôn là V nguyên mẫu, không "to"** — nghĩ kiểu "modal trước, động từ trần sau". Modal không đổi theo chủ ngữ: *I must / she must*, không có ~~musts~~ hay ~~must to~~. Nếu modal là *will* mà sau là tính từ thì phải chèn **be**: *will be happy* (đừng nói ~~will happy~~). Cần nhờ/xin phép nhẹ nhàng thì thay *can* bằng *could / may* — cùng nghĩa, sang hơn.
 
@@ -137,7 +174,11 @@ Sure. Catch you later.
 - Đổi chủ ngữ *I* → *she*: `She must see you.` *(Cô ấy phải gặp anh)*
 - Đổi *can* → *could* cho lịch sự: `Could you pick me up?` *(Anh ghé đón mình giúp được không?)*
 
+> **Tóm gọn 1 câu:** Modal (can/must/will…) đứng trước động từ nguyên mẫu, không "to", không chia theo chủ ngữ; muốn lịch sự thì dùng could/may.
+
 ### Điểm 2. Just + V / N / Adv / Adj: `JUST … = Chỉ thế / Cứ …`
+
+Mục này về từ "just" — một từ bé mà tiếng Anh nói dùng liên tục. Nó giống nút "giảm âm" trên remote: đặt trước từ chính, câu bỗng nhẹ nhàng, bớt cứng nhắc.
 
 **Cách dùng:** "Just" là từ **giảm thanh** của tiếng Anh nói — đặt ngay **trước từ chính** (V/N/Adv/Adj) để câu bớt nặng: nhờ nhẹ (*just text me*), chốt gọn (*just that?*), an ủi (*just sad?*). Khác *only*: *only* nặng về số lượng, hay gặp khi viết; *just* là lựa chọn của miệng. Vị trí quyết định nghĩa — đứng ngay trước cái mình muốn "làm nhẹ đi", đổi chỗ là câu nát.
 
@@ -157,7 +198,11 @@ Sure. Catch you later.
 - Đổi động từ: `Just text me.` → `Just call me.` → `Just let me know.` *(Cứ nhắn / Cứ gọi / Cứ báo)*
 - Đổi thì (vừa làm xong): `I just texted you.` *(Tớ vừa nhắn cho cậu rồi đó)*
 
+> **Tóm gọn 1 câu:** "Just" đặt trước từ chính để làm câu nói nhẹ nhàng, tự nhiên hơn "only" trong văn nói.
+
 ### Điểm 3. Negation – Negative verbs: `DON'T / DOESN'T · ISN'T / AREN'T / AM NOT · WON'T / CAN'T · SHOULDN'T / WOULDN'T · HAVEN'T / HASN'T`
+
+Mục này về cách phủ định chuẩn trong tiếng Anh. Tiếng Việt mình nói "không... không... gì đâu" thoải mái, nhưng tiếng Anh chỉ cho phủ định **một lần mỗi câu** — như một vé xe buýt: dùng một lần là hết.
 
 **Cách dùng:** Tiếng Việt phủ định bao nhiêu lần cũng được, tiếng Anh **một câu chỉ một lần**: chọn đúng 1 trong 3 chỗ bám — (1) trợ động từ (*don't/can't/haven't*…), (2) từ phủ định (*nobody/no…* — Điểm 4), (3) trạng từ mềm (*hardly…* — Điểm 5). Phủ định luôn bám vào **trợ động từ đứng trước V chính**, và V trở về nguyên mẫu: *I don't have breakfast* (đừng nói ~~I don't has~~).
 
@@ -177,7 +222,11 @@ Sure. Catch you later.
 - Đổi chủ ngữ *we* → *they*: `They don't have breakfast, only brunch.` *(Họ không ăn sáng, chỉ ăn brunch thôi)*
 - Đổi thì hiện tại → quá khứ: `I didn't have breakfast yesterday.` *(Hôm qua tôi không ăn sáng)*
 
+> **Tóm gọn 1 câu:** Mỗi câu tiếng Anh chỉ phủ định một lần — bám vào trợ động từ (don't/can't/haven't) và trả động từ về nguyên mẫu.
+
 ### Điểm 4. Negative words: `NO / NOT / NONE / NEITHER / NEVER` · `NO ONE / NOBODY / NOTHING / NOWHERE`
+
+Mục này về họ từ phủ định "tuyệt đối" — kiểu trả lời thẳng "zero, không bàn cãi". Chúng giống câu trả lời dứt khoát: "không" là không, nhưng động từ lại giữ dạng khẳng định.
 
 **Cách dùng:** Phủ định **tuyệt đối** (zero) — khi dùng thì động từ giữ **dạng khẳng định**, đừng thêm don't nữa (~~Nobody doesn't know~~ ✗). Chọn nhanh: **no + danh từ** (*no time, no plan*), **nothing** = không có gì (vật), **nobody / no one** = không ai, **nowhere** = không có nơi nào, **none of + nhóm** = trong nhóm đó không ai. Câu đã có *don't* thì đổi sang họ *any-*: *not anything / not anywhere*.
 
@@ -197,7 +246,11 @@ Sure. Catch you later.
 - Đổi danh từ sau **no**: `I have no plan this Sunday.` *(Chủ nhật này tôi chẳng có kế hoạch gì)*
 - Đổi chủ ngữ: `Nobody in my class is an early bird.` *(Cả lớp chẳng có ai dậy sớm)*
 
+> **Tóm gọn 1 câu:** Họ no-/nobody/nothing phủ định "tuyệt đối" — động từ giữ dạng khẳng định, tuyệt đối không thêm don't.
+
 ### Điểm 5. Negative adverbs: `HARDLY / SCARCELY / BARELY (+ any / ever)`
+
+Mục này về phủ định "mềm" — không hẳn "không", mà là "gần như không". Giống như bạn gần như trúng số: về lý thuyết có thể, nhưng thực tế thì thôi.
 
 **Cách dùng:** Phủ định **mềm** — "gần như không": *hardly ever* = hiếm khi (gần 0 lần), *hardly / barely any* = không còn bao nhiêu, *barely* = vừa đủ lướt qua. Đặt **ngay trước V chính**; tự nó đã là "không" nên **cấm thêm don't / never** (double negative). Thang mạnh để so: *never* (0 lần) > *hardly ever* (gần như không) > *rarely* (ít khi, nhưng vẫn có).
 
@@ -217,9 +270,13 @@ Sure. Catch you later.
 - Đổi trạng từ *hardly* → *barely*: `She barely eats out.` *(Cô ấy gần như không đi ăn ngoài)*
 - Đổi *hardly ever* (tần suất) → *hardly any* (số lượng): `We have hardly any homework today.` *(Hôm nay tụi mình hầu như không có bài tập về nhà)*
 
+> **Tóm gọn 1 câu:** Hardly/scarcely/barely là phủ định "gần như không" — đặt trước động từ chính và đừng đùng thêm don't/never.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Phần cuối là phần quan trọng nhất: nói ra miệng. Đọc thầm thì không đếm — hãy bật mic hoặc nói to.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *What time do you get up in the morning? — About 5AM every day, but I sleep in on the weekends.*
@@ -228,11 +285,15 @@ Sure. Catch you later.
 4. *I'll swing by between 6:30 and 6:45. Just text me when you're on the way.*
 5. *Let's say 12ish? Can you pick me up?*
 
+> **Tóm gọn 1 câu:** Lặp to 3 lần mỗi câu, mỗi lần nhanh hơn — luyện phản xạ miệng chứ không phải luyện đọc.
+
 ### 5 câu hỏi tự luyện (tự hỏi + trả lời)
 1. What time do you usually wake up on weekdays? — *I usually get up at …, but I sleep in on …*
 2. What time do you go to bed? — *Around … . I'm a night owl / I'm an early bird.*
 3. What time do you get off work? — *Around … . And you?*
 4. What time do you have brunch on Sundays? — *Around 10ish, because …*
 5. What time are you dropping by my house tomorrow? — *I'll swing by between … and … . Just text me.*
+
+> **Tóm gọn 1 câu:** Tự hỏi tự trả lời 5 câu với giờ thật của mình — trả lời bằng around/…ish/between … and … cho tự nhiên.
 
 > ✅ Checkpoint: hỏi & trả lời **"What time…?"** với 5 giờ thật trong ngày (dậy, ăn, làm, tan, ngủ) — nhớ dùng "around/…ish/between … and …". Ghi âm lại.

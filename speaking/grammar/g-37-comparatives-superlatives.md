@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này xếp sẵn "bộ thước đo" của tiếng Anh: so sánh bằng, hơn, nhất, và nhấn chênh lệch. Ví von: so sánh như **đặt ba đồ vật lên bàn cân** — as…as là hai cân bằng nhau, -er/more là cân lệch, còn the -est/the most là một bên "đỉnh tủ" vượt hẳn cả nhóm.
+
 | Loại | Cấu trúc | Ví dụ |
 |------|----------|-------|
 | So sánh bằng | as + adj + as | as tall as |
@@ -15,6 +17,10 @@
 | So sánh nhất (dài) | the most + adj | the most interesting |
 | Chênh lệch lớn | much / far / a lot + hơn | much better |
 
+> **Cách đọc bảng này:** đọc theo cặp — hai dòng "ngắn" và "dài" là hai cách viết của cùng một ý; cột **Ví dụ** cho thấy khung câu thật; dòng cuối là "núm khuếch đại" chênh lệch.
+
+**Quy tắc:** Tính từ ngắn (1-2 âm tiết) thêm -er/-est; dài (3+ âm tiết) dùng more/most.
+
 **Quy tắc:** Tính từ ngắn (1-2 âm tiết) thêm -er/-est; dài (3+ âm tiết) dùng more/most.
 
 **Phản xạ nói:**
@@ -22,6 +28,8 @@
 - *more expensive* → /mɔːr ɪkˈspen.sɪv/ → nuốt "more" thành /mər/ — *It's muh-more expensive.*
 - *as…as* → hai as đọc nhanh bằng nhau, adj ở giữa được nhấn: *as TALL as*.
 - *the best* → /ðə best/ → "the" nuốt thành /ðə/ — *It's the best!*
+
+> **Tóm gọn 1 câu:** Sáu khung so sánh: cân bằng (as…as), cân lệch (-er/more + than), vinh danh đỉnh (the -est/the most), và núm khuếch đại chênh lệch (much/far).
 
 ## II. KHI NÀO DÙNG?
 
@@ -35,7 +43,11 @@
 - ~~This is the most better~~ → *This is the **best*** — so sánh nhất không dùng "most better".
 - ~~I have more many books~~ → *I have **many** books* — "more" không dùng trước "many".
 
+> **Tóm gọn 1 câu:** Dùng so sánh khi so người/vật, nói mức độ, khen–chê, kể xu hướng — chọn đúng khung theo "độ dài" của tính từ là xong.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này đi qua từng "kiểu cân" một qua hỏi–đáp và ví dụ: bằng, hơn, nhất, rồi so sánh kép (ngày càng…) — kiểu cuối là mì chính của small talk.
 
 ### Cách dùng 1: as…as (so sánh bằng)
 **Phản xạ hỏi–đáp:**
@@ -49,6 +61,8 @@
 3. As far as I know… — *Theo tôi biết thì…*
 
 ### Cách dùng 2: -er / more…than (so sánh hơn)
+
+"Bàn cân lệch": khung này khẳng định bên nào hơn bên nào — tính từ ngắn thì "bơm" thêm -er, tính từ dài thì nhờ `more` gánh thay.
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Why did you switch phones?` *(Sao bạn đổi điện thoại?)*
 - ➕ Đáp: *The new one is way faster than my old one.* — *Máy mới nhanh hơn máy cũ nhiều.*
@@ -59,6 +73,8 @@
 3. It's much more expensive than I thought. — *Đắt hơn tôi nghĩ nhiều.*
 
 ### Cách dùng 3: the -est / the most (so sánh nhất)
+
+"Vinh danh đỉnh tủ": một bên vượt hẳn cả nhóm nên phải có `the` đứng trước — như trao huy chương vàng, chỉ một người được nhận.
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `What's the best food you've had in Hanoi?` *(Món ngon nhất bạn từng ăn ở Hà Nội là gì?)*
 - ➕ Đáp: *Definitely bun cha — the best I've ever had.* — *Chắc chắn là bún chả — ngon nhất từng ăn.*
@@ -69,6 +85,8 @@
 3. Best day ever! — *Ngày tuyệt nhất!*
 
 ### Cách dùng 4: so sánh kép (more and more / less and less)
+
+"Vòng xoáy": mức độ tăng hoặc giảm liên tục theo thời gian — ví von như xe đạp đà xuống dốc, cứ thêm nữa, thêm nữa.
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How's your English coming along?` *(Tiếng Anh của bạn tiến triển thế nào rồi?)*
 - ➕ Đáp: *It's getting better and better — I practice every day.* — *Ngày càng tiến bộ — tôi luyện mỗi ngày.*
@@ -85,9 +103,13 @@
 - Đổi thì: *It's getting more expensive.* → *It got more expensive.* / *It will get more expensive.*
 - Đổi ngữ cảnh (đi làm): *This plan is better than the last.* / (du lịch): *This hotel is the best I've stayed in.* / (mua sắm): *This one is cheaper than that one.*
 
+> **Tóm gọn 1 câu:** Bốn kiểu cân: as…as cân bằng, -er/more…than lệch cân, the -est vinh danh đỉnh, more and more là vòng xoáy — chọn khung theo ý muốn so.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -98,7 +120,13 @@
 | 5 | **not as… as** | không bằng… | So sánh phủ định | *It's not as crowded as yesterday.* | ~~not as crowded than~~ — khung as…as không dùng than | *Good, we can actually talk. (Tốt, giờ mới nói chuyện được)* |
 | 6 | **the -est / the most…** | nhất | Đỉnh của nhóm | *That was the most boring movie ever.* | ~~the most tall~~ — adj ngắn dùng **the tallest** | *Agreed, total waste of time. (Ừ, phí thời gian thật)* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 6 cụm này là "bộ đồ so sánh" trong hội thoại — từ cân bằng (as…as) đến đỉnh tủ (the best ever); nhớ kèm lỗi sai (⚠️) và câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -109,6 +137,8 @@
 | efficient | (adj) /ɪˈfɪʃ.ənt/ | Hiệu quả |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng so sánh thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *She's as tall as me — maybe even taller.*
@@ -125,6 +155,8 @@
 5. Was the hotel as good as the photos? — *Not as good, honestly.*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**, chú ý: adj ngắn → **-er/-est**, adj dài → **more/most**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp; ghi âm nghe lại là nghe ra câu nào còn "lệch khung" so sánh.
 
 **Ngữ cảnh thực tế:**
 - Đi làm: *This laptop is better than the old one.* / *It's the most efficient option.* / *She's more experienced than me.* / *It's as good as expected.*
@@ -143,8 +175,12 @@
 
 ## VII. BONUS: LỖI HAY GẶP
 
+Mục này là "phòng soát lỗi" của cả bài — các lỗi kinh điển khi dựng câu so sánh xếp cạnh nhau để bạn soát một lượt trước khi ra khỏi bài.
+
 - ❌ *She is more tall than me.* → ✅ *She is **taller** than me.* (tính từ ngắn dùng -er)
 - ❌ *He is the most tall.* → ✅ *He is the **tallest**.*
 - ❌ *It is more good.* → ✅ *It is **better**.* (bất quy tắc)
 - ❌ *As I know.* → ✅ ***As far as** I know.*
 - 💡 Mẹo: Trong văn nói, dùng "much/far/a lot" để nhấn mạnh chênh lệch. Dùng "the best/worst ever" để khen/chê mạnh. "As far as I know" là cụm hedging phổ biến.
+
+> **Tóm gọn 1 câu:** Lỗi so sánh là "đỗ chồng từ": more không đi với -er, most không đi với better — chọn một hình thức duy nhất là câu sạch ngay.

@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này xếp 3 "chiếc chìa khóa khả năng" cạnh nhau — can, be able to, could — đọc để thấy mỗi chìa mở thời gian nào.
+
 | | Khẳng định | Phủ định | Câu hỏi |
 |--|-----------|---------|---------|
 | **Can** | I **can swim**. | I **can't** swim. | **Can** you **swim**? |
@@ -16,8 +18,10 @@
 
 ## II. KHI NÀO DÙNG?
 
+Mục này nói về việc "phân công" khả năng theo thời gian — đọc để biết lúc nào dùng can, lúc nào buộc phải dùng be able to.
+
 - **Can**: khả năng **hiện tại** (rất phổ biến, dùng 90% trường hợp).
-- **Be able to**: khi cần **biến đổi thì** (tương lai, quá khứ) mà "could" không đủ rõ nghĩa.
+- **Be able to**: khi cần **biến đổi thì** (tương lai, quá khứ) mà "could" không đủ rõ nghĩa — vì can là "đồ gốm sứ" không uốn nắn được, còn be able to là "sáp" cứa theo thì nào cũng lên hình.
 - **Could**: khả năng **quá khứ** tổng quát; hoặc đề nghị **lịch sự**.
 
 ### ⚠️ Lỗi thường gặp
@@ -25,7 +29,11 @@
 - ~~I'm can~~ → *I **can*** — can là động từ khiếm khuyết, không dùng với "am/is/are".
 - Nhầm **can** (khả năng) với **may** (xin phép): *Can I go?* thân mật / *May I go?* trang trọng.
 
+> **Tóm gọn 1 câu:** Can gánh hiện tại, could gánh quá khứ, còn tương lai và hoàn thành phải nhờ "người thay thế" be able to.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này so can với be able to theo từng thì, rồi tách riêng chuyện can/may và thế mạnh lịch sự của could — đọc để chọn đúng từ cho đúng thời điểm.
 
 ### Phân biệt CAN vs BE ABLE TO
 
@@ -35,6 +43,8 @@
 | Quá khứ | ✅ I could go | ✅ I was able to go |
 | Tương lai | ❌ ~~I will can go~~ | ✅ I **will be able to** go |
 | Perfect | ❌ ~~I have can go~~ | ✅ I **have been able to** go |
+
+> **Cách đọc bảng này:** so từng hàng theo thì — hai cột ❌/✅ cho biết thì nào "can gánh nổi" và thì nào phải đổi sang be able to. Chỉ cần nhớ 2 hàng dưới (tương lai, perfect) luôn thuộc về be able to là thoát 90% lỗi.
 
 > 💡 Mẹo: **Tương lai** → luôn dùng **be able to** (will be able to). **Hiện tại/quá khứ** → can/could tự nhiên hơn.
 
@@ -59,6 +69,8 @@
 | Mức độ | Thân mật / thông dụng | Trang trọng / lịch sự |
 | Thân mật | *Can I go?* (xin phép ở trường, gia đình) | *Could I borrow your pen?* (trang trọng hơn) |
 
+> **Cách đọc bảng này:** hai cột là hai "cửa" — cửa khả năng và cửa xin phép; cùng một câu *Can I go?* có thể đứng ở cả hai cửa tùy ngữ cảnh, nên đọc cột Mục đích trước để định hướng.
+
 > 💡 **Mẹo:** Trong giao tiếp thân mật, **can** dùng cho cả khả năng lẫn xin phép. Trong trang trọng (phỏng vấn, văn viết), **may** = xin phép, **can** = khả năng.
 
 **Ví dụ:**
@@ -72,7 +84,7 @@
 
 ### Cách dùng 2: COULD — Khả năng quá khứ & Đề nghị lịch sự
 
-**Could** có 2 cách dùng chính:
+**Could** có 2 cách dùng chính — một mặt nhìn về quá khứ, một mặt là bản "mềm hơn" của can khi nhờ vả, giống như thay vì nói đòi "cho tôi" thì nói "cho mình xin":
 
 **a) Khả năng tổng quát trong quá khứ:**
 - *I could run fast when I was young.* — *Tôi chạy nhanh khi còn trẻ.*
@@ -100,9 +112,13 @@
 - Đổi thì: *I can play guitar.* → *I could play guitar when I was 10.* / *I will be able to drive next year.*
 - Đổi ngữ cảnh (đi làm): *I can finish the report today.* / (du lịch): *We could visit the museum tomorrow.* / (mua sắm): *She can afford it.*
 
+> **Tóm gọn 1 câu:** Can/could/be able to là bộ ba "có thể" — can hiện tại, could quá khứ + lịch sự, và be able to là người xử lý được mọi thì.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" nhờ vả, xin phép và báo khả năng trong hội thoại thật — đọc để chọn câu khớp với độ lịch sự cần thiết.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -112,6 +128,8 @@
 | 4 | **Will you be able to…?** | Bạn sẽ có khả năng…? | Hỏi tương lai | *Will you be able to join us next week?* | —— | *Yes, I'll be able to.* |
 | 5 | **I could use some help** | Tôi cần một ít giúp đỡ | Nhờ giúp ẩn dụ | *I could use some help with this box.* | —— | *Need a hand?* |
 | 6 | **Do you think you can…?** | Bạn nghĩ bạn có thể…? | Hỏi khả năng nhẹ nhàng | *Do you think you can finish today?* | —— | *I think so, yes.* |
+
+> **Cách đọc bảng này:** mỗi dòng là một "mức xin" khác nhau — nhờ vả trực tiếp (2), nhờ vả ẩn dụ lịch sự (5), hỏi tương lai (4), hỏi dò nhẹ nhàng (6). Đọc cột "Câu mẫu" to lên 2 lần để nghe nhịp can/could/able trong câu thật.
 
 ## V. TỪ VỰNG
 
@@ -125,7 +143,11 @@
 | Finish | (v) /ˈfɪn.ɪʃ/ | Hoàn thành |
 | Believe | (v) /bɪˈliːv/ | Tin |
 
+> **Cách đọc bảng này:** can/can't/could đều là modal (động từ khiếm khuyết) — đọc to 2 lần và chú ý can't phát âm khác nhau giữa Anh (/kɑːnt/) và Mỹ (/kænt/), nghe phim để quen giọng bạn muốn nói.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen nhịp can/could/be able to, câu hỏi tự luyện để nói về khả năng của chính mình — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I can speak English pretty well.*
@@ -143,9 +165,9 @@
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Nói được mình làm được gì, nhờ được người khác đúng mức lịch sự — 5 câu trôi chảy không nhìn note là bộ ba can/could/be able to đã "lên máy".
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *I can finish it today.* / *Can you help me?* / *She can speak English.* / *We were able to solve it.*
 - Du lịch: *I can speak a little Spanish.* / *Can you show me the way?* / *We were able to find the hotel.* / *She can drive.*
 - Mua sắm: *I can pay by card.* / *Can you check the stock?* / *He can afford it.* / *We were able to get a discount.*
@@ -167,3 +189,7 @@
 | Khả năng quá khứ | *I could run fast when I was young.* | Nói về năng lực cũ |
 | Xin phép lịch sự | *Could I borrow your pen?* | Lịch sự hơn "Can I…?" |
 | Lời đề nghị gợi ý | *You could try restarting the computer.* | Gợi ý cách giải quyết |
+
+> **Cách đọc bảng này:** một chữ could nhưng ba "mặt nạ" — nhìn cột Nghĩa trước, rồi đọc ví dụ để thấy mặt nạ nào dùng ở ngữ cảnh nào; điều chung là cả ba đều "mềm mại" hơn can.
+
+> **Tóm gọn 1 câu:** Could là con dao đa năng — chém quá khứ, xin phép lịch sự, gợi ý khéo léo — nghe ngữ cảnh là biết nó đang đeo mặt nạ nào.

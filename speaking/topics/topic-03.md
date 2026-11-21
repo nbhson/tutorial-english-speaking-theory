@@ -14,12 +14,19 @@
 - Ở đoạn Conversation: hỏi về **bạn gái** — hơi lùn, tóc dài, da tối, dễ thương, thân thiện — một "inspiration"; kết thúc vì đi gấp.
 Điểm chốt: "Can you tell me about…?" ném cho bạn đáp án dài — người hỏi chỉ việc ngồi nghe và phản hồi bằng cặp "How so?", "It's hard to believe".
 
+> **Tóm gọn 1 câu:** Bài này dạy "đặt câu câu chuyện": ném ra "Can you tell me about…?" rồi ngồi nghe — người hỏi ít nói mà được nghe nhiều nhất.
+
 ### 2) Khi nào sử dụng?
+
+Mục này cho biết khi nào nên "văng" câu hỏi này ra: hết câu hỏi, muốn người kia nói nhiều, hay muốn luyện kỹ năng nghe.
+
 - Khi **bí câu hỏi** → câu này là lời "cứu cánh": chỉ cần thay 1 danh từ:
   `family / job / boss / girlfriend / free time / country / course …`
 - Khi muốn người kia **nói nhiều** — người hỏi sẽ được "tha hồ lắng nghe".
 - Giúp **nghe tốt hơn cách nói tốt**: đặt câu hỏi dài, nghe, rồi phản hồi mỗi lượt.
 - Kết hợp các câu phản xạ: "How so?", "It's hard to believe", "Is she your type?", "I've got to go".
+
+> **Tóm gọn 1 câu:** Câu hỏi này là "thẻ vàng cứu cuộc hội thoại" — thay đúng 1 danh từ là có ngay một đề tài mới dài dài để nghe.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -40,7 +47,12 @@
 | 11 | **Same here** | Mình cũng vậy | Đồng tình với hoàn cảnh | *I want to be a freelancer. — Yes, same here.* | ~~same to here~~ — thừa "to", chốt là same here | *Great minds think alike! (Cùng chí hướng cả!)* |
 | 12 | **Twenty something** | Hai mươi mấy | Nói tuổi mơ hồ | *She is twenty something.* | ~~twenty and something~~ — thừa "and": twenty something | *So, 20 or 29? (Hai mươi hay hai chín?)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. 12 cụm này chính là "câu chuyện nối vòng" — hỏi, nghe, phản hồi, kết thúc.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Hair | (n) /heər/ | Tóc |
@@ -50,7 +62,11 @@
 | Freelancer | (n) /ˈfriːlænsər/ | Nghề tự do |
 | Twenty something | (nh) | Hai mươi tuổi |
 
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép nghĩa cột phải là nhớ nhanh nhất.
+
 **Extension (FAMILY TREE — cây gia phả):** Grandfather (ông), Grandmother (bà), Father (bố), Mother (mẹ), Aunt (cô/dì/bác gái), Uncle (chú/bác), You (bạn), Sister (chị/em gái), Brother (anh/em trai), Sister-in-law (chị dâu), Niece (cháu gái — con của anh chị), Nephew (cháu trai).
+
+> **Tóm gọn 1 câu:** Học từ theo "cây gia phả" — vẽ nhánh từ ông bà xuống cháu là toàn bộ danh xưng nằm gọn trong một hình.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -88,9 +104,15 @@ Actually, I love no hair.
 Oh, that's interesting but I've got to go.
 ```
 
+Đây là "kịch gốc" của bài — đọc to từng câu, chú ý mỗi lần "Can you tell me about…?" xuất hiện là một nhánh chuyện mới mở ra.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho "đặt câu – nghe – phản hồi" — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 4 điểm phục vụ đúng việc tả người và bày tỏ thái độ khi kể chuyện.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -101,7 +123,11 @@ Oh, that's interesting but I've got to go.
 | 3 | Intonation Questions (Câu hỏi ngữ điệu) | Phản xạ tăng âm cuối câu |
 | 4 | S + be + adj + to V | Nói cảm xúc khi làm việc gì |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. The Superlative (So sánh nhất): `THE + short Adj-EST` · `THE MOST + long Adj`
+
+Điểm này dạy cách "trao giải" trong nhóm: ai cao nhất, ai dễ thương nhất — và "chiếc mũ THE" không được quên.
 
 **Cách dùng:** So sánh một người/vật với **cả nhóm** (lớp, công ty, cả nhà) thì lên "hạng nhất" — và **THE** không thể thiếu (~~most beautiful~~ thiếu the là sai ngay). Đo độ dài adj: ngắn (1 âm tiết) thêm **-est** (*tallest*), dài (3+ âm tiết) dùng **the most**; bất quy tắc học thuộc (*good → the best, bad → the worst*). Khác so sánh hơn (comparative với "than" — so từng đôi một), "nhất" là so cả đám. Mẹo nói: nhấn mũ "-est" lên, câu tự tin hẳn — *she's the NICEST*.
 
@@ -121,7 +147,11 @@ Oh, that's interesting but I've got to go.
 - Đổi adj: `She is the most helpful in our team.` *(Cô ấy nhiệt tình nhất nhóm)*
 - Đổi nhóm so sánh: `He is the tallest in my family.` *(Anh ấy cao nhất nhà tôi)*
 
+> **Tóm gọn 1 câu:** So nhất là so với cả nhóm — adj ngắn đeo -est, adj dài mượn the most, và "chiếc mũ THE" phải đội cho đúng.
+
 ### Điểm 2. Describe Someone (Tả người): `S + V + (adv) + adj + (N)`
+
+Điểm này là "bút chì vẽ chân dung" bằng lời: một câu là người nghe thấy được dáng vẻ.
 
 **Cách dùng:** Công thức tả người "một nhịp": chọn **NOUN** cần tả trước, rồi gắn ADJ phù hợp — tả có thứ tự thì người nghe "nhìn" theo được. Quy tắc nhanh: *have* + đặc điểm gắn vào người (tóc, da), *be* + dáng người & tính cách (*She has long hair. She is sweet.*). Khác tả đồ vật: tả người thì ngoại hình trước, tính cách sau — đảo lại nghe "gượng". Mẹo nói: ghép 2 adj bằng dấu phẩy, nhấn adj cuối — *pretty, SWEET*.
 
@@ -146,7 +176,11 @@ Oh, that's interesting but I've got to go.
 - Đổi đặc điểm (tóc): `She has short, curly hair.` *(Cô ấy tóc xoăn ngắn)*
 - Đổi tính cách: `My best friend is confident and helpful.` *(Bạn thân tôi tự tin và hay giúp người)*
 
+> **Tóm gọn 1 câu:** Tả người theo thứ tự "have" cho thứ gắn vào người (tóc, da) và "be" cho dáng người, tính cách — vẽ từ ngoại hình tới tính cách thì người nghe "nhìn" theo được.
+
 ### Điểm 3. Intonation Questions (Câu hỏi ngữ điệu)
+
+Điểm này cho bạn câu hỏi "miễn phí": không cần trợ động từ, chỉ cần giọng đi lên cuối câu.
 
 **Cách dùng:** Câu hỏi "trời cho": giữ nguyên trật tự khẳng định, chỉ **hếch giọng lên cuối câu** — người nghe tự hiểu là hỏi (*You don't believe it?*). Khác câu hỏi có trợ động từ (*Do you…?*): kiểu này không cần do/did, nói cho lẹ, hay dùng khi **ngạc nhiên, hoài nghi hoặc không tin** điều vừa nghe. Nghe xong thường đáp ngay *Really?* — hai kiểu câu này luôn đi cặp. Mẹo nói: giọng đi lên ở từ cuối, kéo dài nửa nhịp — *Real-ly?↗*
 
@@ -166,7 +200,11 @@ Oh, that's interesting but I've got to go.
 - Đổi câu gốc: `She is your sister?` *(Cô ấy là chị của cậu á?)*
 - Đổi thì: `You went there alone?` *(Cậu đi một mình thật à?)*
 
+> **Tóm gọn 1 câu:** Hết câu hỏi thì hếch giọng cuối câu — giữ nguyên trật tự khẳng định, ngữ điệu lo phần còn lại, hay dùng khi ngạc nhiên hoặc hoài nghi.
+
 ### Điểm 4. S + be + adj + to V
+
+Điểm này ghép cảm xúc với hành động thành một câu — "vui vì được gặp" chứ không phải hai câu rời rạc.
 
 **Cách dùng:** Gói cảm xúc + hành động vào một câu: **be + adj + to V** — cảm xúc ngồi ở adj, việc sẽ làm là to V (*I'm happy to see you*). Dùng khi muốn bày tỏ **thái độ trước khi hành động**: happy, excited, sorry, ready, eager. Dễ nhầm với *S + V + to V* (*I want to go*) — đó là "muốn", không phải cảm xúc; adj cảm xúc mới cần cấu trúc này. Mẹo nói: nhấn adj, nói trôi phần *to V* — *I'm so HAPPY to see you*.
 
@@ -186,9 +224,13 @@ Oh, that's interesting but I've got to go.
 - Đổi adj: `I'm lucky to have you.` *(Tôi may mắn khi có cậu)*
 - Đổi thì (quá khứ): `They were eager to start last week.` *(Tuần trước họ háo hức bắt đầu lắm)*
 
+> **Tóm gọn 1 câu:** be + adj + to V gói cảm xúc và việc sắp làm vào một câu — nhấn adj là cảm xúc tự tràn ra.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu "Can you tell me about…?" tự trả lời về chính mình — nói to, ghi âm, nghe lại.
 
 ### Echo drill (nói to 3 lần, mỗi lần nhanh hơn)
 1. *Can you tell me about your family?* — *There are 6 members in my family.*
@@ -205,3 +247,5 @@ Oh, that's interesting but I've got to go.
 5. Can you tell me about your dream? — *My dream is to … I want to work on myself by …*
 
 > ✅ Checkpoint: dùng "Can you tell me about…?" thử được **một** PF conversation với 1 chủ đề bất kỳ trong 1 phút không ngừng.
+
+> **Tóm gọn 1 câu:** Kỳ kiểm tra cuối: chọn một chủ đề, nói liền một phút bằng "Can you tell me about…?" — không ngừng hơi là đậu.

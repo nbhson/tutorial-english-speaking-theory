@@ -7,19 +7,26 @@
 ## I. ĐOẠN VĂN
 
 ### 1) Tóm tắt
-Đoạn văn là **một vòng "truy lý do" dễ thương sau những cuộc gọi nhỡ**:
-- **Cuộc gọi chiều qua**: gọi cho bạn mà không ai bắt máy — hóa ra bạn đang **đi mua sắm với chị họ** ở trung tâm phố; bạn thì không mua nổi thứ gì, còn chị họ tậu một đôi **Nike giảm 50%** — *"Nice! Did you buy anything?"*
-- **Khi "he" ghé nhà**: đang **hâm thức ăn** vì cậu ấy **lâu lắc** không chịu tới; tối đó hai người chẳng đi đâu, chỉ ở nhà ăn tối, xem phim — *"nghe như một đêm thư giãn"*.
+Đoạn văn là **một vòng "truy lý do" dễ thương sau những cuộc gọi nhỡ** — hỏi "lúc đó cậu đang làm gì?" rồi lần theo câu trả lời:
+
+- **Cuộc gọi chiều qua**: gọi cho bạn mà không ai bắt máy — hóa ra bạn đang **đi mua sắm với chị họ** ở trung tâm phố. Bạn thì không mua nổi thứ gì, còn chị họ tậu một đôi **Nike giảm 50%** — *"Nice! Did you buy anything?"*
+- **Khi "he" ghé nhà**: đang **hâm thức ăn** vì cậu ấy **lâu lắc** không chịu tới. Tối đó hai người chẳng đi đâu, chỉ ở nhà ăn tối, xem phim — *"nghe như một đêm thư giãn"*.
 - **Khi tớ đi vắng**: tự hào khoe làm hết **rửa bát, nấu ăn, đón trẻ** trong một tiếng — *"sao có thể!"* — *"đùa thôi, nhưng muốn là tớ làm được"* — *"ừ thì, cậu nói gì cũng được"* — *"đừng coi thường em nha!"*
-- Conversation: gọi **tối qua** vẫn không được — máy để **chế độ im lặng**, vì đang ở nhà Hannah dự **tiệc nhỏ toàn con gái** *"không cho con trai vào"*; 6 người ăn uống, tám chuyện vui vẻ, hẹn cả nhóm gặp lại **chắc tầm cuối tháng** — *"Cool! I can't wait!"*
+- **Conversation**: gọi **tối qua** vẫn không được — máy để **chế độ im lặng**, vì đang ở nhà Hannah dự **tiệc nhỏ toàn con gái** *"không cho con trai vào"*. 6 người ăn uống, tám chuyện vui vẻ, hẹn cả nhóm gặp lại **chắc tầm cuối tháng** — *"Cool! I can't wait!"*
 Điểm chốt: học cách hỏi **"What were you doing when…?"** (mệnh đề *when* chia **quá khứ đơn** hoặc **quá khứ tiếp diễn**) và trả lời bằng **quá khứ tiếp diễn (I was + V-ing)** — kể chuyện mình *đang* làm gì khi một chuyện khác xảy ra.
 
+> **Tóm gọn 1 câu:** Bài này luyện hỏi – đáp chuyện mình đang làm gì khi một việc khác xảy ra trong quá khứ: *I was + V-ing*.
+
 ### 2) Khi nào sử dụng?
+Mục này cho biết "cây gậy" này vác vào đâu. Toàn bộ là tình huống kể chuyện quá khứ.
+
 - Hỏi ai đó **đang làm gì tại một mốc thời gian cụ thể trong quá khứ**: *What were you doing when I called you yesterday afternoon?*
 - Trả lời bằng **thì quá khứ tiếp diễn** nói về việc đang diễn ra: *I was reheating the food. / We were having a small party.*
 - Khi việc đang làm thì **một việc khác chen vào** (when + quá khứ đơn): *What were you doing when he came over to your place?*
 - Hai việc **song song** trong quá khứ (while + quá khứ tiếp diễn): *What were you doing while I was out?*
 - Biến thể từ sheet FREE TALK: *…when I meditated yesterday / when the kids cried / when it rained this morning / when we first met?*
+
+> **Tóm gọn 1 câu:** Dùng cấu trúc này khi hỏi chuyện đang diễn ra tại một mốc quá khứ, khi việc chen ngang (when) hoặc hai việc song song (while).
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -37,7 +44,11 @@
 | 8 | **Probably at the end of this month** | Chắc tầm cuối tháng này | Nêu dự đoán thời gian "mềm", chưa chắc chắn | *Dunno yet. Probably at the end of this month.* | ~~at end of this month~~ — phải có "the" trước "end" | *Cool! I can't wait. (Nghe đỉnh, nôn quá!)* |
 | 9 | **I can't wait to** | Tao nôn quá | Thể hiện háo hức, nôn nóng chờ điều gì | *Cool! I can't wait.* | ~~I can't wait see them~~ — phải có "to" trước động từ | *Me too — so excited! (Tớ cũng — nôn quá!)* |
 
+> **Cách đọc bảng này:** Đọc theo từng hàng: cụm từ, nghĩa, lúc nào dùng, câu mẫu, lỗi hay sai (gạch ngang là đừng nói) và câu đáp lại. Hàng nào dùng được ngay thì học hàng đó trước.
+
 ### 4) Từ vựng (Vocabulary)
+Bảng từ vựng là "kho dụng cụ" của bài. Gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Reheat | (v) /ˌriːˈhiːt/ | Hâm (thức ăn) |
@@ -51,6 +62,8 @@
 | Cry | (v/n) /kraɪ/ | Khóc, la; tiếng khóc, tiếng la |
 | Work from home | (idm) | Làm việc ở nhà (từ xa) |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và cách đọc. Đọc to cột phiên âm vài lần, ghép với nghĩa cột phải là nhớ nhanh.
+
 **Extension (Pronounce "ed" — đọc đuôi -ED):**
 - **Voiced → đọc /d/**: robbed (/b/), judged (/dʒ/), plugged (/g/), pulled (/l/), named (/m/), cleaned (/n/), banged (/ŋ/), offered (/r/), breathed (/ð/), loved (/v/), closed (/z/)
 - Từ kết thúc bằng **nguyên âm** (allow, play, show, try) → cũng đọc **/d/**: allowed, played, showed, tried
@@ -58,6 +71,8 @@
 - Sau âm gió **/t/, /d/** → đọc **/ɪd/**: wanted (/t/), ended (/d/)
 - **Voiced sounds**: dây thanh **rung mạnh** — clean, love, close, name, pull — đặt tay lên cổ họng để cảm nhận rung
 - **Unvoiced sounds**: dây thanh **rung ít**, âm tạo gần miệng hơn — watch, laugh, talk, kiss, ask
+
+> **Tóm gọn 1 câu:** Học từ vựng theo cụm trong hội thoại, và nắm luôn quy tắc đọc đuôi -ED để phát âm chuẩn từ mới.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -99,9 +114,15 @@ Dunno yet. Probably at the end of this month.
 Cool! I can’t wait.
 ```
 
+Đây là "kịch gốc" của bài. Đọc to theo từng câu, rồi đóng vai hai người nói với nhau.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho cấu trúc bài — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài. Sáu điểm, điểm nào cũng có mẹo tránh lỗi người Việt hay dính.
 
 **Tổng quan: 6 điểm ngữ pháp trong bài**
 
@@ -114,7 +135,11 @@ Cool! I can’t wait.
 | 5 | Past continuous (QKTD) | S + was/were + V-ing |
 | 6 | Shopping: go shopping | Nói "đi mua sắm" đúng chuẩn |
 
+> **Cách đọc bảng này:** Cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay. Đọc cột cuối trước nếu chỉ có 30 giây.
+
 ### Điểm 1. Do work, jobs, tasks: `DO + homework / housework / a good job / …`
+
+Điểm này phân biệt "làm việc" với "tạo ra đồ vật". Chọn sai do/make là nghe ngay ra người Việt.
 
 **Cách dùng:** dùng **DO** khi nói về công việc, việc làm hoặc nhiệm vụ — thường **không tạo ra một vật thể hữu hình** (đối thủ là MAKE, thứ ra sản phẩm). Nói ra *do* mỗi lần liệt kê việc nhà, bài vở, nhiệm vụ: *do homework, do housework, do a good job*. Dễ nhầm: ~~make homework~~ — tiếng Việt "làm bài tập" nghe như "make", nhưng tiếng Anh việc thì *do*, đồ vật mới *make*. Mẹo nói: chụm *do* với danh từ liền một nhịp — *do-the-housework* — đừng ngắt lửng.
 
@@ -134,7 +159,11 @@ Cool! I can’t wait.
 - Đổi chủ ngữ *I* → *he*: `He did his homework before dinner.` *(Nó làm bài tập xong trước bữa tối)*
 - Đổi thì quá khứ → tương lai: `I will do the housework tomorrow.` *(Ngày mai tớ sẽ làm việc nhà)*
 
+> **Tóm gọn 1 câu:** Việc thì dùng DO (do homework, do housework), tạo ra đồ vật mới dùng MAKE.
+
 ### Điểm 2. Do hoạt động chung, không cụ thể: `DO NOTHING / ANYTHING / SOMETHING`
+
+Điểm này cho bạn cách nói "làm gì đó" một cách mơ hồ. Hỏi thăm, chối keo, thúc giục đều dùng được.
 
 **Cách dùng:** **DO** chỉ hoạt động nói chung, không cụ thể — thường đi kèm từ có đuôi **"-thing"**: something, nothing, anything. Bản chất là "đủ ý mà không cần nói rõ làm gì" — hỏi thăm, thúc giục, chối keo đều xài được. Cẩn thận trật tự phủ định: câu đã có *don't* thì dùng *anything* (~~don't do nothing~~ ✗); muốn phủ định "sạch" thì *do nothing*. Mẹo nói: nhấn nhẹ vế *-thing* — *do someTHING* — câu nghe tự nhiên, đừng đọc chẻ từng chữ.
 
@@ -154,7 +183,11 @@ Cool! I can’t wait.
 - Đổi *nothing* → *something*: `Let's do something this weekend.` *(Cuối tuần mình làm gì đó đi)*
 - Đổi thì → quá khứ: `Did you do anything special yesterday?` *(Hôm qua có làm gì đặc biệt không?)*
 
+> **Tóm gọn 1 câu:** Câu đã có don't thì dùng anything (don't do nothing ✗); muốn phủ định "sạch" thì do nothing.
+
 ### Điểm 3. Do thay thế động từ khác: `DO MY HAIR = BRUSH MY HAIR · DO THE DISHES = WASH THE DISHES · DO THE LAUNDRY = WASH & DRY CLOTHES`
+
+Điểm này dạy cách nói "khoán gọn" một động tác vào chữ do. Nghe bản địa và mượt hơn.
 
 **Cách dùng:** đôi khi **DO** thay thế một động từ mà nghĩa của nó **đã rõ ràng hoặc được chỉ ra trước đó** — nghe "bản địa", gọn hơn. Bản chất là "khoán" động tác vào *do*: chải tóc, rửa bát, giặt đồ thành *do my hair / do the dishes / do the laundry*. Dễ nhầm: ~~make the dishes~~ — *make* chỉ khi tạo ra cái mới (nấu ra món), rửa bát là "dọn sạch" nên *do*. Mẹo nói: chụm *do* với *the* thành một cụm — *də-the-dishes* — nghe mượt như người bản xứ.
 
@@ -174,7 +207,11 @@ Cool! I can’t wait.
 - Đổi danh từ: `do the dishes` → `do the laundry`: `I did the laundry this morning.` *(Sáng nay tớ giặt đồ rồi)*
 - Đổi chủ ngữ *I* → *she*: `She did my hair for the party.` *(Nó chải tóc cho tớ đi dự tiệc)*
 
+> **Tóm gọn 1 câu:** Chải tóc, rửa bát, giặt đồ đều "khoán" vào do — do my hair, do the dishes, do the laundry.
+
 ### Điểm 4. Participles – Adj (Tính từ dạng phân từ): `V-ING (chủ động → tả vật) · V3/ED (bị động → tả người)`
+
+Điểm này giải thích vì sao nói "I am boring" là tự chê mình. Mẹo một nhịp: "cái gì thì -ing, ai thì -ed".
 
 **Cách dùng:** **Present participle (V-ing)** mang tính **chủ động, bản chất**, thường bổ nghĩa cho **vật**; **Past participle (V3/ed)** mang tính **bị động, cảm xúc do bị tác động**, thường bổ nghĩa cho **người**. Nói ra *-ing* khi "cái gì đó gây ra cảm xúc" — *a relaxing night, an amazing girl*; nói *-ed* khi "người nhận cảm xúc" — *I feel relaxed, I was amazed*. Dễ nhầm: ~~I am boring~~ — người mà dùng *-ing* là tự chê mình "nhạt nhẽo", phải là *I am bored*. Mẹo ghi nhớ một nhịp: "cái gì thì -ing, ai thì -ed" — đọc nhấn đuôi cho câu nghe chắc.
 
@@ -194,7 +231,11 @@ Cool! I can’t wait.
 - Đổi *relaxing* → *boring*: `The meeting was so boring.` *(Buổi họp chán ngắt)*
 - Đổi chủ ngữ vật → người: `She is interested in meditation.` *(Cô ấy thích thiền định)*
 
+> **Tóm gọn 1 câu:** Thứ gây cảm xúc dùng -ing, người nhận cảm xúc dùng -ed — nói ngược là tự chê mình.
+
 ### Điểm 5. Past continuous (QKTD): `S + WAS / WERE + V-ING`
+
+Điểm này là "cốt lõi" của cả bài. Nó giúp bạn kể chuyện quá khứ sống động thay vì đọc biên bản.
 
 **Cách dùng:** diễn tả hành động **đang diễn ra** tại một thời điểm hoặc khi một hành động khác chen vào trong quá khứ — việc "chạy nền" thì *was/were + V-ing*, việc "chen ngang" thì quá khứ đơn. Nói ra nó khi được hỏi *What were you doing when…?* — kể chuyện quá khứ mà thiếu QKTD thì câu nghe phẳng như đọc biên bản. Dễ nhầm: ~~I was go out~~ — *was* phải bám V-ing (*I was going out*); còn câu trả lời *I went out with my cousin* dùng QKĐ vì đó là việc xong xuôi. Mẹo nhịp: kéo *was* một hơi rồi mới rơi vào V-ing — *I waaas reheating* — nghe đúng "chất" người kể chuyện.
 
@@ -214,7 +255,11 @@ Cool! I can’t wait.
 - Đổi chủ ngữ *you* → *they*: `What were they doing when it rained?` *(Trời mưa thì họ đang làm gì?)*
 - Đổi *when* → *while* (hai việc song song): `While I was cooking, she was watching TV.` *(Lúc tớ nấu ăn, nó xem TV)*
 
+> **Tóm gọn 1 câu:** Việc "chạy nền" dùng was/were + V-ing; việc chen ngang dùng quá khứ đơn sau when.
+
 ### Điểm 6. Shopping: `GO SHOPPING (≠ go to shopping)`
+
+Điểm này sửa một lỗi quen miệng của người Việt. Nhớ đúng một nguyên tắc: to bám nơi chốn, không bám V-ing.
 
 **Cách dùng:** nói "đi mua sắm" là **go shopping** — tuyệt đối đừng lồng "to" vào giữa; cũng có thể nói **go to shop**. Bản chất: *go + V-ing* là nhóm "đi làm hoạt động" — *go shopping, go swimming, go fishing* — không ai chen *to* vào giữa cả. Dễ nhầm: ~~go to shopping~~ vì quen miệng với *go to school*; nhớ: *to* chỉ bám danh từ nơi chốn (*go to the shop*), không bám V-ing. Mẹo nói: gộp *go-shoppin'* thành một nhịp, đuôi *-ing* buông nhẹ cho gọn.
 
@@ -234,9 +279,13 @@ Cool! I can’t wait.
 - Đổi *go shopping* → *go swimming*: `We went swimming last Sunday.` *(Chủ nhật trước tụi tớ đi bơi)*
 - Đổi chủ ngữ *I* → *she* + về hiện tại: `She goes shopping every Friday.` *(Thứ sáu nào chị ấy cũng đi mua sắm)*
 
+> **Tóm gọn 1 câu:** Nói "go shopping", tuyệt đối không chen "to" vào giữa.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập". Nói to, nói nhanh, sai thì sửa ngay tại chỗ.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *What were you doing when I called you yesterday afternoon? — I went out with my cousin. We went shopping downtown.*
@@ -253,3 +302,5 @@ Cool! I can’t wait.
 5. To talk more: Did you enjoy doing it? Who did you do it with? What did you really think at that time? — *Yes! I went out with my cousin; we ate, drank and talked a lot…*
 
 > ✅ Checkpoint: đặt 5 câu hỏi **"What were you doing when…?"** với 5 mốc quá khứ thật (cuộc gọi nhỡ, trời mưa, sếp ghé, lần đầu gặp nhau…) và trả lời bằng *I was + V-ing*. Ghi âm lại — như lời bài học nhắn: *"Bạn thật tuyệt vời! Yêu thương! 💌"*
+
+> **Tóm gọn 1 câu:** Đặt 5 câu hỏi với 5 mốc quá khứ thật của mình, trả lời bằng I was + V-ing, rồi ghi âm nghe lại.

@@ -14,12 +14,19 @@
 - Conversation tâm tình hơn: Henry thấy **buồn buồn** (a bit blue), chỉ cần có ai đó ngồi cạnh; Lyna khen anh "đẹp trai, hiền, thật thà", rủ đi **Vũng Tàu** — cách đây hơn một tiếng lái, hai người thay phiên nhau cầm lái.
 - Điểm chốt: với "Do you feel like…?", ngại ngần = mất cơ hội — trả lời thẳng "Sure, why not?".
 
+> **Tóm gọn 1 câu:** Bài này luyện "câu chào mời mềm mại" — "Do you feel like…?" — mời từ ăn ngọt tới đi biển, và ngại ngần là mất cơ hội.
+
 ### 2) Khi nào sử dụng?
+
+Mục này cho biết "lá thư mời mềm" này gửi được vào đâu: mời ăn, mời chơi, và cả để ý tâm trạng người khác.
+
 - **Mời rủ** làm điều giữa buổi: *Do you feel like eating something sweet? / cooking / going for a drink?*
 - **Hỏi nguyện vọng** nhẹ nhàng — mềm hơn "Do you want to…?".
 - Khi cần **để ý tâm trạng người khác**: "You look down. Do you feel like talking?"
 - Kết hợp câu mời cụ thể lịch sự: "Would you like some coffee?" và câu hỏi ý kiến: "What do you think of me?".
 - Câu trả lời chuẩn: `No, thanks / Yes, I do / Sure, why not? / That sounds yummy / Not really`.
+
+> **Tóm gọn 1 câu:** "Do you feel like…?" mềm hơn "Do you want to…?" — dùng khi mời rủ nhẹ nhàng, trả lời bằng 5 khung có sẵn.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -38,7 +45,12 @@
 | 9 | **We can take turns to drive** | Mình có thể thay nhau cầm lái | Đề xuất chia công chung | *We can take turns to drive.* | ~~take turn~~ — cụm cố định số nhiều: take turns | *Sounds good, let's go! (Nghe được, đi thôi!)* |
 | 10 | **I'm feeling a bit blue** | Mình đang hơi buồn | Bày tỏ buồn nhẹ | *I don't know. I'm feeling a bit blue.* | ~~I'm feeling blue a bit~~ — a bit phải đứng trước blue | *What's wrong? I'm here. (Sao vậy? Tớ đây nè.)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Hai hàng "sweet tooth" và "a bit blue" là những hình ảnh ẩn dụ cần thuộc nguyên cụm.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Tooth | (n) /tuːθ/ | Răng |
@@ -53,7 +65,11 @@
 | Spring rolls | (n) | Gỏi cuốn |
 | Take turn | (v) | Thay phiên |
 
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép nghĩa cột phải là nhớ nhanh nhất.
+
 **Extension (Extension khung hoạt động vui):** meet friends (gặp bạn), drive a car (lái xe), play chess (chơi cờ), run (chạy), take photos (chụp ảnh), cook (nấu ăn), listen to the radio (nghe radio), play the drums (chơi trống), watch TV (xem TV), rollerblade (trượt pa tanh), play cards (chơi bài), go bowling (chơi bowling).
+
+> **Tóm gọn 1 câu:** Nắm kho từ này rồi "chào mời" thử từng hoạt động: Do you feel like + mỗi hoạt động — một công thức, mười hai món.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -92,9 +108,15 @@ We can take turns to drive. I have my driver's license.
 Sounds good, let's go!
 ```
 
+Đây là "kịch gốc" của bài — đọc to từng câu, gạch mỗi lần "Do you feel like…?" xuất hiện để thấy câu mời này xoay được bao nhiêu cảnh.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho "mời rủ – đáp lời" — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 4 điểm, từ cụm danh từ tới cách kể cảm xúc đủ 3 tầng.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -105,7 +127,12 @@ Sounds good, let's go!
 | 3 | Express Our Feelings: I FEEL + ADJ | Điền cảm xúc cho 1 câu |
 | 4 | I FEEL … WHEN/BEFORE … (BECAUSE …) | Nói đầy đủ nguyên nhân của cảm xúc |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. (A/An) + Adj + N (Cụm danh từ)
+
+Điểm này dạy "trật tự dán nhãn": tiếng Anh dán tính từ trước danh từ — ngược với thói quen tiếng Việt.
+
 **Cách dùng:** Tiếng Việt nói "cái ghế cũ", tiếng Anh bắt buộc đảo ngược: **(a/an) + Adj + N** — *an adorable baby*, *a sweet tooth*; tính từ luôn đứng **trước** danh từ, chen vào là câu nát. **A** đón âm phụ âm (*a cold drink*), **an** đón âm nguyên âm (*an adorable baby*) — nghe âm đầu, đừng nhìn chữ cái. Số nhiều thì bỏ mạo từ: *naughty but lovely kids*. Khi nói, nhấn nhẹ vào tính từ — *a SWEET tooth* — người nghe "nhìn thấy" món đồ trước cả khi biết nó là gì.
 
 **Phản xạ hỏi–đáp:**
@@ -124,7 +151,12 @@ Sounds good, let's go!
 - Đổi tính từ: `A nice beach near my house.` → `A quiet beach near my house.` *(Một bãi biển yên tĩnh gần nhà)*
 - Đổi danh từ: `An adorable baby.` → `An adorable kitten.` *(Một em mèo con đáng yêu)*
 
+> **Tóm gọn 1 câu:** Tính từ luôn đứng trước danh từ, a/an chọn theo âm đầu chứ không theo chữ cái — ngược trật tự tiếng Việt thì câu mới "đứng".
+
 ### Điểm 2. Some/Any/No + thing/body/one + Adj
+
+Điểm này dạy luật "tính từ đuổi theo": đại từ không xác định gánh nghĩa sẵn nên tính từ phải theo sau.
+
 **Cách dùng:** Đại từ không xác định (something, someone, anywhere…) đã "gánh" nghĩa sẵn rồi, nên tính từ phải **đuổi theo sau**: *somewhere nice*, *anything wrong* — người Việt quen đặt "đẹp" trước nên hay nói ~~nice somewhere~~ và nghe rất cụt. Hỏi thì dùng **any-** (*Is there anything wrong?*), đưa đề/khao thì dùng **some-** (*Do you want something yummy?*). Nhịp nói: ngừng nửa nhịp sau đại từ rồi "thả" tính từ ra — *somewhere… nice!* — câu tự bung thành hai phần rõ ràng.
 
 **Phản xạ hỏi–đáp:**
@@ -143,7 +175,12 @@ Sounds good, let's go!
 - Đổi tính từ: `Let's go somewhere nice.` → `Let's go somewhere quiet.` *(Đi chỗ nào yên yên đi)*
 - Đổi phủ định: `I need someone to talk to.` → `I have no one to talk to.` *(Tớ chẳng có ai để tâm sự)*
 
+> **Tóm gọn 1 câu:** somewhere nice, anything wrong — tính từ phải "đuổi theo sau" đại từ không xác định; hỏi dùng any-, khao/kéo người ta dùng some-.
+
 ### Điểm 3. Express Our Feelings (Bày tỏ cảm xúc): `I FEEL + ADJ`
+
+Điểm này là "nhiệt kế" cá nhân: một cụm feel + tính từ là bày tỏ được tâm trạng — nhớ dùng tính từ chứ đừng trạng từ.
+
 **Cách dùng:** Cảm xúc tiếng Anh đi bằng **feel + tính từ**, đừng dịch kiểu "tôi là buồn" — mở lời chỉ cần một cụm ngắn: *I feel happy / I felt nervous*, người nghe tự hỏi "why?" và lúc đó mình mới kéo nguyên nhân (Điểm 4) vào. Dùng thoải mái đủ thì: hiện tại (*I feel*), quá khứ (*I felt*), HTHT tiếp diễn (*I have been feeling confused*). Cản trở: sau feel là **tính từ**, không phải trạng từ (~~I feel happily~~ ✗), và đang "buồn buồn" ngay lúc nói thì *I'm feeling a bit blue* tự nhiên hơn hẳn. Nhịp: nói cụm cảm xúc xuống giọng, chừa một nhịp cho câu "thở".
 
 **Phản xạ hỏi–đáp:**
@@ -162,7 +199,12 @@ Sounds good, let's go!
 - Đổi thì (quá khứ): `I felt nervous before the meeting.` *(Buổi họp lúc nãy tớ hồi hộp lắm)*
 - Đổi tính từ: `I feel hungry and sleepy right now.` → `I feel tired and sleepy right now.` *(Giờ mình mệt và buồn ngủ lắm)*
 
+> **Tóm gọn 1 câu:** Cảm xúc nói bằng feel + tính từ, đủ mọi thì — sau feel cấm trạng từ, đang buồn "thật" thì I'm feeling a bit blue.
+
 ### Điểm 4. I FEEL … WHEN / BEFORE …. BECAUSE …
+
+Điểm này là phiên bản "full option" của cảm xúc: ba tầng cảm xúc → hoàn cảnh → lý do trong một câu.
+
 **Cách dùng:** Công thức 3 tầng **cảm xúc → hoàn cảnh (when/before…) → lý do (because…)** — một câu, ba nhịp, nối liền như dồn bài. Khi được hỏi cảm xúc, đừng dừng ở *I feel happy*; thêm *when* và *because* là câu sống hẳn lên, nghe "có chuyện" thật. Cản trở: sau when/before phải là mệnh đề (S + V) hoặc V-ing (*before seeing her parents*), đừng nhét nguyên một câu chia thì thứ hai vào đó. Nhịp: nhấn tính từ đầu và từ cuối của lý do — *because… his love* — câu dừng đẹp, người nghe nhớ lâu.
 
 **Phản xạ hỏi–đáp:**
@@ -181,9 +223,13 @@ Sounds good, let's go!
 - Đổi chủ ngữ: `She feels happy when he looks at her.` *(Cô ấy vui khi anh ấy nhìn cô ấy)*
 - Đổi lý do: `I felt nervous before the exam because I hadn't reviewed anything.` *(Tớ hồi hộp trước kỳ thi vì tớ chưa ôn gì cả)*
 
+> **Tóm gọn 1 câu:** Cảm xúc trưởng thành khi có when và because: cảm xúc → lúc nào → vì sao — ba tầng trong một câu là câu "có chuyện thật".
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu mời thật gửi cho người thân — nói to, ghi âm, nghe lại.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Do you feel like eating something sweet? — No thanks, I don't have a sweet tooth.*
@@ -200,3 +246,5 @@ Sounds good, let's go!
 5. Do you feel like talking when you're upset? — *Not really; I need someone to …*
 
 > ✅ Checkpoint: nói được 3 câu mời thật (ăn / đi chơi / tâm sự) với 3 người thân — và ghi lại phản ứng của họ.
+
+> **Tóm gọn 1 câu:** Chứng nhận cuối: 3 câu "Do you feel like…?" gửi cho người thật — mời được và ghi lại phản ứng là bài vào đời.

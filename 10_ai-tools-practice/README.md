@@ -14,7 +14,12 @@
 
 ## 1. ChatGPT / Claude / Gemini — đối tác luyện nói
 
+Mục này nói về cách biến chatbot AI thành "partner hội thoại" — đọc để biết mở app nào, bấm nút nào và paste prompt nào để bắt đầu nói ngay.
+
 ### Vì sao AI là đối tác luyện nói tốt?
+
+Giống như có một người bạn bản xứ kiên nhẫn vô cực: bạn nói sai bao nhiêu cũng không chê, sửa xong lại hỏi tiếp, và không bao giờ mệt.
+
 - **Không ngại sai**: nói sai bao nhiêu cũng được sửa, không xấu hổ như nói với người thật.
 - **Luôn rảnh**: luyện lúc 5h sáng hay 12h đêm đều được.
 - **Điều chỉnh được mức độ**: yêu cầu AI nói chậm, dùng từ đơn giản, hoặc tăng độ khó dần.
@@ -63,11 +68,15 @@ tổng hợp 5 lỗi tôi hay mắc nhất.
 - **Không đọc theo AI**: nhắc AI "đừng trả lời hộ, hãy hỏi lại để mình tự nói".
 - **Ghi lại lỗi lặp lại** vào một file riêng → biến thành flashcard Anki (phần 5).
 
+> **Tóm gọn 1 câu:** AI là partner hội thoại kiên nhẫn nhất thế giới — setup 5 phút, dùng 4 prompt mẫu ở trên, và nhớ nhờ AI hỏi lại thay vì trả lời hộ.
+
 ---
 
 ## 2. Text-to-Speech — tạo giọng đọc chuẩn
 
-Dùng khi **không có audio sẵn** (ví dụ: đoạn hội thoại bạn tự viết, hoặc prompt 3 ở trên).
+Mục này nói về cách "thuê" giọng người bản xứ đọc bất cứ đoạn nào bạn muốn — đọc để biết dùng công cụ nào khi không có audio sẵn để shadowing.
+
+Dùng khi **không có audio sẵn** (ví dụ: đoạn hội thoại bạn tự viết, hoặc prompt 3 ở trên). Giống như nhờ một diễn viên lồng tiếng đọc hộ bài của bạn — chỉ khác là diễn viên này tính phí theo ký tự.
 
 | Công cụ | Miễn phí? | Điểm mạnh | Link |
 |---------|-----------|-----------|------|
@@ -76,15 +85,21 @@ Dùng khi **không có audio sẵn** (ví dụ: đoạn hội thoại bạn tự
 | **Google Gemini TTS** | Có hạn mức free trong AI Studio | TTS native của Gemini (model hiện tại: Gemini 3.8 Flash TTS), nhiều giọng, điều chỉnh tốc độ | [aistudio.google.com](https://aistudio.google.com) |
 | **Microsoft Edge Read Aloud** | Miễn phí hoàn toàn | Tích hợp sẵn trong trình duyệt Edge: mở file → chuột phải → Read Aloud | — |
 
+> **Cách đọc bảng này:** mỗi dòng là một công cụ, xếp từ giọng tự nhiên nhất (ElevenLabs) xuống phương án "0 đồng" (Edge). Đọc cột "Điểm mạnh" để chọn — chỉ cần 1 công cụ là đủ bắt đầu.
+
 ### Quy trình tạo audio luyện tập
 1. Lấy đoạn hội thoại từ topic (hoặc nhờ AI viết theo prompt 3).
 2. Dán vào ElevenLabs → chọn giọng Mỹ → **Generate**.
 3. Tải file MP3 về điện thoại → nghe lặp bằng app nghe nhạc có chức năng **A-B repeat**.
 4. Mẹo: tạo **2 phiên bản** — bản chậm (speech rate 0.8x) để học câu mới, bản thường (1.0x) để shadowing.
 
+> **Tóm gọn 1 câu:** Không có audio thì tự "sản xuất": dán đoạn văn vào ElevenLabs, bấm Generate, ra ngay bản MP3 của riêng mình.
+
 ---
 
 ## 3. Speech-to-Text (Whisper) — chấm phát âm
+
+Mục này nói về "chấm điểm phát âm bằng máy": đọc để biết cách khách quan hóa việc phát âm đúng/sai — máy nghe bạn nói rồi viết lại ra chữ, chữ nào lệch là miệng bạn lệch.
 
 ### Nguyên lý
 Nếu AI **transcribe đúng** những gì bạn nói → phát âm của bạn đủ rõ. Nếu transcript sai từ nào → từ đó phát âm chưa chuẩn. Đây là cách "chấm phát âm" khách quan, miễn phí.
@@ -104,11 +119,15 @@ Nếu AI **transcribe đúng** những gì bạn nói → phát âm của bạn 
 ### Kết hợp AI chấm điểm
 Sau khi có transcript, paste vào ChatGPT cùng **Prompt 2** để nhận: sửa lỗi + band điểm + gợi ý cải thiện.
 
+> **Tóm gọn 1 câu:** Whisper là "giáo viên chấm phát âm 0 đồng" — nó nghe bạn nói rồi viết lại, chữ nào bị viết sai thì miệng bạn đang lệch đúng chữ đó.
+
 ---
 
 ## 4. Shadowing hiện đại
 
-Shadowing = nghe → nói **đồng thời/nearly-simultaneous** theo người nói, bắt chước cả ngữ điệu và nhịp.
+Mục này nói về kỹ thuật luyện nói "truyền thống nhưng hiệu quả nhất từ trước đến nay" — đọc để biết shadowing đúng cách là làm gì và lấy audio chất lượng ở đâu.
+
+Shadowing = nghe → nói **đồng thời/nearly-simultaneous** theo người nói, bắt chước cả ngữ điệu và nhịp. Hãy hình dung như tập hát nhại theo ca sĩ: nhạc đổ đến đâu mình hát theo đến đó, bắt cả cách lên giọng, xuống giọng, ngắt hơi — không phải chỉ hát đúng lời.
 
 ### Quy trình 5 bước chuẩn (mỗi đoạn 1–2 phút)
 1. **Nghe trọn 1 lần** không nhìn text — nắm ý chung.
@@ -130,12 +149,18 @@ Shadowing = nghe → nói **đồng thời/nearly-simultaneous** theo người n
 | Chỉ có băng giáo trình | **YouGlish** — nghe cụm từ trong hàng nghìn video thật |
 | Không biết mình nói sai | **Ghi âm → Whisper transcript → AI chấm** (phần 3) |
 
+> **Cách đọc bảng này:** đọc theo từng dòng để thấy chuyện xưa khó thế nào và giờ AI làm hộ thế nào — cột "Hiện đại" chính là thói quen bạn nên xây, không phải "tính năng bonus".
+
+> **Tóm gọn 1 câu:** Shadowing là "nhại theo" người bản xứ cả ngữ điệu lẫn nhịp — nghe, nói đồng thời, rồi ghi âm lại để tự soi lỗi.
+
 ---
 
 ## 5. Spaced repetition với Anki
 
+Mục này nói về cách khiến những gì đã học không "vào tai trái, ra tai phải" — đọc để biết biến cụm từ đã học thành flashcard và để máy tự hẹn ngày ôn.
+
 ### Anki là gì?
-App flashcard miễn phí ([apps.ankiweb.net](https://apps.ankiweb.net)) tự tính lịch ôn: mỗi thẻ quay lại **đúng trước khi bạn quên** — tối ưu trí nhớ dài hạn. Có bản mobile (AnkiDroid miễn phí; iOS bản AnkiMobile có phí ~$25, hoặc dùng web miễn phí).
+App flashcard miễn phí ([apps.ankiweb.net](https://apps.ankiweb.net)) tự tính lịch ôn: mỗi thẻ quay lại **đúng trước khi bạn quên** — tối ưu trí nhớ dài hạn. Giống như có một trợ lý học tập dùng công nghệ "bấm giờ não bộ": bạn sắp quên cái gì, nó hẹn đúng ngày đó đưa lại cho xem. Có bản mobile (AnkiDroid miễn phí; iOS bản AnkiMobile có phí ~$25, hoặc dùng web miễn phí).
 
 ### Biến bộ tài liệu này thành flashcard
 Mỗi topic trong `topics/` có **Bảng cụm từ giao tiếp** → tạo 3 loại thẻ:
@@ -156,9 +181,13 @@ Mỗi topic trong `topics/` có **Bảng cụm từ giao tiếp** → tạo 3 lo
 - ❌ Hạn chế: chỉ học *better = tốt hơn* (biết từ nhưng không nói được câu).
 - Với **42 file grammar**: mỗi cấu trúc tạo 2–3 thẻ dạng "fill in + nói to" — thẻ nào cũng **đọc to đáp án** thay vì chỉ nhìn.
 
+> **Tóm gọn 1 câu:** Anki là "trợ lý hẹn giờ não bộ" — thẻ quay lại đúng lúc bạn sắp quên, và thẻ phải là câu nói hoàn chỉnh để miệng tập phản xạ, không phải từ rời rạc.
+
 ---
 
 ## 6. Lộ trình 15 phút/ngày
+
+Mục này ghép tất cả các phần trên thành một "buổi tập" 15 phút cố định mỗi ngày — đọc để biết đúng từng mốc phút thì làm việc gì.
 
 | Phút | Hoạt động | Công cụ |
 |------|-----------|---------|
@@ -168,9 +197,13 @@ Mỗi topic trong `topics/` có **Bảng cụm từ giao tiếp** → tạo 3 lo
 | 8–13 | Ghi âm câu trả lời 5 câu hỏi luyện nói → Whisper → nhờ AI sửa | Whisper / ChatGPT |
 | 12–15 | Tạo 3 flashcard mới từ lỗi hôm nay | Anki |
 
+> **Cách đọc bảng này:** mỗi dòng là một mảnh ghép của buổi tập, đọc theo cột "Phút" để biết lúc nào làm gì; hai dòng 8–13 là hai lựa chọn thay nhau cho mỗi ngày (hôm roleplay, hôm ghi âm chấm lỗi), không làm cả hai.
+
 ### Thêm chi tiết
 - 🎧 Nguồn nghe: [BBC Learning English](https://www.bbc.co.uk/learningenglish) · [VOA Learning English](https://learningenglish.voanews.com) · [ESLPod](https://www.eslpod.com)
 - 📖 Tài liệu gốc trong repo này: [24 topics](../speaking/README.md) + [42 cấu trúc ngữ pháp](../speaking/grammar/g-01-im-Ving.md)
 - 🎙️ Chấm phát âm từng từ: [YouGlish](https://youglish.com) · [ELSA Speak](https://www.elsaspeak.com) (app AI chuyên phát âm, có bản free)
+
+> **Tóm gọn 1 câu:** Buổi tập 15 phút = ôn thẻ 3 phút + shadowing 5 phút + nói với AI 5 phút + tạo thẻ mới 2 phút — đều đặn mỗi ngày thắng dồn dập cuối tuần.
 
 > Ghi chú: cập nhật 10/2026 — tên & tính năng công cụ có thể thay đổi, luôn kiểm tra trang chính thức trước khi dùng.

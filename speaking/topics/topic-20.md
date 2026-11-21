@@ -14,12 +14,17 @@
 - Conversation là **cuộc "so bự" về nước Mỹ**: *When was the last time you went to Vietnam?* — "khoảng 3 năm trước"; về chơi cùng gia đình và thăm bạn bè; giờ sống ở Mỹ — "cậu đã từng ghé đủ **50 tiểu bang** chưa?" — "hết ý luôn, **còn trẻ mà chẳng đủ tiền**"; California là 1 tiểu bang mà **to hơn Việt Nam xíu**, tưởng tượng thêm 49 cái nữa đi — "**mình mù tịt**, không ngờ Mỹ to đến vậy!"
 - Điểm chốt: học **"When was the first/ last time + S + V (quá khứ)?"** → trả lời bằng **mốc thời gian quá khứ** (when I was 18 / 3 years ago / the other night / half an hour ago).
 
+> **Tóm gọn 1 câu:** Bài này luyện "truy tìm kỷ niệm" — hỏi *When was the first/last time…?* và trả lời bằng một mốc thời gian trong quá khứ.
+
 ### 2) Khi nào sử dụng?
+Mục này chỉ cho bạn "mỏ vàng kỷ niệm" nằm ở đâu: lần đầu và lần cuối của mọi trải nghiệm — từ rung động đầu đời đến bữa pizza gần nhất.
 - Hỏi **lần đầu tiên trải nghiệm**: *When was the first time you fell in love / went to the cinema / traveled alone?* → trả lời *It was on my 15th birthday. / When I was in kindergarten.*
 - Hỏi **lần gần nhất (mới đây nhất)**: *When was the last time you called your mom / had pizza / went to Vietnam?* → trả lời *It's just 5 minutes ago. / About 3 years ago. / The other night.*
 - Đổi tần suất sau đó: *How often do you talk on the phone?* → *Every other day, for about an hour each.*
 - **Chọc ghẹo hoặc thắc mắc về kỷ niệm**: *Are you sure it was even love? / That's kind of late. / That's too early.*
 - Khi kể lại, nối chuyện bằng **time connectives** (firstly, after that, finally…) và bổ sung cảm nhận: *It was delicious! / It should be a perfect choice for you.*
+
+> **Tóm gọn 1 câu:** Dùng cấu trúc này khi muốn "đào" lại lần đầu hay lần cuối của một trải nghiệm, rồi gắn thêm tần suất và cảm nhận cho chuyện có hồn.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -36,7 +41,10 @@
 | 7 | **I thought it was as big as Vietnam** | Mình tưởng Mỹ cũng bự bằng VN | Thừa nhận mình tưởng sai một sự thật | *No.. I thought it was as big as Vietnam.* | ~~as big like Vietnam~~ — "as…as" nguyên cặp, đừng thay "like" | *Wow, imagine 49 more! (Ơ, tưởng tượng thêm 49 cái nữa!)* |
 | 8 | **I am clueless** | Mình mù tịt | Thừa nhận không biết gì về chuyện đó | *Oh wow, I am clueless. I didn't know the US was that big!* | ~~I am a clueless~~ — tính từ thôi, khỏi "a" | *Now you know, haha! (Giờ biết rồi nhé, haha!)* |
 
+> **Cách đọc bảng này:** Đọc theo từng hàng: cụm từ, nghĩa, tình huống dùng, câu mẫu, lỗi hay sai (gạch ngang là đừng nói) và câu đáp lại. Hàng nào hợp chuyện mình muốn kể thì học trước.
+
 ### 4) Từ vựng (Vocabulary)
+Bảng từ vựng là "hộp đàn hồi" — chiêu nào thiếu thì lôi ra bổ ngay vào câu đang nói.
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | delicious | (adj) /dɪˈlɪʃəs/ | Ngon (thức ăn) |
@@ -48,11 +56,15 @@
 | Do something alone = do sth by oneself | (phrase) | Một mình, tự mình |
 | Climb (a mountain, a tree) | (v) /klaɪm/ | Leo núi, trèo cây… |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và phiên âm. Đọc to cột phiên âm vài lần, ghép với nghĩa cột phải là nhớ nhanh.
+
 **Extension (Time Connectives — từ nối chỉ thời gian):**
 - **To begin with:** firstly, this morning, it all began, to begin, first of all, initially
 - **To move on:** next, second, after that, then, later on, as time passed, afterwards, a few minutes later, a moment later, before long, at that point, after a while
 - **To end with:** at last, finally, in the end, eventually, at the end of the day, to end the day
 - **For surprise:** suddenly, without warning, all of a sudden, in the blink of an eye, within seconds, out of nowhere
+
+> **Tóm gọn 1 câu:** Học từ vựng theo cụm trong hội thoại, rồi cài các time connectives vào câu kể để kỷ niệm trôi có "kịch bản" — mở đầu, tiến triển, kết thúc.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -98,9 +110,15 @@ Nooo. California is 1 state and it's a little bit bigger than Vietnam. Now imagi
 Oh wow, I am clueless. I didn't know the US was that big!
 ```
 
+Đây là "kịch gốc" của bài. Đọc to theo từng lời, rồi đóng vai hỏi–đáp với bạn cùng luyện.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là kỷ niệm sống của cấu trúc bài — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài. Bốn điểm, điểm nào cũng có mẹo né lỗi người Việt hay dính.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -111,7 +129,11 @@ Oh wow, I am clueless. I didn't know the US was that big!
 | 3 | Such (a/an) + adj/ adv + N! | Câu cảm thán "quá là…" |
 | 4 | The last time/ first time | Lần cuối cùng/ lần đầu tiên bạn làm việc gì đó |
 
+> **Cách đọc bảng này:** Cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay. Chỉ có 30 giây thì đọc thẳng cột cuối.
+
 ### Điểm 1. NOUN + LESS = NO… (ADJ): `CLUE / HOME / LOVE / HOPE + -LESS`
+
+Điểm này là "hộp đựng sự thiếu hụt" — gắn đuôi vào là biết ngay thứ đó vắng bóng.
 
 **Cách dùng:** gắn đuôi **-less** vào danh từ là thành tính từ "không có…" — *clueless = no clue* (không manh mối); dùng để tự nhận mình "mù tịt" rất tiện. Bản chất: -less là "hộp đựng sự thiếu hụt" — *homeless, hopeless, loveless, priceless* (chết rồi, cái này ngược nghĩa: "vô giá"!). Nói ra nó khi tự trêu mình hoặc tả người/vật thiếu thứ gì — *I'm clueless about directions*. Dễ nhầm: ~~I am a clueless~~ ✗ — clueless là tính từ, không có "a"; nói "clueless về chuyện gì" thì thêm *about*: *clueless about love*. Mẹo giọng: nhấn đuôi **-less** — *clue-LESS* — câu tự hào kiểu "ta đây chịu thua" nghe duyên hơn.
 
@@ -131,7 +153,11 @@ Oh wow, I am clueless. I didn't know the US was that big!
 - Đổi danh từ: `clueless` → `hopeless`: `I'm hopeless at dancing.` *(Nhảy nhót thì tớ bó tay)*
 - Đổi chủ ngữ *I* → *he*: `He is clueless about love.` *(Anh ấy mù mờ chuyện tình cảm)*
 
+> **Tóm gọn 1 câu:** Gắn đuôi *-less* vào danh từ là thành tính từ "không có…" — nhớ ngoại lệ *priceless* nghĩa ngược là "vô giá".
+
 ### Điểm 2. Time vs Times: `TIME (N không đếm được): thời gian · TIME(S) (N đếm được): lần`
+
+Điểm này phân biệt "khoảng thời gian trôi" và "từng lần được đóng gói" — chỉ cách nhau một chữ *s*.
 
 **Cách dùng:** *time* không đếm được là **thời gian**, *time(s)* đếm được là **lần** — hỏi số lần bằng *How many times…?* / *Is this the first time…?*. Bản chất: thêm **s** là "đóng gói từng lần" — *three times this year*; không có s là thời gian trôi chung chung — *I have no time for gossip*. Dễ nhầm: ~~How much times~~ ✗ — đếm được thì *How many times*; và ~~no times~~ ✗ — "không có thời gian" là *no time*. Mẹo nói: *times* nhả rõ /z/ cuối — nghe ra "lần" ngay, đừng nuốt thành "time".
 
@@ -151,7 +177,11 @@ Oh wow, I am clueless. I didn't know the US was that big!
 - Đổi số lần *three* → *twice*: `I've been there twice this year.` *(Năm nay tớ đến đó hai lần)*
 - Đổi *first* → *second*: `This is the second time you've called.` *(Đây là lần thứ hai cậu gọi rồi đó)*
 
+> **Tóm gọn 1 câu:** *Time* không có "s" là thời gian chảy chung chung, có "s" là từng lần đếm được — hỏi số lần luôn dùng *How many times*.
+
 ### Điểm 3. Such (a/an) + adj/ adv + N: `SUCH (A/ AN) + ADJ/ ADV + N!`
+
+Điểm này là "công tơ khen ào ào" — muốn khen chê cho đã miệng thì bọc cả cụm có danh từ vào.
 
 **Cách dùng:** câu **cảm thán** nhấn mạnh mức độ — đặt *such* trước (a/an) + adj + danh từ để "khen cho ào ào". Bản chất: *such* phải có danh từ đằng sau — *such a great time, such an outgoing person*; danh từ không đếm được thì bỏ a/an — *such good music*. Dễ nhầm: ~~so great time~~ ✗ — "so" bám tính từ trần (*so great*), "such" bám cả cụm có danh từ. Mẹo giọng: *such a* đọc chụm "sớ-chơ" rồi nhấn mạnh tính từ — *such a GREAT time!*
 
@@ -171,7 +201,11 @@ Oh wow, I am clueless. I didn't know the US was that big!
 - Đổi danh từ: `such a great time` → `such a sweet voice`: `You have such a sweet voice!` *(Giọng cậu ngọt lịm!)*
 - Bỏ a/an (danh từ không đếm được): `We had such good music at the party.` *(Nhạc ở bữa tiệc hay lắm!)*
 
+> **Tóm gọn 1 câu:** *Such* bám cả cụm có danh từ (đếm được thì kèm a/an), còn *so* bám tính từ trần — nhầm hai đứa này là câu khen "vỡ" ngay.
+
 ### Điểm 4. The last time/ first time: `WHEN WAS THE FIRST/ LAST TIME + S + V2/ED?` · `THE FIRST/ LAST TIME + S + V2/ED`
+
+Điểm này là "máy tìm kiếm kỷ niệm" — khoá chuyện vào đúng một lần duy nhất trong quá khứ.
 
 **Cách dùng:** hỏi **thời điểm lần đầu/ lần cuối** bạn làm việc gì đó — trả lời bằng mốc thời gian quá khứ; khi kể lại dùng *The first/ last time + S + V2/ed*. Bản chất: câu này "khoá" chuyện vào một lần duy nhất nên động từ lùi về quá khứ — ~~When was the last time you have pizza~~ ✗, phải là *you had pizza*. Nói ra nó khi "truy kỷ niệm": lần đầu yêu, lần cuối gọi mẹ, lần cuối ăn pizza. Dễ nhầm: ~~When did you last time~~ ✗ — giữ nguyên khung *When was the (first/last) time + S + V2/ed* thôi. Mẹo nhịp: lên giọng ở *first/last* — đó là "từ đắt" của câu.
 
@@ -191,9 +225,13 @@ Oh wow, I am clueless. I didn't know the US was that big!
 - Đổi *last* → *first*: `When was the first time you had pizza?` *(Lần đầu cậu ăn pizza là khi nào?)*
 - Đổi động từ: `When was the last time you climbed a mountain?` *(Lần cuối cậu leo núi là khi nào?)*
 
+> **Tóm gọn 1 câu:** Hỏi lần đầu/ lần cuối giữ nguyên khung *"When was the (first/last) time + S + V2/ed"* — chuyện đã khoá vào một lần thì động từ phải lùi về quá khứ.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập". Nói to, nói nhanh, sai thì sửa ngay tại chỗ.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *When was the first time you fell in love with someone? — I think when I was 18.*
@@ -210,3 +248,5 @@ Oh wow, I am clueless. I didn't know the US was that big!
 5. When was the last time you bought your mom a gift / told s.o you loved them? — *… . How did you feel at that time? Why did you do it?*
 
 > ✅ Checkpoint: hỏi & trả lời **"When was the first/ last time…?"** với 5 kỷ niệm thật — đáp bằng **mốc thời gian quá khứ**, hỏi thêm *How often…?* và *How did you feel at that time?*. Ghi âm lại.
+
+> **Tóm gọn 1 câu:** Luyện qua echo drill rồi 5 câu tự luyện — "truy" kỷ niệm bằng *When was the first/last time…?*, đáp mốc thời gian, ghi âm nghe lại là biết mình ở đâu.

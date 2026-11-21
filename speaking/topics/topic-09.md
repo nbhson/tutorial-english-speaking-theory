@@ -14,11 +14,18 @@
 - Conversation: đang đọc sách gì? — *Awaken the Giant Within* của Tony Robbins, "người truyền cảm hứng số 1 thế giới"; tớ chỉ mê truyện tranh → mượn sách thử; đói bụng → thèm gì đó **mặn mặn cay cay** → đi BBQ Hàn.
 Điểm chốt: "What kind of…?" đào thẳng vào **gu cá nhân** — và cuộc trò chuyện dừng đúng ở gu người nghe thích.
 
+> **Tóm gọn 1 câu:** Bài này dạy cách "hỏi gu": What kind of…? — hỏi sâu sở thích người khác thay vì chỉ hỏi có thích hay không.
+
 ### 2) Khi nào sử dụng?
+
+Mục này cho biết "mỏ gu" nằm ở đâu: thể thao, nhạc, quả, sách, đồ ăn — mọi thứ có phân loại đều hỏi được.
+
 - Hỏi **loại/gu cụ thể**: *What kind of sports / music / fruits / books / food do you like?*
 - Khi muốn tìm hiểu **sâu hơn** về sở thích người đối diện (không chỉ "do you like…?").
 - Trả lời bằng **nguyên tắc**: mê gì, tùy tâm trạng gì, ghét mùi/taste gì.
 - Dùng cho cả **đồ vật** (kind of book), **đồ ăn** (kind of food), **hoạt động** (kind of sports).
+
+> **Tóm gọn 1 câu:** "What kind of…?" là máy khoan xuống tầng sở thích — chỉ cần thay danh từ sau nó là hỏi được gu của bất cứ ai.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -32,7 +39,12 @@
 | 4 | **He's the number one inspirator in the world and the author of some best sellers** | Ông là người truyền cảm hứng số 1 thế giới, tác giả nhiều cuốn sách bán chạy | Giới thiệu tác giả/giá trị | *I'm reading Awaken the Giant Within by Tony Robbins.* | ~~inspirator on the world~~ — ở thế giới là **in** the world | *Wow, I wanna read it! (Trời, tớ muốn đọc quá!)* |
 | 5 | **I want something salty and spicy** | Tôi thèm cái gì đó mặn mặn, cay cay | Nói khẩu vị khi chọn đồ ăn | *What kind of food do you want? — I want something salty and spicy.* | ~~I want a spicy food~~ — food không đếm được, bỏ a | *How about Korean BBQ? (BBQ Hàn thì sao?)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. 5 cụm đầu bảng là những câu "đáo để" cho chuyện hỏi gu và chặn chủ đề ghét.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Jogging | (n) /ˈdʒɑːɡɪŋ/ | Chạy bộ |
@@ -51,10 +63,14 @@
 | Watermelon | (n) /ˈwɔːtərmelən/ | Dưa hấu |
 | Comics | (n) /ˈkɑːmɪks/ | Truyện tranh |
 
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép nghĩa cột phải là nhớ nhanh nhất.
+
 **Extension (TASTE & FOOD CONDITION — vị và tình trạng đồ ăn):**
 - Hương vị: **Bitter** (đắng) · **Smoky** (xông khói) · **Sickly** (tanh) · **Tasty** (ngon, đúng vị) · **Juicy** (nhiều nước) · **Delicious** (thơm ngon)
 - Tình trạng: **Fresh** (tươi mới) · **Rotten** (thối rữa, hỏng) · **Mouldy** (mốc, mọi) · **Ripe** (chín) · **Unripe** (chưa chín) · **Off** (ôi/hỏng — sữa, bơ)
 - Độ chín thịt: **Tender** (mềm, không dai) · **Tough** (dai, khó nhai) · **Under-done** (tái, nửa sống) · **Over-done** (nấu quá chín)
+
+> **Tóm gọn 1 câu:** Học từ theo "bảng vị": hương vị, tình trạng, độ chín — ba ngăn này đủ để khen chê bất cứ món nào.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -102,9 +118,15 @@ How about Korean food? I know a place near here. They have really good BBQ.
 Ok. Let's go!
 ```
 
+Đây là "kịch gốc" của bài — đọc to từng câu, gạch mỗi lần "What kind of…?" xuất hiện để thấy câu hỏi này đào được bao nhiêu tầng gu.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho "hỏi gu – kể gu" — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 4 điểm, đều xoay quanh cách bày tỏ sở thích và khó chịu.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -115,7 +137,12 @@ Ok. Let's go!
 | 3 | GO + V-ing (Đi làm gì) | Rủ và kể thói quen đi chơi |
 | 4 | PREFER (Thích hơn) | So gu, chọn lựa giữa 2 thứ |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. Try: `TRY + to V` (cố gắng làm gì) · `TRY + V-ing / N` (thử làm gì đó)
+
+Điểm này tách đôi "try" thành hai tính cách: nỗ lực to V và thử nghiệm V-ing — đổi đuôi là đổi nghĩa.
+
 **Cách dùng:** Bản chất: **try to V = nỗ lực** (có khó khăn, cần quyết tâm — *try to jog every night*); **try V-ing/N = thử nghiệm** (làm xem sao, cho biết — *try listening to rock ballads*). Nói ra khi kể nỗ lực của mình hoặc rủ ai thử cái mới. Cản trở: đổi to/V-ing là đổi cả nghĩa — *I tried to open the door* (cố mà không nổi) khác *I tried opening the door* (thử xem có mở được không). Nhịp: rủ ai thì dùng *try + N* (*try Tony Robbins' books*) — ngắn, nhẹ, không sức ép.
 
 **Phản xạ hỏi–đáp:**
@@ -134,7 +161,12 @@ Ok. Let's go!
 - Đổi to V → V-ing: `I try speaking English with strangers sometimes.` *(Thi thoảng tớ thử nói tiếng Anh với người lạ)*
 - Đổi danh từ: `Try reading comics before bed.` *(Thử đọc truyện tranh trước khi ngủ xem)*
 
+> **Tóm gọn 1 câu:** try to V là "cố gắng" (có khó khăn), try V-ing là "thử xem sao" — đổi đuôi là đổi cả tâm trạng của câu.
+
 ### Điểm 2. Can't + stand / stop + V-ing / N: "Không thể chịu được… ai/điều gì"
+
+Điểm này là hai mặt của cảm xúc mạnh: can't stand là ghét đến chịu không nổi, can't stop là mê đến không buông được.
+
 **Cách dùng:** Bản chất: hai cụm cùng khuôn **can't + stand/stop + V-ing/N** nhưng chiều cảm xúc ngược nhau — stand = **ghét đến chịu không nổi**, stop = **mê đến không buông được**. Sau stand/stop có thể là danh từ trần: *can't stand the smell*. Nói ra khi bày tỏ cảm xúc mạnh, đừng phí cho chuyện vặt vãnh. Cản trở: đừng chen giới từ (~~can't stand with the smell~~ ✗ — stand + O thẳng), và đừng nhầm stand (chịu đựng) với stand (đứng) — ngữ cảnh quyết định. Nhịp: dồn sức vào *can't STAND*, kéo dài chữ "sta-and" — giọng cáu thật mới thật.
 
 **Phản xạ hỏi–đáp:**
@@ -153,7 +185,12 @@ Ok. Let's go!
 - Đổi stand → stop (chiều ngược): `I can't stop listening to this rock ballad.` *(Tớ ngừng nghe bài này không nổi)*
 - Đổi danh từ: `I can't stand the taste of bitter melon.` *(Tớ chịu không nổi vị đắng của mướp đắng)*
 
+> **Tóm gọn 1 câu:** cùng một khung can't + stand/stop nhưng hai chiều cảm xúc ngược nhau — stand là ghét, stop là mê; và stand + tân ngữ thẳng, đừng chen with.
+
 ### Điểm 3. GO + V-ing: `GO + shopping / swimming / fishing / jogging / camping …`
+
+Điểm này dạy "bộ đôi giải trí": go gắn liền V-ing cho mọi hoạt động ra ngoài chơi.
+
 **Cách dùng:** Bản chất: **go + V-ing** là bộ đôi cố định cho hoạt động "ra ngoài giải trí" — go swimming, go shopping, go camping; V-ing dính liền, không to, không for. Kèm tần suất **every other day/week** = cách 1 ngày/1 tuần — nghe "đều đều" như người bản xứ. Nói ra khi kể thói quen hoặc rủ đi chơi cuối tuần. Cản trở: ~~go to swimming~~ ✗, ~~go for swimming~~ ✗ — bỏ hết giới từ. Nhịp: dồn go + V-ing thành một nhịp — *go SWIMming, go SHOPping* — nghe rất bản địa.
 
 **Phản xạ hỏi–đáp:**
@@ -172,7 +209,12 @@ Ok. Let's go!
 - Đổi hoạt động: `I go swimming every other day.` *(Tớ bơi cách ngày một lần)*
 - Đổi tần suất: `My father goes fishing every Sunday.` *(Chủ nhật nào ba tớ cũng đi câu)*
 
+> **Tóm gọn 1 câu:** go + V-ing dán liền như tem: go swimming, go shopping — giữa chúng cấm chen to hay for, kèm every other day là "cách 1 ngày".
+
 ### Điểm 4. PREFER: `S + PREFER + to + V` · `S + PREFER + V-ing/N + TO + V-ing/N`
+
+Điểm này là "trọng tài so gu": prefer quyết ai hơn ai — và giới từ so sánh cố định là to, dù hai vế là danh từ hay V-ing.
+
 **Cách dùng:** Bản chất: prefer là **so gu có dữ kiện** — *prefer + to V* (thích làm gì), *prefer + V-ing/N + **to** + V-ing/N* (thích A hơn B). Nói ra khi so sánh gu: *I prefer pop music to rock*. Cản trở: sau prefer phải là **to**, không phải than — ~~prefer pop than rock~~ ✗; so hai V-ing thì "to" vẫn giữ nguyên, đừng đổi thành than cho "hợp lý". Nhịp: nhấn vào thứ mình chọn — *I prefer POP to rock* — gu dồn hết ở đó.
 
 **Phản xạ hỏi–đáp:**
@@ -191,9 +233,13 @@ Ok. Let's go!
 - Đổi danh từ: `I prefer comics to novels.` *(Tớ thích truyện tranh hơn tiểu thuyết)*
 - Đổi động từ: `I prefer to cook at home.` *(Tớ thích nấu ở nhà hơn)*
 
+> **Tóm gọn 1 câu:** prefer A to B là trọng tài so gu — chữ "to" cố định, đừng đổi thành than; nhấn vào thứ mình chọn là gu tự hiện ra.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu hỏi tự luyện về gu thật của mình — nói to, ghi âm, nghe lại.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *What kind of sports do you like? — I love swimming and jogging.*
@@ -210,3 +256,5 @@ Ok. Let's go!
 5. What kind of food do you want after work? — *I want something … , like … .*
 
 > ✅ Checkpoint: đặt **5 câu "What kind of…?"** cho 5 đối tượng thật (bạn bè / đồng nghiệp) — mỗi câu trả lời phải có 2 lí do. Ghi âm lại.
+
+> **Tóm gọn 1 câu:** Hỏi 5 người thật 5 câu "What kind of…?" — nghe gu người khác và trả lời gu của mình, mỗi câu hai lý do là "đủ cay đủ mặn".

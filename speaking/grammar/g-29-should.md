@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này gói lại khung câu của `should` — một modal "nhẹ tay": đưa lời khuyên mà không ra lệnh. Ví von: nếu `must` là tiếng còi cảnh sát thì `should` là **vỗ vai người bạn** — nghe được hay không là tùy bạn, nhưng nghe thì tốt cho bạn.
+
 `S + should / shouldn't + V(gốc)`
 
 | | Khẳng định | Phủ định | Câu hỏi |
@@ -13,9 +15,13 @@
 | I / You / We / They | I **should go**. | I **shouldn't go**. | **Should** I **go**? |
 | He / She / It | He **should go**. | He **shouldn't go**. | **Should** he **go**? |
 
+> **Cách đọc bảng này:** bảng chia theo chủ ngữ nhưng nhìn một phát là thấy `should` không đổi hình — khẳng định, phủ định, hỏi đều giữ V nguyên mẫu; chỉ cần nhớ vị trí từ là dựng được cả ba kiểu câu.
+
 **Phản xạ nói:**
 - *should* → /ʃʊd/ hoặc /ʃəd/ (nuốt nhẹ)
 - *shouldn't* → /ˈʃʊd.ənt/ hoặc /ˈʃəd.ənt/
+
+> **Tóm gọn 1 câu:** Khung gốc `S + should(n't) + V(gốc)` — không chia theo chủ ngữ, không to, không V-ing; đổi khẳng định/hỏi chỉ bằng dịch chuyển trợ động từ.
 
 ## II. KHI NÀO DÙNG?
 
@@ -31,7 +37,11 @@
 - ~~I should going~~ → *I should **go*** — not V-ing.
 - Nhầm **should** (lời khuyên) với **must** (bắt buộc) — should nhẹ hơn nhiều.
 
+> **Tóm gọn 1 câu:** Dùng `should` khi khuyên, gợi ý, giao nghĩa vụ nhẹ hay dự đoán — và `shouldn't` để khuyên không làm, vẫn giữ V nguyên mẫu phía sau.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này mổ xẻ `should` qua ba tầng: khuyên ở hiện tại, dự đoán về tương lai, và hối tiếc về quá khứ (`should have + V3`) — tầng cuối là chỗ "đắt" nhất khi kể chuyện.
 
 ### Cấu trúc cơ bản
 
@@ -49,6 +59,8 @@
 
 **Phân biệt SHOULD vs MUST:**
 
+Cặp so sánh "nặng – nhẹ" quan trọng nhất của modal: cùng khuyên người ta làm, nhưng một bên cầm dùi cui, một bên cầm quạt.
+
 | | **Should** | **Must** |
 |--|-----------|---------|
 | Mức độ | Nhẹ — lời khuyên | Mạnh — bắt buộc / nghĩa vụ |
@@ -59,7 +71,7 @@
 
 ### Cách dùng 2: Should for prediction (Dự đoán)
 
-**Should** không chỉ dùng để khuyên — còn dùng để **dự đoán điều gì đó có khả năng xảy ra**:
+**Should** không chỉ dùng để khuyên — còn dùng để **dự đoán điều gì đó có khả năng xảy ra**: lúc này `should` như "kẹp lịch" — nói ra kỳ vọng về thời điểm sự việc sẽ đến.
 
 | Cấu trúc | Ví dụ | Nghĩa |
 |----------|-------|-------|
@@ -83,6 +95,8 @@
 
 ### Should have + V3 — Hối tiếc về quá khứ
 
+Đây là "máy quay lại" của `should`: việc đã trôi qua, bạn bấm quay lại để nói "lẽ ra nên làm khác" — cấu trúc này đắt giá khi kể chuyện và xin lỗi.
+
 | Cấu trúc | Ví dụ | Nghĩa |
 |----------|-------|-------|
 | should have + V3 | I **should have called** you. | Lẽ ra tôi nên gọi bạn. |
@@ -99,9 +113,13 @@
 - Đổi thì (quá khứ — should have + V3): *I should have studied harder.* (hối tiếc)
 - Đổi ngữ cảnh (đi làm): *You should finish the report.* / (du lịch): *We should visit the temple.* / (mua sắm): *She should compare prices.*
 
+> **Tóm gọn 1 câu:** Ba tầng của should: khuyên (should + V), dự đoán (should be/arrive), hối tiếc (should have + V3) — càng về sau càng "mỏi lòng".
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -112,7 +130,13 @@
 | 5 | **Should I…?** | Tôi có nên…? | Hỏi ý kiến | *Should I call her now?* | —— | *Yes, go ahead.* |
 | 6 | **I ought to…** | Tôi nên… (trang trọng hơn) | Lời khuyên lịch sự | *I ought to apologize.* | —— | *That would be wise.* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 6 cụm này là "bộ đồ khuyên – hỏi – hối" của should — nhớ kèm lỗi sai (⚠️) và câu đáp lại (💬) là nói được ngay.
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -125,6 +149,8 @@
 | Earlier | (adv) /ˈɜːr.li.ər/ | Sớm hơn |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng chuyện thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *You should talk to her about it.*
@@ -141,6 +167,8 @@
 5. Should I have studied more? — *Yes, you should have…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp với việc thật của mình; ghi âm nghe lại là thấy ngay chỗ gãy.
 
 ---
 
@@ -161,6 +189,8 @@
 
 ## VII. BONUS: SHOULD vs MUST vs HAVE TO — Cấp độ bắt buộc
 
+Mục này là "thang đo áp lực": ba modal cùng nói "phải làm" nhưng nặng nhẹ khác nhau — đặt cạnh nhau để biết lúc nào thả lời khuyên, lúc nào tuyên bố quy tắc.
+
 | | **Should** | **Must** | **Have to** |
 |--|-----------|---------|------------|
 | Mức độ | Lời khuyên (nhẹ) | Bắt buộc nội tâm / quy tắc | Bắt buộc ngoại lực / luật |
@@ -169,3 +199,7 @@
 | Nhấn mạnh | Nhẹ nhàng | Mạnh, nghiêm trọng | Khách quan, thực tế |
 
 > 💡 Mẹo: **Should** = "nên làm vì tốt cho bạn". **Must** = "phải làm vì quy tắc / khẩn cấp". **Have to** = "phải làm vì hoàn cảnh bắt buộc".
+
+> **Cách đọc bảng này:** mỗi dòng là một nấc thang — từ nhẹ (should) lên nặng (must/have to); đặc biệt để ý dòng **Phủ định**: mustn't là "cấm" còn don't have to là "không cần", nghĩa ngược nhau hoàn toàn.
+
+> **Tóm gọn 1 câu:** Should khuyên vì tốt cho bạn, must bắt vì quy tắc, have to ép vì hoàn cảnh — và cẩn thận: mustn't là "cấm", don't have to là "không cần".

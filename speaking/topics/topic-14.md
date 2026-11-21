@@ -14,12 +14,19 @@
 - **Conversation — hỏi đường lên bến xe**: người đầu tiên xua tay *"I don't speak English well"* (vẫn được cảm ơn anyway!); người sau chỉ từng bước: đi thẳng 200m, rẽ trái ở ngã tư đầu, đi tiếp tới khi thấy Starbucks — bến xe ở bên kia đường, khoảng 500m; chỉ luôn chuyến 14 đi Suối Tiên nhưng khuyên mềm: *"If I were you, I'd take a Grab — faster and easier"*.
 Điểm chốt: **"Do you know where + S + V…?"** là câu hỏi gián tiếp — mệnh đề sau "where" **giữ nguyên S + V, không đảo** (*where my bag **is***, không phải *where IS my bag*); muốn suồng sã, thân mật thì hỏi thẳng **"Where…?"** cho lẹ.
 
+> **Tóm gọn 1 câu:** Bài này dạy cách "đi hỏi lịch sự": Do you know where…? — mệnh đề sau giữ nguyên S + V, đừng đảo lên như câu hỏi trực tiếp.
+
 ### 2) Khi nào sử dụng?
+
+Mục này cho biết câu hỏi gián tiếp "đi hỏi" được ở đâu: lạc đường, tìm đồ, tìm người, hỏi trong công ty.
+
 - **Đi du lịch/lạc đường, không rành đường sá**: *Do you know where I can exchange some money?* / *Do you know where the nearest bus station is?*
 - **Tìm đồ thất lạc**: *Do you know where my phone/keys are?* → được chỉ chỗ: *Try under the bed.*
 - **Tìm người**: *Do you know where Ruby is? — He's out.* · *Do you know when they'll be back?* (biến thể với *when*)
 - **Trong công việc**: *Do you know where the marketing department is?* / *Do you know what bus I can take…?* (biến thể với *what*)
 - **Suồng sã, thân mật** thì hỏi thẳng *Where…?*; **lịch sự, gián tiếp** thì *Do you know where…?* — và nhớ: mệnh đề sau where là **S + V, không đảo**.
+
+> **Tóm gọn 1 câu:** Lịch sự thì bọc "Do you know where…?", thân mật thì hỏi thẳng Where…? — nhưng dù kiểu nào, mệnh đề sau where cũng không được đảo.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -43,7 +50,12 @@
 | 14 | **By the way** | Nhân tiện | Chêm một ý mới giữa cuộc nói chuyện | *By the way, do you know what bus I can take to Suôi Tien Park from here?* | ~~On the way~~ nghĩa khác — by the way là "nhân tiện", on the way là "trên đường" | *Sure, ask away! (Ừ, cứ hỏi đi!)* |
 | 15 | **Enjoy your trip!** | Chúc chuyến đi vui vẻ! | Chúc ai sắp đi chơi/du lịch | *Alright! Enjoy your trip!* | ~~Enjoy your travel~~ — **trip** mới là chuyến đi; travel không dùng thế này | *Thank you! I sure will. (Cảm ơn! Chắc chắn rồi)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Bảng này dài (15 hàng) nên chia làm 3 "màn" như hội thoại: tìm đồ (1–5), hỏi chỗ (10–12), chỉ đường và chúc (6–9, 13–15).
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Pillow | (n) /ˈpɪloʊ/ | Cái gối |
@@ -61,6 +73,8 @@
 | Warehouse | (n) /ˈwerhaʊs/ | Nhà kho |
 | Cafeteria = Canteen | (n) | Quán tự phục vụ (căng tin) |
 
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép nghĩa cột phải là nhớ nhanh nhất.
+
 **Extension (GIVING DIRECTIONS — chỉ đường):**
 - Go straight — Đi thẳng
 - Turn right / Turn left — Rẽ phải / rẽ trái
@@ -72,6 +86,8 @@
 - On / at the corner — Ở góc đường
 - Take the first right — Rẽ phải ở lối rẽ đầu tiên
 - At the roundabout, take the first exit — Ở vòng xoay, ra lối ra đầu tiên
+
+> **Tóm gọn 1 câu:** Bộ chỉ đường là "định vị bằng lời": đi thẳng – rẽ – đi qua – đối diện — ghép các mảnh theo thứ tự là người nghe tự vẽ ra bản đồ.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -113,9 +129,15 @@ Thank you! I think I'll experience riding the bus in Viet Nam.
 Alright! Enjoy your trip!
 ```
 
+Đây là "kịch gốc" của bài — đọc to từng câu, chú ý mệnh đề sau "where" luôn giữ nguyên S + V.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho "hỏi – chỉ đường" — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 3 điểm: hai chữ "đổi", câu hỏi gián tiếp, và mạo từ THE.
 
 **Tổng quan: 3 điểm ngữ pháp trong bài**
 
@@ -125,7 +147,11 @@ Alright! Enjoy your trip!
 | 2 | Do you know where S + V? (Câu gián tiếp) | Hỏi đường/tìm đồ lịch sự, mệnh đề không đảo |
 | 3 | Mạo từ THE (The + N xác định) | Nói "cái…" đã rõ; tránh "the" trước tên riêng |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. Change vs Exchange: `CHANGE = make different / replacing · EXCHANGE = a trade`
+
+Điểm này phân xử cặp "đổi": exchange cần hai bên trao qua lại, change chỉ cần có sự khác đi.
 
 **Cách dùng:** **Change** = làm khác đi, thay thế (và cả đổi tiền); **Exchange** = trao đổi — đưa cái này lấy cái khác. Chỗ nào có "trao đi lấy về" thì exchange, chỗ nào chỉ "khác hơn" thì change — *Change can mean exchange, but exchange doesn't mean change*. Đổi áo lấy size nhỏ dùng cả hai được, nhưng "đổi cuộc đời" thì chỉ **change my life**, đừng nói ~~exchange my life~~. Mẹo: nhìn xem có hai bên trao cho nhau không.
 
@@ -145,7 +171,11 @@ Alright! Enjoy your trip!
 - Đổi danh từ: `I want to exchange dollars for VND.` *(Tớ muốn đổi đô lấy VND)*
 - Đổi thì: `I changed my plan yesterday.` *(Hôm qua tớ đổi kế hoạch rồi)*
 
+> **Tóm gọn 1 câu:** exchange là "trao đi lấy về" (đổi tiền, đổi đồ), change là "làm khác đi" (đổi đời, thay đèn) — đổi cuộc đời thì đừng exchange.
+
 ### Điểm 2. Do you know where S + V…?: `DO YOU KNOW WHERE + S + V…? = WHERE + AUX.V + S?`
+
+Điểm này là "quy tắc bất di bất dịch" của bài: sau where/when/what gián tiếp, mệnh đề không đảo.
 
 **Cách dùng:** Câu hỏi gián tiếp: sau *where/when/what*, mệnh đề **giữ nguyên trật tự S + V, không đảo** — *where my bag **is***, không phải ~~where is my bag~~. Bản chất: cả cụm sau where đã là một câu trần, chỉ thiếu từ nghi vấn đứng đầu. Muốn lịch sự, mềm mại — dùng gián tiếp; hỏi nhanh với bạn thân — *Where…?* cho lẹ. Mẹo: nói xong "Do you know where…" cứ đi tiếp như đọc một câu trần, đừng đảo lên.
 
@@ -165,7 +195,11 @@ Alright! Enjoy your trip!
 - Đổi where → when: `Do you know when they'll be back?` *(Bạn có biết bao giờ họ về không?)*
 - Đổi danh từ trong mệnh đề: `Do you know where my keys are?` *(Bạn có biết chìa khóa ở đâu không?)*
 
+> **Tóm gọn 1 câu:** Câu gián tiếp như "câu trần khoác áo lịch sự": nói xong "Do you know where…" cứ đi tiếp S + V, đảo lên là lộ chưa quen.
+
 ### Điểm 3. Mạo từ THE: `THE + DANH TỪ XÁC ĐỊNH — KHÔNG "the" trước TÊN RIÊNG`
+
+Điểm này dạy khi nào "gắn tem THE": người nghe đã biết là "cái nào" thì mới gắn — tên riêng thì tự nó đã xác định.
 
 **Cách dùng:** **The** đánh dấu "cái đó, chắc chắn người nghe biết" — đã xác định thì thêm the. Tên riêng (Big C, the campus) tự thân đã xác định, **không thêm the** trước nó; nhưng "the + N + thành phần định nghĩa" (the bus station, the nearest ATM) thì vẫn thêm. Mẹo: tự hỏi người nghe đã biết "cái nào" chưa — biết rồi thì the, chưa thì a/an hoặc tên riêng.
 
@@ -185,9 +219,13 @@ Alright! Enjoy your trip!
 - Đổi danh từ: `Do you know where the nearest ATM is?` *(Bạn có biết ATM gần nhất ở đâu không?)*
 - Đổi sang tên riêng (bỏ the): `I'm looking for Big C supermarket.` *(Tớ đang tìm siêu thị Big C)*
 
+> **Tóm gọn 1 câu:** THE là tem "cái đó rồi, khỏi hỏi" — tự hỏi người nghe đã biết cái nào chưa; biết thì the, còn tên riêng thì đừng gắn thêm.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu hỏi tự luyện hỏi chỗ quanh mình — nói to, ghi âm, nghe lại.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Do you know where my phone is? — Try under the pillow. Oh, here it is!*
@@ -204,3 +242,5 @@ Alright! Enjoy your trip!
 5. Do you know what we can get in the cafeteria? — *I'm not sure but I think they have coffee, bánh mì and mineral water.*
 
 > ✅ Checkpoint: hỏi 5 chỗ quanh mình bằng **"Do you know where + S + V…?"** (không đảo!), chỉ đường lại bằng go straight / turn left / across from — ghi âm lại.
+
+> **Tóm gọn 1 câu:** Hỏi 5 chỗ thật quanh mình bằng câu gián tiếp (nhớ: không đảo!), rồi chỉ đường lại bằng bộ từ go straight / turn left / across from.

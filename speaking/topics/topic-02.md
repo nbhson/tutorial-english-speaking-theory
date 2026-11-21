@@ -13,12 +13,19 @@ Hai người bạn quen nhau dần qua những câu hỏi "Where do you…?":
 - Nhắc nhau về **Mekong Delta** (ĐBSCL) và **drug store** (tiệm thuốc), túi xách/backpack mua ở đâu.
 Chốt: **"Where do you…?"** là chìa khoá mở mọi câu chuyện về địa điểm — sống, làm, học, mua sắm, ăn, chơi.
 
+> **Tóm gọn 1 câu:** Bài này luyện chìa khóa "Where do you…?" — xoay chìa là mở được chuyện ở đâu sống, ở đâu làm, mua gì ở đâu.
+
 ### 2) Khi nào sử dụng?
+
+Mục này cho biết chìa khóa "Where do you…?" mở được những cánh cửa nào: từ quê quán, chỗ làm tới chợ mua sắm cuối tuần.
+
 - Hỏi **nơi sinh sống / quê quán**: *Where do you live? / Where are you from?*
 - Hỏi **nơi làm việc / học tập**: *Where do you work? / Where do you study?*
 - Hỏi **thường xuyên** làm gì ở đâu cuối tuần: *Where do you usually go at the weekend?*
 - Hỏi **mua sắm**: *Where do you buy/get…?* (quần áo, đồ ăn, khẩu trang...)
 - Mở rộng hội thoại tự nhiên: địa danh Việt được gọi trên thế giới (Mekong Delta), chợ trời…
+
+> **Tóm gọn 1 câu:** Dùng "Where do you…?" cho mọi chuyện về địa điểm — sống, làm, học, mua sắm, chơi — hỏi một chữ mà mở cả cuộc trò chuyện.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -36,7 +43,12 @@ Chốt: **"Where do you…?"** là chìa khoá mở mọi câu chuyện về đ�
 | 8 | **Maybe just around District 1 then** | Vậy thì chắc chỉ quanh Quận 1 thôi | Gợi ý chỗ chơi gần gũi | *Maybe just around District 1 then.* | ~~around of District 1~~ — thừa "of" | *Perfect, close to me too. (Tuyệt, gần nhà tôi luôn)* |
 | 9 | **I figured** | Tôi hiểu / tôi đoán ra rồi | Đáp lại điều vừa nghe hiểu | *I figured.* | ~~I figure~~ — câu này mặc định quá khứ: figured | *Exactly, you got it. (Chuẩn, cậu hiểu ý mà)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Hàng nào đúng chuyện bạn hay nói thì học hàng đó trước.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Jungle | (n) /ˈdʒʌŋgl/ | Rừng |
@@ -51,10 +63,14 @@ Chốt: **"Where do you…?"** là chìa khoá mở mọi câu chuyện về đ�
 | Face mask | (n) /feɪs//mæsk/ | Khẩu trang |
 | Drug store | (n) /drʌɡ//stɔːr/ | Tiệm thuốc |
 
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép với nghĩa cột phải là nhớ nhanh nhất.
+
 **Extension (PREPOSITIONS of PLACE):**
 - **IN** (General – phạm vi rộng): nước, thành phố, khu vực, không gian kín → *In France, In Paris, In HCMC, In District 7, In Car.*
 - **ON** (More specific): phố, mặt phẳng, phương tiện đi lại → *On Le Duan Str., On the floor, On a bus.*
 - **AT** (Very specific): địa chỉ, địa điểm cụ thể → *At 123 Le Duan Str., At the bus station.*
+
+> **Tóm gọn 1 câu:** Học từ theo cụm và theo giới từ chỗ đứng — IN rộng, ON hẹp hơn, AT chấm cụ thể — như zoom camera từ thành phố xuống đúng số nhà.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -83,9 +99,15 @@ No problem. Just stay where you are now.
 ```
 *(Hội thoại trên là bản rút gọn giữ các câu chốt; để shadowing theo đúng thứ tự từng lời trên map, mở ảnh gốc `images/t02-BEOD-MAPS-02-WhereDoYou.png`.)*
 
+Đây là "kịch gốc" của bài — đọc to từng câu, rồi đóng vai hai người để cấu trúc đi vào miệng thay vì chỉ vào mắt.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho "Where do you…?" — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 4 điểm, mỗi điểm đều có mẹo tránh lỗi dịch-sát-tiếng-Việt.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -96,7 +118,11 @@ No problem. Just stay where you are now.
 | 3 | One / Ones (Danh từ thay thế) | Lấp lánh "cái nào" mà không lặp danh từ |
 | 4 | Prepositions of Place (IN / ON / AT) | Nói rõ vị trí: nước, phố, địa chỉ |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. Present Simple – Verb: `I/we/you/they + V` · `She/he/it + V(s/es)`
+
+Điểm này là xương sống của bài: mọi câu hỏi thói quen "Where do you…?" đều chạy trên nó.
 
 **Cách dùng:** Đây là "cỗ máy thói quen": mọi việc **lặp lại, đúng lịch** đều dùng nó — sống, làm, học, mua sắm. Khác ToBe: động từ thường phải **mượn do/does** để hỏi và phủ định (*Where do you live? / I don't work here*). Chủ ngữ he/she/it thì V khoác áo **s/es** — quên "s" là lỗi quốc dân (*she work* ✗). Mẹo nói: gộp *do you* thành /də-jə/ — *Whaddaya do?* — tự nhiên như người bản xứ.
 
@@ -116,7 +142,11 @@ No problem. Just stay where you are now.
 - Đổi chủ ngữ *I* → *they*: `They work for the center.` *(Họ làm cho the center)*
 - Đổi thì (quá khứ): `I lived in Hanoi last year.` *(Năm ngoái tôi sống ở Hà Nội)*
 
+> **Tóm gọn 1 câu:** Động từ thường hỏi/phủ định phải mượn do/does, chủ ngữ he/she/it thì V khoác áo s/es — quên "s" là lỗi quốc dân.
+
 ### Điểm 2. Too / So (…cũng vậy): `S + V, too.` / `So + V + S.`
+
+Điểm này dạy bạn hai cách "lấy lòng" người đối diện: nói nhanh "mình cũng vậy" mà không phải lặp cả câu.
 
 **Cách dùng:** Hai cách "tôi cũng vậy" cực đắt trong speaking. **Too** gắn đuôi câu sau dấu phẩy (*I am, too*); **So** dẫn đầu câu và **đảo trợ động từ lên trước chủ ngữ** (*So do I*). Chọn nhanh: nói lướt thì *So do I*, nói nhát gừng thì *…, too*. Quan trọng nhất: **lặp đúng trợ động từ** của câu kia — *I live…* → *So do I*, *I am…* → *So am I*; lấy sai là câu "lạc quẻ" ngay.
 
@@ -136,7 +166,11 @@ No problem. Just stay where you are now.
 - Đổi chủ ngữ: `She works online. — So does her husband.` *(Cô ấy làm online. — Chồng cô ấy cũng vậy)*
 - Đổi thì (quá khứ): `I lived in Hanoi. — So did I.` *(Tôi từng sống ở Hà Nội. — Tôi cũng vậy)*
 
+> **Tóm gọn 1 câu:** Đồng tình ngắn gọn: gắn đuôi câu dùng *too*, dẫn đầu câu dùng *So + trợ động từ + S* — và nhớ lặp đúng trợ động từ của câu kia.
+
 ### Điểm 3. One / Ones (Danh từ thay thế)
+
+Điểm này cho bạn cái "phím tắt" tránh lặp danh từ: nói *one/ones* thay vì nhắc lại từ cũ.
 
 **Cách dùng:** one/ones là "cái đó" của tiếng Anh — thay danh từ **đếm được** đã nhắc rồi để khỏi lặp: one = số ít, ones = số nhiều, thường đứng sau this/that/which/the + adj. Danh từ **không đếm được** (sugar, milk, money) cấm dùng one — phải đổi sang *some*. Câu hỏi *Which one?* là cứu cánh mỗi khi bị bắt chọn. Mẹo nói: nhấn "ONE" lên cho rõ — *Which ONE?*
 
@@ -156,7 +190,11 @@ No problem. Just stay where you are now.
 - Đổi số ít → số nhiều: `How much are those shoes? — The white ones.` *(Đôi giày kia bao nhiêu? — Cặp trắng í)*
 - Đổi sang không đếm được (one → some): `Can I have some sugar?` *(Cho tôi chút đường nhé)*
 
+> **Tóm gọn 1 câu:** one/ones là "cái đó" thay cho danh từ đếm được — số ít dùng one, số nhiều dùng ones, không đếm được thì đổi sang some.
+
 ### Điểm 4. Prepositions of Place: IN / ON / AT
+
+Điểm này dạy bạn "zoom camera" vị trí: từ toàn cảnh thành phố xuống đúng số nhà.
 
 **Cách dùng:** Ba "nút phóng to" vị trí: **IN** ôm phạm vi rộng (nước, thành phố, không gian kín), **ON** sát hơn (đường phố, mặt phẳng, phương tiện công cộng), **AT** chấm cụ thể (địa chỉ, điểm hẹn). Viết địa chỉ thì "zoom" dần: in HCMC → on Le Duan Street → at 123 Le Duan Str. Dễ nhầm: phương tiện — *in a car* nhưng *on a bus* (bước lên xuống được). Mẹo nói: nuốt nhẹ giới từ, nhấn vào nơi chốn đứng sau — *in HANOI*.
 
@@ -176,9 +214,13 @@ No problem. Just stay where you are now.
 - Đổi nơi chốn (thành phố → đường phố): `I live on Nguyen Hue Street.` *(Tôi sống trên đường Nguyễn Huệ)*
 - Đổi nơi chốn (đường phố → địa chỉ): `Meet me at 42 Nguyen Hue.` *(Gặp tôi tại số 42 Nguyễn Huệ)*
 
+> **Tóm gọn 1 câu:** IN / ON / AT là ba mức zoom: ôm rộng → sát hơn → chấm cụ thể — viết địa chỉ cứ zoom dần theo thứ tự đó.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu hỏi tự luyện về nơi chốn thật của mình — nói to, ghi âm, nghe lại.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Where do you live? — I live in HCMC.*
@@ -195,3 +237,5 @@ No problem. Just stay where you are now.
 5. Where do you want to visit next? — *I want to visit … so I can take you there soon!*
 
 > ✅ Checkpoint: nói 5 câu hỏi "Where do you…?" MỚI (không trùng bảng trên) và tự trả lời. Ghi âm lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 vòng: drill nhại theo, rồi tự hỏi tự đáp 5 câu "Where do you…?" mới hoàn toàn — nói to, ghi âm, nghe lại.

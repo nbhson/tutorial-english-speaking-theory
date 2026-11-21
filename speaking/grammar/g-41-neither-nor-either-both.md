@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này là "bảng phân vai" cho bộ 4 từ bàn về CẶP: cái nào gộp cả hai, cái nào chọn một, cái nào từ chối cả hai — nhìn phát là biết chính diện hay phủ định.
+
 | Từ | Nghĩa | Ví dụ |
 |----|-------|-------|
 | both | cả hai | Both of them are here. |
@@ -15,7 +17,9 @@
 | either…or | hoặc… hoặc | Either A or B. |
 | both…and | cả… và | Both A and B. |
 
-**Quy tắc:** neither = not either (khẳng định). either = one of two / also (trong câu phủ định). both = hai cái cùng lúc.
+> **Cách đọc bảng này:** đọc cột "Nghĩa" trước để xếp mỗi từ vào 3 ngăn: "cả hai" (both), "chọn một" (either), "không cái nào" (neither); cột Ví dụ cho thấy từ đó đứng câu thật ra sao.
+
+**Quy tắc:** neither = not either (khẳng định). either = one of two / also (trong câu phủ định). both = hai cái cùng lúc. Ví von dễ nhớ: bàn ăn có 2 món — *both* là ăn cả hai đĩa, *either* là chọn một trong hai đĩa, *neither* là lắc đầu bỏ cả hai.
 
 **Phản xạ nói:**
 - *neither* → /ˈnaɪ.ðər/ hoặc /ˈniː.ðər/ — chọn một kiểu và giữ nhất quán; người Việt hay đọc **"nai-đờ"**.
@@ -23,7 +27,11 @@
 - *both* → /boʊθ/ — đừng đọc thành "boat" — phải có âm /θ/ cuối.
 - *neither of them* → nói liền **"nai-đờ-əv-dem"** — *Neither of them came.*
 
+> **Tóm gọn 1 câu:** Bộ 4 từ chỉ khác nhau ở con số "0 hay 2": both là 2/2, either là chọn 1/2, neither là 0/2 — nhớ con số là không bao giờ lẫn.
+
 ## II. KHI NÀO DÙNG?
+
+Mục này chỉ ra 4 tình huống đời thường bắt buộc phải chọn từ: để khách thoải mái, để từ chối lịch sự, để gộp điều kiện, và để nhấn mạnh cả hai.
 
 - **Nói về hai lựa chọn**: *Either is fine.*
 - **Phủ định cả hai**: *Neither of them came.*
@@ -35,9 +43,16 @@
 - ~~Either of them~~ (một trong hai, chưa biết) vs ~~Neither of them~~ (không cái nào) — khác nghĩa.
 - ~~Both of~~ (trước N số nhiều) vs ~~Both~~ (đứng sau N) → *Both **of the** options* / *The **both** options* (ít dùng).
 
+> **Tóm gọn 1 câu:** Chọn sai từ là đổi hẳn thái độ: either mở lòng, neither đóng cửa, both ăn gộp — đọc lại 3 lỗi trên là khỏi nhầm.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
+Mục này "phỏng vấn" từng từ một: mỗi cách dùng đều có cảnh hỏi–đáp thật và 3 câu mẫu đọc to được ngay.
+
 ### Cách dùng 1: both (cả hai)
+
+*Both* là cách nói "gộp bill": hai cái đều được tính, không loại trừ ai — và vì là "cả hai" nên động từ phải chia số nhiều.
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Do you like tea and coffee?` *(Bạn thích trà và cà phê không?)*
 - ➕ Đáp: *Both! I love them both.* — *Cả hai! Tôi thích cả hai.*
@@ -49,6 +64,9 @@
 3. Both John and Mary came. — *Cả John và Mary đều đến.*
 
 ### Cách dùng 2: either (một trong hai / hoặc)
+
+*Either* là cái gật đầu thoải mái: "cái nào cũng ổn" — hoặc, khi câu đang phủ định, nó lật thành "cái nào cũng không". Một chữ, hai vai, do câu xung quanh quyết.
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Tea or coffee?` *(Trà hay cà phê?)*
 - ➕ Đáp: *Either is fine, thanks.* — *Cái nào cũng được, cảm ơn.*
@@ -60,6 +78,9 @@
 3. Either you go or I go. — *Hoặc bạn đi hoặc tôi đi.*
 
 ### Cách dùng 3: neither (không cái nào)
+
+*Neither* là cú lắc đầu lịch sự: không chọn cái nào trong hai — và vì nó "đã phủ định sẵn" nên câu chỉ cần dạng khẳng định là đủ, khỏi thêm not.
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Which restaurant do you prefer — A or B?` *(Bạn thích nhà hàng nào — A hay B?)*
 - ➕ Đáp: *Honestly, neither. Both are overpriced.* — *Chỗ nào cũng không thích. Quá đắt cả hai.*
@@ -71,6 +92,9 @@
 3. Neither John nor Mary came. — *Cả John và Mary đều không đến.*
 
 ### Cách dùng 4: neither…nor / either…or / both…and
+
+Ba cặp "kẹp đôi" này như hai chạc ghép: hai vế cùng loại kẹp lại thành một lựa chọn, một phủ định hoặc một gộp — vế lệch loại là câu gãy.
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How was the trip?` *(Chuyến đi thế nào?)*
 - ➕ Đáp: *Both relaxing and exciting — we got the best of both worlds.* — *Vừa nghỉ ngơi vừa phiêu lưu — hai trong một.*
@@ -86,9 +110,13 @@
 - Đổi thì: *Neither came.* → *Neither will come.* / *Neither has come.*
 - Đổi ngữ cảnh (đi làm): *Either plan works.* / (du lịch): *Neither hotel is available.* / (mua sắm): *Both are on sale.*
 
+> **Tóm gọn 1 câu:** 4 cách dùng thu về 3 hình ảnh: both gộp bill, either gật đầu thoải mái, neither lắc đầu lịch sự — và cả 3 kẹp đôi đều cần hai vế ngang hàng.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đổ" 6 cụm dùng ngay được: từ chọn món, chốt lịch, tới đáp lại lời phủ định của bạn bè.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -99,7 +127,13 @@
 | 5 | **Either is fine** | Cái nào cũng được | Chấp nhận thoải mái | *Saturday or Sunday? — Either is fine.* | ~~Either are fine~~ — either + **is** | *Okay, Saturday it is! (Thế thứ Bảy nhé!)* |
 | 6 | **Me neither** | Tôi cũng không | Đáp lại lời phủ định | *I don't like horror movies. — Me neither.* | ~~Me too~~ khi câu phủ định — phải dùng **Me neither** | *Let's pick a comedy then! (Vậy chọn phim hài đi!)* |
 
+> **Cách đọc bảng này:** đọc từng hàng: cụm → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Hàng 4–6 là chỗ dễ "sập" nhất (số ít/số nhiều và Me neither/Me too), ưu tiên đọc trước.
+
+> **Tóm gọn 1 câu:** Sáu cụm này là bộ "đáp thì khách" — chọn món, chốt lịch hay dựt lời người ta nói, đều có một cụm sẵn sàng.
+
 ## V. TỪ VỰNG
+
+Mục này gom 5 từ nền của bài — cả 3 từ chính đều có hai cách đọc, nên thuộc luôn phiên âm khỏi lúng túng khi nghe người bản xứ đọc kiểu nào cũng hiểu.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -109,7 +143,11 @@
 | pair | (n) /peər/ | Cặp / đôi |
 | option | (n) /ˈɒp.ʃən/ | Lựa chọn |
 
+> **Cách đọc bảng này:** chú ý cột giữa — neither/either mỗi từ có 2 phiên âm, chọn một kiểu và giữ nhất quán; đọc to vài lần là quen tai.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu hỏi tự luyện chọn cả hai / chọn một / từ chối cả hai — nói to và ghi âm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Both of them are great — I can't choose.*
@@ -140,12 +178,18 @@
 5. Either you or me. — *Hoặc bạn hoặc tôi.*
 6. I like both. — *Tôi thích cả hai.*
 
+> **Tóm gọn 1 câu:** Drill đến 5 câu tự luyện là bộ both/either/neither vào phản xạ — chọn sai từ thì sửa ngay, ghi âm nghe lại là thấy rõ.
+
 ---
 
 ## VII. BONUS: LỖI HAY GẶP
+
+Mục này "gác cổng" trước 4 lỗi phủ định kép và chia động từ sai — chính là chỗ người Việt vấp nhiều nhất với bộ từ này.
 
 - ❌ *I don't like neither.* → ✅ *I like **neither**.* (neither đã phủ định, không thêm not)
 - ❌ *Neither of them don't came.* → ✅ *Neither of them **came**.*
 - ❌ *Both of them is here.* → ✅ *Both of them **are** here.* (both + số nhiều)
 - ❌ *Either of them are here.* → ✅ *Either of them **is** here.* (either + số ít)
 - 💡 Mẹo: **neither** = not either. Trong câu phủ định, dùng **either** (không dùng neither). Động từ theo chủ ngữ gần nhất trong neither…nor / either…or.
+
+> **Tóm gọn 1 câu:** Chốt bài: một câu chỉ một phủ định — neither tự phủ định nên đừng thêm not, còn trong câu đã có not thì gọi **either** ra thay.

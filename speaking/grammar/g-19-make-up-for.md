@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này gói lại "công thức" của `make up for` — nhìn phát biết đi với giới từ nào, danh từ hay V-ing. Hãy hình dung cụm này như **một miếng vá**: bạn làm điều gì đó tử tế để vá lại lỗ hổng mình gây ra (lỗi lầm, thời gian mất, nỗi buồn còn lại).
+
 `make up for + N / V-ing`
 
 | Cấu trúc | Ví dụ | Nghĩa |
@@ -14,11 +16,15 @@
 | make up for + V-ing | He's working hard to **make up for** losing time. | Anh ấy làm việc chăm để bù đắp thời gian đã mất. |
 | be made up of | The team is **made up of** 5 members. | Đội được cấu thành từ 5 thành viên. |
 
+> **Cách đọc bảng này:** mỗi dòng là một dạng cú pháp — đọc cột **Cấu trúc** để nhớ công thức, cột **Ví dụ** để thấy câu thật đời thường, cột **Nghĩa** để đối chiếu tiếng Việt.
+
 **Phân biệt:**
 - **Make up for** = bù đắp (cho thiếu hụt / lỗi lầm)
 - **Make up** (without "for") = trang điểm / dàn xếp / chế ra
 
 **Phản xạ nói:** *make up for* → /meɪkˈʌp fɔːr/ — nhấn mạnh "up" và "for".
+
+> **Tóm gọn 1 câu:** Ba dạng gốc trong bảng: bù việc (`for + N/V-ing`), đền cho người (`it up to someone`), và cấu thành (`be made up of`) — nắm công thức trước, ví von sau.
 
 ## II. KHI NÀO DÙNG?
 
@@ -31,7 +37,11 @@
 - Nhầm **make up** (trang điểm) với **make up for** (bù đắp): *She makes up* vs *She makes up for it*.
 - ~~make up to for~~ — thừa "to" khi theo sau là danh từ trừu tượng.
 
+> **Tóm gọn 1 câu:** Gặp tình huống "mình cần đền bù chuyện đó" là tới lượt `make up for` lên tiếng — nhớ nguyên tắc vàng: đền cho **việc** thì *for*, đền cho **người** thì *to*.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này mổ xẻ từng biến thể của `make up for` qua hỏi–đáp và ví dụ thật — đọc từng mục nhỏ rồi lấy ngay vào chuyện của mình.
 
 ### Make up for + Noun (bù đắp cái gì)
 
@@ -48,6 +58,8 @@
 5. This gift is to make up for forgetting your name. — *Món quà này để bù đắp việc tôi quên tên bạn.*
 
 ### Make up to someone (bù đắp cho ai)
+
+Khi đền bù cho **một con người** chứ không phải một việc, tiếng Anh đổi giới từ sang `to` — ví von: `make it up to you` giống như **trà lỗi**: bạn rót một hành động tử tế để "xả bớt trà" nỗi bực mà người kia đang giữ.
 
 | Cấu trúc | Ví dụ |
 |----------|-------|
@@ -73,6 +85,8 @@
 
 ### Make up (trang điểm / dựng câu chuyện) — Ba nghĩa khác nhau
 
+Đây là chỗ "bẫy" nhất của cụm này: cùng hai chữ `make up` mà ba nghĩa ba đời — bảng dưới xếp cạnh nhau để bạn đừng nhầm.
+
 | Nghĩa | Ví dụ | Ngữ cảnh |
 |-------|-------|---------|
 | **Bù đắp** (make up for) | *I'll make up for the lost time.* | Bù đắp thiếu hụt |
@@ -88,9 +102,13 @@
 4. They made up after their fight. — *Họ hòa giải sau trận cãi nhau.*
 5. Stop making up excuses. — *Đừng bịa lý do nữa.*
 
+> **Tóm gọn 1 câu:** Có `for` mới là bù đắp — thiếu `for` thì thành trang điểm hoặc bịa chuyện, nên nói xong nhớ soát lại giới từ.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), còn cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -100,7 +118,13 @@
 | 4 | **It doesn't make up for…** | Nó không bù đắp được… | Khi hành động khác không xóa được lỗi | *Buying flowers doesn't make up for forgetting.* | —— | *You're right.* |
 | 5 | **Make up (trang điểm)** | Trang điểm | Nghĩa khác của "make up" | *She spends 30 minutes making up.* | —— | *You look great!* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 5 cụm này là "bộ đồ nghề xin lỗi – đền bù" của bài — mỗi cụm nhớ ba thứ: nghĩa, chỗ dễ sai (⚠️) và câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn mấy từ này vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -113,6 +137,8 @@
 | Late | (adj) /leɪt/ | Trễ / muộn |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng chuyện thật của mình — đây là lúc cấu trúc trên giấy thành câu trên miệng.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I'll make it up to you, I promise.*
@@ -129,6 +155,8 @@
 5. What doesn't make up for being late? — *Flowers don't make up for…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp với việc thật; nói to, ghi âm, nghe lại là biết mình đang đứng ở đâu.
 
 ---
 
@@ -149,8 +177,14 @@
 
 ## VII. BONUS: MAKE UP — BA NGHĨA
 
+Mục này là "biển báo phân nhánh" cho cụm `make up`: cùng một cách viết mà ba nghĩa ba đời — bảng dưới xếp cạnh để bạn nhìn một phát là phân biệt được.
+
 | Nghĩa | Ví dụ | Dịch |
 |-------|-------|------|
 | Bù đắp | *make up for lost time* | Bù đắp thời gian đã mất |
 | Trang điểm | *She's making up.* | Cô ấy đang trang điểm |
 | Hòa giải | *They made up after the fight.* | Họ hòa giải sau trận cãi vã |
+
+> **Cách đọc bảng này:** đọc cột **Nghĩa** trước để nắm ba nhánh, rồi soi cột **Ví dụ** xem cái nào có `for` — đó chính là "chìa khóa" của nghĩa bù đắp.
+
+> **Tóm gọn 1 câu:** `make up` là cây đa cây cội ba nghĩa — thêm `for` thành bù đắp, để trần thành trang điểm, và giữa hai người thành hòa giải.

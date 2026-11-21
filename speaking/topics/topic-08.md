@@ -14,12 +14,19 @@
 - Conversation: buổi hẹn đầu tiên của Mark & Jenni ở nhà hàng — recommend steak + red wine; cô chọn sườn cừu + salad; bò nấu **medium-rare**; món đặc biệt hôm nay đúng là món em muốn gọi.
 Điểm chốt: "Would you like…" là câu hỏi lịch sự nhất để hỏi ý muốn — từ rủ đề với người yêu, cha con, đến gọi món trong nhà hàng.
 
+> **Tóm gọn 1 câu:** Bài này luyện "câu hỏi lịch sự nhất tiếng Anh" — What would you like to…? — từ chọn món với người yêu tới gọi món ở nhà hàng.
+
 ### 2) Khi nào sử dụng?
+
+Mục này cho biết "chiếc ghế VIP" của câu hỏi lịch sự này: nhà hàng, gia đình, đề xuất khóa học — chỗ nào cần kính ngữ thì dùng nó.
+
 - **Đưa đề, hỏi ý muốn lịch sự**: *What would you like to eat / do / learn / have?*
 - **Ở nhà hàng**: hỏi khách — *What would you like to have? / How would you like your steak?*
 - **Xin phép/rủ ai đó**: *Can I go and ask Alvin and Theodore to join us?*
 - **Hỏi ý tưởng người khác đang nghĩ**: *What do you have in mind?*
 - **Giới thiệu khóa học/đề xuất**: *That sounds promising! Where do I sign up?*
+
+> **Tóm gọn 1 câu:** would like là "muốn" phiên bản lịch sự — dùng khi đưa đề, gọi món, hỏi ý muốn người khác; thay danh từ sau nó là dùng được mọi tình huống.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -39,7 +46,12 @@
 | 10 | **How would you like your steak?** | Bạn muốn món bò nấu như thế nào? | Hỏi mức độ chín của món thịt | *Medium-rare, please.* | ~~How much would you like your steak~~ — mức chín hỏi **How**, không phải How much | *Medium-rare, please! (Tái vừa nhé ạ!)* |
 | 11 | **Rare / medium-rare / medium / well-done** | Tái / tái vừa / vừa / chín kỹ | Chọn mức chín khi đặt món | *Medium-rare, please.* | ~~half cooked~~ — đừng dịch "tái vừa"; nói medium-rare | *One medium-rare, coming up! (Một phần tái vừa nhé!)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Hàng 8–11 là "bộ đồ nhà hàng" — đi ăn lần đầu nên học trước.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Gain (weight) | (v) /geɪn/ /weɪt/ | Tăng (cân) |
@@ -59,7 +71,11 @@
 | Vegetable | (n) /ˈvedʒtəbl/ | Rau |
 | Recommend | (v) /ˈrekəmend/ | Đề xuất, gợi ý |
 
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép nghĩa cột phải là nhớ nhanh nhất.
+
 **Extension (FOOD — đồ ăn):** bread (bánh mì), meat (thịt), egg (trứng), jam (mứt), milk (sữa), cheese (phô mai), fish (cá), honey (mật ong), rice (cơm), cake (bánh), soup (súp), biscuits (bánh quy), chips (khoai tây giòn), chocolate (sô-cô-la), coke (coca), sausages (xúc xích), shrimp (tôm), pizza (pizza), fried chicken (gà rán), fried potato (khoai tây chiên), hamburger (hamburger), hotdog (bánh mì kẹp xúc xích), ice-cream (kem), yogurt (sữa chua).
+
+> **Tóm gọn 1 câu:** Học từ vựng theo "thực đơn" — mỗi từ là một món, thuộc trước để gọi món đỡ đuối.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -108,9 +124,15 @@ Great! I'll put in the order for you and will be right back with your drinks.
 Thank you!
 ```
 
+Đây là "kịch gốc" của bài — đọc to từng câu, đóng vai cả nhà hàng: một người làm nhân viên, một người làm khách.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho "hỏi ý muốn lịch sự" — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 4 điểm, từ câu rủ nhẹ tới hai "họ hàng" hiện tại hoàn thành.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -121,7 +143,12 @@ Thank you!
 | 3 | Present Perfect (Hiện tại hoàn thành) | "Tôi tìm em đã lâu lắm rồi" |
 | 4 | Present Perfect Continuous (HTHT tiếp diễn) | "Chúng tôi dạy ở the center gần 3 năm nay" |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. Let / Let's: `LET + O + V` · `LET'S (= Let us) + V`
+
+Điểm này là "cổng mở tự do": sau let, động từ đi trần — không to, không -ing.
+
 **Cách dùng:** Bản chất: **Let + O + V nguyên mẫu** — let là "cho phép tự do", sau nó không bao giờ có to hay -ing: *Let her go*, đừng nói ~~Let her to go / Let her going~~. *Let's* = let us — rủ cả hai cùng làm: *Let's go get Pho Bo tonight*. Nói ra khi rủ nhẹ, cho phép, hoặc "buông tha": *Let me be*. Cản trở: dễ lẫn với **allow** — allow mới cần to (*allow her to go*). Nhịp: *Let's…* nói dồn, kéo nhẹ lên cuối câu như lời mời — *Let's taaalk*.
 
 **Phản xạ hỏi–đáp:**
@@ -140,7 +167,12 @@ Thank you!
 - Đổi chủ ngữ: `Let him say something.` *(Để anh ấy nói đôi lời)*
 - Lịch sự hơn: `Let's talk.` → `Shall we talk?` *(Mình nói chuyện nhé?)*
 
+> **Tóm gọn 1 câu:** let + người + V trần (không to, không -ing), let's rủ cả hai cùng làm — muốn sang hơn thì đổi thành Shall we…?
+
 ### Điểm 2. Linking Verbs + Adj: `S + SOUND / TASTE / SMELL / LOOK / SEEM / BE + adj`
+
+Điểm này về "cây cầu cảm nhận": các động từ nối chỉ đưa cảm giác sang tính từ, không mang hành động.
+
 **Cách dùng:** Bản chất: sound/taste/smell/look/seem/be là **cây cầu cảm nhận** — nối chủ ngữ với tính từ chứ không diễn tả hành động, nên sau nó **cấm trạng từ**: *It looks great* ✔, ~~It looks greatly~~ ✗. Nói ra khi nhận xét nhanh: món ăn, âm nhạc, kế hoạch, người vừa gặp. Cản trở: *look* nghĩa "trông có vẻ" (It looks great) khác *look at* — hành động nhìn, lúc đó mới dùng trạng từ (*look at me carefully*). Nhịp: dồn hết cảm nhận vào tính từ cuối — *It sounds SWEET* — người nghe "nếm" được luôn.
 
 **Phản xạ hỏi–đáp:**
@@ -159,7 +191,12 @@ Thank you!
 - Đổi linking verb: `It looks great!` → `It smells great!` *(Ngửi thấy thơm phức đấy)*
 - Đổi thì (quá khứ): `It looked great last night.` *(Tối qua trông nó ngon lành lắm)*
 
+> **Tóm gọn 1 câu:** Sau sound/taste/look/seem/be là tính từ, cấm trạng từ — trừ khi look mang nghĩa hành động "nhìn" (look at me carefully).
+
 ### Điểm 3. Present Perfect Tense: `HAVE/HAS + V3/Vp.p`
+
+Điểm này là "máy chụp kết quả": hành động xong chưa quan trọng bằng kết quả còn vương đến bây giờ.
+
 **Cách dùng:** Bản chất: nhìn về **kết quả đến tận bây giờ**, không quan tâm đúng lúc nào — *I've been looking for you for ages*. Dấu hiệu chắc chắn: **just / already / yet**, **since + mốc** (since 2015), **for + khoảng** (for 2 months). Nói ra khi báo thành quả (*We have just done topic 7*) hay hỏi tình trạng (*Have you signed up yet?*). Cản trở: có mốc thời gian xác định (yesterday, in 2015) thì **cấm** HTHT — phải về quá khứ đơn: ~~I have seen him yesterday~~ ✗. Nhịp: yet thường chốt câu hỏi/phủ định, already đứng giữa câu khẳng định.
 
 **Phản xạ hỏi–đáp:**
@@ -178,7 +215,12 @@ Thank you!
 - Đổi chủ ngữ: `He has been here for an hour.` *(Anh ấy ở đây được một tiếng rồi)*
 - Đổi mốc thời gian: `We have known him since high school.` *(Bọn tớ quen anh ấy từ hồi cấp 3)*
 
+> **Tóm gọn 1 câu:** HTHT là "kết quả còn vương đến bây giờ" — có since/for/just/already/yet thì dùng nó, còn mốc xác định như yesterday thì phải về quá khứ đơn.
+
 ### Điểm 4. Present Perfect Continuous: `HAVE/HAS + BEEN + V-ing`
+
+Điểm này là "máy quay hành trình": không chụp ảnh kết quả mà quay suốt đoạn đường còn đang chạy.
+
 **Cách dùng:** Bản chất: HTHT mang thêm **been + V-ing** — nhấn **quá trình còn chạy**, chưa dứt: *I've been learning English every day this month*. Nói ra khi kể sự kiên trì hay than phiền: *Ms has been talking for 1 hour* (mỏi tai thật). Cản trở: HTHT thường (have done) nói **kết quả**, dạng này nói **hành trình** — đổi giữa hai cái là đổi cảm giác cả câu; for/since dùng y như nhau. Nhịp: dồn vế *I've been…* rồi thả vế cuối — *…every day this month* — nghe rất kể chuyện.
 
 **Phản xạ hỏi–đáp:**
@@ -197,9 +239,13 @@ Thank you!
 - Đổi sang HTHT thường (nói kết quả): `I've learned 200 new words this month.` *(Tháng này tôi học được 200 từ mới)*
 - Đổi chủ ngữ: `She has been waiting for the bus since 6 p.m.` *(Cô ấy chờ xe buýt từ 6 giờ tối)*
 
+> **Tóm gọn 1 câu:** HTHT tiếp diễn là "máy quay hành trình còn chạy" — nói sự kiên trì hay than phiền; HTHT thường thì chụp ảnh kết quả.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu hỏi tự luyện — như một buổi tập đi nhà hàng trên giấy trước khi đi thật.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *What would you like to eat, babe? — I can eat anything.*
@@ -216,3 +262,5 @@ Thank you!
 5. What would you like to change about your English? — *I've been trying to … for …*
 
 > ✅ Checkpoint: đi nhà hàng/quán thật, tự đặt món bằng **5 câu "What would you like…?" với mình và 5 câu trả lời** — từ món chính, mức chín, đồ uống đến thanh toán. Ghi âm lại.
+
+> **Tóm gọn 1 câu:** Đi nhà hàng thật và tự "soạn cả hai vai": 5 câu hỏi lịch sự + 5 câu trả lời — xong buổi ăn là bài này cất cánh.

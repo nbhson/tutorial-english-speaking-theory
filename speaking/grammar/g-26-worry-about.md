@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này gói lại "công thức lo lắng" của `worry about` — cùng một khung câu nhưng phủ đủ các vai: nói mình đang lo, an ủi người khác đừng lo, và khẳng định "không có gì phải lo". Ví von: `worry about` như một chiếc ô — mở ra khi có mây lo, nhưng cũng chính cụm này giúp "hạ ô" cho người khác khi nói *Don't worry about it*.
+
 `S + worry + about + N / V-ing`
 
 | Cấu trúc | Ví dụ | Nghĩa |
@@ -15,9 +17,13 @@
 | **don't worry about** | **Don't worry about** it. | Đừng lo về chuyện đó. |
 | **nothing to worry about** | There's **nothing to worry about**. | Không có gì phải lo đâu. |
 
+> **Cách đọc bảng này:** mỗi dòng là một "vai" của cụm — hai dòng đầu để nói nỗi lo của mình, hai dòng cuối để hạ nỗi lo của người khác; đọc theo cặp trên–dưới là thấy được mặt đối xứng.
+
 **Phản xạ nói:**
 - *worry about* → /ˈwʌr.i əˈbaʊt/ — nối âm "y" + "a" → /wʌriəbaʊt/
 - *don't worry* → /doʊntˈwʌr.i/ — nuốt "t" khi nói nhanh
+
+> **Tóm gọn 1 câu:** Khung gốc `worry about + N/V-ing` — kèm hai dạng "hạ lửa" cho người khác: don't worry about và nothing to worry about.
 
 ## II. KHI NÀO DÙNG?
 
@@ -31,7 +37,11 @@
 - ~~I worrying~~ → *I**'m** worrying* hoặc *I worry* — cần động từ ToBe nếu tiếp diễn.
 - ~~No worry~~ → *Don't worry* hoặc *No problem* — "no worry" không phải cụm chuẩn.
 
+> **Tóm gọn 1 câu:** Dùng `worry about` khi chia sẻ lo âu (*I'm worried about…*) và khi trấn an (*Don't worry about it*) — một cụm hai chiều, giới từ không đổi là `about`.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này mổ xẻ `worry` qua ba tầng: cấu trúc cơ bản, phân biệt động từ với tính từ (worried), và cả "nghệ thuật trấn an" bằng don't worry — chỗ đắt giá nhất trong hội thoại.
 
 ### Cấu trúc cơ bản
 
@@ -55,6 +65,8 @@
 
 ### Worry (động từ) vs Worried (tính từ)
 
+Đây là chỗ "dẫm chân" kinh điển: `I worry` và `I am worried` dịch ra tiếng Việt gần như một nghĩa, nhưng trong văn nói người bản xứ nghiêng hẳn về một bên — bảng dưới giải thích tại sao.
+
 | | **Worry** (động từ) | **Worried** (tính từ) |
 |--|--------------------|---------------------|
 | Cấu trúc | I worry about… | I am worried about… |
@@ -71,7 +83,9 @@
 
 ### "Don't worry" — An ủi / trấn an
 
-**Don't worry** là cách **an ủi nhẹ nhàng nhất** trong tiếng Anh giao tiếp:
+### "Don't worry" — An ủi / trấn an
+
+**Don't worry** là cách **an ủi nhẹ nhàng nhất** trong tiếng Anh giao tiếp — ví von: như vỗ vai không cần lời dài; một cụm ba chữ mà hạ được nỗi bực, nỗi lo của người đối diện. Bảng dưới là các "mức" trấn an từ nhẹ đến nói đùa:
 
 | Mẫu | Ví dụ | Ngữ cảnh |
 |-----|-------|---------|
@@ -89,7 +103,11 @@
 4. Don't worry, the food here is amazing. — *Đừng lo, đồ ăn ở đây ngon lắm.*
 5. Worrywart! — come on, it's just a test. — *Lo quá trời! Thôi nào, chỉ là bài kiểm tra thôi.*
 
+> **Tóm gọn 1 câu:** Nói nỗi lo của mình thì `I'm worried about…` tự nhiên hơn `I worry`, còn hạ nỗi lo người khác thì `Don't worry about it` là câu mở đường mềm nhất.
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -100,7 +118,13 @@
 | 5 | **Worrywart** | Người hay lo quá mức | Nói đùa / nói vui về người hay lo | *Don't be such a worrywart!* | —— | *Haha, sorry!* |
 | 6 | **I can't stop worrying** | Tôi không ngừng lo được | than phiền về lo âu | *I can't stop worrying about the future.* | —— | *Have you tried meditation?* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 6 cụm này là "bộ đồ" trấn an và chia sẻ lo âu — mỗi cụm nhớ ba thứ: nghĩa, chỗ dễ sai (⚠️) và câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -114,6 +138,8 @@
 | Future | (n) /ˈfjuː.tʃər/ | Tương lai |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng chuyện thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Don't worry about it — everything will be fine.*
@@ -130,6 +156,8 @@
 5. What makes you worry too much? — *I worry too much about…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp với nỗi lo thật của mình; ghi âm nghe lại là thấy ngay chỗ gãy.
 
 ---
 
@@ -150,6 +178,8 @@
 
 ## VII. BONUS: WORRY vs BE WORRIED — Khi nào dùng cái nào?
 
+Mục này chốt lại phân biệt worry/be worried bằng bảng đối chiếu — chọn bên nào phụ thuộc bạn nói về **hành động** lo hay **trạng thái** đang mang.
+
 | **Worry** (động từ) | **Be worried** (tính từ) |
 |--------------------|------------------------|
 | Focus vào **hành động** lo | Focus vào **trạng thái** cảm xúc |
@@ -158,3 +188,7 @@
 | Lời khuyên: *Don't worry* | Lời khuyên: *Don't be worried* (ít dùng hơn) |
 
 > 💡 Mẹo: Trong giao tiếp, *don't worry* phổ biến hơn *don't be worried*. Nhưng *I'm worried* (trạng thái) được dùng nhiều hơn *I worry* (hành động lặp lại).
+
+> **Cách đọc bảng này:** mỗi dòng là một tiêu chí đối chiếu — hành động thì lo theo nhịp lặp, trạng thái thì đi với mức độ; dòng cuối cho biết lời khuyên nên nói theo kiểu nào.
+
+> **Tóm gọn 1 câu:** worry là "công việc" (hành động), be worried là "cảm giác" (trạng thái) — văn nói nghiêng về trạng thái, nên *I'm worried* ra miệng nhiều hơn.

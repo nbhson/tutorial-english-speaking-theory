@@ -6,11 +6,15 @@
 
 ## I. CẤU TRÚC
 
+Mục này giới thiệu "thang đo suy luận" của tiếng Anh: must (chắc chắn), might/could (có thể), can't (chắc chắn không). Ví von: suy luận như **bắt tay đoán quà trong hộp** — nhìn hình dáng, lắc nhẹ, rồi chọn mức độ chắc chắn cho phán đoán; bạn chưa mở hộp, nên phán đoán chỉ là suy luận chứ không phải sự thật.
+
 | Mức độ chắc chắn | Hiện tại | Quá khứ |
 |-------------------|----------|---------|
 | Chắc chắn (khẳng định) | must be | must have + V3 |
 | Có thể | may / might / could be | may / might / could have + V3 |
 | Chắc chắn (phủ định) | can't be | can't have + V3 |
+
+> **Cách đọc bảng này:** đọc theo hàng là ba nấc thang độ chắc — mỗi nấc có cột **Hiện tại** (việc đang xảy ra) và cột **Quá khứ** (việc đã qua, thêm have + V3); nắm trục hiện tại–quá khứ là dùng được cả bảng.
 
 **Quy tắc:** Modals of deduction dùng để **suy luận** về điều gì đó dựa trên bằng chứng, không phải sự thật 100%.
 
@@ -19,6 +23,8 @@
 - *can't be* → /kænt biː/ → đọc rõ /kænt/ với âm /t/ cuối — *She can't be serious.*
 - *might have* → /maɪt həv/ → nuốt **"might've"** — *She might've forgotten.*
 - *could have* → /kʊd həv/ → nuốt **"could've"** — *They could've left early.*
+
+> **Tóm gọn 1 câu:** Ba mức độ nhân hai mốc thời gian: must/might/can't + be (hiện tại) và + have + V3 (quá khứ) — bảng này là "hộp quà" rút ra dùng được cả bài.
 
 ## II. KHI NÀO DÙNG?
 
@@ -31,9 +37,15 @@
 - ~~He must have been forget~~ → *He must have **forgotten*** — sau "have" là V3.
 - ~~He can't be tired~~ (để loại trừ) → *He **can't be** tired* (đúng) — "can't" + V gốc.
 
+> **Tóm gọn 1 câu:** Dùng modals of deduction khi đoán nguyên nhân, suy luận quá khứ, hay loại trừ khả năng — nhớ là suy luận dựa trên bằng chứng, chưa phải sự thật.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
+Mục này đi qua ba nấc thang độ chắc một lượt qua hỏi–đáp và ví dụ: từ must (đỉnh thang) xuống might (giữa thang) và can't (chân thang ngược chiều).
+
 ### Cách dùng 1: must be / must have (chắc chắn)
+
+Nấc cao nhất của thang: bằng chứng rõ đến mức bạn "gần như mở được hộp quà" — `must be` cho hiện tại, `must have + V3` cho chuyện đã qua.
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Why is she so happy?` *(Sao cô ấy vui thế?)*
 - ➕ Đáp: *She must have passed the exam.* — *Chắc cô ấy đậu kỳ thi rồi.*
@@ -47,6 +59,8 @@
 5. You must have forgotten about the meeting. — *Bạn chắc quên cuộc họp rồi.*
 
 ### Cách dùng 2: might / may / could (có thể)
+
+Giữa thang: hộp quà còn kín — bằng chứng chưa đủ để chốt, nên bạn nói theo hướng khả năng, bỏ ngỏ kết luận.
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Where's Minh? He was supposed to be here 30 minutes ago.` *(Minh đâu rồi? Cậu ấy phải đến 30 phút rồi.)*
 - ➕ Đáp: *He might be stuck in traffic — the roads are terrible today.* — *Cậu ấy có thể kẹt xe — đường dữ lắm hôm nay.*
@@ -60,6 +74,9 @@
 5. He may have changed his mind. — *Anh ấy có thể đã đổi ý.*
 
 ### Cách dùng 3: can't be / can't have (chắc chắn không)
+
+Nấc "loại trừ": bằng chứng ngược đủ mạnh để khẳng định **không thể** — ví von như có vé xem phim ngày khác, nên "không thể là cậu xem phim đó được".
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Someone's car is in my parking spot — it must be the neighbor's.`
 - ➕ Đáp: *It can't be hers — she's on vacation in Da Nang.* — *Không thể của cô ấy được — cô ấy đang đi Đà Nẵng nghỉ.*
@@ -77,9 +94,13 @@
 - Đổi thì: *He must be at home.* → *He must have been at home.* / *He can't have been there.*
 - Đổi ngữ cảnh (đi làm): *He must be in a meeting.* / (du lịch): *They might be lost.* / (mua sắm): *It must have been on sale.*
 
+> **Tóm gọn 1 câu:** Ba nấc thang: must chốt chắc, might bỏ ngỏ, can't loại trừ — leo lên hay tụt xuống thang là do bằng chứng trong tay bạn.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -89,7 +110,13 @@
 | 4 | **can't be…** | Không thể là… | Loại trừ khả năng | *It can't be Friday — it's only Wednesday!* | ~~cannot be~~ sai văn nói — dùng **can't** | *Oh, you're right. Time flies. (Ừ đúng rồi, thời gian ghê thật)* |
 | 5 | **can't have + V3** | Không thể đã… | Loại trừ trong quá khứ | *He can't have left — his car is here.* | ~~can't have lefted~~ — V3 không thêm -ed | *Then where is he? (Vậy anh ấy đâu?)* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** cho biết nấc thang độ chắc và mốc thời gian (hiện tại/quá khứ), cột **Câu mẫu** để thấy cụm sống trong câu thật.
+
+> **Tóm gọn 1 câu:** 5 cụm này là "bộ đồ suy luận" của bài — mỗi cụm nhớ ba thứ: nấc thang độ chắc, mốc thời gian, và chỗ dễ sai (⚠️) kèm câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -100,6 +127,8 @@
 | presumably | (adv) /prɪˈzjuː.mə.bli/ | Chắc là (trang trọng) |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng suy luận thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *He must be tired — he worked all day.*
@@ -116,6 +145,8 @@
 5. Is it going to rain? — *It could — the sky looks pretty dark.*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**, dùng đủ 3 mức: **must** (chắc), **might** (có thể), **can't** (chắc không). Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp, bắt buộc chạm đủ ba nấc thang must/might/can't; ghi âm nghe lại là biết mình đang đứng nấc nào.
 
 **Ngữ cảnh thực tế:**
 - Đi làm: *He must be in a meeting — he's not answering.* / *She must have finished the report.* / *They might be in a call.* / *He can't have left — his car is here.*
@@ -134,7 +165,11 @@
 
 ## VII. BONUS: LỖI HAY GẶP
 
+Mục này là "phòng soát lỗi" của cả bài — các lỗi kinh điển khi dựng câu suy luận xếp cạnh nhau để bạn soát một lượt trước khi ra khỏi bài.
+
 - ❌ *He must to be tired.* → ✅ *He must **be** tired.* (modal + V gốc)
 - ❌ *He must has forgotten.* → ✅ *He must **have** forgotten.*
 - ❌ *He can't has done it.* → ✅ *He can't **have** done it.*
 - 💡 Mẹo: must = chắc chắn (dương), can't = chắc chắn không (âm). might/may/could = có thể (cả hai chiều). Không dùng "must not" để suy luận phủ định — dùng "can't".
+
+> **Tóm gọn 1 câu:** Ba lỗi đều quanh cặp "modal + have": không thêm to, không chia has, giữ V3 — và nhớ phủ định của suy luận là can't chứ không phải must not.

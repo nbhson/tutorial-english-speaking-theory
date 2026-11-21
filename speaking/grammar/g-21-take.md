@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này giới thiệu "cây đa" `take` — một động từ, năm nghĩa, nhưng cách cứu giúp bạn luôn là nhìn **cấu trúc phía sau** nó. Hãy hình dung `take` như một chiếc balo nhiều ngăn: đồ nào (thời gian, hành lý, sự chịu đựng, chuyến xe) thì nhét vào ngăn đó.
+
 **Take** là một trong những động từ đa nghĩa nhất trong tiếng Anh giao tiếp.
 
 | Nghĩa | Cấu trúc | Ví dụ |
@@ -16,9 +18,13 @@
 | **Nhận (chuyến xe)** | `S + take + phương tiện` | I **take the bus** to school. |
 | **Cầm / Giữ** | `Take + N` | **Take a seat.** |
 
+> **Cách đọc bảng này:** mỗi dòng là một "ngăn balo" nghĩa của `take` — đọc cột **Nghĩa** trước để định vị, rồi cột **Cấu trúc** cho biết khung câu đi kèm.
+
 **Phản xạ nói:**
 - *It takes me* → /ɪtˈteɪks mi/ — nuốt "t" cuối "it" thành /ɪdəˈteɪkzmi/
 - *Take a…* → thường nuốt thành /teɪkə/
+
+> **Tóm gọn 1 câu:** Năm ngăn balo của `take`: it takes (thời gian), take + N + to (mang theo), take + N (chịu đựng), take + xe (di chuyển), take a seat (mời ngồi).
 
 ## II. KHI NÀO DÙNG?
 
@@ -32,9 +38,15 @@
 - ~~It takes for me~~ → *It takes **me**…* — không cần "for" trước tân ngữ.
 - ~~I take 30 minutes to work~~ → *It **takes** me 30 minutes to get to work* — chủ ngữ đúng là "it", không phải "I".
 
+> **Tóm gọn 1 câu:** `take` ra trận khi bạn nói thời gian di chuyển, đồ mang theo, chuyến xe, hay câu lịch sự *Take a seat* — bốn "ngăn balo" đó phủ gần hết giao tiếp hằng ngày.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
+Mục này mổ xẻ hai "ngăn" hay dùng nhất của `take`: nói thời gian và mang theo — rồi về sau thêm "ngăn" chịu đựng. Mỗi ngăn là một khung câu riêng, đừng trộn.
+
 ### It takes + (someone) + time + to V
+
+Đây là ngăn "đồng hồ" của `take`: chủ ngữ là **it** (theo việc), còn bạn chỉ là người chịu ảnh hưởng. Ví von: `it takes me 30 minutes` như nói "việc này rút của tôi 30 phút" — việc là chủ nợ, bạn là người trả.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How long does it take to get there?` *(Mất bao lâu để đến đó?)*
@@ -52,6 +64,8 @@
 
 ### Take = mang theo
 
+Chuyển sang ngăn "hành lý": chủ ngữ là người, đồ đạc đi theo — ví von giống nhắc quà cho người nhà trước khi ra cửa.
+
 | Ví dụ | Nghĩa |
 |-------|-------|
 | Don't forget to **take your passport**. | Đừng quên mang theo hộ chiếu. |
@@ -65,6 +79,8 @@
 ---
 
 ### Take = chịu đựng
+
+Ngăn cuối là "sức chứa": `take` ở đây là thấy mình gánh chịu được hay không — như chiếc ly đựng nước, đổ quá đầy thì tràn thành *I can't take it anymore*.
 
 | Ví dụ | Nghĩa |
 |-------|-------|
@@ -80,9 +96,13 @@
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+> **Tóm gọn 1 câu:** Ba "ngăn" của `take`: **it** takes (thời gian), **người** take (mang theo), **người** can't take (chịu đựng) — chọn đúng ngăn là câu tự động đứng vững.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -94,7 +114,13 @@
 | 6 | **Take advantage of** | Tận dụng | Khuyên dùng cơ hội | *You should take advantage of this opportunity.* | —— | *Good advice, thanks.* |
 | 7 | **It depends on how long it takes** | Tùy thuộc vào thời gian | Trả lời khi không chắc | *When will you be ready? — It depends on how long it takes.* | —— | *Okay, no rush.* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 7 cụm này là "bộ đồ" của `take` trong đời thường — từ mời ngồi, cho đừng vội, đến than chịu không nổi; nhớ kèm lỗi sai (⚠️) và câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -108,6 +134,8 @@
 | Advantage | (n) /ədˈvɑːn.tɪdʒ/ | Lợi thế |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng chuyện thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *It takes me 30 minutes to get to work.*
@@ -124,6 +152,8 @@
 5. How do you take your coffee? — *I take it with…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp với việc thật của mình; ghi âm nghe lại là thấy ngay chỗ gãy.
 
 ---
 
@@ -144,6 +174,8 @@
 
 ## VII. BONUS: TAKE — BIẾN THỂ THƯỜNG GẶP
 
+Mục này là "phòng lưu trữ phrasal verbs" của `take` — mỗi cụm một nghĩa riêng, gặp ở phim ảnh hay hội thoại là ra ngay.
+
 | Cụm | Nghĩa | Ví dụ |
 |-----|-------|-------|
 | Take off | Cất cánh / Nghỉ phép | *The plane took off.* / *I'm taking off next week.* |
@@ -152,3 +184,7 @@
 | Take after | Giống (người thân) | *She takes after her mother.* |
 | Take apart | Tháo ra | *He took the clock apart.* |
 | Take for granted | Coi thường / Xem là hiển nhiên | *Don't take your health for granted.* |
+
+> **Cách đọc bảng này:** mỗi dòng là một biến thể — đọc cột **Cụm** trước, rồi nhớ luôn qua cột **Ví dụ**; `take for granted` là cụm quan trọng nhất nên đừng bỏ qua.
+
+> **Tóm gọn 1 câu:** Sáu biến thể của `take` như sáu hướng bay từ một sân bay chung — nhớ theo cặp "cụm + câu ví dụ" là tái sử dụng được ngay trong hội thoại.

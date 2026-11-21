@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này đưa ra "khung câu" chuẩn của Present Continuous — đọc để biết công thức chung và cách chia theo từng chủ ngữ trước khi học cách dùng.
+
 `S + am/is/are + V-ing`
 
 | Chủ ngữ | Động từ ToBe | Ví dụ |
@@ -18,17 +20,25 @@
 
 ## II. KHI NÀO DÙNG?
 
+Mục này liệt kê 4 tình huống đời thường cần đến cấu trúc này — đọc để biết lúc nào nên thốt ra câu -ing thay vì câu "thói quen".
+
 - Mô tả **hành động đang diễn ra ngay lúc nói**: *I'm reading right now.*
 - **Trạng thái tạm thời** (không phải thói quen): *I'm living with my friend.* (không phải permanent)
 - Kể chuyện, mô phỏng lại cảnh vừa xảy ra: *So I'm walking down the street and I see…*
 - Hẹn giờ / lịch sắp tới (thay cho will — nghe tự nhiên hơn): *I'm meeting her at 7.*
+
+Hãy hình dung Present Continuous như chế độ **quay video trực tiếp**, còn Present Simple là **ảnh chân dung cỡ to**: một cái đang diễn ra trước ống kính, một cái chụp bản chất lâu dài.
 
 ### ⚠️ Lỗi thường gặp
 - ~~I'm wait you~~ → *I'm **waiting for** you.* — wait luôn đi với **for**.
 - ~~I'm agree~~ → động từ chỉ quan điểm (agree, know, like, want) **không dùng với -ing**.
 - Nhầm với Present Simple: *I'm work here* ✗ → *I work here.* (thói quen) / *I'm working here (this month).* (tạm thời)
 
+> **Tóm gọn 1 câu:** Dùng I'm + V-ing khi hành động đang "chạy trên màn hình" ngay lúc nói — còn là thói quen vĩnh viễn thì quay về Present Simple.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này mổ xẻ 4 cách dùng thành từng bài tập nhỏ, mỗi cách có công thức + ví dụ kèm dịch — đọc để nắm được hết "tầm ngắm" của cấu trúc này.
 
 ### Cách dùng 1: Hành động đang xảy ra tại thời điểm nói
 **Công thức:** `am/is/are + V-ing`
@@ -54,6 +64,8 @@
 | *She's working from home **this week**.* | *He works at a bank.* |
 | *They're reading a lot **lately**.* | *We usually eat at 7.* |
 
+Ví von: V-ing là **phòng trọ tạm** (ở vài tuần rồi chuyển), Simple là **nhà mua hẳn** (ở lâu dài). Cột trái luôn kèm dấu hiệu thời gian ngắn như *this week, lately, for two weeks*.
+
 **Ví dụ:**
 1. I'm staying at my aunt's house **for two weeks**. — *Tôi ở nhà dì hai tuần.*
 2. She's working extra hours **this month** — the deadline is tight. — *Cô ấy làm thêm giờ tháng này.*
@@ -63,7 +75,7 @@
 ---
 
 ### Cách dùng 3: Kịch bản đang diễn ra (kể chuyện)
-Dùng để kể lại chuỗi hành động nối tiếp — tạo cảm giác "đang sống trong chuyện":
+Dùng để kể lại chuỗi hành động nối tiếp — tạo cảm giác "đang sống trong chuyện", giống như dắt người nghe vào đúng hiện trường:
 
 **Ví dụ:**
 1. So I'm walking to work and suddenly I hear someone call my name. — *Tớ đang đi làm thì chợt nghe ai gọi tên*
@@ -73,7 +85,7 @@ Dùng để kể lại chuỗi hành động nối tiếp — tạo cảm giác 
 5. I'm trying to explain but she doesn't seem to understand. — *Tôi đang cố giải thích mà cô ấy không hiểu.*
 
 ### Cách dùng 4: Kế hoạch đã xếp lịch (tương lai gần)
-Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
+Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày — vì kế hoạch đã "chốt" như vé đã đặt rồi, chỉ chờ ngày đi:
 
 **Ví dụ:**
 1. I'm flying to Da Nang next Friday. — *Thứ sáu tuần sau tôi bay Đà Nẵng*
@@ -89,9 +101,13 @@ Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
 - Đổi thì: *I'm working now.* → *I was working then.* / *I'll be working tomorrow.*
 - Đổi ngữ cảnh (đi làm): *I'm checking emails.* / (du lịch): *I'm visiting the museum.* / (mua sắm): *I'm looking for a gift.*
 
+> **Tóm gọn 1 câu:** I'm + V-ing là "chế độ quay trực tiếp" — chụp hành động đang chạy, trạng thái tạm thời, chuyện kể sống động và kế hoạch đã cài lịch.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" dùng ngay trong hội thoại thật — đọc để chọn được 2–3 câu gắn vào miệng trước, khỏi phải học hết.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -101,6 +117,10 @@ Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
 | 4 | **I'm not feeling well** | Tôi cảm thấy không khỏe | Từ chối mời mọc lịch sự | *I can't come tonight. I'm not feeling well.* | ~~I'm not feel well~~ — feel đi với -ing khi là trạng thái tạm thời | *Oh no, get well soon!* |
 | 5 | **Are you free later?** | Bạn rảnh sau không? | Mời ai đó đi chơi / hẹn gặp | *Are you free later? I was wondering if we could grab coffee.* | — | *Sure! What time works for you?* |
 | 6 | **I'm doing fine, thanks** | Tôi vẫn ổn, cảm ơn | Đáp "How are you?" chuẩn | *How are you doing? — I'm doing fine, thanks.* | ~~I'm do fine~~ — phải là "doing" (trạng thái) | *Good to hear!* |
+
+> **Cách đọc bảng này:** mỗi dòng là một cụm dùng được ngay — đọc từ trái sang phải: nghĩa → tình huống → câu mẫu → lỗi cần tránh → câu người ta sẽ đáp lại. Tập trung vào cột "⚠️ Lỗi hay sai" trước, vì đó là chỗ dễ vấp khi nói nhanh.
+
+> **Tóm gọn 1 câu:** Đây là 6 cụm "xài liền" của Present Continuous — học 2–3 câu là đã đủ xoay sở buổi hội thoại đầu tiên.
 
 ## V. TỪ VỰNG
 
@@ -114,7 +134,11 @@ Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
 | Working | (v) /ˈwɜːrkɪŋ/ | Đang làm việc |
 | Traveling | (v) /ˈtrævəlɪŋ/ | Đang đi du lịch |
 
+> **Cách đọc bảng này:** đọc cột từ → phiên âm → nghĩa theo thứ tự, và đọc to phiên âm đúng 2 lần mỗi từ trước khi nhảy sang từ kế tiếp — mục đích là để miệng quen hình thái -ing, không phải học nghĩa lòng lòng.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill để miệng nhớ âm, câu hỏi tự luyện để phản xạ thành câu hoàn chỉnh — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I'm just checking my phone.*
@@ -131,6 +155,8 @@ Nghe tự nhiên hơn "I will" trong giao tiếp hàng ngày:
 5. What are you wearing today? — *I'm wearing …*
 
 > ✅ **Checkpoint:** Trả lời được 5 câu trên **TRƯỚC KHI NHÌN NOTE**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Drill trước, tự hỏi–tự đáp sau, ghi âm cuối cùng — nói được 5 câu không nhìn note là cấu trúc này chính thức "vào người".
 
 ---
 
@@ -157,3 +183,5 @@ Một số động từ mô tả **trạng thái / cảm xúc / tư duy** KHÔNG
 - **Know / Believe / Understand** — ✅ *I know* ✗ ~~I'm knowing~~
 
 > 💡 Mẹo nhớ: Nếu bạn **cảm nhận được** hành động đó bằng mắt (đang chạy, đang nói), dùng -ing. Nếu là trạng thái nội tâm (biết, muốn, thích), dùng Present Simple.
+
+> **Tóm gọn 1 câu:** Động từ "vô hình" (biết, thích, muốn) không quay phim được nên không có dạng -ing — thấy được bằng mắt thì mới -ing.

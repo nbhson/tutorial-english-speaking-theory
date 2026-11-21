@@ -14,11 +14,18 @@
 - Conversation: **mua sắm** — hỏi khuyến mãi: suit mua 1 tặng 1, jacket giảm 50%, đồ lót giảm 30%; cần size to hơn nhưng **hết size L**; thử size M (phòng thử ở cạnh thang cuộn); mua đen + đỏ — **mua 1 tặng nửa giá**, tổng 150$; mẹo: **giặt tay** thôi.
 Điểm chốt: **"How can…?"** vừa hỏi năng lực, vừa hỏi cách giải quyết — và câu trả lời luôn nằm trong lời khuyên cụ thể (by bike / go now / let me take care).
 
+> **Tóm gọn 1 câu:** Bài này luyện câu hỏi "làm sao": How can…? — hỏi cách kịp giờ, cách giúp người, cách mua đồ khôn ngoan.
+
 ### 2) Khi nào sử dụng?
+
+Mục này cho biết "câu hỏi làm sao" vác vào đâu được: từ đường xá kẹt xe tới quầy hàng khuyến mãi.
+
 - Hỏi **cách thức/khả năng**: *How can I get there on time? / How can we celebrate…? / How can I wash them?*
 - Hỏi **người khác giúp gì**: *How can I help you?* (mẫu câu bán hàng)
 - Ngạc nhiên về **năng lực của ai đó**: *How can you relax before the test? / How can Ms. Emerald work that hard?*
 - Trong cửa hàng: hỏi **size/màu/khuyến mãi** và cách **giặt/bảo quản**.
+
+> **Tóm gọn 1 câu:** "How can…?" vừa là câu hỏi vừa là lời kêu cứu — ai trả lời được thì đang nắm cách giải quyết trong tay.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -37,7 +44,12 @@
 | 9 | **Do you have it in black/brown?** | Mẫu này có màu đen/nâu không? | Hỏi màu sản phẩm | *Do you have it in black?* | ~~have it on black~~ — size/màu đi với **in** | *Sure, it comes in many colors. (Có ạ, nhiều màu lắm!)* |
 | 10 | **It comes in many colors** | Hàng này có nhiều màu lắm | Giới thiệu màu | *It comes in many colors: red, black, blue and brown.* | ~~comes with many colors~~ — màu sắc đi với **in** | *I'll get a black one! (Cho tôi cái đen nhé!)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Hàng 7–10 là "bộ đồ đi mua sắm" — nhớ trước khi vào cửa hàng.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Traffic | (n) /ˈtræfɪk/ | Giao thông |
@@ -62,7 +74,11 @@
 | Tip | (n) /tɪp/ | Mẹo vặt |
 | Run out | (v) | Hết (pin, đồ…) |
 
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép nghĩa cột phải là nhớ nhanh nhất.
+
 **Extension (COLORS — màu sắc):** Red (đỏ) · Yellow (vàng) · Blue (xanh dương) · Orange (cam) · Green (xanh lá) · Purple (tím) · Black (đen) · Pink (hồng) · Brown (nâu) · Gray (xám) · Teal (xanh ngọc) · White (trắng).
+
+> **Tóm gọn 1 câu:** Nắm bộ màu sắc + từ "đi mua sắm" là hội thoại trong tiệm mở miệng là chạy.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -111,9 +127,15 @@ I recommend hand wash only.
 Oh, thank you. You are so helpful!
 ```
 
+Đây là "kịch gốc" của bài — đọc to từng câu, đóng vai cả người bán lẫn người mua để hai bên "ra điểm" đúng nhịp.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho "hỏi cách – trả lời cách" — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 5 điểm, từ ngạc nhiên "that + adj" tới phân biệt by/with.
 
 **Tổng quan: 5 điểm ngữ pháp trong bài**
 
@@ -125,7 +147,12 @@ Oh, thank you. You are so helpful!
 | 4 | IN + size/color | Hỏi size, màu đồ mua |
 | 5 | BY & WITH (Bằng/thuộc cách) | Phân biệt cách thức & công cụ |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. That + adv/adj: `S + V + THAT + adv/adj` (…đến chừng ấy/đến thế)
+
+Điểm này biến chữ "that" thành thước đo mức độ: "đến chừng ấy" — dùng khi ngạc nhiên hoặc nghi ngờ.
+
 **Cách dùng:** Bản chất: **that** tạm làm trạng từ mức độ ("đến chừng ấy") — đứng ngay trước adv/adj: *cook that fast, that smart*. Nói ra khi ngạc nhiên, nghi ngờ năng lực ai đó, thường sau *can't believe* hay câu hỏi *How can…?*. Cản trở: ~~that's smart~~ (that + be = "cái đó thông minh") là câu khác hẳn *I'm just that smart* ("tôi thông minh đến mức đó") — đổi chỗ là đổi nghĩa. Nhịp: nhấn thật mạnh vào that — *that HARD?* — giọng ngạc nhiên là tới nơi.
 
 **Phản xạ hỏi–đáp:**
@@ -144,7 +171,12 @@ Oh, thank you. You are so helpful!
 - Đổi adv: `Can't believe you run that fast.` *(Không tin nổi cậu chạy nhanh thế)*
 - Đổi adj: `The traffic is that bad?` *(Đường kẹt đến mức đó à?)*
 
+> **Tóm gọn 1 câu:** that + adj/adv = "đến chừng ấy" — như chỉ tay vào mức độ để ngạc nhiên; đổi chỗ thành that's là đổi hẳn nghĩa câu.
+
 ### Điểm 2. How much + Be + N/S: `HOW MUCH IS/ARE + N?` — … giá bao nhiêu? Trả lời: `It is …` / `They are …`
+
+Điểm này dạy "cặp bài trùng" hỏi–đáp giá: hỏi bằng be nào thì đáp bằng be đó, đừng lệch chủ ngữ.
+
 **Cách dùng:** Bản chất: How much hỏi giá thì đi với **be** — is/are khớp với món hỏi, và câu trả lời cũng phải khớp chủ ngữ: *How much are these shoes? — They're 300k*. Nói ra ở mọi quầy hàng, cả khi hỏi tổng: *How much is the total?*. Cản trở: trả lời lệch chủ ngữ là lỗi số 1 — hỏi are mà đáp ~~It's~~ nghe cụt; và đừng nhét do/does vào câu hỏi giá. Nhịp: lặp lại đúng Be của câu hỏi khi đáp — hỏi are, đáp They're — nghe như người quen quầy.
 
 **Phản xạ hỏi–đáp:**
@@ -163,7 +195,12 @@ Oh, thank you. You are so helpful!
 - Đổi số nhiều → số ít: `How much is that book?` *(Cuốn sách đấy bao nhiêu tiền?)*
 - Đổi danh từ: `How much is the delivery?` *(Phí giao hàng bao nhiêu thế?)*
 
+> **Tóm gọn 1 câu:** Hỏi are thì đáp They're, hỏi is thì đáp It's — giá đi cùng be, cấm chèn do/does vào câu hỏi tiền.
+
 ### Điểm 3. Anyway: `ANYWAY … = Dù sao thì / Dù sao đi nữa`
+
+Điểm này cho bạn "cần câu" để chốt chuyện cũ hay bẻ lái sang chuyện mới mà ai cũng chịu.
+
 **Cách dùng:** Bản chất: **anyway** là "cần câu" của người nói — chốt một vòng trao đổi hoặc bẻ lái sang chuyện mới mà không làm ai khó chịu. Đặt đầu câu kèm dấu phẩy: *Anyway, I have to get there on time*; cũng nằm được cuối câu: *I'll love you anyway*. Nói ra khi chuyện bàn mãi không tới đâu, hoặc mình muốn khép lại lịch sự. Cản trở: đừng tráo với **by the way** — anyway là kết chuyện, by the way là mở chuyện mới. Nhịp: nói nhanh, nhẹ, hạ giọng cuối — *anywaaay* — kiểu "thôi bỏ qua đi vậy".
 
 **Phản xạ hỏi–đáp:**
@@ -182,7 +219,12 @@ Oh, thank you. You are so helpful!
 - Đổi mệnh đề sau: `Anyway, I have to go now.` *(Dù sao thì tôi cũng phải đi bây giờ)*
 - Đổi vị trí (cuối câu): `I'll try my best, anyway.` *(Dù sao tôi cũng hết sức thôi)*
 
+> **Tóm gọn 1 câu:** anyway là "cần câu" khép vòng chuyện cũ hoặc mở chuyện mới — đừng tráo với by the way, một đứa kết chuyện còn một đứa mở chuyện.
+
 ### Điểm 4. IN + size/color: `DO (YOU) HAVE IT IN + size/color?` · `IT COMES IN + N colors/sizes`
+
+Điểm này cho bạn hai câu "vào tiệm phải nói": hỏi màu/size bằng in, giới thiệu hàng cũng bằng in.
+
 **Cách dùng:** Bản chất: **in** nghĩa "nằm trong" — màu, size "ở trong" sản phẩm: *Do you have it in black? It comes in many colors*; xác nhận khi lấy: *I'll get it in medium*. Nói ra ở mọi cửa hàng quần áo, giày dép — hai chữ là mua được hàng. Cản trở: giới từ này không đổi theo tình huống — ~~of black~~, ~~with black~~, ~~by black~~ đều cụt cả câu. Nhịp: chỉ tay vào món + nói gọn *in + màu* — *in black?* — như người mua nhiều lần rồi.
 
 **Phản xạ hỏi–đáp:**
@@ -201,7 +243,12 @@ Oh, thank you. You are so helpful!
 - Đổi màu: `Do you have it in brown?` *(Mẫu này có màu nâu không ạ?)*
 - Đổi size: `Does it come in large?` *(Mẫu này có size lớn không ạ?)*
 
+> **Tóm gọn 1 câu:** Màu và size "ở trong" sản phẩm nên luôn đi với **in** — in black, in medium; đổi giới từ là câu mua hàng gãy ngay.
+
 ### Điểm 5. BY & WITH: `BY + tác nhân / phương tiện / cách thức` · `WITH + công cụ / đối tượng`
+
+Điểm này chia lãnh địa "bằng cái gì": by cho cách thức trừu tượng, with cho đồ cầm được.
+
 **Cách dùng:** Bản chất: **by** gắn với cách thức "trừu tượng", gốc gác — phương tiện (by bus), tác nhân (by her boyfriend), làm bằng tay (by hand); **with** gắn với công cụ cầm được, vật liệu cụ thể (with the oven, with wood). Nói ra khi kể đi lại, sửa chữa, làm đồ. Cản trở: đi bộ là ngoại lệ đúng chuẩn **on foot** — ~~by foot~~ nghe rất "tây lơ tơ lắc" với người bản xứ. Nhịp: đồ cụ thể chạm tay được → with; khái niệm cách đi/effect → by — chọn nhanh là nói đúng.
 
 **Phản xạ hỏi–đáp:**
@@ -220,9 +267,13 @@ Oh, thank you. You are so helpful!
 - Đổi phương tiện: `I go to work by bike every day.` *(Tôi đi làm bằng xe đạp mỗi ngày)*
 - Đổi by → with (công cụ): `She cut that cake with a knife.` *(Cô ấy cắt chiếc bánh bằng con dao)*
 
+> **Tóm gọn 1 câu:** Cầm được trên tay thì with, kể cách thức/phương tiện thì by — và đi bộ là ngoại lệ "on foot", đừng nói by foot.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu hỏi tự luyện theo hoàn cảnh hôm nay — nói to, ghi âm, nghe lại.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *How can I get there on time? — If you go by a bike, you might be able to make it.*
@@ -239,3 +290,5 @@ Oh, thank you. You are so helpful!
 5. How can I keep my new shirt nice? — *Hand wash only — you get a tip from the shop.*
 
 > ✅ Checkpoint: tạo 5 câu "How can…?" cho hoàn cảnh của mình hôm nay (đi lại, học, mua đồ, giúp ai đó, sửa lỗi) — và tự trả lời với **BY / WITH / IN** thật đúng.
+
+> **Tóm gọn 1 câu:** 5 câu "How can…?" lấy từ đời sống hôm nay, trả lời đúng by/with/in — xong là câu hỏi "làm sao" thành phản xạ.

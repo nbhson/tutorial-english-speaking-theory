@@ -14,11 +14,13 @@
 | She **called** me. | She **didn't call** me. | **Did** she **call** you? |
 | They **went** home. | They **didn't go** home. | **Did** they **go** home? |
 
-**Lưu ý quan trọng:** Sau **did/didn't**, động từ luôn ở **dạng gốc** (V1), KHÔNG chia quá khứ.
+**Lưu ý quan trọng:** Sau **did/didn't**, động từ luôn ở **dạng gốc** (V1), KHÔNG chia quá khứ. Ví von: **did** gánh trọn "thì quá khứ" trên vai rồi, nên động từ chính được về dạng gốc nghỉ ngơi — kẻ gánh vác thì chia thì, kẻ đứng sau thì giữ nguyên hình.
 
 **Phản xạ nói:** `Did you` → nuốt thành /ˈdɪdʒə/ → *"Didja…"* — rất phổ biến trong tiếng Anh giao tiếp.
 
 ## II. KHI NÀO DÙNG?
+
+Mục này nói về 4 tình huống cần "máy hỏi quá khứ" — đọc để biết khi nào thốt ra Did-question thay vì câu hiện tại.
 
 - Hỏi về **sự việc đã xảy ra và kết thúc** trong quá khứ (có thời gian rõ: yesterday, last week, ago).
 - Hỏi **xác nhận thông tin**: *Did you hear about…?*
@@ -30,7 +32,11 @@
 - ~~Did you **did** it?~~ → *Did you **do** it?*
 - Nhầm **did** (trợ động từ) với **did** (động từ chính "made/did"): *What did you do?* vs *Did you do it?*
 
+> **Tóm gọn 1 câu:** Did là "máy hỏi thời vượt thời gian" — việc đã kết thúc có mốc rõ (yesterday, last week, ago) thì mở máy did + V gốc.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này chia câu hỏi did thành 2 dạng (WH-word và Yes/No) rồi tách riêng chuyện "did nào là trợ động từ, did nào là động từ chính" — đọc để khỏi lúng túng khi thấy hai chữ did trong một câu.
 
 ### Cấu trúc hỏi với WH-word
 `WH-word + did + S + V(gốc)?`
@@ -44,6 +50,8 @@
 | Why | **Why did** you **leave**? | Bạn đã đi vì sao? |
 | How | **How did** you **get there**? | Bạn đã đến đó bằng cách nào? |
 
+> **Cách đọc bảng này:** mỗi dòng là một "cánh cửa" mở ra một loại thông tin — What hỏi đồ vật/việc, Where hỏi địa điểm, When hỏi thời điểm… Muốn hỏi thứ gì thì bước vào cửa đó.
+
 **Ví dụ:**
 1. What did you do yesterday? — *Hôm qua bạn làm gì?*
 2. Where did she go? — *Cô ấy đi đâu?*
@@ -55,13 +63,15 @@
 
 ### Câu hỏi Yes/No với Did
 
-`Did + S + V(gốc)?` — Dùng để xác nhận thông tin quá khứ:
+`Did + S + V(gốc)?` — Dùng để xác nhận thông tin quá khứ — kiểu hỏi "đóng–mở" chỉ cần đáp Yes/No, như bấm chuông cửa chỉ để hỏi "có ai nhà không":
 
 | Khẳng định | Câu hỏi Yes/No | Trả lời ngắn |
 |-----------|---------------|-------------|
 | You **went** home. | **Did** you **go** home? | Yes, I **did**. / No, I **didn't**. |
 | She **called** you. | **Did** she **call** you? | Yes, she **did**. / No, she **didn't**. |
 | They **finished** the task. | **Did** they **finish** the task? | Yes, they **did**. / No, they **didn't**. |
+
+> **Cách đọc bảng này:** đọc theo hàng — câu khẳng định bên trái "lột" chữ did lên đầu là thành câu hỏi ở giữa, và trả lời ngắn chỉ cần mượn lại chữ did: "Yes, I did / No, I didn't".
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Did you hear about the new project?` *(Bạn có nghe về dự án mới chưa?)*
@@ -101,6 +111,8 @@
 | Ví dụ | *Did you **eat**?* (ăn = eat) | *What **did** you **do**?* (do = làm) |
 | Lỗi hay gặp | ~~Did you **ate**?~~ → *Did you **eat**?* | ~~Did you **did** it?~~ → *Did you **do** it?* |
 
+> **Cách đọc bảng này:** hai cột là hai "nhân vật trùng tên" — một did chỉ làm nghề dựng câu hỏi (không mang nghĩa), một did mang nghĩa "làm". Đọc cột Ví dụ trước để thấy rõ, rồi quay lại cột Lỗi hay gặp để tránh vấp.
+
 **Ví dụ:**
 1. Did you eat lunch? — *Bạn ăn trưa chưa?*
 2. What did you do? — *Bạn đã làm gì?*
@@ -110,9 +122,13 @@
 
 > 💡 **Mẹo:** Trong câu hỏi/quá khứ đơn, **did** luôn theo sau **V gốc** (không chia thì). Nếu động từ chính cũng là "do" → *What **did** you **do**?* (hai từ khác nhau, cùng viết).
 
+> **Tóm gọn 1 câu:** DidQuestion = did + V gốc — did gác thì, động từ giữ hình gốc; còn *What did you do?* là một did nghề dựng câu và một did nghề "làm" đứng cạnh nhau.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" mở chuyện về quá khứ trong hội thoại thật — đọc để chọn 2–3 câu gắn vào miệng trước.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -122,6 +138,8 @@
 | 4 | **Did you mean…?** | Bạn muốn nói là… phải không? | Xác nhận ý định | *Did you mean the blue one?* | —— | *Yes, exactly!* |
 | 5 | **I didn't realize** | Tôi không hề biết | Khi phát hiện mình hiểu lầm | *I didn't realize you were busy.* | —— | *No worries!* |
 | 6 | **Did you sleep well?** | Bạn ngủ ngon không? | Hỏi thăm sáng sớm | *Did you sleep well last night?* | —— | *Yeah, pretty well.* |
+
+> **Cách đọc bảng này:** mỗi dòng là một "mồi câu" mở hoặc nối chuyện về quá khứ — đọc cột "Khi nào dùng" để chọn đúng thời điểm, rồi học thuộc cột "💬 Đáp lại" vì đó là phần người nghe sẽ nói và bạn cần nghe hiểu.
 
 ## V. TỪ VỰNG
 
@@ -135,7 +153,11 @@
 | Realize | (v) /ˈriː.əl.aɪz/ | Nhận ra |
 | Sleep | (v) /sliːp/ (V3: slept /slept/) | Ngủ |
 
+> **Cách đọc bảng này:** mỗi từ ghi kèm V3 (nếu bất quy tắc) — đọc cả cặp "gốc → V3" 2 lần, vì khi nói quá khứ với did bạn chỉ cần dạng gốc, nhưng khi kể chuyện bình thường sẽ cần ngay dạng V3 này.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen nhịp "did + V gốc", câu hỏi tự luyện để phản xạ kể chuyện hôm qua — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Did you hear about the new restaurant?*
@@ -153,9 +175,9 @@
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Kể lại hôm qua bằng 5 câu Did-question trôi chảy, không nhìn note — lúc đó máy hỏi quá khứ đã gắn sẵn vào miệng bạn.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *Did you send the email?* / *Did the client reply?* / *Did you finish the report?* / *Did the meeting end?*
 - Du lịch: *Did you book the hotel?* / *Did you visit the museum?* / *Did the flight arrive on time?* / *Did you try the local food?*
 - Mua sắm: *Did you buy it?* / *Did you get a receipt?* / *Did the store have your size?* / *Did you pay by card?*
@@ -172,9 +194,13 @@
 
 ## VII. BONUS: DID vs DO — Bảng so sánh nhanh
 
+Mục này ghép cặp anh em do/does/did lại một bảng — đọc để chọn đúng "trợ thủ" theo thì.
+
 | Thì | Trợ động từ | Ví dụ |
 |-----|-----------|-------|
 | Hiện tại đơn | **Do / Does** | *Do you like coffee?* |
 | Quá khứ đơn | **Did** | *Did you like the coffee?* |
 
 > 💡 Mẹo: Nếu câu có **yesterday, last…, ago, …ago** → dùng **Did**. Nếu không có dấu hiệu thời gian rõ → hỏi xem ngữ cảnh thuộc thì nào.
+
+> **Tóm gọn 1 câu:** Có dấu mốc quá khứ (yesterday, last…, ago) là did, không có thì do/does — dấu thời gian là "bảng chỉ đường" của trợ động từ.

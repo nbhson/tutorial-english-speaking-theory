@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này là "bảng cài đặt vị trí" của 5 cặp từ: too/enough/so/such mỗi từ có một chỗ đứng riêng trong câu — đặt nhầm chỗ là cả câu nghe gãy.
+
 | Cấu trúc | Vị trí | Ví dụ |
 |----------|--------|-------|
 | too + adj/adv | too đứng trước | too expensive, too fast |
@@ -15,7 +17,9 @@
 | such + (a) + N + that | such đứng trước | such a good movie that… |
 | so + many/much/few/little + N | so + quantifier | so many people that… |
 
-**Quy tắc:** too = quá (tiêu cực, vượt mức cho phép); enough = đủ; so/such = quá… đến nỗi (nhấn mạnh kết quả).
+> **Cách đọc bảng này:** cột giữa — "Vị trí" — là cột đắt nhất: nó cho biết từ đứng trước hay đứng sau. Đọc từng dòng so cột "Cấu trúc" với cột "Ví dụ" là tự thấy quy luật vị trí.
+
+**Quy tắc:** too = quá (tiêu cực, vượt mức cho phép); enough = đủ; so/such = quá… đến nỗi (nhấn mạnh kết quả). Hãy hình dung như chai nước đầy cổ: **too** là đổ tràn ra ngoài (quá mức, phiền), **enough** là vừa đúng vạch, còn **so/such…that** là đầy đến mức bắt theo một "hậu quả" phía sau.
 
 **Phản xạ nói:**
 - *too expensive* → /tuː ɪkˈspen.sɪv/ → văn nói nuốt thành **"too-expensive"** liền hơi, nhấn vào adj.
@@ -23,7 +27,11 @@
 - *so tired* → nối âm thành **"so-tai-erd"** — *I'm so tired.*
 - *such a* → /sʌtʃ.ə/ → nói liền một nhịp **"such-a"** — *Such a nice day!*
 
+> **Tóm gọn 1 câu:** too đi trước tính từ, enough đi sau tính từ (nhưng trước danh từ), còn so/such luôn kéo theo một kết quả "that…" — nhớ chỗ đứng là xong.
+
 ## II. KHI NÀO DÙNG?
+
+Mục này chỉ ra bốn "cửa" hay mở nhất của bộ từ này: than phiền, đánh giá đủ/chưa, nhấn mạnh kết quả, và khen mạnh.
 
 - **Than phiền quá mức**: *It's too expensive.*
 - **Đánh giá đủ/chưa đủ**: *Is it good enough?*
@@ -36,9 +44,16 @@
 - ~~So good movie~~ → ***Such a** good movie* — "such + a + N".
 - ~~It is so much good~~ → *It is **so** good* — "so" + adj, không "so much".
 
+> **Tóm gọn 1 câu:** Bốn lỗi trên đều chung một gốc: quá độ cho "too/so" hoặc đứng sai chỗ cho "enough/such" — đọc qua một lượt là tiêm vaccine xong.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
+Mục này chia bài thành 3 tầng cảm xúc: than quá mức (too), chốt mức đủ (enough), và kể hậu quả của sự quá mức (so/such…that).
+
 ### Cách dùng 1: too + adj/adv (quá…)
+
+*Too* là chữ "quá" mang tiếng than: quá đắt, quá nóng, quá chậm — mức vượt qua ngưỡng chịu đựng, không phải lời khen.
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Why didn't you buy it?` *(Sao bạn không mua?)*
 - ➕ Đáp: *It was too expensive.* — *Đắt quá.*
@@ -50,6 +65,9 @@
 3. The bag is too heavy. — *Túi nặng quá.*
 
 ### Cách dùng 2: enough (đủ)
+
+*Enough* là vạch "just right" — như rót nước vừa đến cổ chai: chưa đủ thì làm chưa xong, quá thì tràn. Nó đứng **sau** tính từ nhưng **trước** danh từ.
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Can you lend me some money?` *(Cho tôi vay chút tiền được không?)*
 - ➕ Đáp: *Sorry, I don't have enough myself.* — *Xin lỗi, tôi còn không đủ cho mình.*
@@ -61,6 +79,9 @@
 3. She's old enough to drive. — *Cô ấy đủ tuổi lái xe.*
 
 ### Cách dùng 3: so…that / such…that (quá… đến nỗi)
+
+Cặp này là "quá mức kèm hậu quả": mức độ quá đỉnh đến nỗi kéo theo một việc vừa xảy ra — giống kể chuyện "to quá nên…" với ai đó đang nghe.
+
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How was the concert?` *(Buổi concert thế nào?)*
 - ➕ Đáp: *It was so loud that my ears rang for hours.* — *To đến nỗi tai tôi ôm đàn cả tiếng.*
@@ -74,9 +95,13 @@
 - Đổi thì: *I was so tired that I slept.* → *I am so tired that I'll sleep.*
 - Đổi ngữ cảnh (đi làm): *The deadline is too tight.* / (du lịch): *It's so cold that we stayed in.* / (mua sắm): *It's not good enough.*
 
+> **Tóm gọn 1 câu:** Ba tầng này xếp đúng thứ tự cảm xúc: than quá (too) → chốt đủ (enough) → quá đến nỗi kéo theo hậu quả (so/such…that).
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này đóng 6 cấu trúc trên thành "hộp dụng cụ" dùng ngay trong hội thoại, mỗi cụm kèm cả lỗi kinh điển và câu đáp lại.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -87,7 +112,13 @@
 | 5 | **such + a + adj + N** | … đến nỗi / quá là | Khen/chê mạnh về sự vật | *It was such a good movie!* | ~~so good movie~~ — có N phải đổi sang **such a** | *Right? I want to watch it again! (Phải không? Xem lại nữa chứ!)* |
 | 6 | **so many/much + N** | nhiều… đến nỗi | Số lượng lớn kèm kết quả | *There were so many people that we left.* | ~~so much people~~ — people đếm được → **so many** | *I know, it was packed. (Đông nghịt luôn)* |
 
+> **Cách đọc bảng này:** đọc từng hàng: cụm → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Hai hàng dễ nhầm nhất là 2 và 3: enough đứng sau adj nhưng đứng trước N.
+
+> **Tóm gọn 1 câu:** 6 cụm là bộ "quá – đủ – đến nỗi" hoàn chỉnh: quăng vào hội thoại là câu nói có cảm xúc ngay.
+
 ## V. TỪ VỰNG
+
+Kho từ nhỏ nhưng "đắt" — đây toàn từ khen/chê mức độ hay xuất hiện cùng too/enough trong văn nói thực tế.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -97,7 +128,11 @@
 | unbearable | (adj) /ʌnˈbeə.rə.bəl/ | Không thể chịu nổi |
 | worthwhile | (adj) /ˌwɜːθˈwaɪl/ | Đáng công sức |
 
+> **Cách đọc bảng này:** cột giữa là từ loại kèm phiên âm — đọc to phiên âm vài lần rồi ghép nghĩa cột phải là nhớ nhanh nhất.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu hỏi tự luyện về tình huống thật — nói to, ghi âm và nghe lại.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *It's too expensive — I can't afford it.*
@@ -128,12 +163,18 @@
 5. So many people! — *Đông người quá!*
 6. I don't have enough money. — *Tôi không đủ tiền.*
 
+> **Tóm gọn 1 câu:** Drill xong 5 câu echo rồi 5 câu tự luyện là cấu trúc vào miệng — sai chỗ nào sửa ngay chỗ đó, rồi ghi âm nghe lại.
+
 ---
 
 ## VII. BONUS: LỖI HAY GẶP
+
+Mục này là "bảng đen ghi lỗi" của cả bài: 4 lỗi sai đắt khách nhất, nhìn một phát nhớ một đời.
 
 - ❌ *It is too much expensive.* → ✅ *It is **too** expensive.* (too + adj, không "too much" trước adj)
 - ❌ *I have enough money?* → ✅ *Do I have **enough** money?* (enough đứng sau động từ, trước N)
 - ❌ *So good movie.* → ✅ ***Such a** good movie.* (such + a + N)
 - ❌ *Too enough.* → không dùng chung.
 - 💡 Mẹo: **too** = tiêu cực (quá mức, không chấp nhận được). **enough** = đạt mức. **so/such…that** = nhấn mạnh kết quả (có thể tích cực hoặc tiêu cực). Trong văn nói, "so + adj" thường bỏ "that": *It's so cold!* (không cần that).
+
+> **Tóm gọn 1 câu:** Chốt bài: than thì *too*, vừa vặn thì *enough* (sau adj, trước N), có danh từ thì đổi so sang *such a*, và văn nói hay bỏ "that" sau so.

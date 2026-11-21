@@ -14,12 +14,19 @@
 - Conversation: rủ đi **phim tối nay** — Disney thì mê vì nhạc và nhân vật, Studio Ghibli "không phải gu" của người kia; người kia đùa "mày bao tiền" → cũng đi; hẹn 6 giờ đến đón.
 Điểm chốt: học bảng **EMOTION SCALE** — từ "crazy about" đến "hate" — đo cảm xúc của mình bằng 7 mức.
 
+> **Tóm gọn 1 câu:** Bài này dạy đo cảm xúc bằng thang 7 mức — câu trả lời cho "How do you like…?" luôn là một vạch trên thang, không phải có/không.
+
 ### 2) Khi nào sử dụng?
+
+Mục này cho biết khi nào cần "cầm thang đo cảm xúc" ra: hỏi sở thích người khác, phỏng vấn nhanh, hay chọn phim tối nay.
+
 - Hỏi **mức độ thích/không thích** một thứ cụ thể: *playing with kids, shopping, the center, Ms. Emerald…*
 - Chỉ cần thay danh từ sau LIKE: `How do you like + N/V-ing…?`
 - Câu trả lời = **mô tả cấp độ thích** (I really love it / I kind of like it / I can't stand it…), KHÔNG trả lời YES/NO.
 - Dùng khi phỏng vấn nhanh bạn bè, đồng nghiệp; rất tự nhiên trong đời thường.
 - Chốt cảm xúc bằng 7 mức: crazy about / love / like / kind of like / don't really like / don't like / hate.
+
+> **Tóm gọn 1 câu:** Dùng "How do you like…?" khi cần biết "thích cỡ nào" — thay danh từ sau LIKE là hỏi được, trả lời bằng một mức trên thang cảm xúc.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -38,7 +45,12 @@
 | 9 | **Good luck to you** | Chúc may mắn cho bạn | Chọc vui khi bạn chịu "sự tốn kém" | *Oh dear! Good luck to you.* | ~~good luck for you~~ — cố định: good luck to you | *Thanks, I'll need it! (Cảm ơn, tôi cần lắm!)* |
 | 10 | **Window shopping** | Đi ngắm đồ (không mua) | Chia sẻ sở thích | *She is really crazy about it, even window shopping.* | ~~go to window shopping~~ — bỏ "to": go window shopping | *Fun even without buying! (Không mua vẫn vui mà!)* |
 
+> **Cách đọc bảng này:** đọc theo từng hàng: cụm từ → nghĩa → lúc nào dùng → câu mẫu → lỗi đừng nói (gạch ngang) → câu đáp lại. Hàng 4–5 ("can't stand", "not my cup of tea") là cách nói "không hợp gu" rất chất người bản xứ.
+
 ### 4) Từ vựng (Vocabulary)
+
+Bảng từ vựng là "kho dụng cụ" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Discover | (v) /dɪˈskʌvər/ | Khám phá |
@@ -55,6 +67,8 @@
 | Film studio | (n) | Hãng phim |
 | Character | (n) /ˈkærəktər/ | Nhân vật |
 | Window shopping | (n) | Đi ngắm đồ |
+
+> **Cách đọc bảng này:** cột giữa cho biết từ loại và phiên âm — đọc to phiên âm vài lần, ghép nghĩa cột phải là nhớ nhanh nhất.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -95,9 +109,15 @@ Fine, okay. You always say that! So see you at 6:00? I'll come get you.
 Yeah, sure! Next time, it's my turn to pick the movies, okay?
 ```
 
+Đây là "kịch gốc" của bài — đọc to từng câu, gạch mỗi lần một mức trên thang cảm xúc xuất hiện (love, can't stand, not my cup of tea…).
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho thang cảm xúc 7 mức — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài — 5 điểm phục vụ việc nói số lượng, điều kiện, và nói về sở thích.
 
 **Tổng quan: 5 điểm ngữ pháp trong bài**
 
@@ -109,7 +129,11 @@ Yeah, sure! Next time, it's my turn to pick the movies, okay?
 | 4 | S + enjoy(s) + V-ing | Diễn tả sự thích thú khi V-ing |
 | 5 | S + be + good at + V-ing | "Giỏi trong việc gì" |
 
+> **Cách đọc bảng này:** cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay — chỉ có 30 giây thì đọc cột cuối trước.
+
 ### Điểm 1. Lots of / A lot of: `lots of + Plural N` · `a lot of + N (đếm được/ không đếm được)`
+
+Điểm này giới thiệu "hai anh em rất nhiều": cùng nghĩa, khác quán xá — một đứa bay bổng, một đứa đi được mọi nơi.
 
 **Cách dùng:** Hai anh em "rất nhiều": **lots of** thân mật, bay bổng; **a lot of** trung tính, đi được mọi nơi. Cả hai gắn được danh từ **đếm được lẫn không đếm được** — đừng ghép: ~~a lots of~~ ✗ (chọn một trong hai). Khác *much/many*: much/many cho câu hỏi & phủ định "lịch sự", lots of là "chuyện thường" đời thường. Mẹo nói: nuốt *a lot of* thành /ə-lɑ-də/ — nhanh và tự nhiên.
 
@@ -129,7 +153,11 @@ Yeah, sure! Next time, it's my turn to pick the movies, okay?
 - Đổi danh từ: `She has a lot of shoes.` *(Cô ấy có rất nhiều giày)*
 - Đổi thì (quá khứ): `They had a lot of fun last night.` *(Tối qua họ vui hết nấc)*
 
+> **Tóm gọn 1 câu:** lots of và a lot of đong được cả hai loại danh từ — cấm ghép thành "a lots of", văn nói nuốt a lot of thành một hơi cho tự nhiên.
+
 ### Điểm 2. Conditional Type 01: `IF + Present Simple, Future Simple`
+
+Điểm này dạy cách "đặt cược" có thật trong tương lai: nếu… thì sẽ — và vế if phải về hiện tại.
 
 **Cách dùng:** Điều kiện "có thật trong tương lai": vế **if chia hiện tại**, vế kết quả mới là **will + V** — vế if cấm chèn ~~will~~ (*~~if you will pay~~* ✗). Dùng khi hẹn hò, đặt điều kiện vui vui: *If you pay, I'll go*. Đảo được để nhấn: *I'll go if you pick me up*. Mẹo nói: vế if nói đều đều, vế will lên giọng — nhịp "điều kiện → kết quả" nghe rõ mồn một.
 
@@ -149,7 +177,11 @@ Yeah, sure! Next time, it's my turn to pick the movies, okay?
 - Đổi điều kiện: `If you come early, I'll cook dinner.` *(Nếu bạn tới sớm, tôi nấu tối cho)*
 - Đổi phủ định: `If he doesn't text me, I won't wait.` *(Nếu anh ấy không nhắn, tôi sẽ không chờ)*
 
+> **Tóm gọn 1 câu:** ĐK loại 1: vế if chia hiện tại (cấm chèn will), vế kia mới là will — như đổ xúc xắc: đổ trước, chờ kết quả sau.
+
 ### Điểm 3. Not only … but also: `not only + N/V/Adv but also + N/V/Adv`
+
+Điểm này là "loa kép" của lời khen: nói một ý chưa đủ, phải bổ sung ý đỉnh hơn.
 
 **Cách dùng:** Cánh cửa "nâng cấp lời nói": nối hai ý **cùng hướng, cùng loại từ** (N–N, V–V, adj–adj) — hai vế không cân là câu gãy. *Not only* có thể dẫn đầu câu và **đảo trợ động từ** (*Not only does she cook…*) — nghe sang; đứng giữa câu thì nói bình thường. Khác *and*: "and" chỉ cộng thêm, "not only…but also" còn **nhấn vế sau mới là đỉnh**. Mẹo nói: nhấn "not ONLY", hít nhẹ, rồi đấm "but ALSO" — nhịp hai nhịp rõ ràng.
 
@@ -169,7 +201,11 @@ Yeah, sure! Next time, it's my turn to pick the movies, okay?
 - Đổi danh từ: `the center teaches not only English but also life skills.` *(the center dạy không chỉ tiếng Anh mà còn kỹ năng sống)*
 - Đổi trạng từ: `She sings not only beautifully but also confidently.` *(Cô ấy hát không chỉ hay mà còn tự tin)*
 
+> **Tóm gọn 1 câu:** not only…but also nối hai vế cùng loại — nhấn "not ONLY" rồi "but ALSO" như hai nhịp trống, vế sau là điểm rơi.
+
 ### Điểm 4. S + enjoy(s) + V-ing
+
+Điểm này về "khách hàng khó tính" enjoy: chỉ nhận V-ing, tuyệt đối không tiếp to V.
 
 **Cách dùng:** enjoy bắt **V-ing** cứng đầu — ~~enjoy to read~~ ✗. Khác *like/love* (nối được cả to V lẫn V-ing), enjoy chỉ nhận một đường duy nhất là V-ing. Chủ ngữ ngôi ba (he/she/it) phải chia **enjoys**. Mẹo nói: nối enjoy + V-ing thành một hơi — *enjoy-readin'* — trôi xuôi như hát.
 
@@ -189,7 +225,11 @@ Yeah, sure! Next time, it's my turn to pick the movies, okay?
 - Đổi chủ ngữ & V: `He enjoys watching movies at night.` *(Anh ấy thích xem phim buổi tối)*
 - Đổi thì (quá khứ): `I enjoyed meeting you yesterday.` *(Hôm qua tôi vui khi gặp bạn)*
 
+> **Tóm gọn 1 câu:** enjoy chỉ nhận V-ing duy nhất — khác like/love được phép "hai cửa"; he/she/it nhớ thêm s cho enjoys.
+
 ### Điểm 5. S + be + good at + V-ing
+
+Điểm này dạy cách "gắn biển chuyên gia": giỏi việc gì — và vì at là giới từ nên động từ phía sau phải đeo -ing.
 
 **Cách dùng:** Khen năng lực "chuyên gia": **good at + V-ing** — *at* là giới từ nên động từ phía sau phải khoác áo **-ing** (~~good at cook~~ ✗). Phủ định khiêm tốn cũng dễ thương: *I'm not good at singing, but I enjoy it*. Mở rộng sang bad at / terrible at để "chê" chính mình. Mẹo nói: nhấn "good AT" rồi chốt V-ing — *good at COOK-ing*.
 
@@ -209,7 +249,12 @@ Yeah, sure! Next time, it's my turn to pick the movies, okay?
 - Đổi kỹ năng: `She's good at remembering names.` *(Cô ấy giỏi nhớ tên người)*
 - Đổi phủ định + but: `I'm not good at dancing, but I love it.` *(Tôi không giỏi nhảy, nhưng tôi mê lắm)*
 
+> **Tóm gọn 1 câu:** good at + V-ing là biển "chuyên gia" — at là giới từ nên động từ phải khoác áo -ing; muốn khiêm tốn thì "not good at… but I enjoy it".
+
 ### ★ Extension — EMOTION SCALE (thang cảm xúc 7 mức — dùng cho cả bài)
+
+Đây là "thang đo nhiệt độ" của cả bài: từ đun sôi (crazy about) tới đông cứng (hate), nói cảm xúc đúng vạch thì người nghe hình dung ngay mức độ.
+
 1. I'm crazy about it — Tôi thích điên lên được
 2. I love it — Tôi yêu…
 3. I like it — Tôi thích…
@@ -220,9 +265,13 @@ Yeah, sure! Next time, it's my turn to pick the movies, okay?
 
 > "Master emotions - Master your life" — Tony Robbins
 
+> **Tóm gọn 1 câu:** Emotion Scale là "nhiệt kế cảm xúc" 7 vạch — trả lời đúng vạch mình đang ở, đừng phóng đại lên đỉnh hay tụt xuống đáy.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập": echo drill nhại theo tăng tốc, rồi 5 câu hỏi tự luyện trả lời theo đúng mức cảm xúc thật — nói to, ghi âm, nghe lại.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *How do you like shopping? — I love it, but it consumes a lot of time.*
@@ -239,3 +288,5 @@ Yeah, sure! Next time, it's my turn to pick the movies, okay?
 5. How do you like your hometown? — *I love it; I miss … a lot.*
 
 > ✅ Checkpoint: chọn 5 hoạt động bất kỳ và trả lời theo 5 mức khác nhau trong bảng Emotion Scale — nói đúng cảm xúc thật của bản thân.
+
+> **Tóm gọn 1 câu:** Trả lời 5 hoạt động bằng 5 vạch khác nhau trên thang cảm xúc — nói thật là bài tập này mới có nghĩa.

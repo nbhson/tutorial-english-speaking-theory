@@ -6,12 +6,16 @@
 
 ## I. CẤU TRÚC
 
+Mục này giới thiệu "bốn tầng vũ trụ song song" của câu điều kiện — mỗi tầng là một giả định ở một điểm khác nhau trên dòng thời gian. Ví von: đặt câu điều kiện như **bật một nhánh video game khác** — type 0/1 là màn chơi đang chạy thật, type 2 là màn "nếu mình chọn khác", còn type 3 là màn chơi đã save lại và không còn cách quay đầu.
+
 | Loại | If-clause | Main clause | Ví dụ |
 |------|-----------|-------------|-------|
 | 0 (sự thật) | If + hiện tại | hiện tại | If it rains, I stay home. |
 | 1 (có thể) | If + hiện tại | will + V | If it rains, I will stay home. |
 | 2 (giả định) | If + quá khứ đơn | would + V | If I were you, I would go. |
 | 3 (quá khứ) | If + had + V3 | would have + V3 | If I had known, I would have called. |
+
+> **Cách đọc bảng này:** mỗi dòng là một "tầng giả định" — đọc cột **Loại** trước để biết giả định ở đâu trên dòng thời gian, rồi cột **If-clause** và **Main clause** cho thấy thì hai vế phải khớp nhau như hai bánh răng.
 
 **Quy tắc:** Trong văn nói, type 2 và 3 phổ biến nhất (khuyên, hối tiếc).
 
@@ -20,6 +24,8 @@
 - *I would have* → /aɪ wʊd həv/ → nuốt **"I'd've"** — *I'd've called you.*
 - *wouldn't have* → /ˈwʊd.ənt əv/ → **"wouldn't've"** — *We wouldn't've missed it.*
 - *If only* → /ɪf ˈəʊn.li/ → nhấn "only" để tỏ tiếc nuối.
+
+> **Tóm gọn 1 câu:** Bốn tầng điều kiện — 0 sự thật, 1 có thể, 2 giả định, 3 quá khứ — mỗi tầng một cặp thì hai vế phải khớp nhau.
 
 ## II. KHI NÀO DÙNG?
 
@@ -33,9 +39,15 @@
 - ~~If I was rich, I would buy~~ → formal: *If I **were** rich…* (subjunctive) — "was" vẫn chấp nhận khi nói thân mật.
 - ~~If you study, you would pass~~ → *If you study, you **will** pass* (Type 1) — hiện tại dùng "will", không "would".
 
+> **Tóm gọn 1 câu:** Dùng điều kiện khi khuyên (*If I were you…*), hối tiếc (*If I had known…*), giả định, hay nói kết quả có thể — chọn đúng tầng là câu tự nhiên.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
+Mục này mổ xẻ ba tầng được dùng nhiều nhất trong hội thoại: type 2 để khuyên và giả định, type 3 để hối tiếc quá khứ, và mixed conditional — tầng "trộn thời gian" nâng cao nhất.
+
 ### Cách dùng 1: Type 2 (khuyên / giả định hiện tại)
+
+Tầng "chưa có thật": giả định này là cành cây xa vời — có thể không bao giờ thành. Ví von: `If I were you` như **thử bước vào giày của người kia** một phút để khuyên cho thật lòng.
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `What should I do?` *(Tôi nên làm gì?)*
 - ➕ Đáp: *If I were you, I would talk to her.* — *Nếu tôi là bạn, tôi sẽ nói chuyện với cô ấy.*
@@ -49,6 +61,8 @@
 5. What would you do if you found a wallet on the street? — *Bạn sẽ làm gì nếu nhặt được ví trên đường?*
 
 ### Cách dùng 2: Type 3 (hối tiếc quá khứ)
+
+Tầng "đã đóng màn": sự việc đã trôi qua, chỉ còn bấm nút tua lại để nói "giá mà" — hai vế đều lùi sâu về quá khứ (had + V3 / would have + V3).
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Why didn't you come to the party?` *(Sao bạn không đến tiệc?)*
 - ➕ Đáp: *If I had known about it, I would have come.* — *Nếu tôi biết, tôi đã đến rồi.*
@@ -62,6 +76,8 @@
 5. I would have bought it if it had been cheaper. — *Tôi đã mua nếu rẻ hơn.*
 
 ### Cách dùng 3: Mixed conditional
+
+Tầng "trộn thời gian": vế if ở quá khứ, vế kết quả ở hiện tại (hoặc ngược lại) — dùng khi một quyết định cũ vẫn đang giăng bóng lên cuộc sống hôm nay.
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Do you regret quitting your old job?` *(Bạn tiếc việc nghỉ việc cũ không?)*
 - ➕ Đáp: *Sometimes. If I had stayed, I would be earning more now.* — *Hơi tiếc. Nếu ở lại, giờ tôi lương cao hơn.*
@@ -79,9 +95,13 @@
 - Đổi thì: *If I had known, I would have called.* → *If I knew, I would call.*
 - Đổi ngữ cảnh (đi làm): *If I were the boss, I would approve it.* / (du lịch): *If I had time, I would visit Paris.* / (mua sắm): *If it were cheaper, I would buy it.*
 
+> **Tóm gọn 1 câu:** Ba tầng hội thoại: type 2 để thử giày người khác, type 3 để bấm tua quá khứ, mixed để nối quyết định cũ với đời sống hôm nay.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -91,7 +111,13 @@
 | 4 | **Unless…** | Trừ khi… | Điều kiện phủ định gọn | *Unless it rains, we'll go.* | ~~Unless it will rain~~ — mệnh đề unless chia hiện tại | *Sounds good! (Ok nhé!)* |
 | 5 | **What if…?** | Nếu… thì sao? | Nêu giả định để bàn | *What if he doesn't reply?* | ~~What will happen if~~ (dài) — văn nói gọn: **What if** | *Then we'll try another way. (Thì tính cách khác)* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 5 cụm này là "bộ đồ điều kiện" trong hội thoại — khuyên, hối, ước, loại trừ, đặt giả định; nhớ kèm lỗi sai (⚠️) và câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -102,6 +128,8 @@
 | suppose | (v) /səˈpəʊz/ | Giả sử |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng giả định thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *If I were you, I would apologize.*
@@ -118,6 +146,8 @@
 5. Do you regret not studying harder? — *If only I had studied harder — I'd have more options now.*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**, dùng đúng **were** trong Type 2 và **had + V3** trong Type 3. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc cho nuốt trôi "if I were ya", rồi 5 câu tự hỏi tự đáp; ghi âm nghe lại là biết mình có lộn tầng điều kiện không.
 
 **Ngữ cảnh thực tế:**
 - Đi làm: *If I were you, I'd talk to the manager.* / *If I had known, I'd have prepared.* / *If we finish early, we can leave.* / *If it rains, we'll cancel.*
@@ -136,7 +166,11 @@
 
 ## VII. BONUS: LỖI HAY GẶP
 
+Mục này là "phòng soát lỗi" của cả bài — ba lỗi kinh điển khi dựng câu điều kiện xếp cạnh nhau để bạn soát một lượt trước khi ra khỏi bài.
+
 - ❌ *If I was you…* → ✅ *If I **were** you…* (giả định dùng were cho mọi ngôi)
 - ❌ *If I would have known…* → ✅ *If I **had** known…* (if-clause không dùng would)
 - ❌ *I would go if I will have time.* → ✅ *I would go if I **had** time.*
 - 💡 Mẹo: Trong văn nói, "If I were you" là cụm khuyên phổ biến nhất. Dùng "If only…" để than thở/hối tiếc. "Unless" = "if not" — ngắn gọn hơn.
+
+> **Tóm gọn 1 câu:** Lỗi điều kiện là "lộn tầng": không nhét would vào vế if, giữ were cho giả định — ba tầng ba khung, đừng trộn nguyên liệu.

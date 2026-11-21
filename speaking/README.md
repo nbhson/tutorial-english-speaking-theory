@@ -4,6 +4,8 @@
 
 **📊 Tổng quan bộ tài liệu (68 file .md, chưa tính file README này):**
 
+Hãy hình dung repo này như một giáo trình có "sổ mục tiêu": bảng dưới đây cho biết có bao nhiêu "câu chuyện" (topics), bao nhiêu "khung câu" (grammar) và bộ công cụ AI đi kèm.
+
 | Phần | Số file | Nội dung |
 |------|---------|----------|
 | 📄 `../README.md` | 1 | Tổng quan toàn bộ tutorial + thứ tự đọc |
@@ -11,9 +13,13 @@
 | 📁 `grammar/` | 42 | 42 cấu trúc ngữ pháp nói theo phản xạ |
 | 📁 `../10_ai-tools-practice/` | 1 | Luyện Speaking với AI (ChatGPT, ElevenLabs, Whisper, Anki) |
 
+> **Cách đọc bảng này:** cột giữa là "số lượng", cột phải là "để làm gì". Chỉ cần 10 giây: 24 chủ đề + 42 khung câu + 1 mục AI tools.
+
 ---
 
 ## 📑 MỤC LỤC ĐẦY ĐỦ
+
+Mục này là "bản đồ toàn khu" — dùng để tra nhanh: biết tên chủ đề thì tìm ở bảng topics, biết cấu trúc câu thì tìm ở bảng grammar.
 
 ### I. 24 TOPICS — Hội thoại theo chủ đề
 
@@ -57,7 +63,11 @@
 | 23 | What should I do to ...? (Mình nên làm gì để…?) | [topic-23.md](topics/topic-23.md) |
 | 24 | What are you going to do ...? (Bạn định… gì?) | [topic-24.md](topics/topic-24.md) |
 
+> **Cách đọc bảng này (áp dụng cho cả 4 bảng nhóm trên):** cột # là số thứ tự bài, cột Topic là câu hỏi trung tâm của bài, cột Liên kết bấm vào là mở file. Mỗi bảng nhóm là một "chương" — nên học theo nhóm để các bài nối tiếp nhau về chủ đề.
+
 ### II. 42 CẤU TRÚC NGỮ PHÁP NÓI (`grammar/`)
+
+Mục này xếp 42 khung câu thành 5 "tủ đồ" theo công dụng: chào hỏi, kể chuyện, định lượng, nối ý và phản xạ giao tiếp — cần câu kiểu gì thì mở tủ đó.
 
 **🅰️ Giới thiệu & Trạng thái / Năng lực / Sở thích**
 | File | Cấu trúc |
@@ -121,13 +131,21 @@
 | 41 | Neither/nor/either, both | [g-41](grammar/g-41-neither-nor-either-both.md) |
 | 42 | Have something done (I had my hair cut) | [g-42](grammar/g-42-have-something-done.md) |
 
+> **Cách đọc bảng này (áp dụng cho cả 5 bảng nhóm trên):** cột File là mã bài (g-01…g-42), cột Cấu trúc là khung câu kèm nghĩa tiếng Việt trong ngoặc. Tra theo nhu cầu: muốn nói "tôi đang…" thì mở tủ 🅰️, muốn kể chuyện quá khứ thì tủ 🅱️.
+
+> **Tóm gọn 1 câu:** Mục lục này là "bản chỉ đường": cần hội thoại theo chủ đề lên tầng topics, cần khung câu lên tầng grammar, cần đồ nghề AI thì sang mục III.
+
 ### III. 🤖 Luyện Speaking với AI (MỚI)
+
+Mục này trao cho bạn "đối tác luyện nói 24/7" — AI vừa là người nghe, vừa là giáo viên sửa lỗi.
 
 - [**Luyện nói với AI 2026**](../10_ai-tools-practice/README.md) — ChatGPT/Claude/Gemini làm đối tác luyện nói · Text-to-speech (ElevenLabs, Gemini TTS) · Speech-to-text (Whisper/gpt-transcribe) chấm phát âm · Shadowing hiện đại · Spaced repetition với Anki.
 
 ---
 
 ## Nội dung mỗi Topic
+
+Mục này giải thích "công thức nấu" của từng bài — đọc để biết trước khi mở bất kỳ topic nào, khỏi bị choáng với cấu trúc dài.
 
 Mỗi topic đều có 4 phần cố định:
 
@@ -147,7 +165,11 @@ Mỗi topic đều có 4 phần cố định:
 - **5 câu hỏi luyện nói** theo cấu trúc topic (trả lời thành câu → nói to từng câu 3 lần).
 - **Checkpoint** — tự chấm sau 3 ngày quay lại.
 
+> **Tóm gọn 1 câu:** Mỗi topic là một bữa ăn đủ món: đoạn văn cho khởi vị, ngữ pháp là món chính, luyện nói là tráng miệng — ăn đủ cả ba mới vào được lâu dài.
+
 ## Cách học (khuyến nghị — phiên bản hiện đại)
+
+Mục này là "lộ trình từng bữa" — 5 bước làm đủ theo thứ tự thì kiến thức vào bền, bỏ bước là hụt mất một nửa hiệu quả.
 
 1. Đọc **I.1–I.2**, gật đầu được → mới học tiếp.
 2. **Bảng cụm từ**: che cột VI, đọc EN → đoán nghĩa; rồi lật ngược che cột EN.
@@ -158,6 +180,8 @@ Mỗi topic đều có 4 phần cố định:
 5. Cuối cùng: mở phần **III → trả lời 5 câu hỏi luyện nói**, ghi âm và tự nghe lại.
    - 💡 **AI partner**: mở ChatGPT/Gemini voice mode, dán các câu hỏi luyện nói vào và **trò chuyện bằng giọng nói**, nhờ AI sửa lỗi ngay — chi tiết trong [10_ai-tools-practice](../10_ai-tools-practice/README.md).
 
+> **Tóm gọn 1 câu:** Học đúng 5 nhịp: đọc hiểu → che bảng đoán từ → shadowing → tự tạo câu → nói với AI — dứt cả 5 nhịp là một topic "xuống bill".
+
 ## Files & công cụ đọc
 
 - `topics/topic-01.md` … `topics/topic-24.md` — nội dung từng bài.
@@ -167,11 +191,17 @@ Mỗi topic đều có 4 phần cố định:
 
 ## Lộ trình gợi ý (6 tuần)
 
+Mục này chia 6 tuần thành "kế hoạch tập gym" — mỗi tuần một nhóm cơ, tuần cuối là buổi tổng duyệt trước khi "lên sân khấu" nói thật.
+
 | Tuần | Việc cần làm |
 |------|--------------|
 | 1–2 | Học topic 01–12 + grammar nhóm A, B (cấu trúc nền). Mỗi ngày 1 topic: đọc → shadowing 3 lượt → ghi âm. |
 | 3–4 | Học topic 13–20 + grammar nhóm D, E. Bắt đầu tạo flashcard Anki từ bảng cụm từ. |
 | 5 | Học topic 21–24 + grammar nhóm F (phản xạ giao tiếp). Luyện nói với AI partner 15 phút/ngày. |
 | 6 | Ôn tổng: quay lại checkpoint mỗi topic, nói lại 5 câu hỏi luyện nói không nhìn tài liệu, nhờ AI chấm và phản hồi. |
+
+> **Cách đọc bảng này:** đọc theo dòng tuần, mỗi dòng là một "giai đoạn tập luyện" — bắt đầu thì chậm (cấu trúc nền), càng về sau càng nặng đô (phản xạ + nói thật với AI).
+
+> **Tóm gọn 1 câu:** 6 tuần đi từ nền móng tới phản xạ: tuần nào cũng có bài tập cụ thể, tuần cuối là "kỳ thi tổng" không nhìn tài liệu.
 
 > Tài liệu chỉ dùng cho mục đích học cá nhân.

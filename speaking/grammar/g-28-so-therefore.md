@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này giới thiệu ba "cây cầu nhân–quả" của tiếng Anh: cùng nối nguyên nhân với kết quả nhưng khác nhau về "vật liệu" — một cây bằng gỗ (so, thân mật), một cây bằng thép (therefore, trang trọng), và một cây giữa chừng (that's why). Chọn đúng cây cầu là giọng nói đúng "phong cách".
+
 Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao tiếp:
 
 | Từ nối | Cấu trúc | Mức độ |
@@ -14,9 +16,13 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 | **That's why** | `… , that's why …` | Giải thích nguyên nhân |
 | **Therefore** | `S + V; therefore, + S + V` | Trang trọng, văn viết |
 
+> **Cách đọc bảng này:** mỗi dòng là một cây cầu — đọc cột **Từ nối** trước, rồi cột **Mức độ** cho biết dùng ở "sân" nào (nói thường ngày, giải thích, hay công sở văn viết).
+
 **Phản xạ nói:**
 - *so* → /soʊ/ — nói nhanh, nhẹ
 - *that's why* → /ðætzˈwaɪ/ — nuốt "that is" thành "that's"
+
+> **Tóm gọn 1 câu:** Ba khung cùng nối nhân–quả nhưng khác "phong cách": so thân mật, that's why giải thích, therefore trang trọng.
 
 ## II. KHI NÀO DÙNG?
 
@@ -29,9 +35,15 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 - ~~Because so~~ — vì "because" và "so" cùng mang nghĩa quan hệ nhân quả, không dùng chung.
 - ~~I study hard so I will pass~~ (thiếu dấu phẩy) — trong viết, nên có dấu phẩy trước "so" khi nối hai mệnh đề độc lập.
 
+> **Tóm gọn 1 câu:** Dùng `so` cho nói hằng ngày, `that's why` khi giải thích, `therefore` cho văn trang trọng — và tuyệt đối không ghép "so therefore" thành một.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
+Mục này mổ xẻ từng cây cầu qua hỏi–đáp và ví dụ: so đi đầu tiên (dùng nhiều nhất), rồi that's why, cuối cùng therefore — theo đúng trật tự "thân mật đến trang trọng".
+
 ### So = Vậy / Thế là
+
+Đây là "cây cầu gỗ" dùng hằng ngày: ngắn, nhẹ, nghe tự nhiên — ví von như tiếng "nên là…" trong câu chuyện tiếng Việt của bạn.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Why are you leaving so early?` *(Sao bạn về sớm vậy?)*
@@ -49,6 +61,8 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 
 ### That's why = Đó là lý do tại sao
 
+Chuyển sang "cây cầu giữa": khác `so` ở chỗ `that's why` như một lời **vạch ra lý do** sau khi kết quả đã nằm trước mắt người nghe — mang tính "giải oan" hoặc "chốt lý".
+
 | Cấu trúc | Ví dụ |
 |----------|-------|
 | Statement + **that's why** + result | I forgot my keys, **that's why** I'm locked out. |
@@ -62,6 +76,8 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 ---
 
 ### Therefore — Trang trọng (công sở, học thuật)
+
+"Cây cầu thép": chắc chắn, trang trọng, nhưng để lên "sân khấu" công sở và văn viết — mặc nó ra quán cà phê là nghe lạc tông.
 
 **Ví dụ:**
 1. The data is inconclusive; **therefore**, we need more research. — *Dữ liệu chưa rõ ràng, vì vậy cần nghiên cứu thêm.*
@@ -83,7 +99,13 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 4. The budget is tight; therefore, we need to cut costs. — *Ngân sách eo hẹp; vậy phải cắt giảm.*
 5. She's the best candidate; therefore, we should hire her. — *Cô ấy là ứng viên tốt nhất; vậy nên thuê cô ấy.*
 
+> **Tóm gọn 1 câu:** Mức độ trang trọng tăng dần: so → that's why → therefore; nói ngoài đời chọn so, cầm bút công sở chọn therefore.
+
+---
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -94,7 +116,13 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 | 5 | **So then…** | Vậy thì… | Tiếp nối sau khi đã thỏa thuận | *So then, when do we meet?* | —— | *How about 7 pm?* |
 | 6 | **And that's why** | Và đó là lý do | Kết thúc giải thích | *I studied every day, and that's why I passed.* | —— | *Congrats!* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 6 cụm này là "bộ đồ nối nhân–quả" trong hội thoại — từ kể chuyện mượt (*so…*) đến chốt lý do (*that's why*); nhớ kèm lỗi sai (⚠️) và câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -106,6 +134,8 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 | Result | (n) /rɪˈzʌlt/ | Kết quả |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng chuyện thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I was tired, so I went to bed early.*
@@ -122,6 +152,8 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 5. So what are we going to do now? — *So then, let's…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp với việc thật của mình; ghi âm nghe lại là thấy ngay chỗ gãy.
 
 ---
 
@@ -142,6 +174,8 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 
 ## VII. BONUS: SO vs BECAUSE — Dùng thế nào cho đúng?
 
+Mục này đối chiếu `so` với "đối thủ" `because` — hai từ cùng sống trong quan hệ nhân quả nhưng đứng ở hai đầu cầu: một bên nối kết quả, một bên kéo nguyên nhân về.
+
 | | **So** | **Because** |
 |--|--------|-------------|
 | Vị trí | Nối **kết quả** sau nguyên nhân | Nối **nguyên nhân** sau kết quả |
@@ -150,3 +184,7 @@ Ba cách nối nguyên nhân – kết quả phổ biến nhất trong giao ti�
 | Đảo vị trí | ✅ *I slept, so I was tired.* (sai logic) | ❌ Không đổi được dễ dàng |
 
 > 💡 Mẹo: **So** = kết quả đi sau. **Because** = nguyên nhân đi sau. Đọc từ trái sang phải: trước là nguyên nhân, sau là kết quả.
+
+> **Cách đọc bảng này:** mỗi dòng là một tiêu chí — đọc dòng "Vị trí" trước vì đó là chìa khóa, rồi soi dòng "Ví dụ" để thấy hai câu chỉ khác nhau chỗ gắn từ nối.
+
+> **Tóm gọn 1 câu:** So và because là hai đầu của cùng một dòng nhân–quả — muốn lấy kết quả đi sau dùng so, muốn nguyên nhân đi sau dùng because.

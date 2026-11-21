@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này tổng hợp 3 "chiếc mũ" của have — sở hữu, trải nghiệm, nhờ ai làm gì — đọc để thấy cùng một chữ have nhưng đội lên ba kiểu nghĩa.
+
 **Have** có 3 cách dùng chính trong giao tiếp:
 
 | Cách dùng | Cấu trúc | Ví dụ |
@@ -14,12 +16,16 @@
 | **Trải nghiệm** | `S + have/has + N` (meal, time, fun…) | We **had** a great time. |
 | **Nhờ ai làm gì** | `S + have + O + V` | I **had him fix** my computer. |
 
+Hãy hình dung have như **chiếc balo đa dụng**: đeo lên có đồ (sở hữu), có kỷ niệm (trải nghiệm), có người giúp việc (nhờ ai làm gì) — đều "có" hết trong balo.
+
 **Phản xạ nói:**
 - *I have* → /aɪ hæv/ hoặc /aɪ həv/
 - *I've* → /aɪv/ (nuốt nhẹ)
 - *Has she* → /hæz ʃi/
 
 ## II. KHI NÀO DÙNG?
+
+Mục này nói về 4 tình huống "mở balo have" — đọc để biết khi nào nói có, khi nào nói trải nghiệm, và chỗ nào KHÔNG được dùng have.
 
 - **Sở hữu**: vật possessed, người thuộc về, đặc điểm.
 - **Trải nghiệm**: ăn uống, sự kiện, cảm xúc — *have a good day, have breakfast, have fun*.
@@ -28,11 +34,15 @@
 
 ### ⚠️ Lỗi thường gặp
 - ~~I has a car~~ → *I **have** a car* — I/you/we/they + have; he/she/it + **has**.
-- ~~I have 25 years~~ → *I **am** 25 years old* — tuổi dùng **am/is/are**, không dùng have.
+- ~~I have 25 years~~ → *I **am** 25 years old* — tuổi dùng **am/is/are**, không dùng have (tiếng Việt "tôi có 25 tuổi" nhưng tiếng Anh tuổi không nằm trong balo have!).
 - ~~I have hunger~~ → *I **am** hungry* — trạng thái dùng ToBe.
 - Nhầm **have** (sở hữu) với **have** (trải nghiệm): *I have a car* vs *I had fun* — đều đúng, nghĩa khác.
 
+> **Tóm gọn 1 câu:** Have là balo đa dụng — đựng đồ (sở hữu), kỷ niệm (trải nghiệm) và lịch hẹn — nhưng tuổi và cảm giác đói thì phải trả về cho ToBe.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này mở từng ngăn của balo have ra soi: sở hữu, trải nghiệm, lịch hẹn — đọc để dựng câu đúng khuôn cho từng ngăn.
 
 ### Cách dùng 1: Sở hữu (Have = Có)
 
@@ -41,6 +51,8 @@
 | I **have** a brother. | I **don't have** a brother. | **Do** you **have** a brother? |
 | She **has** a new phone. | She **doesn't have** a new phone. | **Does** she **have** a new phone? |
 | We **have got** time. | We **haven't got** time. | **Have** you **got** time? (Anh-Anh) |
+
+> **Cách đọc bảng này:** mỗi hàng là một chủ ngữ, ba cột là ba dạng câu — khẳng định, phủ định, hỏi. Chú ý hàng Anh-Anh (have got) phủ định/hỏi theo kiểu riêng, không mượn do/does.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Do you have any siblings?` *(Bạn có anh chị em không?)*
@@ -57,6 +69,8 @@
 ---
 
 ### Cách dùng 2: Trải nghiệm (Have + noun)
+
+Ngăn thứ hai của balo: không giữ đồ, giữ **kỷ niệm và hoạt động** — ăn một bữa, vui một buổi, gặp một vấn đề đều "have":
 
 | Cụm từ | Nghĩa | Ví dụ |
 |--------|-------|-------|
@@ -76,7 +90,7 @@
 
 ### Cách dùng 3: Schedule / Appointment (Lịch hẹn / Cuộc hẹn)
 
-**Have** + danh từ chỉ cuộc hẹn = sắp xếp lịch, cuộc hẹn y tế, họp hành:
+Ngăn thứ ba: balo đựng **quyển lịch** — have + danh từ chỉ cuộc hẹn = sắp xếp lịch, cuộc hẹn y tế, họp hành:
 
 | Khẳng định | Phủ định | Câu hỏi |
 |-----------|---------|---------|
@@ -103,9 +117,13 @@
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+> **Tóm gọn 1 câu:** Ba ngăn của have — đồ (sở hữu), kỷ niệm (trải nghiệm), lịch hẹn — gọi đúng tên ngăn nào thì dựng đúng khuôn câu ngăn đó.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" hỏi có/không có và mời mọc trong hội thoại thật — đọc để chọn câu hỏi sở hữu, từ chối lịch sự và mời uống cà phê.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -115,6 +133,8 @@
 | 4 | **Let's have a coffee** | Hãy uống cà phê | Mời bạn cà phê | *Let's have a coffee after work.* | —— | *Sounds great!* |
 | 5 | **I'm having a problem** | Tôi đang gặp vấn đề | Trình bày khó khăn | *I'm having trouble with this app.* | ~~I have a problem~~ (đúng nhưng "having" nghe tự nhiên hơn cho tạm thời) | *Let me help you.* |
 | 6 | **What do you have to do?** | Bạn phải làm gì? | Hỏi về nghĩa vụ / công việc | *What do you have to do tomorrow?* | —— | *I have to finish the report.* |
+
+> **Cách đọc bảng này:** dòng 1–3 là ba cách hỏi "có không" theo hai "phong cách" Anh-Mỹ/Anh-Anh, dòng 4–6 là cách dùng have trong mời mọc, gặp khó khăn và nghĩa vụ. Đọc cột "Câu mẫu" nối với "💬 Đáp lại" như cặp thoại ngắn.
 
 ## V. TỪ VỰNG
 
@@ -129,7 +149,11 @@
 | Fun | (n) /fʌn/ | Niềm vui |
 | Appointment | (n) /əˈpɔɪnt.mənt/ | Cuộc hẹn |
 
+> **Cách đọc bảng này:** các danh từ từ sibling trở xuống là "món đồ" thường nằm trong balo have — đọc to 2 lần rồi tự đặt nhanh câu "I have…" cho từng từ.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen các khuôn have, câu hỏi tự luyện để nói về thứ mình có và việc mình phải làm — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Do you have any plans for the weekend?*
@@ -147,9 +171,9 @@
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Nói được mình có gì, phải làm gì, mời được người khác — balo have đã đeo vững trên vai, không cần nhìn note.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *I have a meeting at 3.* / *Do you have time?* / *She has 2 years of experience.* / *We have to finish today.*
 - Du lịch: *I have a reservation.* / *Do you have a map?* / *She has a passport.* / *We have to check out by 11.*
 - Mua sắm: *I have a coupon.* / *Do you have this in blue?* / *She has a receipt.* / *We have to pay now.*
@@ -174,3 +198,5 @@
 |both | *I've got a car.* = *I have a car.* | ✅ Cả hai đều đúng |
 
 > 💡 Mẹo: Ở Việt Nam, cả hai cách đều được chấp nhận. Nếu nghe người Anh nói → hiểu "have got". Nếu nghe người Mỹ → hiểu "do you have".
+
+> **Tóm gọn 1 câu:** Have got là "giọng Anh", do you have là "giọng Mỹ" — hai nhạc cụ cùng một bài, nghe ai thì hòa theo người đó.

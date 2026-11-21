@@ -14,12 +14,16 @@
 - Conversation: Alvin nằm **lay** chơi game cả ngày vì coronavirus; mẹ rủ đọc sách — đã đọc hết, bài tập cũng xong, nhà chán lắm; mẹ "bật ra": "*I got an idea. Why don't we cook something delicious? How about cooking spaghetti?*" — làm cùng nhau, "**It's been a long time since we've done anything together**", xong còn cho Siri ăn nữa.
 Điểm chốt: **Why don't…?** vừa là *hỏi lý do* ("sao bạn không…?") vừa là *đề xuất* ("sao ta không…?"); trả lời bằng **Let's… / How about… / should…** hoặc lý giải thẳng ("It's too soon").
 
+> **Tóm gọn 1 câu:** **Why don't…?** là cây dao hai lưỡi — vừa rủ rê ("sao ta không…?") vừa hỏi lý do ("sao bạn không…?"), và câu trả lời chỉ rơi vào hai kiểu: hưởng ứng hoặc giải thích.
+
 ### 2) Khi nào sử dụng?
 - **Đề xuất một việc chung**: *Why don't we cook something to eat now? / Why don't we go together?* — "cùng nhau" thì dùng **we**.
 - **Hỏi lý do / động viên người khác**: *Why don't you wear something white today? / Why don't you go outside?* — "chỉ riêng bạn" thì dùng **you**.
 - **Bàn về người thứ ba**: *Why doesn't she break up with her boyfriend? / Why doesn't he ask for help?*
 - **Hai cách trả lời**: ① hưởng ứng — *Oh, yes. Let's cook Pho Bo now.*; ② lý giải — *It's raining so I think it's not good to wear white clothes.* hoặc *I can't. It's too soon.*
 - Thêm gia vị: phủ định "chẳng có gì vui" bằng **That's no fun = There is not any fun**; đổi tông gợi ý bằng *How about…? / Let's… / S + should/could/need + V*.
+
+> **Tóm gọn 1 câu:** Đề xuất làm chung dùng **we**, khuyên riêng người ta dùng **you**, bàn về người khác dùng **he/she** — và câu trả lời chỉ có hai kiểu: hưởng ứng hoặc lý giải.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -38,6 +42,10 @@
 | 9 | **I got an idea** | Mình có ý này | Mở đầu câu đề xuất | *I got an idea. Why don't we cook something delicious?* | ~~I got a idea~~ — phải là **an** idea | *Ooh, I'm listening! (Ồ, tớ đang nghe nè!)* |
 | 10 | **It's been a long time since we've done anything together** | Đã lâu lắm rồi tụi mình không cùng nhau làm gì | Nhắc kỷ niệm để rủ nhau | *It's been a long time since we've done anything together.* | ~~It's a long time since~~ — thiếu **been**: It's **been** a long time | *Yeah, let's do it! (Ừ, làm ngay đi!)* |
 
+> **Cách đọc bảng này:** Mỗi dòng là một cụm đáng nhớ — cột "Nghĩa (VI)" để hiểu, cột "⚠️ Lỗi hay sai" là chỗ dễ gãy nhất, cột "💬 Đáp lại" cho biết người kia nói vậy thì mình đáp lời thế nào.
+>
+> **Tóm gọn 1 câu:** Học 10 cụm này theo 3 lớp: nghĩa tiếng Việt, chỗ dễ sai (⚠️) và câu đáp lại (💬) — nghe thấy là bắt chuyện được ngay.
+
 ### 4) Từ vựng (Vocabulary)
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -53,6 +61,8 @@
 | Be willing to | (v) /ˈwɪlɪŋ/ | Sẵn lòng làm gì đó |
 | Accept any consequences | (n) /ˈkɑːnsəkwensɪz/ | Chấp nhận dù kết quả thế nào |
 
+> **Cách đọc bảng này:** Mỗi dòng là một từ mới — cột giữa cho biết từ loại và phiên âm, cột phải là nghĩa tiếng Việt để nhớ nhanh.
+
 **Extension (Giving compliments — cách khen người):**
 - The cake you baked was *delicious*!
 - Your writing really *inspires* me.
@@ -62,6 +72,8 @@
 - You look *stunning*!
 - You're *amazing*!
 - *Excellent* job on the presentation today!
+
+> **Tóm gọn 1 câu:** Phần này là kho từ của bài — học từ mới theo cặp từ loại + nghĩa, rồi lấy luôn mấy câu khen ở "Extension" để xài cho thân thiện.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -113,6 +125,8 @@ Yeah, when we’re finished, I’ll give some to Siri.
 Of course! Let's get started.
 ```
 
+> **Tóm gọn 1 câu:** Đọc hội thoại gốc 2 lượt — lượt 1 gạch mỗi lần **Why don't…?** xuất hiện, lượt 2 tự đoán câu trả lời trước khi đọc tiếp.
+
 ---
 
 ## II. NGỮ PHÁP
@@ -127,6 +141,10 @@ Of course! Let's get started.
 | 4 | Let's + verb | Rủ/gọi hành động |
 | 5 | S + should/could/need + V | Khuyên, nêu bổn phận |
 | 6 | Why don't/doesn't + S + V | Bàn về người thứ ba |
+
+> **Cách đọc bảng này:** Sáu dòng là sáu công thức của bài — cứ đánh số từng điểm bên dưới rồi lần lượt học, mỗi điểm có ví dụ và biến tấu riêng.
+
+> **Tóm gọn 1 câu:** Cả bài xoay quanh cách rủ/khuyên bằng "Why don't…?", kèm 5 công cụ đi kèm: no/not any, How about, Let's, should/could/need, và dạng người thứ ba.
 
 ### Điểm 1. Why don't + S + V (đề xuất / hỏi lý do): `WHY DON'T + S + V (nguyên mẫu)?`
 
@@ -148,6 +166,8 @@ Of course! Let's get started.
 - Đổi chủ ngữ *we* → *they*: `Why don't they go together?` *(Sao bọn họ không đi cùng nhau nhỉ?)*
 - Đổi thì về quá khứ (nhắc chuyện cũ): `Why didn't you tell her back then?` *(Sao hồi đó cậu không nói với nàng đi?)*
 
+> **Tóm gọn 1 câu:** *Why don't we/you…?* = rủ mềm thay vì ra lệnh — đừng đảo thành ~~Why you don't~~, chữ **don't** luôn đứng trước chủ ngữ.
+
 ### Điểm 2. No + N = not…any + N: `NO + N = NOT … ANY + N (Không / chả…)`
 
 **Cách dùng:** Bản chất: phủ định gắn thẳng vào **danh từ** bằng **no** — câu ngắn, dứt khoát, hợp cảm thán kiểu *That's no fun!*. Muốn diễn dài hơn thì đổi sang **not … any**: *not any fun, not any friends* — nghĩa y như nhau. Cản trở lớn nhất là lẫn cả hai vào một câu: ~~I have not no friends~~ — tiếng Anh **một câu chỉ một chỗ phủ định** thôi. Mẹo nói: *no + N* đọc nhanh, nặng đầu; *not … any* thì nhấn chữ "not".
@@ -167,6 +187,8 @@ Of course! Let's get started.
 **Biến tấu (tự luyện):**
 - Đổi danh từ sau **no**: `I have no time today.` *(Hôm nay tớ chẳng có tí thời gian nào)*
 - Đổi chủ ngữ *I* → *we*: `We have no homework left.` *(Bọn tớ chẳng còn bài tập nào)*
+
+> **Tóm gọn 1 câu:** *No* và *not…any* là hai vỏ cho một nghĩa phủ định — nhưng mỗi câu chỉ được MỘT chỗ phủ định, đừng dồn cả hai vào chung một câu.
 
 ### Điểm 3. How about + V-ing/noun: `HOW ABOUT + V-ING / NOUN …?`
 
@@ -188,6 +210,8 @@ Of course! Let's get started.
 - Đổi V-ing: `How about watching a movie tonight?` *(Tối nay mình xem phim thì sao?)*
 - Đổi danh từ: `How about a short walk?` *(Đi bộ một chút thì sao nhỉ?)*
 
+> **Tóm gọn 1 câu:** *How about…?* là cách "đưa món khác lên bàn" khi món đầu bị chê — sau nó luôn là V-ing hoặc danh từ, không bao giờ là động từ nguyên mẫu.
+
 ### Điểm 4. Let's + verb: `LET'S + V (nguyên mẫu) …`
 
 **Cách dùng:** *Let's* = "let us" rút gọn — gộp lời rủ và hành động vào một nhịp, luôn có ý **cùng nhau** ngầm, ai nghe cũng thấy mình được mời vào. Sau *Let's* là **V nguyên mẫu trần**: ~~Let's to go~~ ✗. Muốn phủ định thì nói *Let's not…* (đừng nói ~~Let's don't~~). Mẹo nói: giọng rơi nhẹ cuối câu như một "ra lệnh vui", trả lời nhanh bằng *Sounds good! / Of course!*.
@@ -207,6 +231,8 @@ Of course! Let's get started.
 **Biến tấu (tự luyện):**
 - Đổi động từ: `Let's go somewhere quiet.` → `Let's try somewhere new.` *(Đi chỗ yên tĩnh → Thử chỗ mới nào)*
 - Thêm đuôi xin ý kiến cho mềm: `Let's take a break, shall we?` *(Nghỉ tay chút nhé, được không?)*
+
+> **Tóm gọn 1 câu:** *Let's* là lời rủ gói sẵn ý "cùng nhau" — động từ nguyên mẫu trần theo sau, phủ định thì nói *Let's not*, đừng nói ~~Let's don't~~.
 
 ### Điểm 5. S + should/could/need + V: `S + SHOULD / COULD / NEED + V …`
 
@@ -228,6 +254,8 @@ Of course! Let's get started.
 - Đổi *should* → *could* cho mềm: `You could do Yoga if you want.` *(Cậu có thể tập Yoga nếu muốn)*
 - Đổi chủ ngữ *we* → *she*: `She should learn more seriously.` *(Cô ấy nên học nghiêm túc hơn)*
 
+> **Tóm gọn 1 câu:** Ba nấc khuyên từ nhẹ tới nặng: *could* (mở lựa chọn) → *should* (nên làm) → *need to* (gần như bắt buộc) — muốn mềm thì thêm *maybe* ở đầu câu.
+
 ### Điểm 6. Why don't/doesn't + S + V (biến thể): `WHY DOESN'T / DON'T + S + V…?`
 
 **Cách dùng:** Cùng khung với Điểm 1 nhưng **bàn về người thứ ba**: *you/we/they* + **don't**, *he/she/it* + **doesn't** — nghe thấy "doesn't" là biết đang nói về ai đó khác, không phải người đối diện. Hay bọc trong "**If you…, why don't you…?**" để khuyên có điều kiện, mềm như gợi ý chứ không chê. Cản trở: ~~Why she doesn't…?~~ — chữ **why** vẫn phải đi đầu câu, *doesn't* nằm sau chủ từ. Mẹo nói: nhấn vào **don't/doesn't** cho câu hỏi rõ nhịp.
@@ -248,6 +276,8 @@ Of course! Let's get started.
 - Đổi chủ ngữ *she* → *he*: `Why doesn't he break up with her?` *(Sao anh í không chia tay cô ấy đi nhỉ?)*
 - Bọc điều kiện: `If you're bored at home, why don't you go outside?` *(Nếu ở nhà chán thì sao không ra ngoài nhỉ?)*
 
+> **Tóm gọn 1 câu:** Bàn về người thứ ba thì *he/she/it* đi với **doesn't** — và chữ **Why** vẫn phải đứng đầu câu, không đảo như câu khẳng định.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
@@ -259,11 +289,15 @@ Of course! Let's get started.
 4. *Why don't you take my side, Mom? — Did something happen between you and your brother, Theodore?*
 5. *I got an idea. Why don't we cook something delicious? How about cooking spaghetti?*
 
+> **Tóm gọn 1 câu:** Nghe–nhại 5 câu theo 3 vòng tăng tốc — vòng sau nhanh hơn vòng trước để phản xạ ra chữ tự nhiên.
+
 ### 5 câu hỏi tự luyện (tự hỏi + trả lời)
 1. Why don't you take a day off and go somewhere nice? — *Sounds great! Let's plan for … (Where? When?)*
 2. Why don't we go to the cinema together? — *I'd love to! Just hurry so we don't miss the beginning.*
 3. Why don't you drink more water and do more exercise? — *You're right, I should … . I'm willing to try.*
 4. Why doesn't he ask for help? — *Maybe he isn't willing to ask. What do you think if we help him first?*
 5. Why don't we suggest some new solutions for our team/class? — *I got an idea. How about practicing speaking English more? What else do you think we need (more time, money, energy, patience…)? Are you willing to accept any consequences?*
+
+> **Tóm gọn 1 câu:** Tự hỏi bằng **Why don't…?** rồi trả lời bằng *Let's / How about / should* — nói to thành câu trọn, đừng chỉ đọc thầm.
 
 > ✅ Checkpoint: mở lời bằng **Why don't we/you/they…?** (đề xuất) và **Why doesn't she/he…?** (hỏi người thứ ba) — trả lời bằng *Let's… / How about… / S + should…* hoặc lý giải thẳng. Nói to 5 câu từ sheet FREE TALK và ghi âm lại.

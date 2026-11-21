@@ -14,12 +14,19 @@
 - **Ở lại nhà bạn đêm**: quên báo mẹ đang ngủ lại đây (*I totally forgot*), mà điện thoại thì **hết sạch pin** — mượn máy bạn gọi về; mẹ thì "tùy tâm trạng nhưng thường dễ hiểu"; lý do: **quên mất giờ giấc** (*lost track of time*); giục nhau "**The clock is ticking**"; xong hỏi luôn "did you tell James to come over? — rồi, đang trên đường".
 Điểm chốt: học **"Did you + V2/ed?"** → trả lời **Yes, I did. / No, I didn't.** rồi mở rộng theo chủ đề, kèm mốc thời gian quá khứ (*yesterday, last night, this morning*).
 
+> **Tóm gọn 1 câu:** **Did you…?** là cách "báo cáo quá khứ" — hỏi việc đã làm hay chưa, và trả lời chỉ có hai kiểu: *Yes, I did* hoặc *No, I didn't* kèm lý do.
+
 ### 2) Khi nào sử dụng?
+
+Mục này chỉ rõ "dùng ở đâu" — tổng cộng 5 tình huống, từ hỏi thăm tới điều tra và nhắc nhở.
+
 - Hỏi **việc đã làm hay chưa, tại một thời điểm quá khứ cụ thể**: *Did you see your girlfriend yesterday? / Did you bring your ID card? / Did you go over the old lessons before the exam?*
 - Trả lời: **Yes, I did. + mở rộng** hoặc **No, I didn't. + lý do/kế hoạch** (*I'll call her this weekend.*)
 - Hỏi dồn dập kiểu "điều tra": *Did you go out after? — Did you both enjoy your time together? — Are you sure?*
 - Xin lỗi & nhắc nhở sau sự cố: *I totally forgot. / I left it on the table this morning. / Lost track of time. / Please, don't forget next time, okay?*
 - Biến thể "đồng tình": *She had to go back to work **and so did I**.* — cũng dùng cho mình.
+
+> **Tóm gọn 1 câu:** Dùng **Did you…?** khi hỏi việc đã làm/chưa trong quá khứ cụ thể — trả lời *Yes, I did / No, I didn't*, và *and so did I* là cách nói "mình cũng vậy".
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -41,7 +48,13 @@
 | 12 | **I'm pretty sure I did** | Tớ khá chắc là đã làm rồi | Khẳng định dịu dàng khi bị nghi ngờ | *I'm pretty sure I did. Let me check.* | ~~I'm pretty sure did~~ — thiếu chủ ngữ: sure **I** did | *Better check it twice! (Kiểm tra lại cho chắc đi!)* |
 | 13 | **Please, don't forget next time, okay?** | Lần sau đừng quên nữa nhé | Nhắc khéo sau lỗi quên | *Please, don't forget next time, okay?* | ~~don't forgetting next time~~ — sau don't là nguyên mẫu: don't **forget** | *I promise I won't! (Tớ hứa là không quên!)* |
 
+> **Cách đọc bảng này:** Mỗi dòng là một cụm đáng nhớ — cột "Nghĩa (VI)" để hiểu, cột "⚠️ Lỗi hay sai" là chỗ dễ gãy nhất, cột "💬 Đáp lại" cho biết người kia nói vậy thì mình đáp thế nào.
+
+> **Tóm gọn 1 câu:** 13 cụm này là "bộ đồ nghề" của bài — mỗi cụm nhớ 3 thứ: nghĩa, chỗ dễ sai (⚠️) và câu đáp lại (💬).
+
 ### 4) Từ vựng (Vocabulary)
+
+Đây là kho từ của bài — kèm phần mở rộng về hoạt động hằng ngày để có từ mà nói.
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Come over | (v) /kʌm ˈəʊvər/ | Đến (ghé nhà ai đó) |
@@ -56,6 +69,8 @@
 | Mad | (adj) /mæd/ | Điên |
 | Upset | (adj) /ˌʌpˈset/ | Khó chịu |
 | Latest | (adj) /ˈleɪtɪst/ | Gần nhất, mới nhất |
+
+> **Cách đọc bảng này:** Mỗi dòng là một từ mới — cột giữa cho biết từ loại và phiên âm, cột phải là nghĩa tiếng Việt để nhớ nhanh.
 
 **Extension (Daily Activities — hoạt động hằng ngày):**
 - **Go to bed** — đi ngủ
@@ -86,6 +101,8 @@
 - **Go shopping** — đi mua sắm
 - **Exercise** — tập thể dục
 - **Nhớ luật nhỏ:** sau giới từ (prep), động từ luôn ở dạng **V-ing** — *before going to the party / joining the center…, I'm afraid of making you cry.*
+
+> **Tóm gọn 1 câu:** Học từ theo bảng từ loại + nghĩa, lấy luôn list "Daily Activities" để kể chuyện ngày thường — và nhớ luật: sau giới từ động từ phải là V-ing.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -130,9 +147,13 @@ Yes I did. He's on his way.
 Cool! Let me make the call first.
 ```
 
+> **Tóm gọn 1 câu:** Đọc hội thoại 2 lượt — lượt 1 gạch mỗi lần **Did you…?** xuất hiện, lượt 2 tự trả lời trước khi đọc tiếp.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Phần này là "phòng gym ngữ pháp" của bài — 5 điểm xoay quanh chữ **or** và cách nói "cùng nhau".
 
 **Tổng quan: 5 điểm ngữ pháp trong bài**
 
@@ -144,9 +165,13 @@ Cool! Let me make the call first.
 | 4 | Or = if not (cảnh báo) | Giục: làm X đi, không là… |
 | 5 | Or để diễn đạt lại / chỉnh câu | Nói lại từ/câu cho rõ hơn |
 
+> **Cách đọc bảng này:** Năm dòng là năm công thức của bài — đánh số từng điểm bên dưới rồi lần lượt học, mỗi điểm có ví dụ và biến tấu riêng.
+
+> **Tóm gọn 1 câu:** Bài này học hai nhóm: nói "cùng nhau" (each other/one another/together) và 4 cách dùng chữ **or** — chọn, phủ định kép, cảnh báo, và sửa câu.
+
 ### Điểm 1. Each other – One another – Together (cùng nhau): `S + V + EACH OTHER / ONE ANOTHER / TOGETHER`
 
-**Cách dùng:** Ba mùi "cùng nhau": **each other** cho 2 người có **tác động qua lại** (hỗ trợ nhau, hiểu nhau); **one another** dùng tương tự nhưng thiên về **3 người trở lên**; **together** là làm **chung một việc** nhưng không nhất thiết tác động lẫn nhau (đi chung, ăn chung). Nói ~~help together~~ khi ý là giúp **nhau** là lệch nghĩa ngay. Mẹo: có qua lại → each other/one another; chỉ cù làm → together.
+**Cách dùng:** Ba mùi "cùng nhau": **each other** cho 2 người có **tác động qua lại** (hỗ trợ nhau, hiểu nhau); **one another** dùng tương tự nhưng thiên về **3 người trở lên**; **together** là làm **chung một việc** nhưng không nhất thiết tác động lẫn nhau (đi chung, ăn chung). Hãy tưởng tượng: bắt tay = each other (hai bên cùng đưa tay), kéo co = one another (cả nhóm cùng ghì), đi bộ chung = together. Nói ~~help together~~ khi ý là giúp **nhau** là lệch nghĩa ngay. Mẹo: có qua lại → each other/one another; chỉ cùng làm → together.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Do you two talk to each other often?` *(Hai đứa hay nói chuyện với nhau không?)*
@@ -164,9 +189,11 @@ Cool! Let me make the call first.
 - Đổi each other → together: `We went to Da Lat together.` *(Bọn tớ đi Đà Lạt cùng nhau)*
 - Đổi chủ ngữ: `My classmates help one another before exams.` *(Bạn cùng lớp giúp nhau trước kỳ thi)*
 
+> **Tóm gọn 1 câu:** 2 người qua lại dùng **each other**, 3+ người dùng **one another**, còn chỉ làm chung một việc (không cần qua lại) là **together**.
+
 ### Điểm 2. Or nối 2 khả năng khác nhau: `CHỌN A OR B`
 
-**Cách dùng:** **Or** đặt giữa **hai lựa chọn cùng loại** (V với V, N với N) — hỏi xem chọn cái nào. Bản chất: hai vế phải "ngang hàng", lệch loại là câu rơi rớt. Mẹo: đọc to hai vế, thấy cân đối là đúng; câu hỏi chọn A hay B là chỗ dùng or nhiều nhất.
+**Cách dùng:** **Or** đặt giữa **hai lựa chọn cùng loại** (V với V, N với N) — hỏi xem chọn cái nào. Bản chất: hai vế phải "ngang hàng" như hai món cùng nằm trên khay — lệch loại là câu rơi rớt. Mẹo: đọc to hai vế, thấy cân đối là đúng; câu hỏi chọn A hay B là chỗ dùng or nhiều nhất.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Should we call her now or tomorrow?` *(Gọi bây giờ hay chờ mai?)*
@@ -184,9 +211,11 @@ Cool! Let me make the call first.
 - Đổi danh từ: `Do you want juice or milk tea?` *(Cậu muốn nước ép hay trà sữa?)*
 - Đổi thì: `Will you stay home or go out tonight?` *(Tối nay cậu ở nhà hay đi chơi?)*
 
+> **Tóm gọn 1 câu:** **Or** nối hai lựa chọn cùng loại để hỏi "chọn cái nào" — hai vế phải ngang hàng, lệch loại là câu gãy.
+
 ### Điểm 3. Or sau động từ phủ định: `NOT / NEVER / HARDLY … + A OR B`
 
-**Cách dùng:** Đứng sau **not/never/hardly**, or mang nghĩa **"và cũng không"** — hai vế cùng phủ định, chỉ cần **một lần phủ định** ở trợ động từ là đủ, đừng phủ định lại lần hai. Mẹo: nói ~~She didn't call or didn't text~~ là thừa; bỏ nốt "didn't" thứ hai, câu gọn mà nghĩa vẫn phủ đủ.
+**Cách dùng:** Đứng sau **not/never/hardly**, or mang nghĩa **"và cũng không"** — hai vế cùng phủ định, chỉ cần **một lần phủ định** ở trợ động từ là đủ, đừng phủ định lại lần hai. Như một tờ giấy hủy chỉ cần đóng một dấu — đóng hai dấu là thừa. Mẹo: nói ~~She didn't call or didn't text~~ là thừa; bỏ nốt "didn't" thứ hai, câu gọn mà nghĩa vẫn phủ đủ.
 
 **Phản xạ hỏi–đáp:**
 - ➕ Nói: `She never calls or texts me first.` *(Cô ấy chẳng bao giờ gọi hay nhắn trước)*
@@ -204,9 +233,11 @@ Cool! Let me make the call first.
 - Đổi động từ: `She doesn't sing or dance at parties.` *(Cô ấy không hát không múa ở tiệc)*
 - Đổi thì quá khứ → hiện tại: `He doesn't call or text me.` *(Anh ấy chẳng gọi chẳng nhắn gì)*
 
+> **Tóm gọn 1 câu:** Sau not/never/hardly, **or** nghĩa là "và cũng không" — chỉ cần MỘT chỗ phủ định cho cả hai vế, đừng phủ định hai lần.
+
 ### Điểm 4. Or = "If not" (nếu không thì…): `MỆNH LỆNH / LỜI KHUYÊN + , OR + S + WILL…`
 
-**Cách dùng:** Mệnh lệnh/lời khuyên + **, or + S + will…** = "nếu không thì sẽ…" — công thức **giục giã** cực hiệu quả. Bản chất: or ở đây là "if not" rút gọn, chỉ áp sau mệnh lệnh/khuyên. Mẹo: lên giọng ở chữ **or** cho hơi cảnh báo, người nghe sẽ lẹ tay hành động.
+**Cách dùng:** Mệnh lệnh/lời khuyên + **, or + S + will…** = "nếu không thì sẽ…" — công thức **giục giã** cực hiệu quả. Bản chất: or ở đây là "if not" rút gọn, chỉ áp sau mệnh lệnh/khuyên — như biển báo "Chưa thắt dây an toàn, or xe sẽ kêu bíp bíp". Mẹo: lên giọng ở chữ **or** cho hơi cảnh báo, người nghe sẽ lẹ tay hành động.
 
 **Phản xạ hỏi–đáp:**
 - ➕ Giục: `Call her now, or she'll be worried.` *(Gọi mẹ ngay đi, không là mẹ lo lắng)*
@@ -223,6 +254,8 @@ Cool! Let me make the call first.
 **Biến tấu (tự luyện):**
 - Đổi mệnh lệnh: `Hurry up, or we'll miss the bus.` *(Lẹ lên, không là lỡ xe buýt)*
 - Đổi hệ quả: `Eat breakfast, or you'll be hungry by ten.` *(Ăn sáng đi, không là 10h đói meo)*
+
+> **Tóm gọn 1 câu:** "…, or + S + will" là công thức giục: làm X đi, không là sẽ Y — or ở đây chính là "if not".
 
 ### Điểm 5. Or để diễn đạt lại, giải thích, chỉnh câu: `A, OR B (= B là cách nói lại / sửa lại của A)`
 
@@ -244,9 +277,15 @@ Cool! Let me make the call first.
 - Đổi danh từ: `He's my idol, or the person I look up to.` *(Anh ấy là thần tượng, nghĩa là người tớ ngưỡng mộ)*
 - Đổi động từ: `I'll book it online, or reserve it by phone.` *(Tớ đặt online, hoặc đặt qua điện thoại)*
 
+> **Tóm gọn 1 câu:** Or sau câu vừa nói đóng vai "tức là / à quên" — nói ra từ gần đúng rồi sửa bằng *or more exactly* là tự nhiên như người bản xứ.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Phần cuối là "phòng tập" — đọc to, nhại lại, rồi tự hỏi tự đáp.
+
+> **Tóm gọn 1 câu:** Luyện nói gồm 2 phần: echo drill nhại theo tăng tốc, rồi tự hỏi tự đáp 5 câu về việc thật của mình.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Did you see your girlfriend yesterday? — Yes, I did. We had lunch together.*
@@ -255,11 +294,15 @@ Cool! Let me make the call first.
 4. *Oh, I totally forgot. But my phone is dead. — Feel free to use mine.*
 5. *Okay, if you say so. Call her now. The clock is ticking.*
 
+> **Tóm gọn 1 câu:** Nghe–nhại 5 câu theo 3 vòng tăng tốc — vòng sau nhanh hơn vòng trước để phản xạ ra chữ tự nhiên.
+
 ### 5 câu hỏi tự luyện (tự hỏi + trả lời)
 1. Did you do your video homework / prepare the lesson before joining our class? — *Yes, I did. I… / No, I didn't. I'll do it this…*
 2. Did you have a good sleep last night / watch the latest movies of Disney? — *Yes, I did. It was… / No, I didn't, because…* (How was it?)
 3. Did you go to the party last night / join the meeting yesterday? — *Yes, I did. Who was there? Anything special happened?*
 4. Did you check my email / meet our new co-worker yesterday? — *Yes, I did. We talked a lot and…*
 5. Did you go to work last weekend / inform the team leaders that you will be off tomorrow? — *No, I didn't. I forgot… / I'll… (Why did you…?)*
+
+> **Tóm gọn 1 câu:** Tự hỏi **Did you…?** về việc thật của hôm qua rồi trả lời bằng *Yes, I did / No, I didn't* — nhớ kèm lý do và mốc thời gian.
 
 > ✅ Checkpoint: hỏi & đáp **"Did you…?"** cho 5 việc hôm qua thật của mình — nhớ **Yes, I did / No, I didn't** rồi mở rộng lý do, kèm "and so did I". Ghi âm lại.

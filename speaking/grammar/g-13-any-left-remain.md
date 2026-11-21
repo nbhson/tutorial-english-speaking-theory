@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này đưa ra công thức hỏi "còn không?" — đọc để biết chọn Is/Are theo số ít–số nhiều và các cách trả lời có sẵn.
+
 `Is/Are there + any + N + left/remaining?`
 
 | Số ít | Số nhiều |
@@ -17,9 +19,13 @@
 - ✅ *Yes, there's some left.* / *Yes, there are a few.*
 - ❌ *No, there isn't any left.* / *No, there aren't any left.* / *We ran out.*
 
+Hãy hình dung câu hỏi này như **lật nắp tủ lạnh rồi ngó xuống kệ cuối** — mục đích là kiểm tra "còn sót" bao nhiêu trước khi quyết định.
+
 **Phản xạ nói:** *Is there* → /ɪz ðər/ → **"izder"**; *Are there* → /ɑːr ðər/ → **"arther"**
 
 ## II. KHI NÀO DÙNG?
+
+Mục này liệt kê 4 tình huống "kiểm tra hàng tồn" — đọc để biết từ thức ăn trong tủ lạnh đến ghế rạp phim đều hỏi được cùng một khuôn.
 
 - Hỏi **thực phẩm / đồ đạc còn không** trong nhà / cửa hàng.
 - Hỏi **ghế / chỗ ngồi còn không** ở rạp chiếu phim, nhà hàng.
@@ -31,7 +37,11 @@
 - ~~Are there any milk left?~~ — milk không đếm được → *Is there any milk left?*
 - ~~Is there some left?~~ trong câu hỏi — dùng **any** trong hỏi/phủ định, **some** trong khẳng định.
 
+> **Tóm gọn 1 câu:** "Is/Are there any … left?" là câu lật tủ kiểm tra tồn kho — đếm được thì Are, không đếm được thì Is, và hỏi thì dùng any.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này so left với remaining rồi làm rõ cặp some/any — đọc để chọn từ đúng "trang phục" trang trọng hay đời thường.
 
 ### Left vs Remaining
 
@@ -39,6 +49,8 @@
 |----|---------|-------|
 | **Left** | Informal, thông dụng hơn | *Is there any pizza left?* |
 | **Remaining** | Formal, trang trọng hơn | *Is there any time remaining?* |
+
+> **Cách đọc bảng này:** hai dòng là hai "quần áo" của cùng ý "còn lại" — left mặc đi siêu thị, remaining mặc lên bảng thi. Chọn theo độ trang trọng của nơi bạn đang nói.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Is there any coffee left?` *(Café còn không?)*
@@ -74,7 +86,13 @@
 4. Do you have any questions? — *Bạn có câu hỏi nào không?*
 5. There's some bread on the table. — *Trên bàn có một ít bánh mì.*
 
+> **Tóm gọn 1 câu:** some = "có sẵn, mời bạn", any = "có hay không chưa biết" — mời thì dùng some dù là câu hỏi, dò tồn kho thì dùng any.
+
 ---
+
+## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" hỏi và báo tình trạng tồn kho trong hội thoại thật — đọc để chọn câu hỏi còn/hết và cách trả lời khéo.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -84,6 +102,8 @@
 | 4 | **Nothing left** | Không còn gì | Trả lời khi đã hết sạch | *Is there any pizza? — Nothing left, sorry.* | —— | *No worries, I'll eat somewhere else.* |
 | 5 | **Is there still some…?** | Vẫn còn một ít…? | Hỏi khéo khi e sợ hết | *Is there still some coffee?* | —— | *Yes, help yourself!* |
 | 6 | **Let me check if there's any left** | Để tôi kiểm tra còn không | Trả lời chậm, chưa biết | *Let me check if there's any left.* | —— | *Take your time.* |
+
+> **Cách đọc bảng này:** dòng 1–2 là câu hỏi còn/hết, dòng 3–4 là tin xấu (hết rồi), dòng 5–6 là cách hỏi và trả lời "mềm". Đọc cột "💬 Đáp lại" để biết người nghe thường đáp thế nào — hỏi và nghe đáp phải đi cặp với nhau.
 
 ## V. TỪ VỰNG
 
@@ -97,7 +117,11 @@
 | Run out | (phrasal) /rʌn aʊt/ | Hết sạch |
 | Fridge | (n) /frɪdʒ/ | Tủ lạnh |
 
+> **Cách đọc bảng này:** đọc to phiên âm 2 lần mỗi từ — riêng *run out* là cụm động từ, luôn nhớ kèm "of" phía sau (run out **of** eggs).
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen câu hỏi còn/hết, câu hỏi tự luyện để kiểm tra tồn kho thật quanh mình — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *Is there any milk left?*
@@ -115,9 +139,9 @@
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Hỏi được "còn không?", đáp được "còn ít / hết rồi" không nhìn note — câu lật tủ kiểm tra tồn kho đã lên máy.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *Are there any files left?* / *Is there any budget remaining?* / *Any tasks left?* / *How much time is left?*
 - Du lịch: *Are there any seats left?* / *Is there any time remaining?* / *Any tickets left?* / *How much money is left?*
 - Mua sắm: *Are there any in stock?* / *Is there any discount left?* / *Any sizes left?* / *How much is remaining?*
@@ -142,3 +166,5 @@
 | Đề nghị | ✅ *Would you like some coffee?* | — |
 
 > 💡 Mẹo: Trong câu hỏi, nếu bạn **mong đợi câu trả lời "có"** (đề nghị, mời), dùng **some**. Nếu hỏi thông tin thực sự, dùng **any**.
+
+> **Tóm gọn 1 câu:** Bảng this nói ngắn gọn lại mục some/any ở trên: some cho "có và mời", any cho "chưa biết" — in hai chữ này vào đầu là xong bài.

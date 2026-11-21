@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này giới thiệu "bốn vai" của `then` — từ nối nhưng gánh được bốn việc: kể tiếp thời gian, đưa kết luận, xếp trình tự, và đồng tình. Hãy hình dung `then` như **viên gạch nối** trong câu chuyện: đặt vào đâu là hai vế câu liền mạch thành mạch truyện.
+
 **Then** là một trong những từ nối phổ biến nhất trong tiếng Anh giao tiếp.
 
 | Chức năng | Cấu trúc | Ví dụ |
@@ -15,7 +17,11 @@
 | **Tiếp theo (trình tự)** | `First … then …` | **First** wash your hands, **then** eat. |
 | **Cũng vậy (đồng tình)** | `So … then …` | I'm going to the market. — **Then** I'll go too. |
 
+> **Cách đọc bảng này:** mỗi dòng là một "vai" của `then` — đọc cột **Chức năng** để định vị, cột **Cấu trúc** cho biết khung câu đi kèm, cột **Ví dụ** để thấy từ này sống trong câu thật.
+
 **Phản xạ nói:** *then* → /ðen/ — phát âm rõ âm /ð/ (lưỡi giữa hai răng).
+
+> **Tóm gọn 1 câu:** Bốn vai bốn khung của `then`: kể tiếp thời gian, hạ kết luận từ if, xếp trình tự first…then, và đồng tình "thế thì mình cũng đi".
 
 ## II. KHI NÀO DÙNG?
 
@@ -29,9 +35,15 @@
 - Nhầm **then** (sau đó) với **than** (hơn) — khác nhau hoàn toàn: *better than* vs *then we go*.
 - ~~I went home then eat~~ → *I went home, **then** I ate* — cần chủ ngữ mới hoặc mệnh đề riêng.
 
+> **Tóm gọn 1 câu:** Dùng `then` khi cần nối chuyện liền mạch: kể tiếp hành động, hạ kết luận từ "if", xếp các bước theo thứ tự, hay đề xuất "thế thì đi luôn".
+
 ## III. NGỮ PHÁP CHI TIẾT
 
+Mục này mổ xẻ từng vai của `then` qua hỏi–đáp và ví dụ, rồi chốt bằng cặp dễ nhầm then/than — khác nhau chỉ một âm nhưng nghĩa đổi hoàn toàn.
+
 ### Then = Sau đó (kế tiếp trong thời gian)
+
+Đây là vai "bấm giờ kể chuyện" của `then`: hành động này vừa xong thì hành động kế tiếp nối lên — như những toa tàu nối đuôi nhau chạy trên cùng một đường ray.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `What did you do after work?` *(Bạn làm gì sau giờ làm?)*
@@ -48,6 +60,8 @@
 ---
 
 ### Then = Vậy thì (trong câu điều kiện)
+
+Chuyển sang vai "hạ kết luận": vế if đưa giả thuyết, vế then nhận kết quả — ví von như bài toán nếu-thì: điều kiện đầu vào, kết quả đầu ra.
 
 | Cấu trúc | Ví dụ |
 |----------|-------|
@@ -70,7 +84,7 @@
 
 ### Then = Thứ tự (First… then… finally)
 
-Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kịch bản:
+Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kịch bản — `then` ở đây như "bậc thang": mỗi bước một bậc, bước lên đúng trật tự là người nghe làm theo không lạc.
 
 | Mẫu | Ví dụ | Nghĩa |
 |-----|-------|-------|
@@ -92,6 +106,8 @@ Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kị
 
 ### Nhầm THEN (sau đó) vs THAN (hơn)
 
+Cặp "sinh đôi" gây nhầm nhiều nhất: cùng bắt đầu bằng âm /ð/ nhưng một chữ kể thời gian, một chữ so sánh — bảng dưới (dạng ghi chú) xếp hai nghĩa cạnh nhau để đừng tráo.
+
 > ⚠️ **Then** = /ðen/ (sau đó, vậy thì) — **Than** = /ðæn/ (hơn so với) — phát âm và nghĩa **hoàn toàn khác**:
 > - *I'll call you **then**.* = Tôi sẽ gọi bạn sau đó.
 > - *I'm taller **than** him.* = Tôi cao hơn anh ấy.
@@ -103,9 +119,13 @@ Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kị
 4. It's better than expected. — *Tốt hơn mong đợi.* (than = hơn)
 5. First sleep, then work. — *Trước ngủ, sau làm.* (then = sau đó)
 
+> **Tóm gọn 1 câu:** then/than chỉ khác nhau một nguyên âm — nhưng then là "rồi thì", còn than là "hơn"; nói sai là nghĩa đổi hẳn.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -116,7 +136,13 @@ Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kị
 | 5 | **First … then …** | Trước … rồi … | Hướng dẫn từng bước | *First boil the water, then add the pasta.* | —— | *Got it, thanks!* |
 | 6 | **Then again…** | Mặt khác… | Đưa ra góc nhìn đối lập | *It's expensive. Then again, it's high quality.* | —— | *True, worth the price.* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 6 cụm này là "bộ đồ" của `then` trong hội thoại — từ kể chuyện tiếp đến xoay góc nhìn (*then again*); nhớ kèm lỗi sai (⚠️) và câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — tập hợp các từ chỉ thời gian để bạn có "hàng dự phòng" thay `then` cho câu chuyện đỡ lặp.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -129,6 +155,8 @@ Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kị
 | Meanwhile | (adv) /ˈmiːn.waɪl/ | Trong khi đó |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng chuyện thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I'll finish this, then I'll call you.*
@@ -145,6 +173,8 @@ Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kị
 5. So then, what's the plan? — *Then we'll…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp với việc thật của mình; ghi âm nghe lại là thấy ngay chỗ gãy.
 
 ---
 
@@ -165,9 +195,15 @@ Nói **thứ tự các bước** trong hướng dẫn, công thức, hoặc kị
 
 ## VII. BONUS: THEN vs NOW — Đối nghĩa thời gian
 
+Mục này ghép `then` với "đối thủ" `now` — một cặp nhìn về hai đầu dòng thời gian, rất hợp để đối chiếu quá khứ và hiện tại trong cùng một câu.
+
 | **Then** (thì / sau đó) | **Now** (giờ / bây giờ) |
 |--------------------------|------------------------|
 | I was shy back **then**. | I'm confident **now**. |
 | We ate, **then** we left. | Let's eat **now**. |
 | Things were different **then**. | Things are different **now**. |
 | **Then** what? (tiếp theo) | What **now**? (giờ sao?) |
+
+> **Cách đọc bảng này:** đọc theo từng cặp đối xứng — cột trái là "quá khứ / tiếp theo", cột phải là "hiện tại"; đối chiếu ngang là thấy ngay cấu trúc chỉ thay một từ.
+
+> **Tóm gọn 1 câu:** `then` và `now` là hai đầu cây cầu thời gian — kể chuyện cũ đứng ở then, kéo về hiện tại đứng ở now.

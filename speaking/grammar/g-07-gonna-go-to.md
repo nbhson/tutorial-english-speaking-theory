@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này đưa ra hai dạng "sẽ / định" — going to chuẩn và gonna nói tắt — đọc để biết khuôn câu của từng dạng trước khi học cách chọn.
+
 | Dạng | Công thức | Mức độ |
 |------|----------|--------|
 | **Gonna** | `S + gonna + V` | Thân mật, nói nhanh |
@@ -17,6 +19,8 @@
 | He / She / It | He **'s going to** leave. | He **'s gonna** leave. |
 | We / You / They | We **'re going to** celebrate. | We **'re gonna** celebrate. |
 
+> **Cách đọc bảng này:** đọc song song từng hàng — cột trái là câu "đi làm", cột phải là bản "đi chơi" của đúng câu đó; hai cột khác nhau duy nhất ở chỗ nuốt "going to" thành "gonna".
+
 **Phản xạ nói:**
 - `I'm gonna` → /aɪmˈɡənə/ → *"aim-gonna"*
 - `You're gonna` → /jʊrˈɡənə/
@@ -24,8 +28,10 @@
 
 ## II. KHI NÀO DÙNG?
 
-- **Kế hoạch đã quyết định** trước khi nói: *I'm going to travel to Vietnam next month.*
-- **Dự đoán dựa trên bằng chứng hiện tại**: *Look at those clouds — it's going to rain.*
+Mục này nói về 2 tình huống dùng going to + 1 giới hạn cấm — đọc để biết khi nào nói "định" và khi nào gonna bị cấm cửa.
+
+- **Kế hoạch đã quyết định** trước khi nói: *I'm going to travel to Vietnam next month.* — như vé máy bay đã đặt từ tuần trước, chỉ chờ ngày bay.
+- **Dự đoán dựa trên bằng chứng hiện tại**: *Look at those clouds — it's going to rain.* — thấy mây đen giăng rồi thì ai cũng biết sắp mưa.
 - **Không dùng gonna trong văn viết trang trọng** (email công việc, bài luận).
 
 ### ⚠️ Lỗi thường gặp
@@ -34,7 +40,11 @@
 - ~~She gonna~~ → *She**'s** gonna* — thiếu 's.
 - Nhầm **gonna** (sẽ làm) với **go near** (đi tới gần) — ngữ cảnh phân biệt rõ.
 
+> **Tóm gọn 1 câu:** Going to cho kế hoạch đã chốt và dự đoán có bằng chứng — remember: động từ ToBe vẫn phải đi kèm, gonna chỉ là bản nói nhanh.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này so going to với will rồi tách riêng wanna/going-to nói thân — đọc để chọn đúng thì tương lai cho từng tình huống.
 
 ### Phân biệt: GOING TO vs WILL
 
@@ -45,12 +55,16 @@
 | Ví dụ | *I'm going to study medicine.* (đã quyết định) | *I'll help you with that.* (ngay lúc nói) |
 | Ví dụ 2 | *Look! It's going to crash!* (thấy rõ) | *I think it will rain tomorrow.* (dự đoán) |
 
+> **Cách đọc bảng này:** so từng hàng một — hàng Quyết định hỏi "chốt trước hay chốt tại chỗ?", hàng Dự đoán hỏi "có bằng chứng trước mắt hay chỉ là cảm tính?". Hai hàng Ví dụ minh họa đúng hai câu trả lời đó.
+
 **Ví dụ:**
 1. I'm going to study medicine. — *Tôi định học y.* (đã quyết định)
 2. She's going to move to Hanoi. — *Cô ấy sẽ chuyển sang Hà Nội.* (có kế hoạch)
 3. I'll help you with that. — *Tôi sẽ giúp bạn việc đó.* (quyết định ngay lúc nói)
 4. Look at those clouds — it's going to rain. — *Nhìn mây kìa — sắp mưa rồi.* (bằng chứng hiện tại)
 5. I think it will be fine. — *Tôi nghĩ sẽ ổn.* (dự đoán cá nhân)
+
+Ví von: going to là **tấm vé đã in sẵn**, will là **quyết định bốc ra tại quầy** — vé in sẵn thì nói "định/đã định", còn bốc tại quầy thì dùng will.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `What are you going to do this weekend?` *(Cuối tuần bạn định làm gì?)*
@@ -81,6 +95,8 @@
 
 > ⚠️ **Lưu ý:** Trong email công việc, bài luận, hoặc giao tiếp trang trọng → dùng **going to**, KHÔNG dùng gonna.
 
+> **Tóm gọn 1 câu:** Gonna là going to "nói nuốt" cho nhanh — nhóm chat thì thoải mái, email sếp thì mặc lại đồ going to.
+
 ---
 
 **Ví dụ:**
@@ -94,7 +110,11 @@
 - Đổi chủ ngữ: *She's going to study abroad.*
 - Chuyển sang câu hỏi: *Are you going to come to the party?*
 
+> **Tóm gọn 1 câu:** Will cho quyết định tại chỗ, going to cho kế hoạch đã in vé — gonna chỉ là bản phát âm nhanh của going to.
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" nói về kế hoạch tương lai trong hội thoại thật — đọc để chọn câu kể kế hoạch, hỏi kế hoạch và báo trước nhu cầu.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -104,6 +124,8 @@
 | 4 | **You're gonna love this** | Bạn sẽ thích cái này | Gợi ý trước điều thú vị | *You're gonna love this restaurant!* | —— | *Can't wait to try it!* |
 | 5 | **I wasn't gonna…** | Tôi định không… | Nói về quyết định đã đổi | *I wasn't gonna go but now I changed my mind.* | —— | *Sometimes the best plans change.* |
 | 6 | **What are you gonna do about it?** | Bạn định làm gì về chuyện này? | Hỏi kế hoạch giải quyết | *The car broke down. What are you gonna do?* | —— | *I'm gonna call a mechanic.* |
+
+> **Cách đọc bảng này:** mỗi dòng là một "kịch bản tương lai" — kể kế hoạch (1), hỏi kế hoạch (2), báo nhu cầu (3), gợi ý điều hay (4), đổi ý (5), hỏi cách giải quyết (6). Đọc cột "Câu mẫu" to lên để nghe nhịp gonna trong câu thật.
 
 ## V. TỪ VỰNG
 
@@ -116,7 +138,11 @@
 | Schedule | (n) /ˈskedʒ.uːl/ | Lịch trình |
 | Change my mind | (phrase) | Đổi ý |
 
+> **Cách đọc bảng này:** đọc to phiên âm 2 lần mỗi từ — chú ý riêng *change my mind* là cụm động từ nguyên khối, sẽ dùng lại ở câu mẫu số 5 của bảng trên.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen nhịp gonna, câu hỏi tự luyện để kể kế hoạch của chính mình — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I'm gonna start exercising regularly.*
@@ -134,9 +160,9 @@
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Kể trôi 5 kế hoạch của mình không nhìn note là gonna/going to đã vào người — khỏi cần thuộc bảng công thức nữa.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *I'm going to send the report.* / *I'm gonna call the client.* / *Are you going to attend the meeting?* / *We're gonna finish today.*
 - Du lịch: *I'm going to visit Paris.* / *I'm gonna book the hotel.* / *Are you going to travel soon?* / *We're gonna explore the city.*
 - Mua sắm: *I'm going to buy this.* / *I'm gonna check the price.* / *Are you going to pay by card?* / *We're gonna shop online.*
@@ -163,3 +189,5 @@
 | Nghe nhạc, phim | ✅ Luôn | Ca sĩ, diễn viên nói "gonna" liên tục |
 
 > 💡 Mẹo: Nếu bạn **nghe** được "gonna" trong phim / nhạc — bạn có thể **nói** "gonna" với bạn bè. Đừng nói "gonna" trong email gửi sếp.
+
+> **Tóm gọn 1 câu:** Gonna sống trong lời nói, chết trước khung văn bản — nghe được ở đâu thì nói được ở đó, còn trang giấy thì trả lại going to.

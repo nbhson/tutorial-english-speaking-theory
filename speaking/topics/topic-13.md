@@ -14,11 +14,15 @@
 - **Conversation — khách sạn Lucky Star**: gọi điện đặt phòng cuối tuần, chọn **double hay twin**, mặc cả giờ nhận phòng (quy định sau 2PM nhưng *"we can make it 1PM for you"*), so **Diamond vs Luxury** — to hơn, tầng cao, view biển, đắt hơn 250k — lấy Diamond, để lại tên + số điện thoại cho xong.
 Điểm chốt: khi được hỏi **"How may I help you?"** thì nói thẳng điều mình cần — *I'm looking for… / I'd like to…*; có nhu cầu thì **"YES, PLEASE…"**, không thì **"No, THANKS"**.
 
+> **Tóm gọn 1 câu:** Được hỏi "How may I help you?" thì trả thẳng nhu cầu bằng *I'm looking for… / I'd like to…*, nhận thì "Yes, please", từ thì "No, thanks".
+
 ### 2) Khi nào sử dụng?
 - Bạn là **người phục vụ** — cửa hàng, nhà hàng, khách sạn, rạp phim, siêu thị, sân bay: chào khách bằng *How may I help you?* (biến thể cực phổ biến: *Can I help you?*).
 - Bạn là **khách** — được hỏi thì trả thẳng điều mình cần: *I'm looking for…* / *I'd like to buy…* / *I'd like to check in for…*
 - Xin/đề nghị **lịch sự**: *Can I have your name, please?* · *Can I try it on?* · *Could I have a look at…?*
 - Nhân viên khép phiên phục vụ: *Is there anything else I could help you with?* → *No, that's everything.*
+
+> **Tóm gọn 1 câu:** Cụm này dùng theo 2 vai: người phục vụ chào khách, người khách trả thẳng nhu cầu — và luôn kèm please/thanks cho lịch sự.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -42,6 +46,10 @@
 | 14 | **No, that's everything.** | Không, hết rồi ạ | Lịch sự chặn dòng hỏi | *No, that's everything. Thank you for your help!* | ~~That's everything what I need~~ — **everything** đứng một mình, đừng thêm "what" | *Thank you for your help! (Cảm ơn vì đã giúp ạ!)* |
 | 15 | **Enjoy your flight!** | Chúc chuyến bay vui vẻ! | Chúc khách trước khi bay | *Here is your ticket, boarding gate 6 seat 13D. Enjoy your flight!* | ~~Enjoy to fly~~ — enjoy bám V-ing: enjoy **flying**; đây là câu chúc cố định | *Thank you so much! (Cảm ơn nhiều ạ!)* |
 
+> **Cách đọc bảng này:** Mỗi dòng là một cụm đáng nhớ — cột 4 cho biết dùng vào lúc nào, cột 6 là lỗi dịch từ tiếng Việt phải tránh (phần ~~gạch~~), cột 7 gợi câu đáp lại khi nghe người khác nói cụm đó.
+
+> **Tóm gọn 1 câu:** Học 15 cụm theo cặp tình huống — mỗi cụm nhớ kèm lỗi sai kinh điển và câu đáp lại để dùng được ngay trong hội thoại thật.
+
 ### 4) Từ vựng (Vocabulary)
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -62,6 +70,8 @@
 | Work permit | (n) /wɜːk ˈpɜːmɪt/ | Giấy phép lao động |
 | Paperwork | (n) /ˈpeɪpərwɜːk/ | Giấy tờ, thủ tục |
 
+> **Cách đọc bảng này:** Mỗi dòng là một từ — cột 2 cho biết từ loại và phiên âm để phát âm đúng, cột 3 là nghĩa tiếng Việt; nhóm cuối là idiom nên nhớ cả cụm, đừng dịch từng chữ.
+
 **Extension (MEANS OF TRANSPORTATION — phương tiện giao thông):**
 - Car — Ô tô
 - Motorcycle — Xe máy
@@ -78,6 +88,8 @@
 - Ferry — Phà
 - Boat — Thuyền / xuồng
 - Ship — Tàu thủy lớn
+
+> **Tóm gọn 1 câu:** Bộ từ vựng của bài xoay quanh phục vụ khách (ticket, fitting room, luggage) cộng thêm một danh sách phương tiện giao thông — nhớ theo cụm để dùng liền mạch.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -129,6 +141,8 @@ Thank you so much for choosing our hotel! Have a great day!
 
 ## II. NGỮ PHÁP
 
+Phần này bóc tách 5 điểm ngữ pháp ẩn trong đoạn hội thoại ở trên. Học xong bạn sẽ hiểu vì sao những câu chào khách nghe "ngọt" đến vậy.
+
 **Tổng quan: 5 điểm ngữ pháp trong bài**
 
 | Điểm | Tên | Ứng dụng nói |
@@ -139,7 +153,13 @@ Thank you so much for choosing our hotel! Have a great day!
 | 4 | Take a + N (Trang trọng hơn) | Take a look / seat / bath / hike… |
 | 5 | Thank you & Thanks | Cảm ơn chuẩn: Thank you FOR…, Thanks + tên |
 
+> **Cách đọc bảng này:** Mỗi dòng là một điểm ngữ pháp sẽ học bên dưới — cột 2 là tên công thức, cột 3 là tình huống nói mà điểm đó phục vụ.
+
+> **Tóm gọn 1 câu:** Phần ngữ pháp gồm 5 công thức: xin lịch sự, look + giới từ, câu đưa đồ, take a + N, và cảm ơn chuẩn — tất cả đều xuất hiện trong hội thoại mở bài.
+
 ### Điểm 1. Can I have + N, please?: `CAN I HAVE + N, PLEASE?`
+
+Điểm đầu tiên là công thức "xin lịch sự" — dùng nhiều nhất khi làm thủ tục ở quầy.
 
 **Cách dùng:** Xin đồ/xin thông tin kiểu **lịch sự có "xin xò"** — bản chất là "cho tôi nhận được cái đó": xin tên, xin số, xin giấy tờ đều dùng được. Nói nhanh với bạn bè thì bỏ *please* vẫn nghe được, nhưng ra tiệm, làm thủ tục thì cứ thêm vào cho ngọt. Khác *Could I have…?* sang và mềm hơn, còn *Give me…* là ra lệnh — đừng dùng với khách. Mẹo: giọng đi lên nhẹ ở cuối câu, kèm nụ cười là đạt.
 
@@ -159,7 +179,11 @@ Thank you so much for choosing our hotel! Have a great day!
 - Đổi danh từ xin: `Can I have a menu, please?` *(Cho tớ xin menu với ạ?)*
 - Lịch sự hơn can → could: `Could I have your name, please?` *(Vui lòng cho xin tên ạ?)*
 
+> **Tóm gọn 1 câu:** Xin lịch sự thì nói `Can I have + đồ +, please?` — muốn sang hơn thì thay can bằng could, tuyệt đối đừng dùng "Give me".
+
 ### Điểm 2. Look + giới từ: `LOOK AT / LOOK FOR / LOOK AFTER / LOOK BACK (ON)`
+
+Điểm này giải thích vì sao cùng một chữ look mà nghĩa lại thay đổi hoàn toàn theo giới từ đi kèm.
 
 **Cách dùng:** Một mình **look** chỉ là "nhìn"; **giới từ quyết định nghĩa hoàn toàn**: *at* là nhìn vào, *for* là tìm kiếm, *after* là chăm sóc, *back (on)* là nhìn lại quá khứ. Học lỏng từng giới từ sẽ quên — hãy học cả cụm như một từ vựng mới. Câu mua sắm quen thuộc *I'm looking for…* chính là cặp **look for** dùng nhiều nhất. Mẹo nói: nhấn vào giới từ, nghĩa tự rõ.
 
@@ -178,6 +202,8 @@ Thank you so much for choosing our hotel! Have a great day!
 **Biến tấu (tự luyện):**
 - Đổi danh từ: `I'm looking for my keys.` *(Tớ đang tìm chìa khóa)*
 - Đổi look for → look at: `Look at this dress!` *(Nhìn cái đầm này kìa!)*
+
+> **Tóm gọn 1 câu:** Giới từ sau look quyết định nghĩa: at = nhìn, for = tìm, after = chăm sóc, back = nhìn lại quá khứ — học cả cụm như một từ mới.
 
 ### Điểm 3. Here + Pronoun + V: `HERE YOU ARE / HERE IT IS / HERE YOU GO`
 
@@ -199,6 +225,8 @@ Thank you so much for choosing our hotel! Have a great day!
 - Đổi danh từ đưa: `Here is your boarding pass.` *(Đây là thẻ lên máy bay của anh)*
 - Đổi số ít → số nhiều: `Here are your tickets.` *(Đây là vé của hai anh)*
 
+> **Tóm gọn 1 câu:** Đưa đồ cho người khác nói *Here you are / Here you go*, còn mình vừa tìm ra đồ thì nói *Here it is* — ngắn gọn mà vẫn lịch sự.
+
 ### Điểm 4. Take a + N: `TAKE A SEAT / BATH / LOOK / DEEP BREATH / HIKE = Thường trang trọng hơn`
 
 **Cách dùng:** TAKE A + N = "làm một cú" — thường **trang trọng, mềm mại** hơn động từ đơn: *take a look* nhẹ hơn *look*, *take a seat* nhã hơn *sit down*. Bản chất: hành động tạm thời, khe khẽ, nên nghe lịch sự. Cẩn thận cặp **take a hike** = "go away" — nghĩa mỉa, gắt, đừng nói với khách. Mẹo: học theo cặp ready-made, thả ra là nghe tự nhiên như người bản xứ.
@@ -218,6 +246,8 @@ Thank you so much for choosing our hotel! Have a great day!
 **Biến tấu (tự luyện):**
 - Đổi danh từ: `Take a deep breath and try again.` *(Hít một hơi thật sâu rồi thử lại nhé)*
 - Đổi thành rủ rê: `Let's take a break.` *(Nghỉ tay chút đi)*
+
+> **Tóm gọn 1 câu:** `Take a + danh từ` làm câu mềm và lịch sự hơn động từ đơn — nhưng nhớ riêng *take a hike* là câu đuổi khéo, đừng thả ra với khách.
 
 ### Điểm 5. Thank you & Thanks: `THANK YOU FOR + V-ING / N` · `THANKS + TÊN / ANYWAY`
 
@@ -239,6 +269,8 @@ Thank you so much for choosing our hotel! Have a great day!
 - Đổi danh từ sau for: `Thank you for the ride.` *(Cảm ơn vì đã chở nhé)*
 - Đổi Thank you → Thanks + tên: `Thanks, Emerald!` *(Cảm ơn Emerald nhé!)*
 
+> **Tóm gọn 1 câu:** Cảm ơn dài thì `Thank you for + việc/đồ`, cảm ơn nhanh thì `Thanks + tên` — và đừng bao giờ nói "Thank Emerald" hay "Thanks you".
+
 ---
 
 ## III. LUYỆN NÓI (drill)
@@ -250,11 +282,15 @@ Thank you so much for choosing our hotel! Have a great day!
 4. *Is there anything else I could help you with? — No, that's everything. Thank you for your help!*
 5. *Yes, please… / No, thanks!*
 
+> **Tóm gọn 1 câu:** Đọc to 5 cặp câu mẫu 3 lần, mỗi lần nhanh hơn — luyện miệng trước khi luyện tình huống.
+
 ### 5 câu hỏi tự luyện (tự hỏi + trả lời)
 1. How may I help you with your luggage? — *Đề nghị cầm giúp: "May I carry it for you?" — "Yes, please! It's heavy."*
 2. How may I get to know you more? — *"How about we grab a coffee after class?"*
 3. Can I have your name and phone number, please? — *"It's Son, S-O-N, and my number is 09…"*
 4. Can we meet for coffee someday to talk more about it? — *"Sure! What time is fine for you?"*
 5. When do we need to get this report done? — *"Let's make it Friday — but I can make it earlier for you if you need to."*
+
+> **Tóm gọn 1 câu:** Tự hỏi tự trả lời 5 câu này để biến ngữ pháp bài học thành phản xạ ngoài đời thật.
 
 > ✅ Checkpoint: diễn 3 vai liên hoàn — cửa hàng, sân bay, khách sạn — hỏi **"How may I help you?"**, đáp **"I'm looking for… / I'd like to…"**, chốt bằng **Yes, please / No, thanks**. Ghi âm lại.

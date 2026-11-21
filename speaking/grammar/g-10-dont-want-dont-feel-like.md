@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này đưa ra 3 khuôn "không muốn" — đọc để thấy cùng một ý nhưng mỗi khuôn nhẹ nhàng khác nhau.
+
 | Cấu trúc | Công thức | Ví dụ |
 |----------|----------|-------|
 | **Don't want** | `S + don't/doesn't + want + to + V` | I **don't want to go** out tonight. |
@@ -18,8 +20,10 @@
 
 ## II. KHI NÀO DÙNG?
 
+Mục này nói về "nghệ thuật nói không" — đọc để từ chối mà không làm ai khó chịu.
+
 - **Từ chối nhẹ nhàng** lời mời / đề nghị.
-- Khi **không muốn làm gì** nhưng không muốn nói thẳng "No".
+- Khi **không muốn làm gì** nhưng không muốn nói thẳng "No" — giống vòng vo "để tôi xem lịch rồi báo sau", chỉ là bản tiếng Anh lịch sự hơn.
 - **Don't feel like** — nhấn mạnh cảm xúc lúc đó (không phải permanent dislike).
 - Dùng hàng ngày khi bạn mệt, ốm, hoặc đơn giản là không hứng thú.
 
@@ -28,7 +32,11 @@
 - ~~I don't feel like to go~~ → *I don't feel like **going*** — feel like + V-ing.
 - ~~I'm not in the moods~~ — *mood* là số ít: *not in the mood*.
 
+> **Tóm gọn 1 câu:** Ba khuôn "không muốn" nhẹ dần: don't want (thẳng) → don't feel like (theo cảm xúc) → not in the mood (mềm nhất) — nhớ quy tắc to V với want, V-ing với feel like.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này so sánh 3 khuôn từ chối theo mức độ trực tiếp — đọc để chọn đúng "số đo" lịch sự cho từng người nghe.
 
 ### Don't want to + V vs Don't feel like + V-ing
 
@@ -38,6 +46,8 @@
 | Mức độ | Trực tiếp hơn | Nhẹ nhàng, phụ thuộc cảm xúc |
 | Tính chất | Có thể permanent | Usually temporary |
 | Ví dụ | *I don't want to eat meat.* | *I don't feel like eating out tonight.* |
+
+> **Cách đọc bảng này:** so từng hàng một — dòng "Mức độ" cho biết câu nào đâm thẳng, dòng "Tính chất" cho biết ý nào vĩnh viễn, ý nào chỉ hôm nay. Ví dụ điển hình: không ăn thịt là quy tắc (want), không thích đi ăn tối nay là cảm xúc tạm thời (feel like).
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `Do you want to go to the cinema?`
@@ -58,7 +68,7 @@
 
 ### Not in the mood for + N / to + V
 
-**Not in the mood** là cách nói **nhẹ nhàng nhất** để từ chối — nhấn mạnh tâm trạng chứ không phải bản thân việc:
+**Not in the mood** là cách nói **nhẹ nhàng nhất** để từ chối — nhấn mạnh tâm trạng chứ không phải bản thân việc: giống như nói "hôm nay tâm trạng mình không hợp" thay vì "mình ghét việc này":
 
 | Cấu trúc | Ví dụ | Sắc thái |
 |----------|-------|---------|
@@ -73,9 +83,13 @@
 2. He's not in the mood to work — let him rest. — *Anh ấy không có hứng làm việc — để anh ấy nghỉ.*
 3. I'm not in the mood for shopping — it's too crowded. — *Tôi không muốn đi mua sắm — đông quá.*
 
+> **Tóm gọn 1 câu:** Từ "không muốn" mượt nhất là đổ lỗi cho tâm trạng — not in the mood phủ nhận hứng thú hôm nay chứ không phủ nhận người mời.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" từ chối đủ mọi tình huống — đọc để có sẵn câu thoát thân cho mỗi lời mời.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -85,6 +99,8 @@
 | 4 | **Not really my thing** | Không phải sở thích của tôi | Từ chối nhẹ thứ gì đó | *Thai food? — Not really my thing.* | —— | *Okay, how about Italian?* |
 | 5 | **I'd rather not** | Tôi thà không… | Từ chối lịch sự | *Would you mind waiting? — I'd rather not.* | —— | *That's fine.* |
 | 6 | **I'm not up for it** | Tôi không muốn làm cái đó | Giống "don't feel like" | *Want to go hiking? — I'm not up for it today.* | —— | *Maybe another day then.* |
+
+> **Cách đọc bảng này:** mỗi dòng là một "lối thoát" cho một loại lời mời — đồ ăn (2), vận động (3, 6), sở thích (4), yêu cầu (5). Đọc cột "Câu mẫu" rồi "💬 Đáp lại" như một đoạn hội thoại ngắn, sẽ nhớ cả lời từ chối lẫn phản ứng của người kia.
 
 ## V. TỪ VỰNG
 
@@ -98,7 +114,11 @@
 | Rather | (adv) /ˈræð.ər/ | Thà |
 | Up for | (phrasal) | Sẵn lòng / muốn |
 
+> **Cách đọc bảng này:** đọc to phiên âm 2 lần mỗi từ — chú ý *feel like* và *up for* là cụm, không tách ra; *rather* luôn đi cùng "not" trong bài này.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen các câu từ chối, câu hỏi tự luyện để từ chối thật — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I don't feel like going out tonight.*
@@ -116,9 +136,9 @@
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Từ chối 5 loại lời mời khác nhau bằng 5 câu khác nhau không nhìn note — "nói không" đã thành kỹ năng, không còn là bế tắc.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *I don't want to work late.* / *I don't feel like attending the meeting.* / *She doesn't want to apply.* / *He doesn't feel like talking.*
 - Du lịch: *I don't want to miss the flight.* / *I don't feel like going out.* / *They don't want to travel by bus.* / *She doesn't feel like sightseeing.*
 - Mua sắm: *I don't want to spend too much.* / *I don't feel like shopping today.* / *He doesn't want to buy it.* / *She doesn't feel like trying it on.*
@@ -142,3 +162,7 @@
 | Trung bình | *I'd rather not.* | Lịch sự nhưng rõ |
 | Thẳng | *No, I don't want to.* | Thân mật / cần rõ ràng |
 | Trực tiếp | *I'm not interested.* | Khi muốn kết thúc chủ đề |
+
+> **Cách đọc bảng này:** đọc từ trên xuống như vặn núm "độ thẳng" từ nhẹ nhất đến cay nhất — nhẹ nhất để giữ quan hệ, thẳng nhất chỉ khi thật sự muốn đóng cửa câu chuyện.
+
+> **Tóm gọn 1 câu:** Có 5 nấc từ chối từ "I'm not sure" đến "I'm not interested" — leo lên từng nấc tùy mức cần thiết, đừng nhảy thẳng nấc cao nhất.

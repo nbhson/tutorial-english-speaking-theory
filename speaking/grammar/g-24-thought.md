@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này giới thiệu `thought` — quá khứ của `think`, nhưng không dừng ở "đã nghĩ": nó còn là chìa khóa của câu nói "tôi tưởng… mà hóa ra…" rất quen trong giao tiếp. Ví von: `thought` là **ảnh chụp suy nghĩ lúc đó** — chụp xong thì thực tế có thể đã khác.
+
 **Thought** là V2/V3 của **think** — dùng trong thì Quá khứ đơn và Present Perfect.
 
 | Thì | Công thức | Ví dụ |
@@ -14,7 +16,11 @@
 | **Present Perfect** | `S + have/has + thought + about + N/V-ing` | I've **thought about** quitting my job. |
 | **Past Perfect** | `S + had + thought + that…` | I **had thought** it would rain. |
 
+> **Cách đọc bảng này:** mỗi dòng là một thì đi với `thought` — đọc cột **Thì** để định vị, cột **Công thức** cho khung câu; để ý `thought` đơn lẻ là "đã nghĩ", còn `have thought about` là "đã từng cân nhắc".
+
 **Phản xạ nói:** *thought* → /θɔːt/ (Anh-Anh) hoặc /θɑːt/ (Mỹ) — âm /θ/ đẩy lưỡi ra ngoài.
+
+> **Tóm gọn 1 câu:** `thought` chia theo ba thì — quá khứ đơn, hoàn thành, quá khứ hoàn thành — nhưng chung một bản chất: suy nghĩ của một thời điểm đã qua.
 
 ## II. KHI NÀO DÙNG?
 
@@ -28,7 +34,11 @@
 - ~~I thought that is~~ → *I thought (that) **he was*** — lùi thì khi mệnh đề chính ở quá khứ.
 - ~~I have thought about go~~ → *I have thought about **going*** — sau "about" là V-ing.
 
+> **Tóm gọn 1 câu:** Dùng `thought` khi kể suy nghĩ quá khứ, dịu lời khi hiểu lầm (*I thought… but actually…*), và khi cân nhắc (*I've been thinking about…*).
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này mổ xẻ `thought` theo ba tầng: suy nghĩ quá khứ đơn giản, cấu trúc "tưởng mà không" cực kỳ dùng để bất ngờ, rồi cụm think about để nói chuyện cân nhắc.
 
 ### Thought = Suy nghĩ trong quá khứ (Past Simple)
 
@@ -46,7 +56,9 @@
 
 ### "I thought… but actually…" — Hiểu lầm / Bất ngờ
 
-Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi thực tế khác với điều mình nghĩ:
+### "I thought… but actually…" — Hiểu lầm / Bất ngờ
+
+Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi thực tế khác với điều mình nghĩ — ví von: như mở quà tưởng là chiếc áo mà hóa ra là đồng hồ; `but actually` chính là khoảnh khắc "mở nắp hộp" ấy. Bảng dưới là ba mẫu dùng lại được ngay:
 
 | Mẫu | Ví dụ | Nghĩa |
 |-----|-------|-------|
@@ -70,6 +82,8 @@ Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi th
 
 ### Think about + V-ing / N (Suy nghĩ về)
 
+Chuyển sang "chế độ cân nhắc": `think about` gắn với chuyện đang đong đo — V-ing theo sau cho thấy việc đó còn trong đầu, chưa quyết.
+
 | Cấu trúc | Ví dụ |
 |----------|-------|
 | think about + N | I've thought **about the problem**. |
@@ -88,9 +102,13 @@ Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi th
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+> **Tóm gọn 1 câu:** Ba tầng của bài: `thought` (đã nghĩ), `I thought… but actually…` (tưởng mà không — câu bất ngờ vàng), và `think about + V-ing` (đang cân nhắc).
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -101,7 +119,13 @@ Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi th
 | 5 | **Just thinking out loud** | Tôi nghĩ thành tiếng | Khi nói ra suy nghĩ chưa chốt | *Should I call her? Just thinking out loud.* | —— | *Go for it!* |
 | 6 | **That's what I thought** | Tôi cũng nghĩ vậy | Đồng tình mạnh | *The movie was amazing. — That's what I thought!* | —— | *Right?!* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 6 cụm này là "bộ đồ" của `think/thought` trong hội thoại — từ đồng tình, mở chủ đề nghiêm túc đến nói ra suy nghĩ chưa chốt; nhớ kèm lỗi sai (⚠️) và câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -113,6 +137,8 @@ Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi th
 | Loud | (adj) /laʊd/ | To / rõ |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng chuyện thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I thought so — that's why I waited.*
@@ -129,6 +155,8 @@ Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi th
 5. What do you think about moving to a new city? — *I think that…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp với việc thật của mình; ghi âm nghe lại là thấy ngay chỗ gãy.
 
 ---
 
@@ -149,6 +177,8 @@ Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi th
 
 ## VII. BONUS: THINK — BẢNG ĐỘNG TỪ BẤT QUY TẮC
 
+Mục này là "bảng chia đủ động từ" của `think` — xếp mọi thì cạnh nhau để bạn thấy thought chỉ là một mắt xích trong chuỗi.
+
 | Thì | Động từ | Ví dụ |
 |-----|--------|-------|
 | Hiện tại | think / thinks | I think so. |
@@ -157,3 +187,7 @@ Cấu trúc rất phổ biến để diễn đạt **sự ngạc nhiên** khi th
 | Tương lai | will think | I'll think about it. |
 | Tiếp diễn | am/is/are thinking | I'm thinking about it. |
 | Quá khứ tiếp diễn | was/were thinking | I was thinking about you. |
+
+> **Cách đọc bảng này:** mỗi dòng một thì — đọc cột **Động từ** trước để thấy dạng thay đổi, rồi cột **Ví dụ** để nhớ câu; dòng "Quá khứ" là trọng tâm của bài.
+
+> **Tóm gọn 1 câu:** think–thought–thinking là bộ ba chia đủ thì — thought không đứng một mình, nó chỉ là "điểm dừng" quá khứ trong chuỗi này.

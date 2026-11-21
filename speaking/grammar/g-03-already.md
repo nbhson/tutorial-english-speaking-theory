@@ -6,9 +6,11 @@
 
 ## I. CẤU TRÚC
 
+Mục này đưa ra công thức Present Perfect với **already** — đọc để nhớ vị trí "kẹp giữa" của already trong câu.
+
 `S + have/has + already + V3/ed`  (Present Perfect)
 
-Vị trí của **already**: giữa **have/has** và **V3/ed**.
+Vị trí của **already**: giữa **have/has** và **V3/ed** — như nhân bánh kẹp ở giữa hai lát bánh mì `have` và `V3`, đừng bao giờ đặt nó ra ngoài mép bánh.
 
 | Câu khẳng định | Câu hỏi | Câu phủ định |
 |---------------|---------|-------------|
@@ -19,7 +21,9 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 
 ## II. KHI NÀO DÙNG?
 
-- Báo một việc **đã xong trước lúc nói** — thường gây ngạc nhiên (nhanh hơn dự kiến).
+Mục này nói về 4 tình huống thốt ra "already" — đọc để biết khi nào người ta nhắc "đã xong rồi" và nhắc theo kiểu nào.
+
+- Báo một việc **đã xong trước lúc nói** — thường gây ngạc nhiên (nhanh hơn dự kiến), giống như mở tủ lạnh thấy món ăn đã nấu sẵn mà mình không hề hay biết.
 - Trong **câu hỏi** để xác nhận: *Have you already eaten?* (= Bạn ăn rồi à?)
 - Dùng với **Present Perfect**, KHÔNG dùng với Simple Past.
 - Phân biệt với **yet** (chưa) — dùng trong câu phủ định và câu hỏi.
@@ -29,7 +33,11 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 - ~~I have eaten already~~ (đặt already cuối câu) — được chấp nhận trong văn nói, nhưng viết chuẩn là đứng giữa.
 - Nhầm **already** với **still** — already = đã xong; still = vẫn chưa (kèm phủ định).
 
+> **Tóm gọn 1 câu:** Already là "đã xong rồi đó" — kẹp giữa have/has và V3, dùng khi việc hoàn thành khiến ta ngạc nhiên hơn dự kiến.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này chia already thành 2 cách dùng rồi so với hai "hàng xóm" là yet và still — đọc để không còn nhầm ba từ cùng họ này.
 
 ### Cách dùng 1: Hành động đã hoàn thành (trước lúc nói)
 **Công thức:** `have/has + already + V3/ed`
@@ -47,6 +55,9 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 5. They haven't arrived yet. — *Họ chưa đến nơi đâu.*
 
 ### Cách dùng 2: Câu hỏi — xác nhận điều bất ngờ
+
+Kiểu hỏi này giống bạn về nhà thấy bếp sạch bong và buột miệng "Ai nấu cơm rồi vậy?" — hỏi để xác nhận chuyện đã xảy ra nhanh hơn mình tưởng:
+
 **Ví dụ:**
 1. **Have you already paid?** — *Bạn trả tiền rồi à?* (ngạc nhiên vì nhanh)
 2. **Has she already left?** — *Cô ấy đi rồi sao?*
@@ -64,6 +75,8 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 | **Yet** | Phủ định / Hỏi | Cuối câu | *I haven't done it yet.* / *Have you done it yet?* |
 | **Still** | Phủ định | Trước have/has | *I still haven't finished.* |
 
+> **Cách đọc bảng này:** mỗi dòng là một từ "anh em họ" — đọc cột "Loại câu" trước để biết từ nào đi với câu nào, rồi nhìn cột "Ví dụ" để nhớ vị trí đứng. Ba dòng đọc theo truyện một việc: đã xong (already) → chưa xong (yet) → vẫn chưa xong dù lâu rồi (still).
+
 **Ví dụ:**
 1. I've already called him. — *Tôi đã gọi cho anh ấy rồi.*
 2. I haven't finished yet. — *Tôi chưa xong.*
@@ -76,9 +89,13 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 - Đổi thì: *I already did it.* → *I have already done it.* / *I had already done it.*
 - Đổi ngữ cảnh (đi làm): *I've already sent the email.* / (du lịch): *We've already booked the hotel.* / (mua sắm): *I've already paid.*
 
+> **Tóm gọn 1 câu:** Already = "xong rồi", yet = "chưa đâu", still = "vẫn chưa xong" — một câu chuyện ba chặng, mỗi chặng một vị trí đứng riêng.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" báo tiến độ công việc trong hội thoại thật — đọc để chọn 2–3 câu gắn vào miệng trước.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -87,6 +104,8 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 | 3 | **Not yet** | Chưa | Trả lời phủ định nhẹ nhàng | *Are you ready? — Not yet.* | ~~I not yet~~ — sai trật tự | *Take your time.* |
 | 4 | **I haven't got around to it** | Tôi chưa kịp làm | Lý do "chưa có dịp" | *I haven't cleaned my room yet. I haven't got around to it.* | —— | *No worries, do it when you can.* |
 | 5 | **Still working on it** | Vẫn đang làm | Trả lời khi chưa xong nhưng đang làm | *Is the project done? — Still working on it.* | —— | *Good luck!* |
+
+> **Cách đọc bảng này:** mỗi dòng là một "tin nhắn tiến độ" gửi trong hội thoại thật — đọc cột "Khi nào dùng" để chọn đúng tình huống, rồi nhìn cột "💬 Đáp lại" để biết người nghe sẽ nhại lại cái gì.
 
 ## V. TỪ VỰNG
 
@@ -99,7 +118,11 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 | Arrived | (v3) /əˈraɪvd/ | Đến nơi |
 | Started | (v3) /ˈstɑːrt.ɪd/ | Bắt đầu |
 
+> **Cách đọc bảng này:** đọc to phiên âm 2 lần mỗi từ rồi mới đọc nghĩa — chú ý 3 từ cuối đều là dạng V3, đúng dạng động từ mà Present Perfect cần.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng nhớ âm, câu hỏi tự luyện để phản xạ thành câu hoàn chỉnh — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I've already finished my work.*
@@ -116,6 +139,8 @@ Vị trí của **already**: giữa **have/has** và **V3/ed**.
 5. Are you ready to go? — *Almost. I haven't packed yet.*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Drill cho miệng nhớ, tự hỏi–tự đáp cho đầu phản xạ, ghi âm để tự soi — nói trôi 5 câu không nhìn note là "already" đã vào người thật.
 
 ---
 

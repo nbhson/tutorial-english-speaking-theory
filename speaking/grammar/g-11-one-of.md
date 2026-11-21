@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này đưa ra công thức "lấy một từ trong nhóm" — đọc để nhớ thứ tự one of + the/my + danh từ số nhiều và quy tắc chia động từ số ít.
+
 `One of + the + adj + N(số nhiều)`
 
 | Cấu trúc | Ví dụ | Nghĩa |
@@ -14,6 +16,8 @@
 | One of + my/your + N plural | One of **my friends** | Một trong những bạn của tôi |
 | One of + us/them + N plural | One of **the students** | Một trong những học sinh |
 
+Hãy hình dung: **one of** là tay thọc vào hộp bi lấy ra **một viên** — hộp phải là số nhiều (nhiều viên bi), nhưng viên bi trên tay chỉ là một (số ít).
+
 **Lưu ý quan trọng:** Động từ đi với **one of + N số nhiều** vẫn chia ở **số ít** vì chủ ngữ thực là "one":
 - ✅ *One of my friends **is** a doctor.* (not ~~are~~)
 
@@ -21,8 +25,10 @@
 
 ## II. KHI NÀO DÙNG?
 
+Mục này nói về 4 tình huống "chỉ tay vào một viên bi trong hộp" — đọc để biết lúc nào nên dùng one of thay vì nói riêng lẻ.
+
 - Chọn ra **một phần tử** từ **nhóm lớn hơn**.
-- khen ngợi / đánh giá: *one of the best/worst/most interesting…*
+- khen ngợi / đánh giá: *one of the best/worst/most interesting…* — khen kiểu này hay hơn khen cứng "very good", vì đưa cả "hộp" ra làm chuẩn so sánh.
 - Giới thiệu bản thân: *I'm one of the engineers here.*
 - Nói về trải nghiệm cá nhân trong tập thể.
 
@@ -31,11 +37,15 @@
 - ~~One of my friends **are** doctors~~ → *One of my friends **is** a doctor* — động từ agrees với "one" (số ít).
 - ~~The one of~~ — trật tự sai, phải là *One of the…*
 
+> **Tóm gọn 1 câu:** One of = lấy 1 viên từ hộp nhiều viên — hộp phải số nhiều, động từ phải số ít vì chủ ngữ thật vẫn là "một".
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này chia làm 2 vế: có tính từ siêu cấp (khen/chê theo bảng xếp hạng) và không có (chỉ đếm phần tử) — đọc để biết khi nào cần the + superlative, khi nào chỉ cần nhóm.
 
 ### Cấu trúc với tính từ siêu cấp
 
-`One of + the + superlative + N plural`
+`One of + the + superlative + N plural` — như đọc **bảng vàng top những…** rồi chỉ vào một cái tên trên bảng:
 
 | Ví dụ | Nghĩa |
 |-------|-------|
@@ -61,7 +71,7 @@
 
 ### One of + N (không có tính từ siêu cấp)
 
-Dùng khi **không** so sánh mà chỉ cần chỉ **một phần tử** trong nhóm:
+Dùng khi **không** so sánh mà chỉ cần chỉ **một phần tử** trong nhóm — không phải "bảng vàng", chỉ là một hộp thường:
 
 | Cấu trúc | Ví dụ | Nghĩa |
 |----------|-------|-------|
@@ -77,7 +87,11 @@ Dùng khi **không** so sánh mà chỉ cần chỉ **một phần tử** trong 
 3. One of us has to stay behind. — *Một trong chúng tôi phải ở lại.*
 4. I'm one of the people who work here. — *Tôi là một trong những người làm việc ở đây.*
 
+> **Tóm gọn 1 câu:** Có superlative thì kèm "the" như lên bảng vàng, không có thì chỉ cần chỉ 1 viên từ hộp — động từ bao giờ cũng chia theo "một".
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" khen, giới thiệu và than phiền bằng one of — đọc để chọn câu khen "có chuẩn so sánh" thay vì khen khô.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -86,6 +100,8 @@ Dùng khi **không** so sánh mà chỉ cần chỉ **một phần tử** trong 
 | 3 | **One of those days** | Một trong những ngày… (thường là ngày khó khăn) | than phiền nhẹ | *Ugh, it's just one of those days.* | —— | *Hang in there!* |
 | 4 | **One of us/them** | Một trong chúng tôi/họ | Chỉ một người trong nhóm | *One of us forgot the keys.* | —— | *Who was it?* |
 | 5 | **That's one of those…** | Đó là một trong những thứ… | Giải thích đặc tính khó định nghĩa | *That's one of those situations where you just have to wait.* | —— | *Yeah, tough luck.* |
+
+> **Cách đọc bảng này:** các dòng chia theo "mục đích nói" — khen (1), giới thiệu bản thân (2), than phiền (3), chỉ người (4), giải thích kiểu "biết ẹt" (5). Đọc cột "Câu mẫu" để nghe nhịp "one of the…" nuốt âm /wʌn əv ðə/.
 
 ## V. TỪ VỰNG
 
@@ -99,7 +115,11 @@ Dùng khi **không** so sánh mà chỉ cần chỉ **một phần tử** trong 
 | Favorite | (adj) /ˈfeɪ.vər.ɪt/ | Yêu thích |
 | Expensive | (adj) /ɪkˈspen.sɪv/ | Đắt đỏ |
 
+> **Cách đọc bảng này:** chú ý các danh từ (friend, student, colleague) đều có dạng số nhiều đi kèm sau one of — khi đọc, tự nhẩm thêm dạng số nhiều (friends, students, colleagues) để đầu quen với quy tắc.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen nhịp one of + số nhiều, câu hỏi tự luyện để khen và giới thiệu bằng cấu trúc này — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *She's one of the smartest people I know.*
@@ -117,9 +137,9 @@ Dùng khi **không** so sánh mà chỉ cần chỉ **một phần tử** trong 
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Khen được, giới thiệu được, nhớ chia động từ số ít — 5 câu trôi không nhìn note là "hộp bi" one of đã vào phản xạ.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *She's one of the best employees.* / *This is one of the most important meetings.* / *He's one of my colleagues.* / *It's one of the biggest projects.*
 - Du lịch: *Paris is one of the most beautiful cities.* / *This is one of my favorite places.* / *He's one of the best guides.* / *It's one of the cheapest hotels.*
 - Mua sắm: *This is one of the best deals.* / *It's one of the most popular items.* / *She's one of our best customers.* / *It's one of the cheapest options.*
@@ -143,3 +163,5 @@ Dùng khi **không** so sánh mà chỉ cần chỉ **một phần tử** trong 
 | One of + N + **that** + V | *One of the books **that I read** was good* | "that" thay cho "books" |
 
 > 💡 Mẹo nhớ: "One of my friends **who are**…" (who = friends, nhiều bạn) vs "The only one of my friends **who is**…" (who = the only one, chỉ một người).
+
+> **Tóm gọn 1 câu:** Động từ sau who nhìn vào "chủ ngữ thật" phía trước nó — friends thì số nhiều, the only one thì số ít.

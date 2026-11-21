@@ -14,12 +14,17 @@
 - Cuối đoạn: hỏi sở thích, phong cách nhảy — và mời nhau tham gia cùng đội/nhóm.
 Điểm chốt: đặt 8 – 10 câu hỏi "What's your…?" liên tiếp là cách mở màn quen thuộc của the center để "khám phá" người đối diện.
 
+> **Tóm gọn 1 câu:** Bài này luyện "bóc trét" thông tin người mới bằng chuỗi câu hỏi *What's your…?* — từ tên, nghề tới số điện thoại và sở thích.
+
 ### 2) Khi nào sử dụng?
+Mục này chỉ cho bạn "bộ điều tra thân mật" dùng ở đâu: mọi cuộc gặp gỡ lần đầu đều cần nó.
 - Khi **lần đầu gặp** ai đó: bữa tiệc, lớp học, công ty, sự kiện networking.
 - Khi cần **hỏi thông tin cá nhân** cơ bản: tên, nghề nghiệp, số điện thoại, email, màu yêu thích, sở thích.
 - Khi **làm quen nhóm mới**, muốn giữ liên lạc sau buổi gặp.
 - Bộ câu hỏi name – job – phone – email – hobby (hoặc favorite color) — lặp lại liên tục như "chương trình" trong mọi cuộc làm quen.
 - Mức độ: thân thiện, informal; dùng được cho cả lần gặp đầu lẫn ôn lại "kit" giới thiệu bản thân chuẩn.
+
+> **Tóm gọn 1 câu:** Dùng chuỗi câu hỏi này khi lần đầu làm quen — hỏi tên, nghề, liên lạc, sở thích theo "chương trình" cố định rồi kết bằng lời mời nhập bọn.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -38,7 +43,10 @@
 | 9 | **How about you?** | Còn bạn thì sao? | Đổi câu hỏi ngược sang người đối diện | *I'm a businesswoman. How about you?* | ~~How about you too?~~ — thừa "too", hỏi ngược không cần | *Oh, me? I'm a teacher. (À tôi à? Tôi dạy học)* |
 | 10 | **Really? That's great!** | Thật à? Tuyệt quá! | Bày tỏ quan tâm khi nghe tin mới | *That's great! I believe you can do it!* | ~~That's very great~~ — great "cực cấp", dùng really | *Thanks, you made my day! (Cảm ơn, vui cả ngày!)* |
 
+> **Cách đọc bảng này:** Đọc theo từng hàng: cụm từ, nghĩa, tình huống dùng, câu mẫu, lỗi hay sai (gạch ngang là đừng nói) và câu đáp lại để cuộc làm quen trôi liền mạch. Hàng nào sắp dùng ngay thì học trước.
+
 ### 4) Từ vựng (Vocabulary)
+Bảng từ vựng là "thẻ nhân vật" của bài — gặp từ lạ trong hội thoại thì quay lại đây tra.
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Remember | (v) /rɪˈmembər/ | Nhớ |
@@ -52,7 +60,11 @@
 | Party | (n) /ˈpɑːrti/ | Bữa tiệc |
 | Team | (n) /tiːm/ | Đội nhóm |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và phiên âm. Đọc to cột phiên âm vài lần, ghép với nghĩa cột phải là nhớ nhanh.
+
 **Extension (Từ vựng bổ sung – JOBS):** Accountant (kế toán), Receptionist (lễ tân), Police (cảnh sát), Doctor (bác sĩ), Chef (đầu bếp trưởng), Businessman (doanh nhân), Secretary (thư ký), Photographer (thợ ảnh), Nurse (y tá), Teacher (giáo viên), Office worker (nhân viên văn phòng), Programmer (lập trình viên), Waiter/Waitress (bồi bàn nam/nữ), Pilot (phi công), Actor/Actress (nam/nữ diễn viên).
+
+> **Tóm gọn 1 câu:** Học từ vựng theo cụm trong hội thoại, rồi lấy thêm nghề trong Extension để trả lời "What's your job?" của riêng mình.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -89,9 +101,15 @@ That's great! It's very nice to meet you.
 Yeah, nice to meet you, too.
 ```
 
+Đây là "kịch gốc" của bài. Đọc to theo từng lời, rồi đóng vai hỏi–đáp với bạn cùng luyện.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là cuộc làm quen thật của cấu trúc bài — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài. Bốn điểm, điểm nào cũng có mẹo né lỗi người Việt hay dính.
 
 **Tổng quan: 4 điểm ngữ pháp trong bài**
 
@@ -102,7 +120,11 @@ Yeah, nice to meet you, too.
 | 3 | Possessive Adjectives (Tính từ sở hữu) | "my name", "your email" |
 | 4 | Possessive Pronouns (Đại từ sở hữu) | Nói gọn "Mine", "Yours", "Theirs" |
 
+> **Cách đọc bảng này:** Cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay. Chỉ có 30 giây thì đọc thẳng cột cuối.
+
 ### Điểm 1. Present Simple – ToBe: `S + am/is/are + adj / (a/an) N`
+
+Điểm này là "keo dán danh tính" — nối người với nghề, cảm xúc, trạng thái của họ.
 
 **Cách dùng:** Câu "tả đơ" — không có hành động nào đang chạy, chỉ gắn người với **danh tính, nghề, cảm xúc, trạng thái** hiện tại: *I'm Ruby, I'm happy*. Nghề là danh từ đếm được nên phải có **a/an**: ~~I'm teacher~~ → *I'm **a** teacher*. Khác hẳn động từ thường: ToBe **tự đảo** lên trước chủ ngữ khi hỏi (*Are you…?*), đừng chèn ~~do~~ vào (*~~Do you are happy?~~* ✗). Mẹo nói: nuốt "I'm" thành một âm *I'ma*, nhấn nhẹ từ cuối (*tea-cher*) — nghe người bản xứ liền.
 
@@ -122,7 +144,11 @@ Yeah, nice to meet you, too.
 - Đổi chủ ngữ *I* → *she*: `She is an English teacher.` *(Cô ấy là giáo viên tiếng Anh)*
 - Đổi thì (quá khứ): `I was shy when I was a kid.` *(Hồi nhỏ tôi nhút nhát lắm)*
 
+> **Tóm gọn 1 câu:** Tả người và trạng thái dùng ToBe — nghề đếm được phải có *a/an*, và hỏi thì cho ToBe tự đảo, đừng chèn *do* vào.
+
 ### Điểm 2. Dummy Subject: `It + be + adj (+ for someone) + to V` · `It + be + adj + that + S + V` · `It + be + (a/an) noun + that + S + V` · `There + be + noun`
+
+Điểm này giải thích hai "chiếc ghế trống" đầu câu — khi chưa có chủ ngữ đáng nói thì ai ngồi đó?
 
 **Cách dùng:** "It" và "There" là hai chiếc ghế trống đặt đầu câu khi chưa có chủ ngữ đáng nói: **It** bọc ý về thời tiết, giờ, khoảng cách, cảm nhận (*It's hot today*); **There** báo hiệu **sự tồn tại** — "có" gì đó (*There is an orange in my bag*). Dễ nhầm nhất: nói "có" phải dùng **There**, không phải ~~It has~~ — *There's a party tonight* chứ không phải ~~It has a party~~. Hỏi thì đảo lên: *Is it hot? / Are there many people?*. Mẹo nói: nuốt *there's* thành một từ, nói trôi như hơi thở.
 
@@ -142,7 +168,11 @@ Yeah, nice to meet you, too.
 - Đổi danh từ sau There: `There are two oranges in my bag.` *(Trong túi tôi có hai quả cam)*
 - Đổi thì (quá khứ): `It was cold yesterday.` *(Hôm qua trời lạnh lắm)*
 
+> **Tóm gọn 1 câu:** Chưa có chủ ngữ thì mời *It* (cảm nhận, thời tiết) hoặc *There* (sự tồn tại) ngồi đầu câu — nói "có gì đó" luôn dùng *There be*, đừng thốt ra *It has*.
+
 ### Điểm 3. Possessive Adjectives: `my / your / his / her / its / our / their + N`
+
+Điểm này là "nhãn dán đồ đạc" — dán trước danh từ để ai cũng biết của ai.
 
 **Cách dùng:** Tính từ sở hữu là cái **nhãn dán** — luôn đứng ngay trước danh từ và không sống một mình được (*my name, her email*). Chọn theo chủ ngữ: I→my, you→your, he→his, she→her, we→our, they→their — học một lần, dùng cả đời. Cản trở thường gặp: ~~the my phone~~ ✗ — trước nó không thêm mạo từ, chỉ chọn một trong hai. Mẹo nói: đọc nối liền cụm sở hữu — *my name is* → /mai-nay-miz/ — nghe tự nhiên liền.
 
@@ -162,7 +192,11 @@ Yeah, nice to meet you, too.
 - Đổi sở hữu *my* → *his*: `Do you know his email address?` *(Bạn biết email của anh ấy không?)*
 - Đổi danh từ: `She checks her phone every morning.` *(Cô ấy xem điện thoại mỗi sáng)*
 
+> **Tóm gọn 1 câu:** Tính từ sở hữu dán ngay trước danh từ và không sống một mình — trước nó cấm thêm mạo từ, chọn "the" hay "my" chỉ một thôi.
+
 ### Điểm 4. Possessive Pronouns: `mine / yours / his / hers / its / ours / theirs`
+
+Điểm này là "phiên bản đi một mình" của sở hữu — người nghe đã biết nói về cái gì, cắt bớt danh từ cho gọn.
 
 **Cách dùng:** Khi người nghe đã biết nói về cái gì, ta **cắt bỏ danh từ** và giữ phần sở hữu: *My name is short. Mine is long.* Công thức nhớ nhanh: đại từ sở hữu = tính từ sở hữu + N (*yours = your name*), nên nó **đứng một mình, cấm kèm danh từ** (~~mine name~~ ✗). Cực đắt khi so sánh hai bên trong hội thoại nhanh: *My phone is here, but yours is in the car*. Mẹo nói: nhấn mạnh đại từ này khi phân biệt — *MINE is longer*.
 
@@ -182,9 +216,13 @@ Yeah, nice to meet you, too.
 - Đổi danh từ (name → phone): `My phone is new, but yours is old.` *(Điện thoại tôi mới, của bạn cũ)*
 - Đổi số ít → số nhiều: `Their emails are easy to remember.` *(Email của họ dễ nhớ)*
 
+> **Tóm gọn 1 câu:** Đại từ sở hữu = tính từ sở hữu + danh từ đã lược — đi một mình, cấm kèm danh từ, cực đắt khi so sánh nhanh trong hội thoại.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập". Nói to, nói nhanh, sai thì sửa ngay tại chỗ.
 
 ### Echo drill (nhắc lại 3 lần, nói to, nhanh hơn mỗi lần)
 1. *What's your name? — I'm Son, but please call me …*
@@ -201,3 +239,5 @@ Yeah, nice to meet you, too.
 5. What's your email address / phone number? — *It's … You can call me anytime.*
 
 > ✅ Checkpoint: trả lời được 5 câu này WITHOUT LOOKING (không nhìn note). Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện qua echo drill rồi 5 câu tự luyện — giới thiệu trọn bộ "kit" bản thân không nhìn note, ghi âm nghe lại là biết mình thuộc đến đâu.

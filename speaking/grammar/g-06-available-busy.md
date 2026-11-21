@@ -6,6 +6,8 @@
 
 ## I. CẤU TRÚC
 
+Mục này xếp sẵn 5 "trạng thái lịch" từ rảnh đến quá bận — đọc để biết với mỗi trạng thái có một câu mẫu riêng.
+
 Ba cách nói chính:
 
 | Trạng thái | Cấu trúc | Ví dụ |
@@ -16,11 +18,15 @@ Ba cách nói chính:
 | **Rảnh** | I'm **free** / I'm **available** | *I'm free after 5 pm.* |
 | **Không có gì** | I **don't have anything**… | *I don't have anything planned.* |
 
+> **Cách đọc bảng này:** mỗi dòng là một "nấc thang bận rộn" — từ bận có việc, không rảnh, quá bận, đến rảnh và rảnh rỗi hoàn toàn. Xác định mình đang ở nấc nào rồi đọc xuống cột Cấu trúc để lấy câu tương ứng.
+
 **Phản xạ nói:** `I've got` = `I have got` — nuốt nhẹ thành /aɪvˈɡɒt/ hoặc thậm chí /aɪɡɒt/ trong tốc độ nhanh.
 
 ## II. KHI NÀO DÙNG?
 
-- **Từ chối lời mời** một cách lịch sự: giải thích lý do (bận, có việc).
+Mục này nói về 4 tình huống "đàm phán lịch hẹn" — đọc để biết nhận lời và từ chối sao cho lịch sự.
+
+- **Từ chối lời mời** một cách lịch sự: giải thích lý do (bận, có việc) — như nhờ "người gác cổng" busy đứng ra từ chối hộ, đỡ khó xử hơn nói thẳng "không".
 - **Hỏi tính sẵn có** của ai đó: *Are you free this weekend?*
 - **Sắp xếp lịch hẹn** — phải biết mình rảnh hay bận lúc nào.
 - **Nhận lời** khi rảnh: *Sure, I'm free.*
@@ -30,11 +36,15 @@ Ba cách nói chính:
 - ~~I'm unavailable~~ (chỉ dùng khi thực sự không thể tiếp cận) — trong giao tiếp thân mật nói *I'm busy* tự nhiên hơn.
 - ~~too busy to doing~~ → *too busy **to do*** — to + V gốc.
 
+> **Tóm gọn 1 câu:** Rảnh thì "I'm free", bận thì "I've got / I'm busy / too busy" — chọn nấc thang đúng trạng thái, từ chối cũng thấy nhẹ nhàng.
+
 ## III. NGỮ PHÁP CHI TIẾT
+
+Mục này mổ xẻ 3 cách nói thành từng bài: have got (có), not available (không rảnh), too…to (quá… đến nỗi) — đọc để dựng được câu từ chối có lý do trọn vẹn.
 
 ### Cách dùng 1: I have got = I have (có)
 
-`have got` = sở hữu / có nghĩa vụ / có lịch. Trong tiếng Anh Mỹ, thường nói đơn giản: *I have* thay vì *I've got*.
+`have got` = sở hữu / có nghĩa vụ / có lịch. Trong tiếng Anh Mỹ, thường nói đơn giản: *I have* thay vì *I've got*. Hãy hình dung have got như **túi đã có đồ bên trong** — có meeting, có deadline, có lịch hẹn đều nằm trong túi đó.
 
 | Khẳng định | Phủ định | Câu hỏi |
 |-----------|---------|---------|
@@ -68,6 +78,8 @@ Ba cách nói chính:
 
 ### Cách dùng 3: Too + adj + to + V (Quá … đến nỗi không thể…)
 
+Khuôn này giống chiếc **cân quá tải**: mức đã vượt ngưỡng nên không còn thực hiện được việc ở phía sau:
+
 | Cấu trúc | Ví dụ | Nghĩa |
 |----------|-------|-------|
 | too + adj + to V | I'm **too busy to go out**. | Tôi bận quá nên không đi ra ngoài được. |
@@ -90,9 +102,13 @@ Ba cách nói chính:
 - Đổi thì: chuyển câu sang quá khứ/tương lai để luyện linh hoạt.
 - Đổi ngữ cảnh (đi làm/du lịch/mua sắm): đặt lại ví dụ vào tình huống thực tế.
 
+> **Tóm gọn 1 câu:** have got = "túi có đồ", not available = "cửa đóng", too…to = "cân quá tải" — ba khuôn để từ chối hoặc báo trạng thái lịch của mình.
+
 ---
 
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Mục này là "túi đạo cụ" báo bận/rảnh bằng hình ảnh rất Việt Nam–Anh — đọc để chọn câu từ chối nghe "người lớn" thay vì dry "No".
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -103,6 +119,8 @@ Ba cách nói chính:
 | 5 | **I'm free after 5** | Tôi rảnh sau 5 giờ | Hẹn giờ cụ thể | *Can we meet at 6? I'm free after 5.* | —— | *Perfect, see you at 6!* |
 | 6 | **What's your schedule like?** | Lịch của bạn thế nào? | Hỏi về thời gian rảnh | *What's your schedule like next week?* | —— | *Pretty busy, but Friday is open.* |
 | 7 | **I'm booked up** | Tôi đã xếp lịch đầy rồi | Không còn chỗ trống | *I'm fully booked this month.* | —— | *Let's reschedule then.* |
+
+> **Cách đọc bảng này:** các dòng 1–4 là bốn kiểu "bận" tăng dần độ kịch tính (đĩa đầy → ngập nước → bị trói → căng mỏng), dòng 5–7 là hai cách báo lịch trống/đầy. Chọn theo mức độ bận thật của mình — đừng "swamped" khi chỉ là "busy" nhẹ.
 
 ## V. TỪ VỰNG
 
@@ -117,7 +135,11 @@ Ba cách nói chính:
 | Booked up | (adj) /bʊkt ʌp/ | Đặt lịch đầy |
 | On my plate | (idiom) | Trong công việc của tôi |
 
+> **Cách đọc bảng này:** mỗi từ đều mang một hình ảnh riêng (swamped = bị ngập, tied up = bị trói, on my plate = đĩa đầy thức ăn) — đọc từ + nghĩa rồi tự hình dung bức ảnh đằng sau nghĩa, sẽ nhớ lâu hơn học nghĩa suông.
+
 ## VI. LUYỆN NÓI
+
+Mục này là "phòng tập": drill cho miệng quen các câu báo bận/rảnh, câu hỏi tự luyện để tập từ chối và hẹn lịch — đọc xong phải làm, không chỉ đọc.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I've got a lot on my plate this week.*
@@ -135,9 +157,9 @@ Ba cách nói chính:
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
 
----
+> **Tóm gọn 1 câu:** Từ chối được lịch sự, hẹn lại được giờ cụ thể, nói trôi 5 câu không nhìn note — "free/busy" đã thành phản xạ thật.
 
-**Ngữ cảnh thực tế:**
+---
 - Đi làm: *I'm not available this afternoon.* / *I'm too busy to meet.* / *I have got a lot of work.* / *Are you free on Friday?*
 - Du lịch: *I'm available for the tour.* / *We're too busy to sightsee.* / *I've got some free time.* / *Are you available to help?*
 - Mua sắm: *Is the manager available?* / *I'm too busy to shop.* / *I've got a coupon.* / *Are you free to assist?*
@@ -154,6 +176,8 @@ Ba cách nói chính:
 
 ## VII. BONUS: CÁCH TỪ CHỐI LỊCH SỰ (POLITE REJECTION)
 
+Mục này xếp 5 cách từ chối theo "nhiệt kế lịch sự" — đọc để chọn câu khớp với mức thân thiết của người mời.
+
 Thứ tự từ ít trang trọng → trang trọng:
 
 1. ~~No~~ → *Can't — busy.* (thân mật nhất)
@@ -161,3 +185,7 @@ Thứ tự từ ít trang trọng → trang trọng:
 3. *I'd love to, but I'm tied up.* (vừa phải)
 4. *I'm afraid I can't make it this time.* (trang trọng)
 5. *Unfortunately, I'm fully booked.* (công sở)
+
+Ví von: từ chối giống **tháo băng gói quà** — càng lên cuối danh sách càng phải gói nhiều lớp giấy ("I'm afraid…", "Unfortunately…") để lời "không" đỡ lộ ra ngay.
+
+> **Tóm gọn 1 câu:** Càng thân càng nói ngắn, càng xa càng gói thêm lớp lịch sự — chọn câu từ chối theo "khoảng cách" với người mời.

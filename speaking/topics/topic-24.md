@@ -7,18 +7,25 @@
 ## I. ĐOẠN VĂN
 
 ### 1) Tóm tắt
-Đoạn văn là **"buổi lên kế hoạch cho tương lai"**:
-- **Tối nay ăn gì?**: đang **thèm** Bánh Canh; biết một quán nhỏ mà cực ngon **năm phút đi bộ**; hai người rủ nhau đi liền — "**mình bao!**" — "**của ai người nấy trả như thường nhé**".
-- **Tiền lì xì**: mẹ hỏi định tiêu lì xì vào gì — "sao tự nhiên hỏi con làm gì mẹ?"; con khăng khăng "**mình có kế hoạch riêng rồi**"; mẹ hỏi thẳng: "**tiền lì xì là của mẹ hay của con?**" — "**Của con.**" — "*thế con tự quyết được rồi nhé?*" — "**Tất nhiên…**"!
-- **Khi tự tin nói English rồi sẽ làm gì?**: đã mơ từ lâu; nay **hơi tự tin rồi**, có thể dạy con vài câu đơn giản; được dồn câu hỏi: "**Really, No way!** Lâu nay cậu học tiếng Anh kiểu gì thế?" — học & luyện **mỗi ngày**, có lúc ra công viên nói chuyện với người bản xứ; sắp tới sẽ thành **giáo viên tiếng Anh**.
-- **Conversation "nếu có ai giận bạn"**: giải pháp từng bước: giải thích đó là **hiểu lầm**; vẫn không hiểu thì **tìm ra vì sao rồi giải thích**; nếu dỗi thì đấy: **giận dỗi, nghỉ chơi với người ấy**; còn người kia nhìn xa hơn: đầu tiên là **sẵn sàng lắng nghe** — "lắng nghe là bước đầu tiên gần như của mọi tình huống"; rồi **thừa nhận và tôn trọng mọi ý kiến của người ta** — "khi mình lắng nghe và có đủ sự tôn trọng, mọi chuyện sẽ đâu vào đấy" — "**Hèn gì bạn được yêu thương đến thế!**"
+Đoạn văn giống như một buổi ngồi lên kế hoạch cho tương lai, từ chuyện nhỏ đến chuyện lớn:
+
+- **Tối nay ăn gì?**: đang **thèm** Bánh Canh. Biết một quán nhỏ mà cực ngon, **năm phút đi bộ** là tới. Hai người rủ nhau đi liền — "**mình bao!**" — "**của ai người nấy trả như thường nhé**".
+- **Tiền lì xì**: mẹ hỏi định tiêu lì xì vào gì. Con phản hỏi: "sao tự nhiên hỏi con làm gì mẹ?". Con khăng khăng "**mình có kế hoạch riêng rồi**". Mẹ hỏi thẳng: "**tiền lì xì là của mẹ hay của con?**" — "**Của con.**" — "*thế con tự quyết được rồi nhé?*" — "**Tất nhiên…**"!
+- **Khi tự tin nói English rồi sẽ làm gì?**: đã mơ từ lâu. Nay **hơi tự tin rồi**, có thể dạy con vài câu đơn giản. Bị dồn câu hỏi: "**Really, No way!** Lâu nay cậu học tiếng Anh kiểu gì thế?" — trả lời là học & luyện **mỗi ngày**, có lúc ra công viên nói chuyện với người bản xứ, sắp tới sẽ thành **giáo viên tiếng Anh**.
+- **Conversation "nếu có ai giận bạn"**: giải theo từng bước như băng qua cột mốc. Giải thích đó là **hiểu lầm**. Vẫn không hiểu thì **tìm ra vì sao rồi giải thích**. Còn nếu dỗi thì đấy: **giận dỗi, nghỉ chơi với người ấy**. Người kia nhìn xa hơn: đầu tiên là **sẵn sàng lắng nghe** — "lắng nghe là bước đầu tiên gần như của mọi tình huống"; rồi **thừa nhận và tôn trọng mọi ý kiến của người ta** — "khi mình lắng nghe và có đủ sự tôn trọng, mọi chuyện sẽ đâu vào đấy" — "**Hèn gì bạn được yêu thương đến thế!**"
 Điểm chốt: hỏi **"What are you going to do…?"**; trả lời đầy đủ bằng **I'M GONNA… / I WILL + V** (đã hẹn trước thì *going to*, bất ngờ, chưa chắc thì *will*).
 
+> **Tóm gọn 1 câu:** Bài này luyện hỏi và trả lời về kế hoạch tương lai — kế đã hẹn dùng *going to*, việc chợt nở ra dùng *will*.
+
 ### 2) Khi nào sử dụng?
-- Hỏi **kế hoạch tương lai gần**: tối nay ăn gì, tuần này làm gì, tiêu lì xì kiểu gì.
-- Hỏi **đích lớn hơn**: trong **2 năm tới** làm gì, sau chương trình **English class** này làm gì (chính là sheet FREE TALK của bài).
-- Hỏi **nếu**: *What are you going to do if someone is upset with you?* — ai giận thì xử lý sao.
-- Trả lời: **I'm gonna…** (kế hoạch từ trước) / **I will…** (quyết tại chỗ, chưa chắc) — kèm kiểu **a 7-year-old girl / a 5-minute walk** để nói chi tiết.
+Mục này cho bạn biết "cây gậy" này vác vào đâu. Đáp lại là những tình huống đời thường gặp hằng ngày.
+
+- **Hỏi kế hoạch tương lai gần**: tối nay ăn gì, tuần này làm gì, tiêu lì xì kiểu gì.
+- **Hỏi đích lớn hơn**: trong **2 năm tới** làm gì, sau chương trình **English class** này làm gì (chính là sheet FREE TALK của bài).
+- **Hỏi "nếu"**: *What are you going to do if someone is upset with you?* — ai giận thì xử lý sao.
+- **Trả lời**: **I'm gonna…** (kế hoạch từ trước) / **I will…** (quyết tại chỗ, chưa chắc) — kèm kiểu **a 7-year-old girl / a 5-minute walk** để nói chi tiết.
+
+> **Tóm gọn 1 câu:** Dùng cấu trúc này khi cần hỏi/đáp về kế hoạch, mục tiêu tương lai và tình huống giả định "nếu".
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -37,7 +44,11 @@
 | 9 | **Things will be right as they are** | Mọi chuyện sẽ đâu vào đấy | An ủi sau khi đã dùng đủ cách | *I believe when we listen and have enough respect, things would be better.* | ~~things will better~~ — thiếu **be**: things will **be** better | *Hope so, fingers crossed! (Mong vậy, cầu cho lên!)* |
 | 10 | **No wonder you are loved that much** | Hèn gì mọi người yêu thương mày đến thế | Khen ngợi một cách dễ thương sau bài học | *That's a great lesson for me. No wonder you are loved so much.* | ~~no wonder why you~~ — thừa "why", no wonder + mệnh đề | *Thanks to friends like you! (Nhờ có bạn như cậu đó!)* |
 
+> **Cách đọc bảng này:** Đọc theo từng hàng: cụm từ, nghĩa, lúc nào dùng, câu mẫu, lỗi hay sai (gạch ngang là đừng nói) và câu đáp lại. Hàng nào dùng được ngay thì học hàng đó trước.
+
 ### 4) Từ vựng (Vocabulary)
+Bảng từ vựng là "kho dụng cụ" của bài. Gặp từ lạ trong hội thoại thì quay lại đây tra.
+
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
 | Confident | (adj) /ˈkɑːnfɪdənt/ | Tự tin |
@@ -54,12 +65,16 @@
 | Cost | (n) | Chi phí |
 | Upgrade | (v) | Nâng cấp |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và cách đọc. Đọc to cột phiên âm vài lần, ghép với nghĩa cột phải là nhớ nhanh.
+
 **Extension (Dream Board — 101 things to do before death):**
 - I'd like to meet…………………………
 - I'd like to visit…………………………
 - I'd like to learn…………………………
 - I'd like to start…………………………
 - I'd like to be remembered…………………………
+
+> **Tóm gọn 1 câu:** Học từ vựng theo cụm trong hội thoại, rồi tự điền Dream Board để biến từ thành câu của mình.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -102,9 +117,15 @@ Yup! I have to practice more every day but I can do it. I believe when we listen
 Thank you for sharing. That’s a great lesson for me. No wonder you are loved so much.
 ```
 
+Đây là "kịch gốc" của bài. Đọc to theo từng câu, rồi đóng vai hai người nói với nhau.
+
+> **Tóm gọn 1 câu:** Đoạn hội thoại là ví dụ sống cho cấu trúc bài — đọc to, đóng vai, nhại lại tới khi trôi chảy.
+
 ---
 
 ## II. NGỮ PHÁP
+
+Mục này bóc từng "mắt xích" ngữ pháp trong bài. Sáu điểm, điểm nào cũng có mẹo tránh lỗi người Việt hay dính.
 
 **Tổng quan: 6 điểm ngữ pháp trong bài**
 
@@ -117,9 +138,13 @@ Thank you for sharing. That’s a great lesson for me. No wonder you are loved s
 | 5 | HOW + adj/ adv + S + V (Cảm thán) | How crazy you are! |
 | 6 | YOU DON'T SAY! (= Really!) | "Ôi thật luôn á!" |
 
+> **Cách đọc bảng này:** Cột "Điểm" là số thứ tự, cột "Tên" là nội dung chính, cột cuối là câu mẫu để hình dung ngay. Đọc cột cuối trước nếu chỉ có 30 giây.
+
 ### Điểm 1. BE GOING TO + V / WILL + V (Kế hoạch vs bất ngờ): `BE GOING TO + V · WILL + V`
 
-**Cách dùng:** Bản chất: *be going to + V* là kế hoạch **đã cài sẵn từ trước**, *will + V* là quyết định **bật ra lúc nói** hoặc chuyện **chưa chắc** — hỏi kế hoạch thì câu trả lời thường "tự chọn" going to. *Will* còn giữ vai hứa hẹn & đề nghị: *I'll pay* là hứa ngay tại bàn ăn. Cản trở: ~~What you gonna do tonight?~~ — phải có **are**; *gonna* chỉ dùng khi nói, đừng viết vào email. Mẹo nói: "gonna" đọc nuốt, nhanh; "I will" thì dứt một nhịp cho nghe ra lời hứa.
+Điểm này là xương sống của bài. Nó giúp bạn phân biệt "đã định từ trước" và "chợt nở ra lúc nói".
+
+**Cách dùng:** Bản chất: *be going to + V* là kế hoạch **đã cài sẵn từ trước**. Còn *will + V* là quyết định **bật ra lúc nói** hoặc chuyện **chưa chắc**. Hỏi kế hoạch thì câu trả lời thường "tự chọn" going to. *Will* còn giữ vai hứa hẹn & đề nghị: *I'll pay* là hứa ngay tại bàn ăn. Cản trở: ~~What you gonna do tonight?~~ — phải có **are**. *Gonna* chỉ dùng khi nói, đừng viết vào email. Mẹo nói: "gonna" đọc nuốt, nhanh; "I will" thì dứt một nhịp cho nghe ra lời hứa.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi kế hoạch: `What are you going to do this weekend?` *(Cuối tuần này cậu định làm gì?)*
@@ -137,9 +162,13 @@ Thank you for sharing. That’s a great lesson for me. No wonder you are loved s
 - Đổi going to → will (hứa tại chỗ): `I'll pay for dinner.` *(Bữa tối để tớ bao)*
 - Đổi chủ ngữ: `She is going to become an English teacher.` *(Cô ấy sẽ thành giáo viên tiếng Anh)*
 
+> **Tóm gọn 1 câu:** Đã hẹn trước dùng *be going to*, quyết lúc nói hoặc chưa chắc dùng *will*, và nhớ "gonna" chỉ nói chứ không viết.
+
 ### Điểm 2. (a/an) + number-N + N (Số + Danh đóng vai tính từ): `(a/an) + NUMBER-N (không có -S) + N`
 
-**Cách dùng:** Bản chất: cả khối **số + danh từ** đeo gạch nối thì hóa thành **một tính từ** bổ nghĩa cho danh từ sau — "7-year-old" mô tả "girl", "5-minute" mô tả "walk" — nên danh từ trong khối **bỏ -s**. Phải có **a/an** đứng trước khi danh từ chính đếm được số ít. Cản trở: ~~a 5 minutes walk~~ — "minutes" có s là cả khối sụp. Mẹo nói: đọc liền một hơi "a-five-minute-walk", không ngắt giữa các nhịp.
+Điểm này giải thích vì sao người bản xứ nói "a 5-minute walk" mà không có chữ "s". Nhìn quen rồi thì khỏi phải nghĩ.
+
+**Cách dùng:** Bản chất: cả khối **số + danh từ** đeo gạch nối thì hóa thành **một tính từ** bổ nghĩa cho danh từ sau. Ví dụ "7-year-old" mô tả "girl", "5-minute" mô tả "walk". Vì nó chỉ là tính từ trong khối, nên danh từ trong khối **bỏ -s**. Phải có **a/an** đứng trước khi danh từ chính đếm được số ít. Cản trở: ~~a 5 minutes walk~~ — "minutes" có s là cả khối sụp. Mẹo nói: đọc liền một hơi "a-five-minute-walk", không ngắt giữa các nhịp.
 
 **Phản xạ hỏi–đáp:**
 - ➕ Nói: `It's just a 5-minute walk from here.` *(Đi bộ có 5 phút từ đây thôi)*
@@ -157,7 +186,11 @@ Thank you for sharing. That’s a great lesson for me. No wonder you are loved s
 - Đổi số & danh từ: `He is a 10-year-old boy who loves English.` *(Bé trai 10 tuổi mê tiếng Anh)*
 - Đổi danh từ chính: `This is a 2-week course.` *(Đây là một khoá học hai tuần)*
 
+> **Tóm gọn 1 câu:** Khối "số + danh từ" làm tính từ thì bỏ -s trong khối và phải có a/an đứng trước.
+
 ### Điểm 3. ECHO QUESTION + phản xạ ngạc nhiên: `AUX.V + Pro?` — `Really? / Are you serious? / No way?`
+
+Điểm này dạy bạn "vỗ tay" bằng tiếng Anh. Nghe tin sốc thì nhại lại đúng trợ động từ để tỏ thái độ.
 
 **Cách dùng:** Bản chất: bắt tin "sốc" thì **lặp lại đúng trợ động từ + đại từ** của câu vừa nghe — câu gốc dùng *be* thì echo *Are you?*, dùng *will* thì *Will you?*, dùng *have* thì *Have you?*. Echo sai trợ động từ là "sụp nền": ~~You are getting married. Do you?~~ ✗. Nghe nghi ngờ nặng hơn thì nhảy sang *Are you serious? / No way!*. Mẹo nói: giọng đi lên cuối câu, đọc nhanh như tiếng "kêu bất ngờ" chứ đừng hỏi như thẩm phán.
 
@@ -177,7 +210,11 @@ Thank you for sharing. That’s a great lesson for me. No wonder you are loved s
 - Đổi trợ động từ (have → did): `"She passed the test." — "Did she?"` *(“Cô ấy đậu rồi.” — “Thật hả?”)*
 - Đổi giọng (càng sốc càng dài): `Are you serious? No way!` *(Thiệt hả? Không thể nào!)*
 
+> **Tóm gọn 1 câu:** Ngạc nhiên thì nhại lại đúng trợ động từ + đại từ của câu vừa nghe; sai trợ động từ là "sụp nền".
+
 ### Điểm 4. WHAT + a/an + adj + N (Cảm thán — "quá trời quá đất!"): `WHAT + a/an + ADJ + N (!)`
+
+Điểm này dùng để "gào" lời khen hay chê về một sự vật. Cần nó khi muốn khen món ăn, bài học, hành trình.
 
 **Cách dùng:** Bản chất: cảm thán về **một sự vật/điều gì đó** — *What a + adj + danh từ đếm được số ít*. Đếm được số ít phải có **a/an**: ~~What nice house!~~ ✗. Danh từ không đếm được hay số nhiều thì **không** có mạo từ: *What nice weather! / What nice shoes!* Mẹo nói: nhấn hết lực vào tính từ, giọng rơi xuống danh từ — *"What a CRAZY decision!"* — cảm xúc tự đến.
 
@@ -197,7 +234,11 @@ Thank you for sharing. That’s a great lesson for me. No wonder you are loved s
 - Đổi adj + N: `What a lovely surprise!` *(Một bất ngờ dễ thương quá trời!)*
 - Số nhiều/không đếm được (bỏ a/an): `What nice shoes!` *(Đôi giày đẹp quá trời!)*
 
+> **Tóm gọn 1 câu:** Cảm thán về sự vật dùng What; đếm được số ít phải có a/an, còn số nhiều hay không đếm được thì bỏ.
+
 ### Điểm 5. HOW + adj/ adv + S + V (Cảm thán — "thế này thật quá!"): `HOW + ADJ/ADV + S + V (!)`
+
+Điểm này cảm thán về mức độ của người hay việc. Khác Điểm 4 ở chỗ: What thán "cái đó", How thán "cỡ đó".
 
 **Cách dùng:** Bản chất: cảm thán về **tính chất/mức độ** của người hay sự việc — sau HOW là **adj + S + V** giữ nguyên trật tự khẳng định, **không đảo** trợ động từ như câu hỏi: ~~How crazy is he!~~ ✗. Dễ nhầm với *What a + N* — thán về **sự vật** thì What a, thán về **mức độ** thì How. Mẹo nói: nhấn tính từ ngay sau HOW rồi hạ giọng ở cuối — *"How CRAZY he is!"* — nghe đúng chất "than thở".
 
@@ -217,7 +258,11 @@ Thank you for sharing. That’s a great lesson for me. No wonder you are loved s
 - Đổi adj: `How confident she looks!` *(Trông cô ấy tự tin thật!)*
 - Đổi chủ ngữ & trạng từ: `How fast they are learning English!` *(Bọn họ học tiếng Anh nhanh thật đấy!)*
 
+> **Tóm gọn 1 câu:** Cảm thán về mức độ dùng How + adj + S + V, giữ trật tự câu khẳng định, tuyệt đối không đảo trợ động từ.
+
 ### Điểm 6. YOU DON'T SAY! (= Really!): `YOU DON'T SAY! = REALLY!`
+
+Điểm này cho bạn một câu "sốc" thay thế Really. Dùng đúng sẽ nghe như người bản xứ đùa vui.
 
 **Cách dùng:** Bản chất: phản ứng "sốc" kiểu **"Ôi thật luôn á!"** — vừa ngạc nhiên vừa đùa, dùng thay *Really* cho đỡ nhạt. Câu này chốt gọn, **không nhận tân ngữ**: ~~You don't say me!~~ ✗. Đừng nhầm nghĩa từng chữ "bạn không nói" — nghĩa thực nằm trong giọng điệu. Mẹo nói: đọc lướt nhanh, kéo nhẹ từ cuối *"You don't sayyy!"*, thêm *No way!* phía sau khi muốn sốc gấp đôi.
 
@@ -237,9 +282,13 @@ Thank you for sharing. That’s a great lesson for me. No wonder you are loved s
 - Đổi ngữ cảnh (thay *Really*): `"I got the job." — "You don't say!"` *(“Tớ trúng tuyển rồi.” — “Ôi thật luôn á!”)*
 - Đổi giọng, sốc gấp đôi: `You don't say! No way!` *(Ôi thật luôn á! Không thể nào!)*
 
+> **Tóm gọn 1 câu:** "You don't say!" là phiên bản đùa vui của "Really!", chốt gọn không nhận tân ngữ.
+
 ---
 
 ## III. LUYỆN NÓI (drill)
+
+Mục này là "phòng tập". Nói to, nói nhanh, nói sai thì sửa ngay tại chỗ.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *What are you going to have for dinner tonight? — I feel like having Banh Canh.*
@@ -256,3 +305,5 @@ Thank you for sharing. That’s a great lesson for me. No wonder you are loved s
 5. Do you want to do anything special? Who do you want to be with? — *(To talk more) I think I can do it well, and I'm going to start this weekend with…*
 
 > ✅ Checkpoint: hỏi & trả lời **"What are you going to do…?"** cho 5 mốc (tối nay, cuối tuần, sinh nhật, 2 năm tới, nếu ai giận) — đã định từ trước thì **gonna**, chưa chắc thì **WILL**. Ghi âm lại.
+
+> **Tóm gọn 1 câu:** Luyện theo drill rồi qua 5 câu tự luyện — nói to, ghi âm, nghe lại là biết mình đứng ở đâu.

@@ -7,19 +7,24 @@
 ## I. ĐOẠN VĂN
 
 ### 1) Tóm tắt
-Ba pha "đấu nghiện nguyên do" của bài này:
+Ba pha "đấu nghiện nguyên do" của bài này. Cả bài xoay quanh một câu hỏi suồng sã đời thường: "Sao cậu/làm vậy?" — và cách trả lời cho có duyên:
 - **Mua giày mới**: hỏi *Why did you buy new shoes?* — đắt lắm mà **đã có quá trời giày**; tự bào chữa *"nhìn đẹp quá, không cưỡng lại được"*, rồi viện cớ đang **học cách quản lý tiền** — "vậy là tốt, tin là cậu giám sát nổi ví tiền của mình, Lyna".
 - **Về nhà muộn**: *Why didn't you come home last night?* — ngủ quên ở nhà bạn; mẹ hỏi "bạn gì?" thì đáp **chuyện riêng của con mà, mẹ ạ**; nghe "bạn đặc biệt?" thì né — **chưa đến lúc cho mẹ biết đâu**… rồi cười xòa *con yêu mẹ có biết không*?
 - **Giấu bố chuyện có người yêu**: không nói với bố vì **bố cứ trêu con hoài**; mẹ khuyên cứ nói cho bố **cảm xúc thật** khi bị trêu — có lẽ bố chưa biết mình làm con buồn; con sẽ đi nói chuyện với bố trước, chuyện Sunny bàn sau.
 - Conversation: nói với cô ấy về cậu rồi — *"tại sao làm thế? Tôi nhớ là dặn cậu rồi mà"* — cô ấy cứ hỏi suốt nên tôi nói **sự thật**: chàng thích nàng, muốn rủ đi chơi cuối tuần này. Nàng gọi điện ngay — mời đi **Nha Trang 3 ngày 2 đêm**, giành trả tiền nhưng nàng tự trả — rồi hẹn **5:30 sáng mai** đến đón; chàng vui như điên: *"She agreed to go with me. I did it!"*
 - Điểm chốt: **Why did (didn't) you + V nguyên mẫu** hỏi nguyên do trong quá khứ; trả lời luôn mở đầu bằng **Because** + mệnh đề **thì quá khứ đơn**.
 
+> **Tóm gọn 1 câu:** Bài này luyện hỏi–trả lời "Why did (didn't) you…?" qua 4 cảnh đời thường, đáp án luôn mở đầu bằng Because + quá khứ đơn.
+
 ### 2) Khi nào sử dụng?
+Phần này cho biết "câu đao này dùng lúc nào": mọi tình huống cần hỏi hoặc né nguyên do của việc đã/dở làm.
 - Hỏi **lý do của việc đã làm**: *Why did you buy new shoes / join the center Edu / laugh at me?*
 - Hỏi **lý do của việc KHÔNG làm**: *Why didn't you come home last night / tell Dad / sign the employment contract?*
 - Trả lời bằng **Because + S + Quá khứ đơn**: *Why did you get there so soon? — Because I wanted to meet her.* / *Because I was worried that you would get angry.*
 - Khi lý do "khó nói": né khéo — *It's none of your business, Mom*, *You don't need to know.. yet*.
 - Bắt mạch câu chuyện: *What did she say? / What did you just say? / What do you think of that decision? Do you want to change anything?* (theo Free Talk sheet).
+
+> **Tóm gọn 1 câu:** Dùng "Why did/didn't you…?" cho mọi việc đã/lỡ làm trong quá khứ — trả lời thẳng thì Because + QKĐ, muốn né thì dùng câu chặn lịch sự.
 
 ### 3) Bảng cụm từ giao tiếp (IDIOMS & EXPRESSIONS + câu đáng nhớ)
 
@@ -38,6 +43,10 @@ Ba pha "đấu nghiện nguyên do" của bài này:
 | 9 | **I didn't say anything** | Đâu, anh có nói gì đâu? | Chối quanh trước "vừa nói gì đó hả?" | *What did you just say? — No, no, no... I didn't say anything.* | ~~I didn't say nothing~~ — có "didn't" thì dùng "anything" | *Yes you did — I heard it! (Có chứ — tớ nghe thấy rồi!)* |
 | 10 | **Thanks in advance** | Cảm ơn trước | Nhờ trước — cảm ơn trước khi được giúp | *So I'll pick you up at 5:30 AM tomorrow. — Yeap! Thanks in advance!* | ~~in the advance~~ — cụm cố định "in advance", bỏ "the" | *No problem! See ya tomorrow! (Khỏi cảm ơn — mai gặp!)* |
 
+> **Cách đọc bảng này:** Đọc cột "Cụm từ" + "Nghĩa (VI)" trước để nhớ ý; cột "⚠️ Lỗi hay sai" là chỗ hay vấp khi nói, cột "💬 Đáp lại" cho biết nghe xong thì bắt chuyện bằng câu nào.
+
+> **Tóm gọn 1 câu:** Mười cụm giao tiếp đời thường từ chê mua sắm tới né câu hỏi của mẹ — mỗi cụm nhớ kèm lỗi sai và câu đáp lại.
+
 ### 4) Từ vựng (Vocabulary)
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -53,7 +62,11 @@ Ba pha "đấu nghiện nguyên do" của bài này:
 | Employment contract | (n) | Hợp đồng lao động |
 | Company regulation | (n) | Quy định của công ty |
 
+> **Cách đọc bảng này:** Cột giữa cho biết từ loại và phiên âm để tập phát âm, cột phải là nghĩa tiếng Việt — đọc từ trên xuống rồi che cột phải tự kiểm tra.
+
 **Extension (Irregular Verbs):**
+Động từ bất quy tắc là "hàng hiệu đặc biệt" không theo khuôn -ED — phải học thuộc từng cặp như học mặt tên bạn mới.
+
 - swim — swam — swum
 - teach — taught — taught
 - buy — bought — bought
@@ -72,6 +85,8 @@ Ba pha "đấu nghiện nguyên do" của bài này:
 - drink — drank — drunk
 - fly — flew — flown
 - choose — chose — chosen
+
+> **Tóm gọn 1 câu:** Thuộc 11 từ vựng mới và 18 cặp động từ bất quy tắc — đây là "nguyên liệu" cho cả phần ngữ pháp và phần luyện nói dưới đây.
 
 ### 5) Đoạn hội thoại gốc (Free Talk)
 ```
@@ -129,6 +144,8 @@ Congratulations to you!
 
 ## II. NGỮ PHÁP
 
+Phần này là "khung xương" của bài: 7 điểm ngữ pháp, tất cả xoay quanh quá khứ đơn và các cách dùng MAKE.
+
 **Tổng quan: 7 điểm ngữ pháp trong bài**
 
 | Điểm | Tên | Ứng dụng nói |
@@ -140,6 +157,10 @@ Congratulations to you!
 | 5 | MAKE + danh từ kế hoạch/quyết định | Sắp xếp chuyện, chọn lựa |
 | 6 | MAKE + danh từ việc nói & tiếng động | Bình luận, phát biểu, làm ồn |
 | 7 | MAKE + đồ ăn/đồ uống/bữa ăn | Nấu bếp, mời một tách trà |
+
+> **Cách đọc bảng này:** Điểm 1–2 là nền (kể chuyện quá khứ + nói "của ai"); điểm 3–7 là 5 "biến thể" của MAKE — đọc cột "Ứng dụng nói" để biết mỗi điểm dùng vào chuyện gì.
+
+> **Tóm gọn 1 câu:** Học 2 nền tảng (QKĐ + sở hữu cách) và 5 kiểu dùng MAKE là chộp trọn ngữ pháp bài này.
 
 ### Điểm 1. Thì QKĐ với động từ thường: `S + V2/ED + C · S + DIDN'T + V + C · (WH) + DID + S + V + C?`
 
@@ -161,6 +182,8 @@ Congratulations to you!
 - Đổi *did* → *didn't*: `Why didn't you sign the contract?` *(Sao cậu không ký hợp đồng?)*
 - Đổi chủ ngữ *you* → *she*: `Why did she laugh at you?` *(Sao cô ấy cười nhạo cậu?)*
 
+> **Tóm gọn 1 câu:** QKĐ với động từ thường: *did* gánh quá khứ nên động từ về nguyên mẫu — hỏi "Why did/didn't you…?", đáp bằng "Because + V(QKĐ)".
+
 ### Điểm 2. Sở hữu cách: `N SỐ ÍT + 'S + N · N SỐ NHIỀU KHÔNG 'S + 'S + N · N SỐ NHIỀU CÓ S + ' + N`
 
 **Cách dùng:** nói "của ai" ngắn gọn — số ít thêm **'s**; số nhiều không có s (children, men) thêm **'s**; số nhiều có sẵn s chỉ cần thêm **dấu nháy (')**. Bản chất: 's "dán" chủ sở hữu lên danh từ — đọc ra luôn có âm /s/ hoặc /z/, không im re. Dễ nhầm: ~~my friend place~~ — thiếu 's là câu nát; còn *my friends' place* (nháy sau s) là nhà "mấy đứa bạn", khác nhà một bạn. Mẹo nói: chụm 's vào tiếng trước — *friend's place* — nghe liền một mạch.
@@ -180,6 +203,8 @@ Congratulations to you!
 **Biến tấu (tự luyện):**
 - Đổi số ít → số nhiều (nháy sau s): `my friend's place` → `my friends' place`: `I slept at my friends' place.` *(Tớ ngủ ở nhà mấy đứa bạn)*
 - Đổi danh từ: `my sister's style` → `your sister's style`: `I love your sister's style.` *(Tớ thích phong cách chị cậu)*
+
+> **Tóm gọn 1 câu:** Sở hữu cách: số ít thêm 's, số nhiều có sẵn s chỉ thêm dấu nháy — thiếu 's là câu nghe rớt ngay.
 
 ### Điểm 3. MAKE — chế tạo/thứ gì đó mới: `S + MAKE/MADE + N (chỉ nguồn gốc hoặc chất liệu ban đầu)`
 
@@ -201,6 +226,8 @@ Congratulations to you!
 - Đổi chất liệu: `made of wood` → `made of silver`: `My necklace is made of silver.` *(Sợi dây chuyền của tớ bằng bạc)*
 - Đổi *of* → *from*: `Paper is made from trees.` *(Giấy được làm từ cây)*
 
+> **Tóm gọn 1 câu:** `be made of + chất liệu` nhìn ra được (bàn gỗ), `be made from` là chất liệu đã biến hình (giấy từ cây).
+
 ### Điểm 4. MAKE — gây ra hành động/phản ứng: `MAKE + O + V (nguyên mẫu) · MAKE FUN OF + O`
 
 **Cách dùng:** *make* khiến ai phải làm gì (*make me do it*) hoặc tạo ra phản ứng trêu chọc (*make fun of me*). Bản chất "ép buộc": sau tân ngữ là **V nguyên mẫu, không "to"** — ~~made me to do it~~ ✗. Chỗ này *make/let* không cần *to*, còn *ask/tell* bắt buộc phải có (*told me to go*) — nhớ cặp đôi để khỏi rối. Nói ra nó khi trách móc, bào chữa, kể chuyện bị trêu — cảm xúc luôn có "người chủ mưu". Nhịp nói: chụm *make-fun-of* thành một cụm, đừng tách rời từng tiếng.
@@ -220,6 +247,8 @@ Congratulations to you!
 **Biến tấu (tự luyện):**
 - Đổi *make* → *let* (cho phép): `Dad lets me stay out late.` *(Bố cho con đi chơi khuya)*
 - Đổi chủ ngữ: `Her story made me cry.` *(Chuyện của cô ấy làm tớ khóc)*
+
+> **Tóm gọn 1 câu:** MAKE + người + V nguyên mẫu (không "to") = bắt ai làm gì; `make fun of` = trêu ai — nhớ cặp make/let không "to", ask/tell phải có "to".
 
 ### Điểm 5. MAKE + danh từ kế hoạch/quyết định: `MAKE + THE ARRANGEMENTS · MAKE + A CHOICE`
 
@@ -241,6 +270,8 @@ Congratulations to you!
 - Đổi danh từ: `make plans` → `make a decision`: `We made a decision last night.` *(Tối qua tụi tớ quyết xong rồi)*
 - Đổi thì → tương lai: `I'll make the arrangements tomorrow.` *(Ngày mai tớ sẽ sắp xếp chu đáo)*
 
+> **Tóm gọn 1 câu:** Kế hoạch/quyết định chỉ nhận MAKE: make the arrangements, make a choice, make plans — cấm do plans hay take a decision.
+
 ### Điểm 6. MAKE + danh từ việc nói & tiếng động: `MAKE + A COMMENT · MAKE + A NOISE · MAKE + A SPEECH`
 
 **Cách dùng:** *make* đi cùng danh từ chỉ hành động nói và âm thanh — bình luận, phát biểu, làm ồn. Bản chất: tiếng Anh "hóa" động tác thành danh từ rồi giao cho *make* — ~~say a comment~~ ✗, phải là *make a comment*. Dễ nhầm: ~~do a speech~~ ✗ — bài nói là *make a speech*, "do" chỉ dành cho việc nhà, bài vở. Nhịp nói: khi xin nhỏ tiếng thì giọng tụt xuống — *please, not too loud* — nghe như xin xỏ thật.
@@ -260,6 +291,8 @@ Congratulations to you!
 **Biến tấu (tự luyện):**
 - Đổi danh từ: `make a speech` → `make an announcement`: `She'll make an announcement soon.` *(Cô ấy sẽ thông báo sớm thôi)*
 - Đổi chủ ngữ *Ruby* → *I*: `I made a speech at the wedding.` *(Tớ phát biểu ở đám cưới rồi)*
+
+> **Tóm gọn 1 câu:** Việc nói và tiếng động đi với MAKE: make a comment/speech/noise — "do" chỉ dành cho việc nhà, bài vở.
 
 ### Điểm 7. MAKE + đồ ăn/đồ uống/bữa ăn: `MAKE + A CAKE · MAKE + A CUP OF TEA · MAKE + DINNER`
 
@@ -281,22 +314,30 @@ Congratulations to you!
 - Đổi danh từ: `make a cake` → `make a cup of tea`: `I'll make you a cup of tea.` *(Tớ pha tách trà cho cậu nhé)*
 - Đổi thì → hiện tại tiếp diễn: `Mom is making breakfast now.` *(Mẹ đang làm bữa sáng nè)*
 
+> **Tóm gọn 1 câu:** Từ nguyên liệu thành món ăn thì MAKE: make a cake/a cup of tea/dinner — pha cho ai thì nhớ "for".
+
 ---
 
 ## III. LUYỆN NÓI (drill)
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
+Cách tập này như tập hát theo bản nhạc: nghe mẫu rồi lặp lại to, lần sau nhanh hơn — miệng thuộc trước não.
 1. *Why did you buy new shoes? — But they looked so nice! I couldn't help myself.*
 2. *Why didn't you come home last night? — I fell asleep at my friend's place.*
 3. *It's none of your business, Mom. — That's how you answer your Mom?*
 4. *Dad always makes fun of me and I don't like it. Just tell Dad how you feel.*
 5. *So I'll pick you up at 5:30 AM tomorrow, okay? — Yeap! Thanks in advance!*
 
+> **Tóm gọn 1 câu:** Đọc to 5 câu mẫu 3 lần, mỗi lần nhanh hơn — luyện phản xạ miệng chứ không phải học thuộc lòng.
+
 ### 5 câu hỏi tự luyện (tự hỏi + trả lời)
+Phần này là "gương soi": tự hỏi tự đáp, trả lời sai thì chỉnh ngay.
 1. Why did you laugh at me yesterday? — *(Because your joke was too funny — I couldn't help myself!)*
 2. Why didn't you buy that book? — *(Because I already have tons of books at home.)*
 3. Why did you get up so early this morning? — *(Because I wanted to wait for you at the station.)*
 4. Why didn't you sign the employment contract? — *(Because the company regulation is too strict for me.)*
 5. Why did you present an award to her directly? — *(Because she was the best student this year — do you want to change anything?)*
+
+> **Tóm gọn 1 câu:** Tự hỏi 5 câu Why did/didn't và trả lời bằng Because + QKĐ — sai chỗ nào sửa ngay chỗ đó.
 
 > ✅ Checkpoint: hỏi & trả lời **"Why did (didn't) you…?"** với 5 việc đã làm/lỡ hẹn trong tuần — câu trả lời luôn mở đầu bằng **Because** + mệnh đề quá khứ đơn. Ghi âm lại.

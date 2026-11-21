@@ -6,13 +6,19 @@
 
 ## I. CẤU TRÚC
 
+Mục này gói lại hai "đường ray" chính của `spend`: một ray chạy theo **thời gian**, một ray chạy theo **tiền** — cùng một động từ nhưng cú pháp khác nhau. Ví von: `spend` như ví tiền — bạn rút ra hoặc là phút giây, hoặc là đô-la, nhưng luôn phải "đóng góp" vào một hoạt động nào đó.
+
 | Cấu trúc | Công thức | Ví dụ |
 |----------|----------|-------|
 | **Spend time** | `S + spend + thời gian + V-ing` | I **spend 2 hours studying** every day. |
 | **Spend money** | `S + spend + tiền + on + N` | She **spends $50 on books** weekly. |
 | **Spend + N + at/in** | `S + spend + thời gian + at/in + nơi` | We **spent the weekend at the beach**. |
 
+> **Cách đọc bảng này:** mỗi dòng là một "đường ray" cú pháp — đọc cột **Công thức** để nhớ khung câu, cột **Ví dụ** để thấy câu thật; để ý V-ing theo thời gian còn `on` theo tiền.
+
 **Phản xạ nói:** *spend* → /spend/ — nhấn mạnh âm /sp/ đầu, đuôi /d/ nhẹ.
+
+> **Tóm gọn 1 câu:** Hai khung gốc: thời gian + V-ing, tiền + on — cùng một động từ nhưng hai "đơn vị tiền tệ" khác nhau.
 
 ## II. KHI NÀO DÙNG?
 
@@ -26,9 +32,15 @@
 - ~~I spend money for a book~~ → *I spend money **on** a book* — giới từ đúng là **on**.
 - ~~He spend~~ → *He **spends*** — he/she/it thêm "s".
 
+> **Tóm gọn 1 câu:** Cần nói "tôi bỏ thời gian/tiền vào việc gì" là `spend` ra trận — và nó là cụm mở bài small talk thân thiện nhất về đời sống hằng ngày.
+
 ## III. NGỮ PHÁP CHI TIẾT
 
+Mục này mổ xẻ từng "đường ray" của `spend` qua hỏi–đáp và ví dụ, rồi khâu lại bằng bảng so sánh spend/take/cost — chỗ hay nhầm nhất của nhóm từ này.
+
 ### Spend + thời gian + V-ing
+
+Đây là "đường ray thời gian": bạn bỏ bao nhiêu phút/giờ vào hoạt động nào — ví von giống như hẹn giờ bếp: cài thời lượng rồi gắn "việc đang làm" vào đó bằng V-ing.
 
 **Phản xạ hỏi–đáp:**
 - ❓ Hỏi: `How do you spend your free time?` *(Bạn dành thời gian rảnh như thế nào?)*
@@ -50,6 +62,8 @@
 
 ### Spend + tiền + ON
 
+Chuyển sang "đường ray tiền": từ đây mọi câu đều đổ tiền vào một thứ cụ thể — và giới từ đóng vai "hộp đựng" là `on`, không phải `for`.
+
 | Cấu trúc | Ví dụ |
 |----------|-------|
 | spend money **on** + N | I spent $100 **on** shoes. |
@@ -70,6 +84,8 @@
 
 ### SPEND vs TAKE vs COST (nhớ nhanh)
 
+Ba động từ này là "bộ ba dễ nhầm" kinh điển — bản chất khác nhau nằm ở **chủ ngữ**: ai là người đứng ra nói câu đó. Hãy hình dung ba nhân vật: `spend` là bạn (người), `take` là công việc, còn `cost` là món đồ.
+
 | | **Spend** | **Take** | **Cost** |
 |--|----------|---------|----------|
 | Chủ ngữ | **Người** | **Việc / HOẠT ĐỘNG** | **Đồ vật / Dịch vụ** |
@@ -85,7 +101,11 @@
 4. She spends $100 on books monthly. — *Cô ấy tiêu $100 sách mỗi tháng.*
 5. It took me a while to finish the report. — *Tôi mất một lúc mới xong báo cáo.*
 
+> **Tóm gọn 1 câu:** Ba chữ ba chủ ngữ: **người** spend, **việc** take, **đồ** cost — xác định đúng "nhân vật" đứng đầu là câu tự nhiên ngay.
+
 ## IV. BẢNG CỤM TỪ GIAO TIẾP
+
+Đọc nhanh như vầy: cột **⚠️ Lỗi hay sai** là chỗ dễ gãy nhất (mặc định —— nghĩa là cụm này ít ai sai), cột **💬 Đáp lại** cho biết người kia vừa nói vậy thì mình bắt chuyện tiếp bằng câu nào.
 
 | # | Cụm từ | Nghĩa (VI) | Khi nào dùng | Câu mẫu | ⚠️ Lỗi hay sai | 💬 Đáp lại |
 |---|--------|------------|--------------|---------|----------------|------------|
@@ -96,7 +116,13 @@
 | 5 | **I can't afford to spend…** | Tôi không đủ tiền tiêu… | Từ chối mua sắm | *I can't afford to spend that much.* | —— | *Let's find a cheaper option.* |
 | 6 | **Time well spent** | Thời gian đáng giá | Khen ngợi cách dùng thời gian | *Talking to you was time well spent.* | —— | *Likewise!* |
 
+> **Cách đọc bảng này:** mỗi dòng là một cụm đáng nhớ — cột **Nghĩa (VI)** để hiểu nhanh, cột **Khi nào dùng** để biết chôn cụm vào đâu, cột **Câu mẫu** để thấy cụm sống trong câu thật, cột **💬 Đáp lại** để chuẩn bị lượt nói tiếp theo.
+
+> **Tóm gọn 1 câu:** 6 cụm này là "bộ đồ" dùng `spend` trong chuyện đời thường — từ hỏi thăm cuối tuần đến than chi tiêu, mỗi cụm nhớ kèm lỗi sai (⚠️) và câu đáp lại (💬).
+
 ## V. TỪ VỰNG
+
+Kho từ của bài — đọc cột **Từ loại / Phiên âm** để phát âm chuẩn ngay từ đầu, rồi lấy luôn vào phần luyện nói bên dưới.
 
 | Từ | Từ loại / Phiên âm | Nghĩa |
 |----|--------------------|-------|
@@ -108,6 +134,8 @@
 | Add up | (phrasal) | Cộng lại / tích lũy |
 
 ## VI. LUYỆN NÓI
+
+Phần "ra tay" của bài: nhại theo echo drill cho phản xạ nóng lên, rồi tự trả lời 5 câu bằng chuyện thật của mình — nói to, không thầm.
 
 ### Echo drill (nói to 3 lần, nhanh hơn mỗi lần)
 1. *I spend most of my free time reading.*
@@ -124,6 +152,8 @@
 5. Is it worth spending money on that? — *Yes, it's worth it because…*
 
 > ✅ **Checkpoint:** Trả lời 5 câu trên **không nhìn note**. Ghi âm và tự nghe lại.
+
+> **Tóm gọn 1 câu:** Luyện theo 2 nhịp — echo drill nhại 3 lần tăng tốc, rồi 5 câu tự hỏi tự đáp với việc thật của mình; ghi âm nghe lại là thấy ngay chỗ gãy.
 
 ---
 
@@ -144,6 +174,8 @@
 
 ## VII. BONUS: SPEND vs TAKE vs COST — Phân biệt
 
+Mục này là "phòng soát nhầm lẫn" của cả bài: ba động từ trông gần nghĩa nhưng đổi chủ ngữ là đổi luôn cách dựng câu — bảng dưới xếp cạnh để nhìn một phát là chọn đúng.
+
 | Động từ | Chủ ngữ | Cấu trúc | Ví dụ |
 |---------|--------|---------|-------|
 | **Spend** | Người | S + spend + thời gian/tiền + V-ing/on N | *I spend 2 hours reading.* |
@@ -151,3 +183,7 @@
 | **Cost** | Đồ vật / Dịch vụ | S + cost + tiền | *The book costs $10.* |
 
 > 💡 Mẹo: **Người** spend, **việc** take, **đồ** cost. Ba từ này không thay thế được cho nhau.
+
+> **Cách đọc bảng này:** mỗi dòng là một động từ — soi cột **Chủ ngữ** trước (đó là "chìa khóa" chọn từ), rồi đối chiếu cột **Cấu trúc** với cột **Ví dụ**.
+
+> **Tóm gọn 1 câu:** spend/take/cost khác nhau ngay từ "nhân vật" đầu câu — chọn sai nhân vật là câu gãy dù động từ dịch đúng nghĩa.
